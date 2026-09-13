@@ -313,9 +313,19 @@ async def on_ready():
             g = discord.Object(id=int(GUILD_ID))
             bot.tree.copy_global_to(guild=g)
             synced = await bot.tree.sync(guild=g)
+            log.info("synced %d slash commands to guild %s", len(synced), GUILD_ID)
+            # The first deploy ran without GUILD_ID and registered these
+            # GLOBALLY. Those stale global copies keep advertising their OLD
+            # parameters alongside the fresh guild ones, so Discord shows a
+            # command with only `count`. Clear the global set now that the
+            # guild copies are live. Order matters: guild first, then wipe
+            # globals -- clearing before copy_global_to would empty the tree.
+            bot.tree.clear_commands(guild=None)
+            removed = await bot.tree.sync()
+            log.info("cleared stale global commands (now %d)", len(removed))
         else:
             synced = await bot.tree.sync()
-        log.info("synced %d slash commands", len(synced))
+            log.info("synced %d global slash commands", len(synced))
     except Exception as e:
         log.warning("command sync failed: %s", e)
     if not poll_new.is_running():
