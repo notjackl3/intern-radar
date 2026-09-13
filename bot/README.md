@@ -41,7 +41,7 @@ That decoupling is deliberate:
    is the whole permission set it needs; it never reads message content, so no
    privileged intents are required.
 3. **New Railway service** → deploy from this repo → set **Root Directory** to
-   `bot`. Nixpacks picks up `requirements.txt` and `railway.json`.
+   `bot`. Railpack — the same builder your `liftbuddy` service uses — picks up `requirements.txt`; `railway.json` sets the start command.
 4. **Variables:**
 
    | name | value |
@@ -51,6 +51,7 @@ That decoupling is deliberate:
    | `GUILD_ID` | right-click the server → Copy Server ID (optional; makes slash commands appear instantly instead of taking up to an hour) |
    | `GITHUB_REPO` | `notjackl3/intern-radar` |
    | `POLL_SECONDS` | `300` |
+   | `DATA_DIR` | `/data` if you attach a volume (liftbuddy's `DB_PATH` equivalent) |
 
    (Copy IDs needs Discord → Settings → Advanced → Developer Mode on.)
 
