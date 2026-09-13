@@ -41,10 +41,15 @@ def github_issue(title: str, body: str) -> None:
     if not (token and repo):
         log.info("no GITHUB_TOKEN/REPOSITORY — skipping issue")
         return
+    # Assign the issue to the repo owner. GitHub always emails you about your
+    # own assignments, so this works whether or not you "watch" the repo —
+    # more robust than relying on a notification setting.
+    owner = repo.split("/")[0]
+    payload = {"title": title, "body": body[:60000],
+               "labels": ["new-postings"], "assignees": [owner]}
     req = urllib.request.Request(
         f"https://api.github.com/repos/{repo}/issues",
-        data=json.dumps({"title": title, "body": body[:60000],
-                         "labels": ["new-postings"]}).encode(),
+        data=json.dumps(payload).encode(),
         headers={"Authorization": f"Bearer {token}",
                  "Accept": "application/vnd.github+json",
                  "Content-Type": "application/json",
