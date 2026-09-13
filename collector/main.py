@@ -83,6 +83,7 @@ def collect(watchlist, cfg, tier: str) -> list[dict]:
 
     if tier == "full":
         for name, fn in (("simplify", adapters.simplify),
+                         ("simplify_newgrad", adapters.simplify_newgrad),
                          ("hiring.cafe", adapters.hiringcafe)):
             if not cfg.get("sources", {}).get(name, True):
                 continue

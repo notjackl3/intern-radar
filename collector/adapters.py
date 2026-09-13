@@ -243,22 +243,38 @@ SIMPLIFY_URL = (
     "/dev/.github/scripts/listings.json"
 )
 
+# Same maintainers, same schema, different repo: full-time entry-level roles
+# rather than internships. Branch is `dev` here too — `main` 404s on both.
+SIMPLIFY_NEWGRAD_URL = (
+    "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions"
+    "/dev/.github/scripts/listings.json"
+)
 
-def simplify(_company=None, _token=None):
-    rows = requests.get(SIMPLIFY_URL, headers={"User-Agent": UA}, timeout=120).json()
+
+def _simplify_rows(url: str, source: str):
+    rows = requests.get(url, headers={"User-Agent": UA}, timeout=120).json()
     for j in rows:
         if not (j.get("active") and j.get("is_visible")):
             continue
         yield {
-            "id": _stable_id("simplify", j.get("id")),
-            "source": "simplify",
+            "id": _stable_id(source, j.get("id")),
+            "source": source,
             "company": j.get("company_name", ""),
             "title": j.get("title", ""),
             "location": "; ".join(j.get("locations") or []),
             "url": j.get("url", ""),
             "posted_at": _iso(j.get("date_posted")),
             "term": "; ".join(j.get("terms") or []) or None,
+            "degrees": j.get("degrees") or None,
         }
+
+
+def simplify(_company=None, _token=None):
+    yield from _simplify_rows(SIMPLIFY_URL, "simplify")
+
+
+def simplify_newgrad(_company=None, _token=None):
+    yield from _simplify_rows(SIMPLIFY_NEWGRAD_URL, "simplify-newgrad")
 
 
 # --------------------------------------------------------------------------

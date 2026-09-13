@@ -130,6 +130,26 @@ def test_domain_reads_description_but_not_for_exclusion():
     assert not F.domain_matches(excluded, DOM_IN, DOM_OUT)
 
 
+def test_level_intern_beats_newgrad():
+    """A title carrying both markers is an internship — "New Grad Intern" and
+    "University Graduate Co-op" are still internships."""
+    for t in ["Software Engineer Intern/Co-op", "Stagiaire en Developpement Cloud",
+              "Data Analyst Student - (4 Months)", "New Grad Software Engineer Intern",
+              "University Graduate Co-op Program"]:
+        assert F.classify_level({"title": t}) == "intern", t
+    for t in ["Software Engineer - New Grad", "Associate Software Engineer",
+              "Embedded Software Developer New Grad",
+              "Software Development Engineer - Early Career"]:
+        assert F.classify_level({"title": t}) == "newgrad", t
+
+
+def test_level_falls_back_to_source():
+    """No marker in the title: trust which repo it came from."""
+    t = {"title": "Full Stack Software Developer"}
+    assert F.classify_level({**t, "source": "simplify-newgrad"}) == "newgrad"
+    assert F.classify_level({**t, "source": "greenhouse"}) == "intern"
+
+
 def test_domain_passthrough_when_unconfigured():
     assert F.domain_matches({"title": "Anything At All"}, [], [])
 
@@ -168,7 +188,8 @@ if __name__ == "__main__":
                test_domain_keeps_software, test_domain_drops_non_software,
                test_domain_exclude_beats_include,
                test_domain_reads_description_but_not_for_exclusion,
-               test_domain_passthrough_when_unconfigured):
+               test_domain_passthrough_when_unconfigured,
+               test_level_intern_beats_newgrad, test_level_falls_back_to_source):
         fn()
         print(f"  ok  {fn.__name__}")
     print("all filter tests passed")

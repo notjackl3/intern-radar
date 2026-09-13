@@ -69,6 +69,7 @@ SOURCE_COLOR = {
     "ashby": 0x6B5BD2,
     "lever": 0xE05C3E,
     "simplify": 0x8A8F98,
+    "simplify-newgrad": 0xB8860B,
 }
 
 intents = discord.Intents.default()          # no privileged intents needed
@@ -149,7 +150,8 @@ def embed_for(j: dict) -> discord.Embed:
     )
     if j.get("company"):
         e.set_author(name=j["company"][:250])
-    e.set_footer(text=f"via {j.get('source', '?')}")
+    lvl = "new grad" if j.get("level") == "newgrad" else "intern"
+    e.set_footer(text=f"{lvl} · via {j.get('source', '?')}")
     return e
 
 
@@ -211,15 +213,26 @@ async def open_roles() -> list[dict]:
     return (feed or {}).get("jobs", [])
 
 
-@bot.tree.command(name="latest", description="Most recently posted open internships")
+@bot.tree.command(name="latest", description="Most recently posted open roles")
 @app_commands.describe(
     hours="Only roles posted in the last N hours (e.g. 24). Omit for all.",
+    level="intern (co-op/internship), newgrad (entry-level full-time), or all",
     count="How many to show (1-10)")
-async def latest(interaction: discord.Interaction, hours: int = None, count: int = 5):
+@app_commands.choices(level=[
+    app_commands.Choice(name="internships / co-ops", value="intern"),
+    app_commands.Choice(name="new grad (full-time)", value="newgrad"),
+    app_commands.Choice(name="all", value="all"),
+])
+async def latest(interaction: discord.Interaction, hours: int = None,
+                 level: app_commands.Choice[str] = None, count: int = 5):
     await interaction.response.defer()
     jobs = await open_roles()
     if not jobs:
         return await interaction.followup.send("Nothing open right now.")
+
+    lvl = level.value if level else "intern"      # default: what you're hunting
+    if lvl != "all":
+        jobs = [j for j in jobs if j.get("level", "intern") == lvl]
 
     undated = 0
     if hours is not None:
@@ -239,16 +252,16 @@ async def latest(interaction: discord.Interaction, hours: int = None, count: int
     total = len(jobs)
     jobs = jobs[:max(1, min(count, 10))]
 
-    note = ""
+    label = {"intern": "internship", "newgrad": "new-grad", "all": "role"}[lvl]
+    note = f"**{total}** open {label}{'s' if total != 1 else ''}"
     if hours is not None:
-        note = f"**{total}** posted in the last **{hours}h**"
+        note = f"**{total}** {label}{'s' if total != 1 else ''} posted in the last **{hours}h**"
         if undated:
             note += (f"  ·  {undated} more hidden — Workday publishes no posting "
                      f"date, so they can't be filtered by age")
     if not jobs:
-        return await interaction.followup.send(
-            note or "Nothing open right now.")
-    await interaction.followup.send(content=note or None,
+        return await interaction.followup.send(note)
+    await interaction.followup.send(content=note,
                                     embeds=[embed_for(j) for j in jobs])
 
 

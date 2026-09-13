@@ -141,8 +141,17 @@ def discord(new_jobs: list[dict], cfg: dict | None = None) -> None:
 
 
 def send(new_jobs: list[dict], run_label: str, cfg: dict | None = None) -> None:
+    # New-grad roles are collected and queryable, but only the levels listed in
+    # config trigger a notification — otherwise a full-time-jobs firehose lands
+    # in a channel you set up for internships.
+    levels = (cfg or {}).get("alert_levels") or ["intern", "newgrad"]
+    held = [j for j in new_jobs if j.get("level") not in levels]
+    new_jobs = [j for j in new_jobs if j.get("level") in levels]
+    if held:
+        log.info("%d new role(s) held back — level not in alert_levels %s",
+                 len(held), levels)
     if not new_jobs:
-        log.info("nothing new — staying quiet")
+        log.info("nothing new to alert on — staying quiet")
         return
     body = build_body(new_jobs)
     top = new_jobs[0]

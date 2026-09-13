@@ -97,6 +97,37 @@ def term_matches(job: dict, wanted: list[str]) -> bool:
     return True
 
 
+# An internship keyword WINS over a new-grad one: "New Grad Intern" and
+# "University Graduate Co-op" are internships. Only when no internship word is
+# present does a new-grad marker decide it.
+INTERN_RE = re.compile(
+    r"intern|co-?\s?op|stagiaire|\bstage\b|student|étudiant|summer analyst|practicum",
+    re.I)
+NEWGRAD_RE = re.compile(
+    r"new[\s-]?grad|new graduate|university graduate|graduate program|"
+    r"early career|early talent|campus hire|entry[\s-]?level|"
+    r"associate (software|engineer|developer|data)|junior |jr\.? |"
+    r"(software |data )?engineer i\b|swe i\b|developer i\b",
+    re.I)
+
+
+def classify_level(job: dict) -> str:
+    """'intern' or 'newgrad'.
+
+    Derived from the title, so it works across every source — unlike Simplify's
+    `degrees` field, which two thirds of the feed (all Workday, most
+    Greenhouse/Lever/Ashby) simply doesn't carry.
+    """
+    title = job.get("title") or ""
+    if INTERN_RE.search(title):
+        return "intern"
+    if NEWGRAD_RE.search(title):
+        return "newgrad"
+    # No marker in the title: trust which repo it came from, else assume intern
+    # (the level filter already required an intern-ish keyword to get here).
+    return "newgrad" if job.get("source") == "simplify-newgrad" else "intern"
+
+
 def domain_matches(job: dict, include: list[str], exclude: list[str]) -> bool:
     """Is this a SOFTWARE-ish role? ANDed with the intern-level filter.
 
@@ -139,5 +170,6 @@ def apply_filters(jobs, cfg) -> list[dict]:
         if url in seen_urls:  # same req surfaced by two sources
             continue
         seen_urls.add(url)
+        j["level"] = classify_level(j)
         out.append(j)
     return out

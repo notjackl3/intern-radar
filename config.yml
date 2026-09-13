@@ -43,6 +43,15 @@ title_include_any:
   - "summer analyst"
   - "swe i"
   - "software engineer i"
+  # --- new-grad / entry-level full-time ---
+  - "university graduate"
+  - "graduate program"
+  - "entry level"
+  - "entry-level"
+  - "associate software"
+  - "associate engineer"
+  - "associate developer"
+  - "associate data"
 
 # ---------------------------------------------------------------------------
 # DOMAIN — is this a software / AI / ML / data role?
@@ -199,11 +208,26 @@ domain_exclude_any:
 # ---------------------------------------------------------------------------
 sources:
   simplify: true
+  # Same maintainers, different repo: full-time entry-level roles. Collected
+  # and queryable via /latest level:newgrad, but see alert_levels below.
+  simplify_newgrad: true
   # OFF: the endpoint returns 405 Method Not Allowed. The POST shape came from
   # a third-party scraper repo and was never verified — the first live run
   # proved it wrong. It fails safely, but it contributes nothing and logs a
   # warning every run. Simplify already covers the broad-net role.
   hiring.cafe: false
+
+# ---------------------------------------------------------------------------
+# Which levels trigger a notification
+# ---------------------------------------------------------------------------
+# Every role is tagged intern | newgrad from its title (works across all
+# sources; Simplify's `degrees` field doesn't, since two thirds of the feed
+# lacks it). Roles outside this list are still collected, still land in
+# feed.json, and are still queryable with /latest level:newgrad — they just
+# don't ping you.
+alert_levels:
+  - intern
+  # - newgrad
 
 # ---------------------------------------------------------------------------
 # Discord
