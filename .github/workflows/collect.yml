@@ -1,0 +1,105 @@
+name: collect
+
+# Two cadences, because the sources have very different costs.
+#
+#   fast — 18 boards where ONE GET returns the whole board (Greenhouse, Lever,
+#          Ashby) plus the three Workday campus sites worth watching closely.
+#          ~24 requests, finishes in well under a minute.
+#   full — everything: all 20 Workday tenants (20 results per page, so they
+#          have to be paged), SmartRecruiters, the Simplify dataset and
+#          hiring.cafe. ~80 requests.
+#
+# GitHub's scheduler is best-effort. Under load, a */20 cron realistically
+# fires every 20-45 minutes, and can skip entirely during incidents. Treat the
+# numbers below as a floor on latency, not a guarantee.
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"      # fast tier
+    - cron: "7 */2 * * *"       # full tier, offset off the hour to avoid the
+                                # scheduler's busiest minute
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: "Which tier to run"
+        type: choice
+        options: [full, fast, doctor]
+        default: full
+      seed:
+        description: "Seed state without notifying (first run / after filter changes)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit state/ back to the repo
+  issues: write     # open an issue when something new appears
+
+# Never let two runs race on state/. queued runs wait rather than cancel, so a
+# fast run can't drop a detection made while a full run was mid-flight.
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Decide tier
+        id: tier
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            [ "${{ github.event.schedule }}" = "*/20 * * * *" ] && T=fast || T=full
+          else
+            T="${{ inputs.tier || 'full' }}"
+          fi
+          echo "value=$T" >> "$GITHUB_OUTPUT"
+          echo "running the $T tier"
+
+      - name: Check every source (doctor)
+        if: inputs.tier == 'doctor'
+        run: python -m collector.doctor
+
+      - name: Poll sources
+        if: inputs.tier != 'doctor' 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python -m collector.main \
+            --tier "${{ steps.tier.outputs.value }}" \
+            ${{ inputs.seed && '--seed' || '' }}
+
+      - name: Heartbeat
+        # GitHub auto-disables scheduled workflows after 60 days with no
+        # repository activity. The state commits below should count, but they
+        # are made with GITHUB_TOKEN, so don't bet the whole pipeline on it —
+        # rewrite a heartbeat file once a week regardless.
+        if: inputs.tier != 'doctor'
+        run: |
+          date -u +"last alive %Y-%m-%d %H:%M UTC" > state/HEARTBEAT
+
+      - name: Commit state
+        if: inputs.tier != 'doctor'
+        run: |
+          git config user.name  "intern-radar"
+          git config user.email "intern-radar@users.noreply.github.com"
+          git add state/
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "state: ${{ steps.tier.outputs.value }} @ $(date -u '+%Y-%m-%d %H:%M') UTC"
+            # Another run may have pushed while this one was polling.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi

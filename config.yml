@@ -1,0 +1,39 @@
+# What counts as a hit. Edit this file, not the Python.
+
+# Terms you'd actually accept. Sources that publish a term (Simplify) are
+# filtered on it; raw ATS endpoints don't publish one, so those pass through
+# unless the TITLE names a term you didn't ask for.
+#
+# NOTE: as of 12 Sep 2026 there were 237 open Canadian Winter 2027 roles vs
+# 68 Summer 2027. Canada runs a four-month co-op cycle, so January starts are
+# a real hiring season here. If you can take a Winter term, uncomment it —
+# it is a 3.5x larger pool today.
+terms:
+  - "Summer 2027"
+  # - "Winter 2027"
+
+canada_only: true
+
+title_include_any:
+  - intern
+  - internship
+  - co-op
+  - coop
+  - "co op"
+  - student
+  - "new grad"
+  - "new graduate"
+  - "early career"
+  - "early talent"
+  - "university grad"
+  - "campus"
+  - "summer analyst"
+  - "swe i"
+  - "software engineer i"
+
+# Broad sweeps that aren't tied to the watchlist. Turn either off if it gets
+# noisy. hiring.cafe is an undocumented API and may break without notice —
+# failures are logged, never fatal.
+sources:
+  simplify: true
+  hiring.cafe: true

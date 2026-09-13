@@ -1,0 +1,178 @@
+# Tier 0 — poll the ATS at the origin, before anything indexes it.
+#
+# Every tenant/site/token below was extracted from the apply URLs of the 449
+# live Canadian listings on 12 Sep 2026, so they are real, not guessed.
+#
+# Adding a Workday employer: open their careers page and read the URL —
+#   https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/...
+#          ^tenant ^shard              ^locale(drop) ^site
+# Adding Greenhouse/Lever/Ashby/SmartRecruiters: the token is the first path
+# segment of any job URL on that board.
+#
+# tier: fast   -> polled every 20 min. Default for Greenhouse/Lever/Ashby,
+#                 where one GET returns the whole board. Set it explicitly on
+#                 a Workday site you want watched closely despite the paging.
+# tier: full   -> polled every 2 hours. Default for Workday/SmartRecruiters.
+
+companies:
+
+  # ---- Workday: ~60% of the Canadian intern market -----------------------
+  # RBC runs a DEDICATED early-talent site. It is the single highest-value
+  # endpoint in this file — 72 live Canadian intern roles across both sites.
+  - name: Royal Bank of Canada (Early Talent)
+    ats: workday
+    tenant: rbc
+    shard: wd3
+    site: RBCEARLYTALENT1
+    tier: fast          # highest-value endpoint in this file — watch it closely
+
+  - name: Royal Bank of Canada (Global)
+    ats: workday
+    tenant: rbc
+    shard: wd3
+    site: rbcglobal1
+
+  - name: TD Bank
+    ats: workday
+    tenant: td
+    shard: wd3
+    site: TD_Bank_Careers
+
+  - name: Bank of Montreal (Campus)
+    ats: workday
+    tenant: bmo
+    shard: wd3
+    site: Campus
+    tier: fast
+
+  - name: Bank of Montreal (External)
+    ats: workday
+    tenant: bmo
+    shard: wd3
+    site: External
+
+  - name: CIBC (Campus)
+    ats: workday
+    tenant: cibc
+    shard: wd3
+    site: campus
+    tier: fast
+
+  - name: Sun Life (Campus)
+    ats: workday
+    tenant: sunlife
+    shard: wd3
+    site: Campus
+
+  - name: Manulife
+    ats: workday
+    tenant: manulife
+    shard: wd3
+    site: MFCJH_Jobs
+
+  - name: Intact Financial
+    ats: workday
+    tenant: intactfc
+    shard: wd3
+    site: intactfc
+
+  - name: Ontario Teachers' Pension Plan
+    ats: workday
+    tenant: otppb
+    shard: wd3
+    site: OntarioTeachers_Careers
+
+  - name: PwC (Global Campus)
+    ats: workday
+    tenant: pwc
+    shard: wd3
+    site: Global_Campus_Careers
+
+  - name: Loblaw Companies
+    ats: workday
+    tenant: myview
+    shard: wd3
+    site: paradox_careers
+
+  - name: Canadian Tire
+    ats: workday
+    tenant: canadiantirecorporation
+    shard: wd3
+    site: Enterprise_External_Careers_Site
+
+  - name: NAV CANADA
+    ats: workday
+    tenant: navcanada
+    shard: wd10
+    site: NAV_Careers
+
+  - name: RTX
+    ats: workday
+    tenant: globalhr
+    shard: wd5
+    site: rec_rtx_ext_gateway
+
+  - name: Ciena
+    ats: workday
+    tenant: ciena
+    shard: wd5
+    site: Careers
+
+  - name: Autodesk (University)
+    ats: workday
+    tenant: autodesk
+    shard: wd1
+    site: uni
+
+  - name: Marvell
+    ats: workday
+    tenant: marvell
+    shard: wd1
+    site: MarvellCareers
+
+  - name: Capital One
+    ats: workday
+    tenant: capitalone
+    shard: wd12
+    site: Capital_One
+
+  - name: Intelcom | Dragonfly
+    ats: workday
+    tenant: intelcomgroup
+    shard: wd3
+    site: Intelcom
+
+  # ---- Greenhouse --------------------------------------------------------
+  - { name: Geotab,            ats: greenhouse, token: internshiplist2000 }
+  - { name: Cohere,            ats: ashby,      token: cohere }
+  - { name: Anthropic,         ats: greenhouse, token: anthropic }
+  - { name: Tenstorrent,       ats: greenhouse, token: tenstorrentuniversity }
+  - { name: Visier Solutions,  ats: greenhouse, token: visiersolutionsinc }
+  - { name: TribalScale,       ats: greenhouse, token: tribalscale }
+  - { name: Later,             ats: greenhouse, token: later }
+  - { name: Brave,             ats: greenhouse, token: brave }
+  - { name: Cresta,            ats: greenhouse, token: cresta }
+
+  # ---- Ashby -------------------------------------------------------------
+  - { name: Wealthsimple,      ats: ashby, token: wealthsimple }
+  - { name: Super.com,         ats: ashby, token: super.com }
+  - { name: Georgian,          ats: ashby, token: georgian }
+  - { name: Bree,              ats: ashby, token: bree }
+  - { name: Exegy,             ats: ashby, token: exegy }
+
+  # ---- Lever -------------------------------------------------------------
+  - { name: Kepler Communications, ats: lever, token: kepler }
+  - { name: AltaML,                ats: lever, token: altaml }
+  - { name: Mirego,                ats: lever, token: mirego }
+  - { name: ShyftLabs,             ats: lever, token: shyftlabs }
+
+  # ---- SmartRecruiters ---------------------------------------------------
+  # OFF BY DEFAULT. SmartRecruiters documents this as a public, unauthenticated
+  # Posting API — but api.smartrecruiters.com serves a blanket-disallow
+  # robots.txt (even /robots.txt itself is disallowed to crawlers). The API
+  # will very likely answer, but fetching it contradicts the host's own stated
+  # crawl policy, so it is your call, not a default. It is 3% of the Canadian
+  # market; these two employers are also covered by the Simplify sweep.
+  # Uncomment only if you have decided that is fine.
+  # - { name: University Health Network, ats: smartrecruiters, token: UniversityHealthNetwork }
+  # - { name: General Dynamics Mission Systems Canada, ats: smartrecruiters, token: GDMSI }
