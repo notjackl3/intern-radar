@@ -114,6 +114,19 @@ careers page", not "nothing is hiring".
 
 Optional: add a `DISCORD_WEBHOOK` repo secret to also push to Discord.
 
+## Pushing your own changes
+
+The workflow commits `state/` back to `main` after every run, so your local
+clone falls behind within about 20 minutes of any run. A plain `git push` then
+fails as a non-fast-forward. Always:
+
+```
+git pull && git push
+```
+
+`pull.rebase` is set to true in this clone, so that replays your commits on top
+of the bot's state commits rather than creating merge noise.
+
 ## Tuning
 
 Everything you'd want to change lives in two files:
