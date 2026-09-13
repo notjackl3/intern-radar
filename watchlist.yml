@@ -166,6 +166,92 @@ companies:
   - { name: Mirego,                ats: lever, token: mirego }
   - { name: ShyftLabs,             ats: lever, token: shyftlabs }
 
+
+  # ==========================================================================
+  # EXPANSION — added after mining both Simplify datasets for every Canadian
+  # posting ever recorded (3,191 rows), not just what happened to be live on
+  # the day the watchlist was bootstrapped. 434 pollable employers were
+  # missing; these are the ones that actually hire Canadian software interns.
+  # ==========================================================================
+
+  # ---- student / early-talent Workday boards (highest signal per request) --
+  - name: Royal Bank of Canada (Students)
+    ats: workday
+    tenant: rbc
+    shard: wd3
+    site: ExternalPrivatePostingStudents
+    tier: fast          # 50 Canadian postings and we were missing it entirely
+
+  - name: BlackBerry (Student)
+    ats: workday
+    tenant: bb
+    shard: wd3
+    site: Student
+    tier: fast
+
+  - name: OLG (Students)
+    ats: workday
+    tenant: olg
+    shard: wd3
+    site: Careers-Students
+    tier: fast
+
+  - name: SOTI (Next-Gen)
+    ats: workday
+    tenant: soti
+    shard: wd3
+    site: SOTI-Next-Gen
+    tier: fast
+
+  # ---- extra boards for employers already on the list ---------------------
+  # Large employers run several Workday sites; we had only one each.
+  - { name: "Bank of Montreal (Privileged)", ats: workday, tenant: bmo, shard: wd3, site: Privileged }
+  - { name: "Autodesk (External)",  ats: workday, tenant: autodesk, shard: wd1, site: Ext }
+  - { name: "Manulife (Admin)",     ats: workday, tenant: manulife, shard: wd3, site: MFCJH_adminJobs }
+  - { name: "Marvell (Careers 2)",  ats: workday, tenant: marvell,  shard: wd1, site: MarvellCareers2 }
+
+  # ---- new Workday employers ----------------------------------------------
+  - { name: NVIDIA,             ats: workday, tenant: nvidia,             shard: wd5,  site: NVIDIAExternalCareerSite }
+  - { name: Motorola Solutions, ats: workday, tenant: motorolasolutions,  shard: wd5,  site: Careers }
+  - { name: General Motors,     ats: workday, tenant: generalmotors,      shard: wd5,  site: Careers_GM }
+  - { name: CAE,                ats: workday, tenant: cae,                shard: wd3,  site: career }
+  - { name: Lumentum,           ats: workday, tenant: lumentum,           shard: wd5,  site: LITE }
+  - { name: Altera,             ats: workday, tenant: altera,             shard: wd1,  site: altera }
+  - { name: Aptiv,              ats: workday, tenant: aptiv,              shard: wd5,  site: aptiv_careers }
+  - { name: Trend Micro,        ats: workday, tenant: trendmicro,         shard: wd3,  site: External }
+  - { name: Interac,            ats: workday, tenant: interac,            shard: wd3,  site: Interac }
+  - { name: OMERS,              ats: workday, tenant: omers,              shard: wd3,  site: omers_external }
+  - { name: Best Buy Canada,    ats: workday, tenant: bestbuycanada,      shard: wd3,  site: BestBuyCA_Career }
+  - { name: Nasdaq,             ats: workday, tenant: nasdaq,             shard: wd1,  site: Global_External_Site }
+  - { name: Harris Computer,    ats: workday, tenant: harriscomputer,     shard: wd3,  site: "1" }
+
+  # ---- Ashby (one GET, so fast tier by default) ---------------------------
+  - { name: 1Password,   ats: ashby, token: 1password }
+  - { name: Jerry,       ats: ashby, token: jerry.ai }
+  - { name: Cerebras,    ats: ashby, token: cerebras }
+  - { name: Confluent,   ats: ashby, token: confluent }
+  - { name: Zip,         ats: ashby, token: zip }
+  - { name: Solink,      ats: ashby, token: solink }
+
+  # ---- Lever --------------------------------------------------------------
+  - { name: Magnet Forensics, ats: lever, token: magnetforensics }
+  - { name: EQ Bank,          ats: lever, token: eqbank }
+  - { name: Kabam,            ats: lever, token: kabam }
+  - { name: GeoComply,        ats: lever, token: geocomply-2 }
+  - { name: Veeva Systems,    ats: lever, token: veeva }
+
+  # ---- Greenhouse ---------------------------------------------------------
+  # NOTE: Cerebras / Squarepoint / Toast show a token of "embed" in the data.
+  # That is the boards.greenhouse.io/embed/ path, not a board token — and that
+  # path is Disallow-ed in Greenhouse's robots.txt. Deliberately not added.
+  - { name: League,               ats: greenhouse, token: leagueinc }
+  - { name: Mercury,              ats: greenhouse, token: mercury }
+  - { name: Haven Studios,        ats: greenhouse, token: haven }
+  - { name: Critical Mass,        ats: greenhouse, token: criticalmass }
+  - { name: Diligent,             ats: greenhouse, token: diligentcorporation }
+  - { name: Sony Interactive,     ats: greenhouse, token: sonyinteractiveentertainmentglobal }
+  - { name: Astera Labs,          ats: greenhouse, token: asteraearlycareer2026 }
+
   # ---- SmartRecruiters ---------------------------------------------------
   # OFF BY DEFAULT. SmartRecruiters documents this as a public, unauthenticated
   # Posting API — but api.smartrecruiters.com serves a blanket-disallow
