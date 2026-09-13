@@ -38,6 +38,7 @@ import sys
 
 import aiohttp
 import discord
+from datetime import datetime, timezone
 from discord import app_commands
 from discord.ext import commands, tasks
 
@@ -104,8 +105,42 @@ async def fetch_json(session: aiohttp.ClientSession, url: str):
 # --------------------------------------------------------------------------
 # rendering
 # --------------------------------------------------------------------------
+def age_hours(j: dict) -> float | None:
+    """Hours since this role was posted, or None if the source publishes no date.
+
+    This matters more than it looks: Workday — 30 of the ~95 open roles, and
+    every bank on the watchlist — exposes only a localised display string
+    ("Posted 3 Days Ago"), which the collector cannot parse, so posted_at is
+    None for all of them. Any time filter must say so rather than silently
+    hiding a third of the feed.
+    """
+    ts = j.get("posted_at")
+    if not ts:
+        return None
+    try:
+        dt = datetime.fromisoformat(ts)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return (datetime.now(timezone.utc) - dt).total_seconds() / 3600
+    except Exception:
+        return None
+
+
+def age_label(h: float | None) -> str:
+    if h is None:
+        return "date unknown"
+    if h < 1:
+        return "just posted"
+    if h < 24:
+        return f"{int(h)}h ago"
+    days = h / 24
+    if days < 30:
+        return f"{int(days)}d ago"
+    return f"{int(days / 30)}mo ago"
+
+
 def embed_for(j: dict) -> discord.Embed:
-    bits = [b for b in (j.get("location"), j.get("term")) if b]
+    bits = [b for b in (j.get("location"), j.get("term"), age_label(age_hours(j))) if b]
     e = discord.Embed(
         title=(j.get("title") or "Untitled")[:250],
         url=j.get("url") or None,
@@ -177,15 +212,44 @@ async def open_roles() -> list[dict]:
 
 
 @bot.tree.command(name="latest", description="Most recently posted open internships")
-@app_commands.describe(count="How many to show (1-10)")
-async def latest(interaction: discord.Interaction, count: int = 5):
+@app_commands.describe(
+    hours="Only roles posted in the last N hours (e.g. 24). Omit for all.",
+    count="How many to show (1-10)")
+async def latest(interaction: discord.Interaction, hours: int = None, count: int = 5):
     await interaction.response.defer()
     jobs = await open_roles()
-    jobs.sort(key=lambda j: j.get("posted_at") or "", reverse=True)
-    jobs = jobs[:max(1, min(count, 10))]
     if not jobs:
         return await interaction.followup.send("Nothing open right now.")
-    await interaction.followup.send(embeds=[embed_for(j) for j in jobs])
+
+    undated = 0
+    if hours is not None:
+        hours = max(1, hours)
+        fresh = []
+        for j in jobs:
+            h = age_hours(j)
+            if h is None:
+                undated += 1
+            elif h <= hours:
+                fresh.append(j)
+        jobs = fresh
+
+    # Newest first; anything undated sorts last rather than pretending to be old.
+    jobs.sort(key=lambda j: (j.get("posted_at") is not None, j.get("posted_at") or ""),
+              reverse=True)
+    total = len(jobs)
+    jobs = jobs[:max(1, min(count, 10))]
+
+    note = ""
+    if hours is not None:
+        note = f"**{total}** posted in the last **{hours}h**"
+        if undated:
+            note += (f"  ·  {undated} more hidden — Workday publishes no posting "
+                     f"date, so they can't be filtered by age")
+    if not jobs:
+        return await interaction.followup.send(
+            note or "Nothing open right now.")
+    await interaction.followup.send(content=note or None,
+                                    embeds=[embed_for(j) for j in jobs])
 
 
 @bot.tree.command(name="search", description="Search open internships by title or company")
