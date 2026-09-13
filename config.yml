@@ -1,39 +1,217 @@
 # What counts as a hit. Edit this file, not the Python.
-
-# Terms you'd actually accept. Sources that publish a term (Simplify) are
-# filtered on it; raw ATS endpoints don't publish one, so those pass through
-# unless the TITLE names a term you didn't ask for.
 #
-# NOTE: as of 12 Sep 2026 there were 237 open Canadian Winter 2027 roles vs
-# 68 Summer 2027. Canada runs a four-month co-op cycle, so January starts are
-# a real hiring season here. If you can take a Winter term, uncomment it —
-# it is a 3.5x larger pool today.
+# Three filters, ANDed:  LEVEL (is it an internship?)
+#                      · DOMAIN (is it software-ish?)
+#                      · TERM (is it a term I'd take?)   ... plus Canada.
+
+# ---------------------------------------------------------------------------
+# TERM
+# ---------------------------------------------------------------------------
+# Sources that publish a term (Simplify) are filtered on it. Raw ATS endpoints
+# don't publish one, so those pass through unless the TITLE names a term you
+# didn't ask for.
+#
+# NOTE: on 12 Sep 2026 there were 237 open Canadian Winter 2027 roles vs 68
+# Summer 2027. Canada runs a four-month co-op cycle, so January starts are a
+# real hiring season here. Uncomment Winter if you'd take one — it is a much
+# larger pool.
 terms:
   - "Summer 2027"
   # - "Winter 2027"
 
 canada_only: true
 
+# ---------------------------------------------------------------------------
+# LEVEL — is this an internship / co-op / new-grad role?
+# ---------------------------------------------------------------------------
 title_include_any:
   - intern
   - internship
   - co-op
   - coop
   - "co op"
+  - stagiaire          # FR — Intact and Autodesk post in French
+  - stage
   - student
+  - étudiant
   - "new grad"
   - "new graduate"
   - "early career"
   - "early talent"
   - "university grad"
-  - "campus"
+  - campus
   - "summer analyst"
   - "swe i"
   - "software engineer i"
 
-# Broad sweeps that aren't tied to the watchlist. Turn either off if it gets
-# noisy. hiring.cafe is an undocumented API and may break without notice —
-# failures are logged, never fatal.
+# ---------------------------------------------------------------------------
+# DOMAIN — is this a software / AI / ML / data role?
+# ---------------------------------------------------------------------------
+# Without this filter, "intern" alone matches capital markets, internal audit,
+# HR, marketing and mechanical engineering. On the first real run that was
+# 172 of 271 roles — roughly two thirds noise.
+#
+# Matched against the title AND the first 400 chars of the description where
+# one was captured (Greenhouse/Lever/Ashby give descriptions; Workday and the
+# Simplify sweep don't, so those are judged on title alone).
+domain_include_any:
+  # --- software ---
+  - software
+  - swe
+  - sde
+  - developer
+  - développeur
+  - developpeur
+  - logiciel
+  - programmer
+  - backend
+  - back-end
+  - "back end"
+  - frontend
+  - front-end
+  - "front end"
+  - "full stack"
+  - full-stack
+  - fullstack
+  - "web developer"
+  - "mobile developer"
+  - android
+  - "application developer"
+  - "systems developer"
+  - "game developer"
+  - compiler
+  - "embedded software"
+  - firmware
+  # --- AI / ML ---
+  - "machine learning"
+  - "ml engineer"
+  - "ml intern"
+  - "artificial intelligence"
+  - "ai engineer"
+  - "ai intern"
+  - "ai developer"
+  - ai/ml
+  - "deep learning"
+  - nlp
+  - "natural language"
+  - "computer vision"
+  - llm
+  - generative
+  - "applied scien"
+  - "research scien"
+  - robotics
+  # --- data ---
+  - "data scien"
+  - "data engineer"
+  - "data analyst"
+  - "data analytics"
+  - "analytics engineer"
+  - "business intelligence"
+  - données
+  - "big data"
+  - database
+  # --- infra / platform ---
+  - devops
+  - sre
+  - "site reliability"
+  - "platform engineer"
+  - infrastructure
+  - "cloud engineer"
+  - "cloud developer"
+  - "systems engineer"
+  - "network engineer"
+  - "distributed systems"
+  # --- adjacent technical ---
+  - "security engineer"
+  - cybersecurity
+  - "cyber security"
+  - "application security"
+  - appsec
+  - "qa engineer"
+  - "quality assurance"
+  - "test engineer"
+  - "test automation"
+  - sdet
+  - "computer science"
+  - informatique
+  - "génie logiciel"
+  - "technical program"
+  - "solutions architect"
+
+# A hit here REJECTS, even if a domain word also appears. This is what stops
+# "Sales Systems & Data Governance Intern" and "Portfolio Engineering Intern"
+# — both of which say "data"/"engineering" but are not software jobs.
+# Checked against the TITLE only, never the description.
+domain_exclude_any:
+  # business / finance
+  - marketing
+  - "sales "
+  - "sales,"
+  - "human resources"
+  - "talent acquisition"
+  - recruit
+  - "finance intern"
+  - "financial reporting"
+  - accounting
+  - audit
+  - legal
+  - "law student"
+  - procurement
+  - "supply chain"
+  - merchandis
+  - "capital markets"
+  - investment
+  - portfolio
+  - "private capital"
+  - "hedge fund"
+  - equities
+  - actuarial
+  - underwrit
+  - wealth
+  - "banking associate"
+  - "commercial banking"
+  - "pricing intern"
+  - communications
+  - "customer success"
+  - "product marketing"
+  - "total rewards"
+  - scholarship
+  - "real estate"
+  - "due diligence"
+  # non-software engineering
+  - hardware
+  - "electrical engineer"
+  - "mechanical engineer"
+  - electronic
+  - asic
+  - pcb
+  - silicon
+  - thermal
+  - npi
+  - manufactur
+  - "chemical engineer"
+  - "civil engineer"
+  - optical
+  - photonic
+
+# ---------------------------------------------------------------------------
+# Broad sweeps, not tied to the watchlist
+# ---------------------------------------------------------------------------
 sources:
   simplify: true
-  hiring.cafe: true
+  # OFF: the endpoint returns 405 Method Not Allowed. The POST shape came from
+  # a third-party scraper repo and was never verified — the first live run
+  # proved it wrong. It fails safely, but it contributes nothing and logs a
+  # warning every run. Simplify already covers the broad-net role.
+  hiring.cafe: false
+
+# ---------------------------------------------------------------------------
+# Discord
+# ---------------------------------------------------------------------------
+# Posts via a channel WEBHOOK — no bot, no token, nothing hosted. Set the
+# DISCORD_WEBHOOK repo secret to switch it on. The name and avatar below are
+# what the message appears as in your server.
+discord:
+  username: LarpBuddy
+  avatar_url: ""        # optional: a direct image URL
+  max_embeds: 10        # Discord's hard cap per message

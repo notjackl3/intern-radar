@@ -97,8 +97,31 @@ def term_matches(job: dict, wanted: list[str]) -> bool:
     return True
 
 
+def domain_matches(job: dict, include: list[str], exclude: list[str]) -> bool:
+    """Is this a SOFTWARE-ish role? ANDed with the intern-level filter.
+
+    Without this, "intern" alone lets through capital markets, internal audit,
+    HR, marketing and mechanical engineering — on the first real run that was
+    172 of 271 roles.
+
+    The title decides a rejection (a "Sales Systems & Data Governance Intern"
+    is a sales job however much it says "data"), but a match may come from the
+    description too, since Workday and the Simplify sweep publish no
+    description and their titles are often vague.
+    """
+    if not include:
+        return True
+    title = (job.get("title") or "").lower()
+    if any(x in title for x in exclude):
+        return False
+    hay = f"{title} {(job.get('description') or '')[:400].lower()}"
+    return any(x in hay for x in include)
+
+
 def apply_filters(jobs, cfg) -> list[dict]:
     include = [x.lower() for x in cfg.get("title_include_any", [])]
+    dom_in = [x.lower() for x in cfg.get("domain_include_any", [])]
+    dom_out = [x.lower() for x in cfg.get("domain_exclude_any", [])]
     terms = cfg.get("terms", [])
     canada_only = cfg.get("canada_only", True)
 
@@ -107,6 +130,8 @@ def apply_filters(jobs, cfg) -> list[dict]:
         if canada_only and not is_canadian(j.get("location", "")):
             continue
         if not title_matches(j.get("title", ""), include):
+            continue
+        if not domain_matches(j, dom_in, dom_out):
             continue
         if not term_matches(j, terms):
             continue

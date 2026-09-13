@@ -148,7 +148,7 @@ def main() -> int:
                  len(matched))
         return 0
 
-    notify.send(new, stamp)
+    notify.send(new, stamp, cfg)
     log.info("done — %d new, %d open, %d ids tracked", len(new), len(matched), len(seen) + len(new))
     return 0
 
