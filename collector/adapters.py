@@ -203,34 +203,86 @@ def smartrecruiters(company: str, token: str):
 #   * tenant / shard / site are unguessable — they come from the careers URL:
 #       https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/...
 #              ^tenant ^shard             drop locale ^ ^site
+#
+# Two strategies, chosen per board by its size. The first response carries
+# `total`, so one request tells us which we need:
+#
+#   SMALL board (total <= max_pages * 20) — page straight through it. Complete
+#     coverage, and for a campus site like RBCEARLYTALENT1 that is the whole
+#     board in three requests.
+#
+#   LARGE board — paging is hopeless. Salesforce, Adobe, Cisco and Samsung each
+#     carry thousands of open roles, so six pages sees 120 of 3,000 and the
+#     internships are simply not in them. Ask the server instead: searchText
+#     narrows at the source, and a handful of probes ("intern", "co-op",
+#     "stagiaire" for the French boards, ...) pulls back tens of roles rather
+#     than thousands. Probes overlap, so results are deduped on externalPath.
+#
+# The keyword list only has to be recall-oriented; config.yml does the real
+# filtering afterwards. Missing a keyword loses roles silently, so keep it
+# generous rather than precise.
 # --------------------------------------------------------------------------
-def workday(company: str, tenant: str, shard: str, site: str, max_pages: int = 6):
+WORKDAY_PROBES = ("intern", "co-op", "coop", "student", "new grad", "graduate",
+                  "early career", "campus", "stagiaire", "étudiant")
+
+
+def workday(company: str, tenant: str, shard: str, site: str, max_pages: int = 6,
+            probes: bool = True):
     base = f"https://{tenant}.{shard}.myworkdayjobs.com"
     api = f"{base}/wday/cxs/{tenant}/{site}/jobs"
-    for page in range(max_pages):
-        payload = {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": ""}
-        try:
-            data = _post(api, payload).json()
-        except requests.HTTPError as e:
-            log.warning("workday %s/%s page %s: %s", tenant, site, page, e)
-            return
-        posts = data.get("jobPostings", [])
-        if not posts:
-            return
-        for j in posts:
-            path = j.get("externalPath", "")
-            yield {
-                "id": _stable_id("wd", tenant, site, path),
-                "source": "workday",
-                "company": company,
-                "title": j.get("title", ""),
-                "location": j.get("locationsText", ""),
-                "url": f"{base}/{site}{path}",
-                "posted_at": None,  # display-string only; see note above
-                "term": None,
-            }
-        if len(posts) < 20:
-            return
+    seen: set[str] = set()
+    total = 0          # set by the first response; 0 means the board didn't say
+    exhausted = False  # a sweep ran out of results before hitting max_pages
+
+    def sweep(search_text: str):
+        """Page one query. Records `total` from the first response and sets
+        `exhausted` when the query ran dry rather than hitting the page cap."""
+        nonlocal total, exhausted
+        for page in range(max_pages):
+            payload = {"appliedFacets": {}, "limit": 20, "offset": page * 20,
+                       "searchText": search_text}
+            try:
+                data = _post(api, payload).json()
+            except requests.HTTPError as e:
+                log.warning("workday %s/%s %r page %s: %s",
+                            tenant, site, search_text, page, e)
+                return
+            posts = data.get("jobPostings") or []
+            if page == 0 and not search_text:
+                total = int(data.get("total") or 0)
+            for j in posts:
+                path = j.get("externalPath", "")
+                if path in seen:
+                    continue
+                seen.add(path)
+                yield {
+                    "id": _stable_id("wd", tenant, site, path),
+                    "source": "workday",
+                    "company": company,
+                    "title": j.get("title", ""),
+                    "location": j.get("locationsText", ""),
+                    "url": f"{base}/{site}{path}",
+                    "posted_at": None,  # display-string only; see note above
+                    "term": None,
+                }
+            if len(posts) < 20:
+                exhausted = True
+                return
+
+    # Read the board straight through first. For a campus site like
+    # RBCEARLYTALENT1 that is the entire board in three requests, and the first
+    # response also tells us how big the board really is.
+    yield from sweep("")
+
+    # Probe only when plain paging cannot have covered the board: either the
+    # board declared more roles than max_pages can reach, or it declared
+    # nothing and we hit the page cap still finding full pages.
+    if probes and (total > max_pages * 20 or (not exhausted and not total)):
+        log.info("workday %s/%s: %s roles — plain paging can't cover it, "
+                 "falling back to keyword probes",
+                 tenant, site, total or "unknown")
+        for kw in WORKDAY_PROBES:
+            yield from sweep(kw)
 
 
 # --------------------------------------------------------------------------

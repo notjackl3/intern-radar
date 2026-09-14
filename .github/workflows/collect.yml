@@ -2,12 +2,11 @@ name: collect
 
 # Two cadences, because the sources have very different costs.
 #
-#   fast — 18 boards where ONE GET returns the whole board (Greenhouse, Lever,
-#          Ashby) plus the three Workday campus sites worth watching closely.
-#          ~24 requests, finishes in well under a minute.
-#   full — everything: all 20 Workday tenants (20 results per page, so they
-#          have to be paged), SmartRecruiters, the Simplify dataset and
-#          hiring.cafe. ~80 requests.
+#   fast — 77 boards where ONE GET returns the whole board (Greenhouse, Lever,
+#          Ashby) plus the handful of Workday campus/student sites worth
+#          watching closely. ~77 requests, finishes in a couple of minutes.
+#   full — everything: all 53 Workday tenants (20 results per page, so they
+#          have to be paged) plus the two Simplify datasets. ~500 requests.
 #
 # GitHub's scheduler is best-effort. Under load, a */20 cron realistically
 # fires every 20-45 minutes, and can skip entirely during incidents. Treat the

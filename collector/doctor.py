@@ -25,8 +25,13 @@ def probe(entry) -> tuple[dict, str, int, str]:
     ats, name = entry["ats"], entry["name"]
     try:
         if ats == "workday":
+            # One request, always. The probe fallback in the adapter would
+            # fire on every board bigger than a single page and turn a
+            # 121-request health check into a 1,000-request one — and it
+            # answers a question doctor is not asking. All doctor wants to
+            # know is whether this tenant/site answers at all.
             gen = adapters.workday(name, entry["tenant"], entry["shard"],
-                                   entry["site"], max_pages=1)
+                                   entry["site"], max_pages=1, probes=False)
         elif ats in adapters.ATS:
             gen = adapters.ATS[ats](name, entry["token"])
         else:
