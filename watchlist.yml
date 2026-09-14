@@ -252,6 +252,99 @@ companies:
   - { name: Sony Interactive,     ats: greenhouse, token: sonyinteractiveentertainmentglobal }
   - { name: Astera Labs,          ats: greenhouse, token: asteraearlycareer2026 }
 
+
+  # ==========================================================================
+  # BIG TECH / MAJOR CANADIAN EMPLOYERS — researched Sep 2026, each identifier
+  # read off a real live job URL. Employers on SuccessFactors, Phenom, Oracle,
+  # Taleo, Avature, iCIMS, SmartRecruiters, Dayforce, Jobvite or a proprietary
+  # site are NOT here because those can't be polled; see NOT-POLLABLE below.
+  # ==========================================================================
+
+  # ---- student / university-specific boards (highest signal) --------------
+  - name: Desjardins (Étudiants et Stages)
+    ats: workday
+    tenant: desjardins
+    shard: wd10
+    site: EtudiantsetStagiaires
+    tier: fast
+
+  - name: Cadence (University)
+    ats: workday
+    tenant: cadence
+    shard: wd1
+    site: Univ_Careers
+    tier: fast
+
+  # ---- Workday (main boards) ----------------------------------------------
+  - { name: Desjardins,        ats: workday, tenant: desjardins,     shard: wd10, site: Desjardins }
+  - { name: Clio,              ats: workday, tenant: clio,           shard: wd3,  site: ClioCareerSite }
+  - { name: Thomson Reuters,   ats: workday, tenant: thomsonreuters, shard: wd5,  site: External_Career_Site }
+  - { name: "Sun Life (Experienced)", ats: workday, tenant: sunlife, shard: wd3,  site: Experienced-Jobs }
+  - { name: Salesforce,        ats: workday, tenant: salesforce,     shard: wd12, site: External_Career_Site }
+  - { name: Adobe,             ats: workday, tenant: adobe,          shard: wd5,  site: external_experienced }
+  - { name: Cisco,             ats: workday, tenant: cisco,          shard: wd5,  site: cisco_careers }
+  - { name: Cadence,           ats: workday, tenant: cadence,        shard: wd1,  site: External_Careers }
+  - { name: Unity,             ats: workday, tenant: unitytech,      shard: wd1,  site: Unity }
+  - { name: Samsung,           ats: workday, tenant: sec,            shard: wd3,  site: Samsung_Careers }
+
+  # ---- Greenhouse — Canadian tech -----------------------------------------
+  - { name: Coveo,             ats: greenhouse, token: coveoen }       # not coveodeven (sandbox)
+  - { name: Ada,               ats: greenhouse, token: ada18 }         # left Lever
+  - { name: D2L,               ats: greenhouse, token: d2l }
+  - { name: Vidyard,           ats: greenhouse, token: vidyard }
+  - { name: Faire,             ats: greenhouse, token: faire }
+  - { name: Shakepay,          ats: greenhouse, token: shakepay }      # moved off Lever
+  - { name: Hootsuite,         ats: greenhouse, token: hootsuite }
+  - { name: Dialpad,           ats: greenhouse, token: dialpad }
+  - { name: Tenstorrent,       ats: greenhouse, token: tenstorrent }   # main board; university one already listed
+
+  # ---- Greenhouse — US big tech with Canadian offices ---------------------
+  - { name: Stripe,            ats: greenhouse, token: stripe }
+  - { name: Databricks,        ats: greenhouse, token: databricks }
+  - { name: Datadog,           ats: greenhouse, token: datadog }
+  - { name: Figma,             ats: greenhouse, token: figma }
+  - { name: DoorDash,          ats: greenhouse, token: doordashusa }   # not "doordash"
+  - { name: Instacart,         ats: greenhouse, token: instacart }
+  - { name: Pinterest,         ats: greenhouse, token: pinterest }
+  - { name: Block,             ats: greenhouse, token: block }
+
+  # ---- Lever --------------------------------------------------------------
+  - { name: Waabi,                 ats: lever, token: waabi }
+  - { name: BenchSci,              ats: lever, token: benchsci }
+  - { name: Deep Genomics,         ats: lever, token: deepgenomics }
+  - { name: Wattpad,               ats: lever, token: wattpad }
+  - { name: Wave,                  ats: lever, token: waveapps }
+  - { name: Behaviour Interactive, ats: lever, token: bhvr }
+
+  # ---- Ashby --------------------------------------------------------------
+  - { name: Lightspeed,      ats: ashby, token: lightspeedhq }   # migrated off Greenhouse
+  - { name: Benevity,        ats: ashby, token: benevity }       # migrated off Greenhouse
+  - { name: Top Hat,         ats: ashby, token: top-hat }        # migrated off Greenhouse
+  - { name: Thinkific,       ats: ashby, token: thinkific }      # migrated off Greenhouse
+  - { name: KOHO,            ats: ashby, token: koho }
+  - { name: Neo Financial,   ats: ashby, token: neofinancial }
+  - { name: Jane Software,   ats: ashby, token: jane }
+  - { name: Float,           ats: ashby, token: float }
+  - { name: OpenAI,          ats: ashby, token: openai }
+
+  # ---- NOT POLLABLE — documented so nobody re-researches them -------------
+  # SuccessFactors : Scotiabank, Rogers, Telus, Canada Life, SAP
+  # Phenom         : Bell, OpenText, Snowflake
+  # Oracle Cloud   : Uber, Nokia, Oracle      Taleo: National Bank of Canada
+  # Avature        : IBM, Ericsson, Synopsys  iCIMS: Kinaxis
+  # SmartRecruiters: ServiceNow, Ubisoft, Huawei Canada
+  # Dayforce       : Dayforce, Questrade      Njoyn: CGI
+  # Workable       : Nuvei      JazzHR: Xanadu      gr8people: EA
+  # Jobvite        : Absolute Security        Proprietary: Shopify, Atlassian,
+  #                  Google, Microsoft, Amazon, Meta, Apple
+  #
+  # Also deliberately excluded:
+  #   Qualcomm  - left Workday for Eightfold; the old wd5 URLs are dead
+  #   Untether AI - bankrupt 2025, team acquihired by AMD
+  #   ecobee    - Greenhouse token 404s; now Generac-owned, needs manual check
+  #   Notion    - board page is live but the Greenhouse JSON API 404s
+  #   Constellation Software - holding co, every subsidiary hires separately
+
   # ---- SmartRecruiters ---------------------------------------------------
   # OFF BY DEFAULT. SmartRecruiters documents this as a public, unauthenticated
   # Posting API — but api.smartrecruiters.com serves a blanket-disallow
