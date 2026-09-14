@@ -38,6 +38,9 @@ import sys
 
 import aiohttp
 import discord
+
+import repo as repo_mod
+import resolve as R
 from datetime import datetime, timezone
 from discord import app_commands
 from discord.ext import commands, tasks
@@ -305,6 +308,219 @@ async def stats(interaction: discord.Interaction):
 
 
 # --------------------------------------------------------------------------
+# /watch — subscribe to an employer without touching the repo by hand
+# --------------------------------------------------------------------------
+# The flow is: resolve -> PROVE -> a human looks at real job titles -> commit.
+# There is no LLM in it, and that is the right call rather than a shortcut. The
+# four systems we poll are self-describing (a board URL contains its token) and
+# they 404 on a wrong one, so the truth is one HTTP request away. A model
+# guessing "Jane" -> jane / janeapp / janestreet would be strictly worse than
+# showing the person three real job titles and letting them say yes.
+#
+# The one genuinely ambiguous step — is this board the company you meant — is
+# the step a human answers in a second and a model cannot answer at all.
+
+
+async def http(url, method="GET", payload=None, headers=None):
+    """(status, parsed-body). Every network call in this module goes through
+    here so resolve.py and repo.py stay pure and testable."""
+    timeout = aiohttp.ClientTimeout(total=30)
+    hdrs = {"User-Agent": "larpbuddy/1.0", "Accept": "application/json"}
+    hdrs.update(headers or {})
+    async with aiohttp.ClientSession(timeout=timeout) as s:
+        async with s.request(method, url, json=payload, headers=hdrs) as r:
+            try:
+                body = await r.json(content_type=None)
+            except Exception:
+                body = None
+            return r.status, body
+
+
+def _resolution_embed(res, query: str) -> discord.Embed:
+    if res.status == R.OK:
+        colour, head = 0x25A36F, "Found it"
+    elif res.status == R.EMPTY:
+        colour, head = 0xC8922A, "Found it — the board is empty right now"
+    else:
+        colour, head = 0xB23A2E, "No board found"
+
+    e = discord.Embed(title=head, colour=colour)
+    if res.entry:
+        ident = (f"`{res.entry['tenant']}` / `{res.entry['shard']}` / "
+                 f"`{res.entry['site']}`" if res.ats == "workday"
+                 else f"`{res.entry['token']}`")
+        e.description = f"**{res.ats}** → {ident}"
+        if res.total:
+            e.description += (f"\n{res.total} open role"
+                              f"{'s' if res.total != 1 else ''} on the board"
+                              f" · {res.canadian} of the first {len(res.sample)}"
+                              f" look Canadian")
+    if res.sample:
+        e.add_field(
+            name="Sample of what's on it",
+            value="\n".join(f"· **{j['title'][:70]}**"
+                             + (f"  \n`{j['location'][:60]}`" if j.get("location") else "")
+                             for j in res.sample[:5])[:1020],
+            inline=False)
+    if res.note:
+        e.add_field(name="Note", value=res.note[:1020], inline=False)
+    if res.evidence:
+        e.set_footer(text=res.evidence[:200])
+    return e
+
+
+class ConfirmWatch(discord.ui.View):
+    """The confirm step is not ceremony. Resolving by name is a guess, and the
+    only thing that can tell Cohere from a same-named board is a person reading
+    the job titles above."""
+
+    def __init__(self, res, display_name: str, who: str, author_id: int):
+        super().__init__(timeout=120)
+        self.res, self.display_name, self.who = res, display_name, who
+        self.author_id = author_id
+
+    async def interaction_check(self, interaction: discord.Interaction) -> bool:
+        if interaction.user.id != self.author_id:
+            await interaction.response.send_message(
+                "Only the person who ran `/watch` can confirm it.", ephemeral=True)
+            return False
+        return True
+
+    @discord.ui.button(label="Watch this board", style=discord.ButtonStyle.success)
+    async def confirm(self, interaction: discord.Interaction, _button):
+        await interaction.response.defer()
+        line = repo_mod.format_line(self.res.entry, self.display_name, self.who)
+
+        if not repo_mod.enabled():
+            return await interaction.followup.send(
+                "I can't commit without a `GITHUB_TOKEN`, but the board checks "
+                f"out. Paste this into `watchlist.yml`:\n```yaml\n{line}\n```")
+
+        def mutate(text):
+            already = repo_mod.find_existing(text, self.res.entry)
+            if already:
+                return text, False, f"Already watching that board, as **{already}**."
+            return (repo_mod.insert_line(text, line), True,
+                    f"Watching **{self.display_name}**.")
+
+        ok, msg = await repo_mod.apply(
+            http, mutate,
+            f"watchlist: add {self.display_name} ({self.res.ats}) via /watch by {self.who}")
+        for c in self.children:
+            c.disabled = True
+        await interaction.edit_original_response(view=self)
+        await interaction.followup.send(
+            f"{msg} The next collector run picks it up — nothing to redeploy."
+            if ok else f"Couldn't add it: {msg}")
+
+    @discord.ui.button(label="Cancel", style=discord.ButtonStyle.secondary)
+    async def cancel(self, interaction: discord.Interaction, _button):
+        for c in self.children:
+            c.disabled = True
+        await interaction.response.edit_message(content="Cancelled.", view=self)
+
+
+@bot.tree.command(name="watch", description="Start monitoring an employer's job board")
+@app_commands.describe(
+    company="A company name, or better, a link to their job board",
+    name="What to call them in alerts (defaults to what you typed)")
+async def watch(interaction: discord.Interaction, company: str, name: str = None):
+    await interaction.response.defer()
+    res = await R.resolve(http, company)
+    display = (name or company).strip()
+    if display.lower().startswith("http"):
+        display = (res.entry or {}).get("token") or display
+
+    embed = _resolution_embed(res, company)
+    if not res.writable:
+        return await interaction.followup.send(embed=embed)
+
+    if repo_mod.enabled():
+        try:
+            text, _ = await repo_mod._get(http)
+            already = repo_mod.find_existing(text, res.entry)
+            if already:
+                embed.colour = 0x8A8F98
+                embed.add_field(name="Already watching",
+                                value=f"This board is on the list as **{already}**.",
+                                inline=False)
+                return await interaction.followup.send(embed=embed)
+        except Exception as e:
+            log.warning("couldn't pre-check the watchlist: %s", e)
+
+    await interaction.followup.send(
+        embed=embed, view=ConfirmWatch(res, display, str(interaction.user), interaction.user.id))
+
+
+@bot.tree.command(name="unwatch", description="Stop monitoring an employer")
+@app_commands.describe(company="The company name or board token to drop")
+async def unwatch(interaction: discord.Interaction, company: str):
+    await interaction.response.defer()
+    if not repo_mod.enabled():
+        return await interaction.followup.send(
+            "I can't edit the watchlist without a `GITHUB_TOKEN`.")
+
+    needle = company.strip().lower()
+
+    def mutate(text):
+        import yaml as _y
+        companies = _y.safe_load(text).get("companies") or []
+        hits = [e for e in companies
+                if needle in (e.get("name", "").lower())
+                or needle == str(e.get("token", "")).lower()
+                or needle == str(e.get("site", "")).lower()]
+        if not hits:
+            return text, False, f"Nothing on the list matches **{company}**."
+        if len(hits) > 1:
+            names = ", ".join(f"**{h['name']}**" for h in hits[:8])
+            return text, False, f"That matches {len(hits)} entries — {names}. Be more specific."
+        e = hits[0]
+        new_text, removed = repo_mod.remove_line(text, e)
+        if not removed:
+            return text, False, (
+                f"**{e['name']}** is written as a multi-line block with its own "
+                "comments, so I won't rewrite it from here — that would throw "
+                "away why it's on the list. Remove it in the repo instead.")
+        return new_text, True, f"Stopped watching **{e['name']}**."
+
+    ok, msg = await repo_mod.apply(http, mutate, f"watchlist: remove {company} via /unwatch")
+    await interaction.followup.send(msg if ok else f"Couldn't remove it: {msg}")
+
+
+@bot.tree.command(name="watching", description="Every employer the radar polls")
+@app_commands.describe(query="Optional: filter by name or ATS")
+async def watching(interaction: discord.Interaction, query: str = None):
+    await interaction.response.defer()
+    import collections
+    import yaml as _y
+    url = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/watchlist.yml"
+    async with aiohttp.ClientSession() as s:
+        async with s.get(url, timeout=aiohttp.ClientTimeout(total=30)) as r:
+            if r.status != 200:
+                return await interaction.followup.send("Couldn't read the watchlist.")
+            companies = _y.safe_load(await r.text()).get("companies") or []
+
+    if query:
+        q = query.lower()
+        companies = [e for e in companies
+                     if q in e.get("name", "").lower() or q == e.get("ats")]
+    by_ats = collections.Counter(e["ats"] for e in companies)
+    names = sorted(e["name"] for e in companies)
+
+    e = discord.Embed(
+        title=f"Watching {len(companies)} employer{'s' if len(companies) != 1 else ''}"
+              + (f" matching “{query}”" if query else ""),
+        colour=0x0B5CAB,
+        description=" · ".join(f"**{k}** {v}" for k, v in by_ats.most_common()) or "—")
+    shown = ", ".join(names[:60])
+    if len(names) > 60:
+        shown += f" …and {len(names) - 60} more"
+    e.add_field(name="Employers", value=shown[:1020] or "—", inline=False)
+    e.set_footer(text="/watch <company or board URL> to add one")
+    await interaction.followup.send(embed=e)
+
+
+# --------------------------------------------------------------------------
 @bot.event
 async def on_ready():
     log.info("logged in as %s", bot.user)
@@ -318,8 +534,9 @@ async def on_ready():
             # GLOBALLY. Those stale global copies keep advertising their OLD
             # parameters alongside the fresh guild ones, so Discord shows a
             # command with only `count`. Clear the global set now that the
-            # guild copies are live. Order matters: guild first, then wipe
-            # globals -- clearing before copy_global_to would empty the tree.
+            # guild copies are live. Sync order matters: guild first, then
+            # wipe globals — clearing before copy_global_to would empty the
+            # tree and sync nothing.
             bot.tree.clear_commands(guild=None)
             removed = await bot.tree.sync()
             log.info("cleared stale global commands (now %d)", len(removed))

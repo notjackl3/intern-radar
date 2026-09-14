@@ -327,6 +327,80 @@ companies:
   - { name: Float,           ats: ashby, token: float }
   - { name: OpenAI,          ats: ashby, token: openai }
 
+  # ==========================================================================
+  # ROUND 3 — Sep 2026. Canadian offices of US firms, Canadian studios, and
+  # the payments/identity tier. Every token below was confirmed by calling the
+  # ATS API itself and getting real job data back. That matters because all
+  # four systems 404 on a bad identifier, so a 200 with postings is proof —
+  # whereas a guessed token that happens to exist would return an empty array
+  # and look exactly like a quiet board.
+  # ==========================================================================
+
+  # ---- Canadian-only boards (every posting is in Canada — highest signal) --
+  - { name: DoorDash Canada,        ats: greenhouse, token: doordashcanada }       # Canada-only board, separate from doordashusa
+  - { name: StackAdapt (Campus),    ats: greenhouse, token: stackadapt-confidential }  # intern-only board
+  - { name: StackAdapt,             ats: greenhouse, token: stackadapt }           # Toronto HQ
+  - { name: Jobber,                 ats: ashby,      token: jobber }               # Edmonton/Toronto/Vancouver/KW, 100% CA
+  - { name: Knak,                   ats: greenhouse, token: knak }                 # Ottawa HQ, every role CA
+  - { name: Workleap,               ats: greenhouse, token: workleap }             # Montreal HQ, every role CA
+  - { name: LawDepot,               ats: ashby,      token: LawDepot }             # Edmonton AB — token IS case-sensitive
+  - { name: Blackbird Interactive,  ats: lever,      token: blackbirdinteractive } # Vancouver studio, hires CA only
+  - { name: Fullscript,             ats: lever,      token: fullscript }           # Ottawa HQ
+  - { name: Achievers,              ats: lever,      token: achievers }            # Toronto HQ
+  - { name: Venn,                   ats: ashby,      token: venn }                 # Toronto fintech
+  - { name: Hiive,                  ats: ashby,      token: hiive }                # Vancouver fintech
+  - { name: OpsLevel,               ats: ashby,      token: opslevel }             # Toronto — posts a co-op SWE intern
+  - { name: NationGraph,            ats: ashby,      token: NationGraph }          # Toronto — case-sensitive token
+  - { name: Beacon Software,        ats: ashby,      token: beaconsoftware }       # Toronto office
+  - { name: Quadbridge,             ats: greenhouse, token: quadbridge }           # Montreal HQ
+  - { name: Unbounce,               ats: greenhouse, token: unbounce }             # Vancouver HQ
+  - { name: Maximizer,              ats: greenhouse, token: maximizer }            # Vancouver/Victoria
+  - { name: Workstream,             ats: greenhouse, token: workstream }           # Vancouver
+  - { name: Pelmorex,               ats: lever,      token: pelmorex }             # Oakville ON + Montreal
+  - { name: Promise Robotics,       ats: lever,      token: promiserobotics }      # Calgary/Toronto robotics
+  - { name: Telesat,                ats: lever,      token: telesat }              # Ottawa HQ, embedded
+  - { name: "Arc'teryx",            ats: lever,      token: arcteryx.com }         # North Vancouver — token really does end in .com
+
+  # Currently EMPTY but the token is confirmed correct — the co-op cycle is
+  # between postings. This is the "quiet board, not wrong token" case doctor
+  # warns about, so don't delete it when doctor reports EMPTY.
+  - { name: PlayStation Waterloo Co-op, ats: greenhouse, token: waterloocoop }
+  - { name: Plusgrade,              ats: lever,      token: plusgrade }            # Montreal HQ; board answers 200 with an empty list today
+
+  # ---- Canadian game studios ---------------------------------------------
+  - { name: KRAFTON Montréal,       ats: greenhouse, token: studiokraftonboard }   # all-Montreal; posts Programming Interns
+  - { name: Cloud Chamber (2K),     ats: greenhouse, token: cloudchamberen }       # Montréal gameplay engineering
+
+  # ---- Canadian engineering sites of US firms ----------------------------
+  - { name: Tailscale,              ats: greenhouse, token: tailscale }            # Toronto HQ
+  - { name: Asana,                  ats: greenhouse, token: asana }                # Vancouver eng hub
+  - { name: PagerDuty,              ats: greenhouse, token: pagerduty }            # Toronto office
+  - { name: Samsara,                ats: greenhouse, token: samsara }              # Toronto + Montreal
+  - { name: OpenTable,              ats: greenhouse, token: opentable }            # Toronto + Montreal
+  - { name: Robinhood,              ats: greenhouse, token: robinhood }            # Toronto eng office
+  - { name: Affirm,                 ats: greenhouse, token: affirm }               # large remote-Canada footprint
+  - { name: AppDirect,              ats: greenhouse, token: appdirect }            # Montreal, Toronto, Calgary
+  - { name: Behavox,                ats: greenhouse, token: behavox }              # Montreal, Toronto, Ottawa, Calgary, Vancouver
+  - { name: Instalily AI,           ats: greenhouse, token: instalilyai }          # posts a Toronto co-op SWE
+  - { name: Gatik AI,               ats: greenhouse, token: gatikaiinc }           # Mississauga/Ajax ON; eng roles mostly US-listed today
+  - { name: Coinbase,               ats: greenhouse, token: coinbase }             # thin — 2 remote-CA roles; kept because it is one cheap GET
+  # Aylo is Pornhub's parent company. Real Montréal engineering org that hires
+  # co-ops; listed so the choice is yours to make rather than mine to make
+  # silently. Delete this line if you'd rather not see them.
+  - { name: Aylo,                   ats: greenhouse, token: aylo }                 # Montréal HQ
+
+  # ---- Workday: payments, identity, and Canadian enterprises -------------
+  - { name: BlackBerry QNX,         ats: workday, tenant: bb,            shard: wd3,   site: QNX }              # Kanata/Ottawa embedded
+  - { name: Visa,                   ats: workday, tenant: visa,          shard: wd5,   site: Visa }             # Toronto
+  - { name: Mastercard,             ats: workday, tenant: mastercard,    shard: wd1,   site: CorporateCareers } # Vancouver (Ethoca) + Toronto
+  - { name: PayPal,                 ats: workday, tenant: paypal,        shard: wd1,   site: jobs }             # Toronto
+  - { name: Intel,                  ats: workday, tenant: intel,         shard: wd1,   site: External }         # Toronto + Vancouver design centres
+  - { name: Accenture,              ats: workday, tenant: accenture,     shard: wd103, site: AccentureCareers } # note the wd103 shard — unusual but correct
+  - { name: Aviva,                  ats: workday, tenant: aviva,         shard: wd1,   site: External }         # Aviva Canada, Markham ON
+  - { name: BCI,                    ats: workday, tenant: bci,           shard: wd10,  site: BCI_Careers }      # Victoria BC
+  - { name: Aritzia,                ats: workday, tenant: aritzia,       shard: wd3,   site: External }         # Vancouver HQ, in-house digital
+  - { name: BDO Canada,             ats: workday, tenant: bdo,           shard: wd3,   site: BDO }              # mostly audit; the domain filter handles that
+
   # ---- NOT POLLABLE — documented so nobody re-researches them -------------
   # SuccessFactors : Scotiabank, Rogers, Telus, Canada Life, SAP
   # Phenom         : Bell, OpenText, Snowflake

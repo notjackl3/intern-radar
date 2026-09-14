@@ -225,6 +225,12 @@ def smartrecruiters(company: str, token: str):
 WORKDAY_PROBES = ("intern", "co-op", "coop", "student", "new grad", "graduate",
                   "early career", "campus", "stagiaire", "étudiant")
 
+# Probes page shallower than a plain sweep. A narrowed query that is still
+# returning full pages sixty roles deep is not a keyword any more, and ten
+# probes at the full page budget is what turns one slow tenant into a run that
+# outlives the workflow timeout.
+PROBE_PAGES = 3
+
 
 def workday(company: str, tenant: str, shard: str, site: str, max_pages: int = 6,
             probes: bool = True):
@@ -234,11 +240,11 @@ def workday(company: str, tenant: str, shard: str, site: str, max_pages: int = 6
     total = 0          # set by the first response; 0 means the board didn't say
     exhausted = False  # a sweep ran out of results before hitting max_pages
 
-    def sweep(search_text: str):
+    def sweep(search_text: str, pages: int | None = None):
         """Page one query. Records `total` from the first response and sets
         `exhausted` when the query ran dry rather than hitting the page cap."""
         nonlocal total, exhausted
-        for page in range(max_pages):
+        for page in range(pages or max_pages):
             payload = {"appliedFacets": {}, "limit": 20, "offset": page * 20,
                        "searchText": search_text}
             try:
@@ -282,7 +288,7 @@ def workday(company: str, tenant: str, shard: str, site: str, max_pages: int = 6
                  "falling back to keyword probes",
                  tenant, site, total or "unknown")
         for kw in WORKDAY_PROBES:
-            yield from sweep(kw)
+            yield from sweep(kw, min(max_pages, PROBE_PAGES))
 
 
 # --------------------------------------------------------------------------
