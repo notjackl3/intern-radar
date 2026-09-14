@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T12:36:25.616994+00:00",
-  "open_count": 108,
-  "new_count": 0,
+  "generated_at": "2026-09-14T19:17:58.241305+00:00",
+  "open_count": 111,
+  "new_count": 7,
   "tier": "full",
   "jobs": [
     {
@@ -16,26 +16,15 @@
       "level": "intern"
     },
     {
-      "id": "487ce3218b53fb50",
+      "id": "867caed0e81a71b8",
       "source": "workday",
       "company": "TD Bank",
-      "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
+      "title": "Associate Software Engineer (nCino/Salesforce)",
       "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
       "posted_at": null,
       "term": null,
-      "level": "intern"
-    },
-    {
-      "id": "520fda68f1738d00",
-      "source": "workday",
-      "company": "Intact Financial",
-      "title": "D\u00e9veloppeur logiciel I - 4 mois Coop/Stagiaire (Hiver 2027)",
-      "location": "Montr\u00e9al, Quebec, CAN",
-      "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Dveloppeur-logiciel-I---4-mois-Coop-Stagiaire--Hiver-2027-_R155561",
-      "posted_at": null,
-      "term": null,
-      "level": "intern"
+      "level": "newgrad"
     },
     {
       "id": "80aeb9536772d635",
@@ -58,6 +47,39 @@
       "posted_at": null,
       "term": null,
       "level": "intern"
+    },
+    {
+      "id": "75c694148e01154f",
+      "source": "workday",
+      "company": "Bank of Montreal (Campus)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715",
+      "posted_at": null,
+      "term": null,
+      "level": "intern"
+    },
+    {
+      "id": "4dd613c88f073113",
+      "source": "workday",
+      "company": "Canadian Tire",
+      "title": "Data Analyst Student - (4 Months) - Winter Term 2027",
+      "location": "Oakville, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Analyst-Student----4-Months----Winter-Term-2027_JR164861",
+      "posted_at": null,
+      "term": null,
+      "level": "intern"
+    },
+    {
+      "id": "d9f1efd0de6cbac4",
+      "source": "workday",
+      "company": "Canadian Tire",
+      "title": "New Graduate Program - 2027 Data Science Associate, Finance Rotational Program",
+      "location": "Toronto, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad"
     },
     {
       "id": "9b26901e532c1ff9",
@@ -212,26 +234,15 @@
       "level": "intern"
     },
     {
-      "id": "4dd613c88f073113",
+      "id": "71accb0287dc2ab0",
       "source": "workday",
-      "company": "Canadian Tire",
-      "title": "Data Analyst Student - (4 Months) - Winter Term 2027",
-      "location": "Oakville, ON",
-      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Analyst-Student----4-Months----Winter-Term-2027_JR164861",
+      "company": "Bank of Montreal (External)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
       "posted_at": null,
       "term": null,
       "level": "intern"
-    },
-    {
-      "id": "d9f1efd0de6cbac4",
-      "source": "workday",
-      "company": "Canadian Tire",
-      "title": "New Graduate Program - 2027 Data Science Associate, Finance Rotational Program",
-      "location": "Toronto, ON",
-      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad"
     },
     {
       "id": "c8c31596d0e65359",
@@ -244,39 +255,6 @@
       "term": null,
       "description": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities. At Tenstorrent, interns don\u2019t just write code\u2014they help shape the future of AI compute. As a Software Compiler Intern, you\u2019ll work with a dedicated mentor and collaborate across software, firmware, hardware, and systems teams. This is a rare chance to work on performance-critical code and gain experience across the full AI stack. This role is on-site based in Toronto, Canada. &nbsp; Who You Are Pursuing (or recently completed) a degree in EE, CE, CS, or a related field. Solid foundation in C/C++ and algorithms; Python skills are a bonus. Curious about compilers, ML, parallel systems, or processor architecture. Problem-solver who enjoys working across abstraction layers What We Need Contribute to the development of Tenstorrent\u2019s ML graph compiler. Benchmark and optimize key ML workloads across hardware/software. Build performance analysis tools to inform compiler and runtime design. Collaborate with ML and systems teams to co-design across the stack. What You Will Learn Compiler design for machine learning models and workloads. End-to-end co-design of software and cutting-edge AI hardware. Performance tuning and analysis in a high-performance runtime. Real-world ML integration with frameworks and low-level systems. &nbsp; Tenstorrent offers a highly competitive compensation package and benefits, and we are an equal opportunity employer. This offer of employment is contingent upon the applicant being eligible to access U.S. export-controlled technology. Due to U.S. export laws, including those codified in the U.S. Export Administration Regulations (EAR), the Company is required to ensure compliance with these laws when transferring technology to nationals of certain countries (such as EAR Country Groups D:1, E1, and E2). These requirements apply to persons located in the U.S. and all countries outside the U.S. As the position offered will have direct and/or indirect access to information, systems, or technologies subject to these laws, the offer may be contingent upon your citizenship/permanent residency status or ability to obtain prior license approval from the U.S. Commerce Department or applicable federal agency. If employment is not possible due to U.S. export laws, any offer of employment will be rescinded.",
       "level": "intern"
-    },
-    {
-      "id": "8763ca919c8c5255",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad"
-    },
-    {
-      "id": "a8a82dcdad71dcec",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Developer (New Grad)",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad"
-    },
-    {
-      "id": "7a914a083a061b63",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Developer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad"
     },
     {
       "id": "260a4bfe40c95736",
@@ -313,17 +291,6 @@
       "term": null,
       "description": "Shape the Future with TribalScale TribalScale is a digital innovation firm that helps organizations adapt and thrive in a rapidly changing world. We partner with clients to build transformative digital products, modernize technology platforms, and apply emerging technologies\u2014including artificial intelligence\u2014to meaningful business challenges. Our teams work closely with clients from strategy through execution. We value curiosity, ownership, practical innovation, and people who are comfortable turning ambiguity into action. Our Digital Expertise Transformation Experts: We transform traditional business models into agile, AI-powered ecosystems. Strategic Visionaries: We navigate the uncharted waters of technological evolution. Product Virtuosos: We orchestrate the creation of world-class digital solutions. Code Optimizers: We leverage AI to refine and perfect digital systems. Our Technological Toolkit Mobile &amp; Web Development: (iOS, Android, React Native, React, Node.js) Voice-Activated Platforms: (Amazon Alexa, Google Home) Connected Ecosystems: (Cars and Homes) Streaming Platforms: (Roku, Fire TV, Android TV, tvOS) The TribalScale Professional You thrive in challenging environments where innovation is key. Your passion for technology is matched only by your drive to redefine its limits. You seek more than a job; you seek a calling\u2014a chance to make a lasting impact on the digital landscape. Your Responsibilities Build full-stack applications using modern technologies (frontend, backend, APIs) Work on real client projects across a variety of industries Collaborate with engineers through pair programming and AI-assisted development Use AI tools (Copilot, Claude, etc.) to: Generate and refine code Debug and iterate faster Explore alternative technical approaches Design and build agentic workflows where AI systems: Execute multi-step tasks Interact with APIs and external tools Support product functionality and internal workflows Integrate LLM-powered features such as: Intelligent assistants Automated workflows Context-aware user experiences Contribute to the design of scalable, maintainable systems that combine traditional software engineering with AI-driven logic and orchestration Participate in Agile ceremonies including standups, sprint planning, and retrospectives What You Will Do Work on real client products from your first day instead of internal training projects Gain hands-on experience building software in an AI-native, agent-driven environment Learn how modern engineering teams use AI to accelerate development and problem-solving Work alongside experienced engineers, product leaders, and founders Develop practical skills in AI agents, automation, and LLM-powered applications Gain exposure to how leading companies are adopting AI and agentic systems in production Join a high-performance, collaborative team with strong mentorship opportunities Build skills that are shaping the future of software development Ideal for students who enjoy side projects, hackathons, and learning new technologies quickly Opportunity to accelerate technical growth faster than a traditional co-op placement Learn how to design systems where AI can reason, act, and automate tasks, not just generate content Work on meaningful projects that impact real users and businesses Strong fit for candidates who are curious, proactive, and excited about the future of AI-powered engineering Why Choose TribalScale At TribalScale, collaboration is at the heart of our innovative approach. We don't simply work for clients; we form partnerships, building transformative solutions that redefine what's possible. Our team, once at the forefront of the mobile revolution, now leads the charge in AI-driven innovation. We empower each team member to be a catalyst for change, adhering to our principles of meritocracy, empowerment, and transparency. Diversity isn't just celebrated\u2014it's fundamental to our strength. Our mission to \"Right the Future\" is a call to action to make a significant impact in the world of innovation. &nbsp; Diversity: Our Collective Strength TribalScale proudly stands as a beacon of equal opportunity in employment and workplace culture. We are steadfastly committed to equal employment opportunity, transcending the boundaries of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, able-bodiedness, or gender identity. We not only welcome but actively encourage applications from individuals of all abilities, ages, citizenships, marital statuses, and gender identities. Your unique perspective is the key to our collective innovation. Should you require any accommodations, we implore you to inform us. Our commitment to inclusivity knows no bounds, and we stand ready to adapt our processes to ensure your comfort and success. &nbsp;",
       "level": "intern"
-    },
-    {
-      "id": "63f9df3ec24d5248",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad"
     },
     {
       "id": "3ba0c54507d0a6c2",
@@ -446,6 +413,39 @@
       "level": "intern"
     },
     {
+      "id": "8763ca919c8c5255",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad"
+    },
+    {
+      "id": "a8a82dcdad71dcec",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Developer (New Grad)",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad"
+    },
+    {
+      "id": "7a914a083a061b63",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Developer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad"
+    },
+    {
       "id": "b12104a7206fa345",
       "source": "lever",
       "company": "Kepler Communications",
@@ -466,7 +466,7 @@
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5047247008",
       "posted_at": "2026-08-03T16:39:33-04:00",
       "term": null,
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp; Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world\u2019s leading investors, including a16z, Greylock, and Sequoia. Cresta\u2019s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI and human intelligence to help contact centers discover customer insights and behavioral best practices, automate conversations and inefficient processes, and empower every team member to work smarter and faster. Born from the prestigious Stanford AI lab, Cresta's co-founder and chairman is &nbsp;Sebastian Thrun , the genius behind Google X, Waymo, Udacity, and more. Our leadership also includes CEO, &nbsp;Ping Wu , the co-founder of Google Contact Center AI and Vertex AI platform, &nbsp;and co-founder, Tim Shi , an early member of Open AI. Join us on this thrilling journey to revolutionize the workforce with AI. The future of work is here, and it's at Cresta. &nbsp; About the role: We are seeking curious, detail-oriented students to join our&nbsp; AI Delivery team &nbsp;as&nbsp; AI Quality Assurance Interns . This is a hands-on role where you will evaluate the behavior, accuracy, and reliability of Cresta\u2019s AI Agents and Agent Assist systems. Unlike traditional QA, this work sits at the intersection of: AI behavior analysis Intent recognition evaluation Conversation quality assessment Model output auditing Light prompt testing and refinement Responsibilities: You will help ensure our AI systems act as intended, follow correct business logic, and provide accurate and safe outputs to end users. &nbsp; As an AI Quality Assurance Intern, you will: Execute structured test plans for AI Agent implementations Validate that intents, entities, and workflows trigger correctly Identify behavioral inconsistencies, misclassifications, or hallucinations Review and validate AI-generated suggestions, summaries, and classifications Provide actionable feedback to improve intent models and redaction/PII handling Run bias, redaction, and transcription accuracy checks Spot patterns or emerging issues across test sets Contribute ideas for improving internal QA processes and tools Qualifications We Value: This is an excellent fit for students interested in: AI/ML, NLP, or chatbots Product quality and user experience Linguistics, conversation analysis, or human\u2013AI interaction Exploring a career in AI evaluation, AI ops, or product QA No advanced ML experience is required \u2014 just strong analytical thinking and curiosity about how intelligent systems behave. Perks &amp; Benefits: $30-$50 per hour subject to taxes Lunch can be expensed (up to $25) while working in the office. PT0: 4 days This posting will be used to fill a newly-created role. We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta.ai domain. Any outreach claiming to be from Cresta via other sources should be ignored.&nbsp; If you are uncertain whether you have been contacted by an official Cresta employee, reach out to recruiting@cresta.com.",
+      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp; Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world\u2019s leading investors, including a16z, Greylock, and Sequoia. Cresta\u2019s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI and human intelligence to help contact centers discover customer insights and behavioral best practices, automate conversations and inefficient processes, and empower every team member to work smarter and faster. Born from the prestigious Stanford AI lab, Cresta's co-founder and chairman is &nbsp;Sebastian Thrun , the genius behind Google X, Waymo, Udacity, and more. Our leadership also includes CEO, &nbsp;Ping Wu , the co-founder of Google Contact Center AI and Vertex AI platform, &nbsp;and co-founder, Tim Shi , an early member of Open AI. Join us on this thrilling journey to revolutionize the workforce with AI. The future of work is here, and it's at Cresta. &nbsp; About the role: We are seeking curious, detail-oriented students to join our&nbsp; AI Delivery team &nbsp;as&nbsp; AI Quality Assurance Interns . This is a hands-on role where you will evaluate the behavior, accuracy, and reliability of Cresta\u2019s AI Agents and Agent Assist systems. Unlike traditional QA, this work sits at the intersection of: AI behavior analysis Intent recognition evaluation Conversation quality assessment Model output auditing Light prompt testing and refinement Responsibilities: You will help ensure our AI systems act as intended, follow correct business logic, and provide accurate and safe outputs to end users. &nbsp; As an AI Quality Assurance Intern, you will: Execute structured test plans for AI Agent implementations Validate that intents, entities, and workflows trigger correctly Identify behavioral inconsistencies, misclassifications, or hallucinations Review and validate AI-generated suggestions, summaries, and classifications Provide actionable feedback to improve intent models and redaction/PII handling Run bias, redaction, and transcription accuracy checks Spot patterns or emerging issues across test sets Contribute ideas for improving internal QA processes and tools Qualifications We Value: This is an excellent fit for students interested in: AI/ML, NLP, or chatbots Product quality and user experience Linguistics, conversation analysis, or human\u2013AI interaction Exploring a career in AI evaluation, AI ops, or product QA No advanced ML experience is required \u2014 just strong analytical thinking and curiosity about how intelligent systems behave. Perks &amp; Benefits: $30-$50 per hour subject to taxes Lunch can be expensed (up to $25) while working in the office. PT0: 4 days This posting will be used to fill a newly-created role. We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta.ai domain. Any outreach claiming to be from Cresta via other sources should be ignored.&nbsp; If you are uncertain whether you have been contacted by an official Cresta employee, reach out to recruiting@cresta.com. Our use of AI in recruiting: We may use AI tools in our recruiting process, which require human review and oversight. If you have questions about our use of AI or wish to opt out, please contact recruiting@cresta.ai (if you are opting out, please use the subject \u2018Opt-Out\u2019 in your email). Recording &amp; AI transcription: We do not authorize candidates to record or use AI transcription of any interview by phone, notetaker app, AI glasses, or other device. Candidates may request an exception or accommodation for review during the interview process as needed. Recruiting impersonation scams: We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta .ai domain. Any outreach claiming to be from Cresta via other sources should be ignored.",
       "level": "intern"
     },
     {
@@ -478,7 +478,7 @@
       "url": "https://job-boards.greenhouse.io/cresta/jobs/4123863008",
       "posted_at": "2026-08-03T16:39:33-04:00",
       "term": null,
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp; Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world\u2019s leading investors, including a16z, Greylock, and Sequoia. Cresta\u2019s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI and human intelligence to help contact centers discover customer insights and behavioral best practices, automate conversations and inefficient processes, and empower every team member to work smarter and faster. Born from the prestigious Stanford AI lab, Cresta's co-founder and chairman is Sebastian Thrun , the genius behind Google X, Waymo, Udacity, and more. Our leadership also includes CEO, Ping Wu , the co-founder of Google Contact Center AI and Vertex AI platform, and co-founder, Tim Shi , an early member of Open AI. Join us on this thrilling journey to revolutionize the workforce with AI. The future of work is here, and it's at Cresta. About the role: At Cresta, the Knowledge Assist (KA) team develops AI solutions for the contact center industry, focusing on improving agent productivity by providing access to the right knowledge at the right time. Our current projects: Generative Knowledge Assist (GenKA): Real-time, context-aware suggestions for contact center agents, integrating with multiple knowledge bases to streamline information retrieval, reduce agent effort, and ensure accurate responses. Knowledge Search (KS): A search experience tailored for contact center agents. Built on the GenKA stack, it aims to evolve into an enterprise search solution beyond contact centers. Retrieval-Augmented Generation (RAG): A critical project underpinning GenKA, KS, and VA, enabling efficient retrieval of relevant knowledge content and generating read-to-use agent responses grounded in knowledge. Our internships offer a dynamic, fast-paced environment where you\u2019ll collaborate with top researchers and engineers in the field. We provide opportunities for interns to make significant contributions to AI research and apply novel techniques at scale. This is a unique opportunity to shape the future of AI at Cresta by solving complex problems and bringing breakthrough AI advancements into production environments. Responsibilities : Design, develop, and deploy Cresta\u2019s KA solutions and proprietary models. Focus on practical AI challenges such as improving reasoning, and evaluation in real-world scenarios. Collaborate with cross-functional teams including front-end and back-end software engineers to integrate KA solutions into Cresta\u2019s customer solutions. Lead initiatives to scale AI systems for production environments, ensuring performance and reliability across use cases. Contribute to solving cutting-edge problems in AI and help define the future roadmap for Cresta\u2019s KA. Innovate and research ways to improve security, cost-efficiency, and reliability of AI systems. Qualifications We Value: Currently pursuing a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field. Proficiency in Python and familiarity with at least one deep learning framework (e.g., PyTorch, TensorFlow). Strong understanding of machine learning fundamentals and generative modeling. Ability to design and analyze experiments involving large-scale datasets. Work authorization in the country of employment at the time of hire. Perks &amp; Benefits: $45-$70 per hour subject to taxes Lunch can be expensed (up to $25) while working in the office. PTO: 4 days Compensation for this position includes a base salary, equity, and a variety of benefits. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable. We are actively hiring for this role in the US and Canada. Your recruiter can provide further details. This posting will be used to fill a newly-created role. We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta.ai domain.&nbsp;Any outreach claiming to be from Cresta via other sources should be ignored.&nbsp; If you are uncertain whether you have been contacted by an official Cresta employee, reach out to recruiting@cresta.ai",
+      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp; Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world\u2019s leading investors, including a16z, Greylock, and Sequoia. Cresta\u2019s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI and human intelligence to help contact centers discover customer insights and behavioral best practices, automate conversations and inefficient processes, and empower every team member to work smarter and faster. Born from the prestigious Stanford AI lab, Cresta's co-founder and chairman is Sebastian Thrun , the genius behind Google X, Waymo, Udacity, and more. Our leadership also includes CEO, Ping Wu , the co-founder of Google Contact Center AI and Vertex AI platform, and co-founder, Tim Shi , an early member of Open AI. Join us on this thrilling journey to revolutionize the workforce with AI. The future of work is here, and it's at Cresta. About the role: At Cresta, the Knowledge Assist (KA) team develops AI solutions for the contact center industry, focusing on improving agent productivity by providing access to the right knowledge at the right time. Our current projects: Generative Knowledge Assist (GenKA): Real-time, context-aware suggestions for contact center agents, integrating with multiple knowledge bases to streamline information retrieval, reduce agent effort, and ensure accurate responses. Knowledge Search (KS): A search experience tailored for contact center agents. Built on the GenKA stack, it aims to evolve into an enterprise search solution beyond contact centers. Retrieval-Augmented Generation (RAG): A critical project underpinning GenKA, KS, and VA, enabling efficient retrieval of relevant knowledge content and generating read-to-use agent responses grounded in knowledge. Our internships offer a dynamic, fast-paced environment where you\u2019ll collaborate with top researchers and engineers in the field. We provide opportunities for interns to make significant contributions to AI research and apply novel techniques at scale. This is a unique opportunity to shape the future of AI at Cresta by solving complex problems and bringing breakthrough AI advancements into production environments. Responsibilities : Design, develop, and deploy Cresta\u2019s KA solutions and proprietary models. Focus on practical AI challenges such as improving reasoning, and evaluation in real-world scenarios. Collaborate with cross-functional teams including front-end and back-end software engineers to integrate KA solutions into Cresta\u2019s customer solutions. Lead initiatives to scale AI systems for production environments, ensuring performance and reliability across use cases. Contribute to solving cutting-edge problems in AI and help define the future roadmap for Cresta\u2019s KA. Innovate and research ways to improve security, cost-efficiency, and reliability of AI systems. Qualifications We Value: Currently pursuing a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field. Proficiency in Python and familiarity with at least one deep learning framework (e.g., PyTorch, TensorFlow). Strong understanding of machine learning fundamentals and generative modeling. Ability to design and analyze experiments involving large-scale datasets. Work authorization in the country of employment at the time of hire. Perks &amp; Benefits: $45-$70 per hour subject to taxes Lunch can be expensed (up to $25) while working in the office. PTO: 4 days Compensation for this position includes a base salary, equity, and a variety of benefits. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable. We are actively hiring for this role in the US and Canada. Your recruiter can provide further details. This posting will be used to fill a newly-created role. We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta.ai domain.&nbsp;Any outreach claiming to be from Cresta via other sources should be ignored.&nbsp; If you are uncertain whether you have been contacted by an official Cresta employee, reach out to recruiting@cresta.ai Our use of AI in recruiting: We may use AI tools in our recruiting process, which require human review and oversight. If you have questions about our use of AI or wish to opt out, please contact recruiting@cresta.ai (if you are opting out, please use the subject \u2018Opt-Out\u2019 in your email). Recording &amp; AI transcription: We do not authorize candidates to record or use AI transcription of any interview by phone, notetaker app, AI glasses, or other device. Candidates may request an exception or accommodation for review during the interview process as needed. Recruiting impersonation scams: We have noticed a rise in recruiting impersonations across the industry, where scamme",
       "level": "intern"
     },
     {
@@ -630,40 +630,6 @@
       "level": "intern"
     },
     {
-      "id": "8988f2d1c724819b",
-      "source": "workday",
-      "company": "Intelcom | Dragonfly",
-      "title": "Data Engineering Intern",
-      "location": "Canada, Quebec, Montreal",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567",
-      "posted_at": null,
-      "term": null,
-      "level": "intern"
-    },
-    {
-      "id": "941c611491e8ea45",
-      "source": "workday",
-      "company": "Intelcom | Dragonfly",
-      "title": "DevOps Intern",
-      "location": "Canada, Quebec, Montreal",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/DevOps-Intern_JR111562",
-      "posted_at": null,
-      "term": null,
-      "level": "intern"
-    },
-    {
-      "id": "d07760a1daea10b2",
-      "source": "ashby",
-      "company": "Exegy",
-      "title": "Stagiaire en d\u00e9veloppement logiciel / Software Developer Intern",
-      "location": "Montreal",
-      "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
-      "posted_at": "2026-09-10T19:32:54.144+00:00",
-      "term": null,
-      "description": "\u00c0 propos d'Exegy\n\nExegy est un leader mondial en mati\u00e8re de donn\u00e9es de march\u00e9 intelligentes, de syst\u00e8mes de trading avanc\u00e9s et de technologies \u00e9volutives. Exegy agit en tant que partenaire de confiance pour l'ensemble de l'\u00e9cosyst\u00e8me financier : c\u00f4t\u00e9 acheteur, c\u00f4t\u00e9 vendeur, bourses et entreprises de technologie des services financiers \u00e0 travers le monde. Dont le si\u00e8ge social est \u00e0 St. Louis, avec des bureaux r\u00e9gionaux en Am\u00e9rique du Nord, au Royaume-Uni/Europe et en Asie-Pacifique, Exegy dispose d'une pr\u00e9sence mondiale pour offrir un support de classe mondiale et des services g\u00e9r\u00e9s \u00e0 sa client\u00e8le de participants d'\u00e9lite aux march\u00e9s financiers.\n\nR\u00e9sum\u00e9 du poste\n\nExegy est \u00e0 la recherche d'un(e) stagiaire en d\u00e9veloppement logiciel pour soutenir notre \u00e9quipe d'ing\u00e9nierie dans le d\u00e9veloppement de logiciels en Python, d'outils d'automatisation et d'applications internes visant \u00e0 am\u00e9liorer l'efficacit\u00e9, la fiabilit\u00e9 et l'\u00e9volutivit\u00e9 de nos processus technologiques et op\u00e9rationnels.\n\nIl s'agit d'un poste de stage coop\u00e9ratif de 4 mois (avec possibilit\u00e9 de prolongation \u00e0 8 mois), bas\u00e9 \u00e0 Montr\u00e9al, pour la session Hiver 2026\u20132027. Nous recherchons des \u00e9tudiant(e)s en fin de parcours (S3 ou \u00e9quivalent). La ma\u00eetrise du fran\u00e7ais est requise pour ce poste.\n\nL'\u00e9tudiant(e) acquerra une exp\u00e9rience pratique en d\u00e9veloppement logiciel dans un environnement d'ing\u00e9nierie professionnel, en travaillant aux c\u00f4t\u00e9s de d\u00e9veloppeurs et d'ing\u00e9nieurs syst\u00e8mes exp\u00e9riment\u00e9s sur des projets concrets. Le r\u00f4le mettra fortement l'accent sur le d\u00e9veloppement Python et l'automatisation, notamment l'identification de processus manuels ou r\u00e9p\u00e9titifs pouvant \u00eatre optimis\u00e9s par le biais de logiciels.\n\nResponsabilit\u00e9s\n\n - D\u00e9velopper, tester, d\u00e9boguer et maintenir des scripts Python, des applications et des outils d'automatisation\n\n - Concevoir et am\u00e9liorer des flux de travail automatis\u00e9s afin de r\u00e9duire les t\u00e2ches manuelles d'ing\u00e9nierie et d'exploitation\n\n - Cr\u00e9er des outils et utilitaires internes pour soutenir le provisionnement, la configuration, la surveillance, les tests et la gestion des syst\u00e8mes\n\n - Travailler avec des API, des donn\u00e9es structur\u00e9es et des syst\u00e8mes logiciels existants pour int\u00e9grer et automatiser des processus\n\n - Participer au d\u00e9veloppement et \u00e0 la maintenance des logiciels utilis\u00e9s pour soutenir les plateformes technologiques haute performance d'Exegy\n\n - Diagnostiquer les probl\u00e8mes logiciels et contribuer \u00e0 l'analyse des causes profondes et \u00e0 la r\u00e9solution de probl\u00e8mes techniques\n\n - R\u00e9diger un code propre, maintenable et bien document\u00e9 en suivant les bonnes pratiques de d\u00e9veloppement logiciel \u00e9tablies\n\n - D\u00e9velopper des tests unitaires et participer aux revues de code afin d'am\u00e9liorer la qualit\u00e9 et la fiabilit\u00e9 des logiciels\n\n - Maintenir la documentation technique pour les applications, les scripts d'automatisation, les flux de travail et les processus d'ing\u00e9nierie\n\n - Collaborer avec les d\u00e9veloppeurs, les ing\u00e9nieurs syst\u00e8mes et d'autres \u00e9quipes techniques pour comprendre les besoins et les traduire en solutions logicielles concr\u00e8tes\n\n - Rechercher et \u00e9valuer de nouvelles technologies, outils et approches susceptibles d'am\u00e9liorer l'automatisation et l'efficacit\u00e9 de l'ing\u00e9nierie\n\n - Participer aux r\u00e9unions d'\u00e9quipe, aux discussions techniques et au cycle de d\u00e9veloppement logiciel dans son ensemble\n\nProfil recherch\u00e9\n\n - En fin de parcours dans un programme de g\u00e9nie informatique, de g\u00e9nie logiciel, d'informatique ou dans une discipline technique connexe (S3 ou \u00e9quivalent)\n\n - Exp\u00e9rience en programmation Python acquise dans le cadre de cours, de projets personnels, de stages ou d'exp\u00e9riences professionnelles ant\u00e9rieures\n\n - Compr\u00e9hension des fondamentaux du d\u00e9veloppement logiciel, notamment les structures de donn\u00e9es, la programmation orient\u00e9e objet, les tests et le d\u00e9bogage\n\n - Familiarit\u00e9 avec Git ou un autre syst\u00e8me de contr\u00f4le de version\n\n - Int\u00e9r\u00eat pour l'automatisation logicielle, les outils internes, le DevOps, l'ing\u00e9nierie des syst\u00e8mes ou les technologies d'infrastructure\n\n - Solides comp\u00e9tences analytiques et en r\u00e9solution de probl\u00e8mes\n\n - Capacit\u00e9 \u00e0 apprendre rapidement de nouvelles technologies et \u00e0 travailler en collaboration dans un environnement technique\n\n - Excellentes comp\u00e9tences en communication \u00e9crite et orale, en fran\u00e7ais et en anglais\n\nUne exposition \u00e0 Linux, aux API REST, au CI/CD, aux technologies cloud, \u00e0 l'automatisation d'infrastructure ou aux technologies financi\u00e8res est un atout, mais n'est pas requise.\n\nCe stage offre l'opportunit\u00e9 de contribuer directement \u00e0 des initiatives d'ing\u00e9nierie orient\u00e9es production, tout en d\u00e9veloppant une exp\u00e9rience pratique en d\u00e9veloppement Python, en automatisation, en int\u00e9gration de syst\u00e8mes et en pratiques d'ing\u00e9nierie modernes.\n\n_______________________________________________________________________________\n\nAbout Exegy\n\nExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St. Louis with regional offices in North America, the UK/Europe and Asia Pacific, Exegy has the global footprint to deliver world-class support and managed services to its customer base of elite financial market participants.\n\nJob Summary\n\nExegy is seeking a Software Developer Intern to support our engineering team in developing Python-based software, automation tools, and internal applications that improve the efficiency, reliability, and scalability of our technology and operational processes.\n\nThis is a 4-month co-op position (with the possibility of extension to 8 months) based in Montreal, for the Winter 2026\u20132027 term. We are looking for students in the final stages of their program (S3 or equivalent).\n\nThe student will gain hands-on software development experience in a professional engineering environment, working alongside experienced developers and systems engineers on real-world projects. The role will have a strong emphasis on Python development and automation, including identifying manual or repetitive processes that can be streamlined through software.\n\nResponsibilities\n\n - Develop, test, debug, and maintain Python scripts, applications, and automation tools\n\n - Design and improve automated workflows that reduce manual engineering and operational tasks\n\n - Build internal tools and utilities to support provisioning, configuration, monitoring, testing, and system management\n\n - Work with APIs, structured data, and existing software systems to integrate and automate processes\n\n - Assist with developing and maintaining software used to support Exegy's high-performance technology platforms\n\n - Troubleshoot software issues and contribute to root-cause analysis and technical problem solving\n\n - Write clean, maintainable, and well-documented code following established software development practices\n\n - Develop unit tests and participate in code reviews to improve software quality and reliability\n\n - Maintain technical documentation for applications, automation scripts, workflows, and engineering processes\n\n - Collaborate with software developers, systems engineers, and other technical teams to understand requirements and translate them into practical software solutions\n\n - Research and evaluate new technologies, tools, and approaches that could improve automation and engineering efficiency\n\n - Participate in team meetings, technical discussions, and the broader software development lifecycle\n\nOur Ideal Candidate\n\n - Nearing the end of a degree in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline (S3 or equivalent)\n\n - Experience programming in Python through coursework, personal projects, internships, or previous work experience\n\n - Understanding of software development fundamentals, including data structures, object-oriented programming, testing, and debugging\n\n - Familiarity with Git or another source-control system\n\n - Interest in software automation, internal tooling, DevOps, systems engineering, or infrastructure technologies\n\n - Strong analytical and problem-solving skills\n\n - Ability to learn new technologies quickly and work collaboratively in a technical team environment\n\n - Strong written and verbal communication skills\n\nExposure to Linux, REST APIs, CI/CD, cloud technologies, infrastructure automation, or financial technology is beneficial but not required.\n\nThis internship provides the opportunity to contribute directly to production-oriented engineering initiatives while developing practical experience in Python software development, automation, systems integration, and modern engineering practices.",
-      "level": "intern"
-    },
-    {
       "id": "7d8b978b9350a276",
       "source": "lever",
       "company": "Mirego",
@@ -685,6 +651,18 @@
       "posted_at": "2026-09-02T14:59:46.500000+00:00",
       "term": null,
       "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
+      "level": "intern"
+    },
+    {
+      "id": "d07760a1daea10b2",
+      "source": "ashby",
+      "company": "Exegy",
+      "title": "Stagiaire en d\u00e9veloppement logiciel / Software Developer Intern",
+      "location": "Montreal",
+      "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
+      "posted_at": "2026-09-10T19:32:54.144+00:00",
+      "term": null,
+      "description": "\u00c0 propos d'Exegy\n\nExegy est un leader mondial en mati\u00e8re de donn\u00e9es de march\u00e9 intelligentes, de syst\u00e8mes de trading avanc\u00e9s et de technologies \u00e9volutives. Exegy agit en tant que partenaire de confiance pour l'ensemble de l'\u00e9cosyst\u00e8me financier : c\u00f4t\u00e9 acheteur, c\u00f4t\u00e9 vendeur, bourses et entreprises de technologie des services financiers \u00e0 travers le monde. Dont le si\u00e8ge social est \u00e0 St. Louis, avec des bureaux r\u00e9gionaux en Am\u00e9rique du Nord, au Royaume-Uni/Europe et en Asie-Pacifique, Exegy dispose d'une pr\u00e9sence mondiale pour offrir un support de classe mondiale et des services g\u00e9r\u00e9s \u00e0 sa client\u00e8le de participants d'\u00e9lite aux march\u00e9s financiers.\n\nR\u00e9sum\u00e9 du poste\n\nExegy est \u00e0 la recherche d'un(e) stagiaire en d\u00e9veloppement logiciel pour soutenir notre \u00e9quipe d'ing\u00e9nierie dans le d\u00e9veloppement de logiciels en Python, d'outils d'automatisation et d'applications internes visant \u00e0 am\u00e9liorer l'efficacit\u00e9, la fiabilit\u00e9 et l'\u00e9volutivit\u00e9 de nos processus technologiques et op\u00e9rationnels.\n\nIl s'agit d'un poste de stage coop\u00e9ratif de 4 mois (avec possibilit\u00e9 de prolongation \u00e0 8 mois), bas\u00e9 \u00e0 Montr\u00e9al, pour la session Hiver 2026\u20132027. Nous recherchons des \u00e9tudiant(e)s en fin de parcours (S3 ou \u00e9quivalent). La ma\u00eetrise du fran\u00e7ais est requise pour ce poste.\n\nL'\u00e9tudiant(e) acquerra une exp\u00e9rience pratique en d\u00e9veloppement logiciel dans un environnement d'ing\u00e9nierie professionnel, en travaillant aux c\u00f4t\u00e9s de d\u00e9veloppeurs et d'ing\u00e9nieurs syst\u00e8mes exp\u00e9riment\u00e9s sur des projets concrets. Le r\u00f4le mettra fortement l'accent sur le d\u00e9veloppement Python et l'automatisation, notamment l'identification de processus manuels ou r\u00e9p\u00e9titifs pouvant \u00eatre optimis\u00e9s par le biais de logiciels.\n\nResponsabilit\u00e9s\n\n - D\u00e9velopper, tester, d\u00e9boguer et maintenir des scripts Python, des applications et des outils d'automatisation\n\n - Concevoir et am\u00e9liorer des flux de travail automatis\u00e9s afin de r\u00e9duire les t\u00e2ches manuelles d'ing\u00e9nierie et d'exploitation\n\n - Cr\u00e9er des outils et utilitaires internes pour soutenir le provisionnement, la configuration, la surveillance, les tests et la gestion des syst\u00e8mes\n\n - Travailler avec des API, des donn\u00e9es structur\u00e9es et des syst\u00e8mes logiciels existants pour int\u00e9grer et automatiser des processus\n\n - Participer au d\u00e9veloppement et \u00e0 la maintenance des logiciels utilis\u00e9s pour soutenir les plateformes technologiques haute performance d'Exegy\n\n - Diagnostiquer les probl\u00e8mes logiciels et contribuer \u00e0 l'analyse des causes profondes et \u00e0 la r\u00e9solution de probl\u00e8mes techniques\n\n - R\u00e9diger un code propre, maintenable et bien document\u00e9 en suivant les bonnes pratiques de d\u00e9veloppement logiciel \u00e9tablies\n\n - D\u00e9velopper des tests unitaires et participer aux revues de code afin d'am\u00e9liorer la qualit\u00e9 et la fiabilit\u00e9 des logiciels\n\n - Maintenir la documentation technique pour les applications, les scripts d'automatisation, les flux de travail et les processus d'ing\u00e9nierie\n\n - Collaborer avec les d\u00e9veloppeurs, les ing\u00e9nieurs syst\u00e8mes et d'autres \u00e9quipes techniques pour comprendre les besoins et les traduire en solutions logicielles concr\u00e8tes\n\n - Rechercher et \u00e9valuer de nouvelles technologies, outils et approches susceptibles d'am\u00e9liorer l'automatisation et l'efficacit\u00e9 de l'ing\u00e9nierie\n\n - Participer aux r\u00e9unions d'\u00e9quipe, aux discussions techniques et au cycle de d\u00e9veloppement logiciel dans son ensemble\n\nProfil recherch\u00e9\n\n - En fin de parcours dans un programme de g\u00e9nie informatique, de g\u00e9nie logiciel, d'informatique ou dans une discipline technique connexe (S3 ou \u00e9quivalent)\n\n - Exp\u00e9rience en programmation Python acquise dans le cadre de cours, de projets personnels, de stages ou d'exp\u00e9riences professionnelles ant\u00e9rieures\n\n - Compr\u00e9hension des fondamentaux du d\u00e9veloppement logiciel, notamment les structures de donn\u00e9es, la programmation orient\u00e9e objet, les tests et le d\u00e9bogage\n\n - Familiarit\u00e9 avec Git ou un autre syst\u00e8me de contr\u00f4le de version\n\n - Int\u00e9r\u00eat pour l'automatisation logicielle, les outils internes, le DevOps, l'ing\u00e9nierie des syst\u00e8mes ou les technologies d'infrastructure\n\n - Solides comp\u00e9tences analytiques et en r\u00e9solution de probl\u00e8mes\n\n - Capacit\u00e9 \u00e0 apprendre rapidement de nouvelles technologies et \u00e0 travailler en collaboration dans un environnement technique\n\n - Excellentes comp\u00e9tences en communication \u00e9crite et orale, en fran\u00e7ais et en anglais\n\nUne exposition \u00e0 Linux, aux API REST, au CI/CD, aux technologies cloud, \u00e0 l'automatisation d'infrastructure ou aux technologies financi\u00e8res est un atout, mais n'est pas requise.\n\nCe stage offre l'opportunit\u00e9 de contribuer directement \u00e0 des initiatives d'ing\u00e9nierie orient\u00e9es production, tout en d\u00e9veloppant une exp\u00e9rience pratique en d\u00e9veloppement Python, en automatisation, en int\u00e9gration de syst\u00e8mes et en pratiques d'ing\u00e9nierie modernes.\n\n_______________________________________________________________________________\n\nAbout Exegy\n\nExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St. Louis with regional offices in North America, the UK/Europe and Asia Pacific, Exegy has the global footprint to deliver world-class support and managed services to its customer base of elite financial market participants.\n\nJob Summary\n\nExegy is seeking a Software Developer Intern to support our engineering team in developing Python-based software, automation tools, and internal applications that improve the efficiency, reliability, and scalability of our technology and operational processes.\n\nThis is a 4-month co-op position (with the possibility of extension to 8 months) based in Montreal, for the Winter 2026\u20132027 term. We are looking for students in the final stages of their program (S3 or equivalent).\n\nThe student will gain hands-on software development experience in a professional engineering environment, working alongside experienced developers and systems engineers on real-world projects. The role will have a strong emphasis on Python development and automation, including identifying manual or repetitive processes that can be streamlined through software.\n\nResponsibilities\n\n - Develop, test, debug, and maintain Python scripts, applications, and automation tools\n\n - Design and improve automated workflows that reduce manual engineering and operational tasks\n\n - Build internal tools and utilities to support provisioning, configuration, monitoring, testing, and system management\n\n - Work with APIs, structured data, and existing software systems to integrate and automate processes\n\n - Assist with developing and maintaining software used to support Exegy's high-performance technology platforms\n\n - Troubleshoot software issues and contribute to root-cause analysis and technical problem solving\n\n - Write clean, maintainable, and well-documented code following established software development practices\n\n - Develop unit tests and participate in code reviews to improve software quality and reliability\n\n - Maintain technical documentation for applications, automation scripts, workflows, and engineering processes\n\n - Collaborate with software developers, systems engineers, and other technical teams to understand requirements and translate them into practical software solutions\n\n - Research and evaluate new technologies, tools, and approaches that could improve automation and engineering efficiency\n\n - Participate in team meetings, technical discussions, and the broader software development lifecycle\n\nOur Ideal Candidate\n\n - Nearing the end of a degree in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline (S3 or equivalent)\n\n - Experience programming in Python through coursework, personal projects, internships, or previous work experience\n\n - Understanding of software development fundamentals, including data structures, object-oriented programming, testing, and debugging\n\n - Familiarity with Git or another source-control system\n\n - Interest in software automation, internal tooling, DevOps, systems engineering, or infrastructure technologies\n\n - Strong analytical and problem-solving skills\n\n - Ability to learn new technologies quickly and work collaboratively in a technical team environment\n\n - Strong written and verbal communication skills\n\nExposure to Linux, REST APIs, CI/CD, cloud technologies, infrastructure automation, or financial technology is beneficial but not required.\n\nThis internship provides the opportunity to contribute directly to production-oriented engineering initiatives while developing practical experience in Python software development, automation, systems integration, and modern engineering practices.",
       "level": "intern"
     },
     {
@@ -1026,6 +1004,20 @@
       "level": "intern"
     },
     {
+      "id": "58a08b9ea40273d7",
+      "source": "simplify",
+      "company": "TD Bank",
+      "title": "Summer Analyst - Software Engineering Rotational Program",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
+      "posted_at": "2026-09-08T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern"
+    },
+    {
       "id": "9e8c584faa2b9b8f",
       "source": "simplify",
       "company": "Rivian and Volkswagen Group Technologies",
@@ -1171,6 +1163,46 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ],
+      "level": "intern"
+    },
+    {
+      "id": "e4f5588c1d4f2eed",
+      "source": "simplify",
+      "company": "Robinhood",
+      "title": "Software Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8199744",
+      "posted_at": "2026-09-14T14:42:25+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern"
+    },
+    {
+      "id": "00c8ab417bf70ac7",
+      "source": "simplify",
+      "company": "Robinhood",
+      "title": "Software Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142930",
+      "posted_at": "2026-09-14T14:42:26+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern"
+    },
+    {
+      "id": "c1e7c9c298426a23",
+      "source": "simplify",
+      "company": "Robinhood",
+      "title": "iOS Software Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8199729",
+      "posted_at": "2026-09-14T14:42:25+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
       ],
       "level": "intern"
     },
@@ -1359,6 +1391,22 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ],
+      "level": "newgrad"
+    },
+    {
+      "id": "cf156442416ce5d9",
+      "source": "simplify-newgrad",
+      "company": "Capital One",
+      "title": "Data Scientist New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "posted_at": "2026-09-11T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
       ],
       "level": "newgrad"
     },

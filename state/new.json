@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "id": "00c8ab417bf70ac7",
+    "source": "simplify",
+    "company": "Robinhood",
+    "title": "Software Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930",
+    "posted_at": "2026-09-14T14:42:26+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern"
+  },
+  {
+    "id": "e4f5588c1d4f2eed",
+    "source": "simplify",
+    "company": "Robinhood",
+    "title": "Software Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199744",
+    "posted_at": "2026-09-14T14:42:25+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern"
+  },
+  {
+    "id": "c1e7c9c298426a23",
+    "source": "simplify",
+    "company": "Robinhood",
+    "title": "iOS Software Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199729",
+    "posted_at": "2026-09-14T14:42:25+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern"
+  },
+  {
+    "id": "cf156442416ce5d9",
+    "source": "simplify-newgrad",
+    "company": "Capital One",
+    "title": "Data Scientist New Grad",
+    "location": "Toronto, ON, Canada",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+    "posted_at": "2026-09-11T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "newgrad"
+  },
+  {
+    "id": "867caed0e81a71b8",
+    "source": "workday",
+    "company": "TD Bank",
+    "title": "Associate Software Engineer (nCino/Salesforce)",
+    "location": "Toronto, Ontario",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+    "posted_at": null,
+    "term": null,
+    "level": "newgrad"
+  },
+  {
+    "id": "71accb0287dc2ab0",
+    "source": "workday",
+    "company": "Bank of Montreal (External)",
+    "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+    "posted_at": null,
+    "term": null,
+    "level": "intern"
+  },
+  {
+    "id": "75c694148e01154f",
+    "source": "workday",
+    "company": "Bank of Montreal (Campus)",
+    "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715",
+    "posted_at": null,
+    "term": null,
+    "level": "intern"
+  }
+]
