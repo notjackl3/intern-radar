@@ -291,7 +291,8 @@ companies:
   - { name: Coveo,             ats: greenhouse, token: coveoen }       # not coveodeven (sandbox)
   - { name: Ada,               ats: greenhouse, token: ada18 }         # left Lever
   - { name: D2L,               ats: greenhouse, token: d2l }
-  - { name: Vidyard,           ats: greenhouse, token: vidyard }
+  # Vidyard was here on Greenhouse token `vidyard`. Verified DEAD (404) on
+  # 14 Sep 2026 — they moved to Kula (careers.kula.ai/vidyard). See below.
   - { name: Faire,             ats: greenhouse, token: faire }
   - { name: Shakepay,          ats: greenhouse, token: shakepay }      # moved off Lever
   - { name: Hootsuite,         ats: greenhouse, token: hootsuite }
@@ -417,6 +418,9 @@ companies:
   #   Untether AI - bankrupt 2025, team acquihired by AMD
   #   ecobee    - Greenhouse token 404s; now Generac-owned, needs manual check
   #   Notion    - board page is live but the Greenhouse JSON API 404s
+  #   Vidyard   - left Greenhouse for Kula (careers.kula.ai/vidyard). The old
+  #               token 404s. Kula's API is unverified; re-add only after
+  #               confirming an endpoint that actually returns postings.
   #   Constellation Software - holding co, every subsidiary hires separately
 
   # ---- SmartRecruiters ---------------------------------------------------

@@ -64,12 +64,61 @@ That decoupling is deliberate:
 
 | command | does |
 |---|---|
-| `/latest [hours] [level] [count]` | most recently posted open roles |
+| `/latest [hours] [level] [country] [count]` | most recently posted open roles — unset filters fall back to your `/prefs` |
 | `/search <query>` | search open roles by title or company |
 | `/stats` | how many are open, by source and employer |
 | `/watching [query]` | every employer the radar polls |
 | `/watch <company or board URL>` | start monitoring a new employer |
 | `/unwatch <company>` | stop monitoring one |
+| `/prefs` | show your settings |
+| `/prefs level: country: digest: hour:` | change them |
+
+## `/prefs` — per-member settings and the daily DM
+
+Each member sets their own filter and gets their own daily DM:
+
+```
+/prefs level:internships / co-ops  country:Canada  digest:yes  hour:13
+```
+
+- **level** — internships/co-ops, new grad, or both
+- **country** — Canada, US, both, or anywhere
+- **digest** — a DM once a day with roles matching *your* settings that you
+  haven't been sent before
+- **hour** — 0-23 UTC (13 = 9am Eastern)
+
+A bare `/prefs` shows what you have. Everything is ephemeral — nobody else
+sees your settings change. `/latest` with no arguments now answers *your*
+question rather than a global default.
+
+### Things that would otherwise go wrong quietly
+
+- **Your first digest is capped at 10 roles**, not the entire open backlog,
+  and the rest are marked as seen so tomorrow is genuinely "what's new".
+- **Nothing repeats.** Each member has their own list of already-sent job IDs.
+- **If your DMs are closed**, the roles are *not* marked sent — they're waiting
+  when you open them. (The bot notices `Forbidden` and logs it once rather
+  than retrying all day.)
+- **The day is marked done even when there's nothing new**, so the loop doesn't
+  re-check you every 15 minutes until midnight.
+- **A redeploy at 12:59 doesn't skip your 13:00 digest.** The send is gated on
+  a stored date, not on the loop happening to tick at the right minute.
+
+### Where preferences are stored
+
+Two backends, chosen explicitly via `PREFS_STORE`, never guessed:
+
+| | |
+|---|---|
+| `repo` (default when `GITHUB_TOKEN` is set) | `state/prefs.json` in this repo. Survives redeploys with no setup. **This repo is public**, so it records Discord user IDs and job preferences publicly — user IDs aren't secrets, but tell your members. |
+| `local` (default with no token) | A JSON file under `DATA_DIR`. Private, but **lost on redeploy unless `DATA_DIR` is a mounted volume.** The bot logs a loud warning at startup if it detects `DATA_DIR=/tmp`. |
+
+### Channel alerts vs. DMs
+
+Collecting US roles doesn't change the shared channel. `alert_countries` in
+`config.yml` governs what gets posted publicly (Canada only by default) —
+individual members opt into US roles for themselves and receive them by DM.
+Widening the collector costs polling volume and feed size, never channel noise.
 
 These are the reason this is a bot rather than a webhook — a webhook can post,
 but it can't answer.

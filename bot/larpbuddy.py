@@ -39,6 +39,7 @@ import sys
 import aiohttp
 import discord
 
+import prefs as P
 import repo as repo_mod
 import resolve as R
 from datetime import datetime, timezone
@@ -216,26 +217,55 @@ async def open_roles() -> list[dict]:
     return (feed or {}).get("jobs", [])
 
 
+LEVEL_CHOICES = [
+    app_commands.Choice(name="internships / co-ops", value="intern"),
+    app_commands.Choice(name="new grad (full-time)", value="newgrad"),
+    app_commands.Choice(name="all", value="all"),
+]
+COUNTRY_CHOICES = [
+    app_commands.Choice(name="Canada", value="ca"),
+    app_commands.Choice(name="United States", value="us"),
+    app_commands.Choice(name="Canada + US", value="ca+us"),
+    app_commands.Choice(name="anywhere", value="all"),
+]
+
+
+def in_country(job: dict, want: str) -> bool:
+    if want == "all":
+        return True
+    # A job collected before country tagging existed has no `countries` key.
+    # Show it rather than hide it — an untagged role is a gap in our metadata,
+    # not evidence the job is somewhere you don't want.
+    tags = job.get("countries")
+    if not tags:
+        return True
+    return bool(set(tags) & set(want.split("+")))
+
+
 @bot.tree.command(name="latest", description="Most recently posted open roles")
 @app_commands.describe(
     hours="Only roles posted in the last N hours (e.g. 24). Omit for all.",
     level="intern (co-op/internship), newgrad (entry-level full-time), or all",
+    country="Canada, US, both, or anywhere. Defaults to your /prefs.",
     count="How many to show (1-10)")
-@app_commands.choices(level=[
-    app_commands.Choice(name="internships / co-ops", value="intern"),
-    app_commands.Choice(name="new grad (full-time)", value="newgrad"),
-    app_commands.Choice(name="all", value="all"),
-])
+@app_commands.choices(level=LEVEL_CHOICES, country=COUNTRY_CHOICES)
 async def latest(interaction: discord.Interaction, hours: int = None,
-                 level: app_commands.Choice[str] = None, count: int = 5):
+                 level: app_commands.Choice[str] = None,
+                 country: app_commands.Choice[str] = None, count: int = 5):
     await interaction.response.defer()
     jobs = await open_roles()
     if not jobs:
         return await interaction.followup.send("Nothing open right now.")
 
-    lvl = level.value if level else "intern"      # default: what you're hunting
+    # Unset parameters fall back to whatever this member saved with /prefs, so
+    # a bare /latest answers the question THEY are asking, not a global default.
+    mine = P.clean(((await P.load(http)).get("users") or {}).get(str(interaction.user.id)))
+    lvl = level.value if level else ("all" if len(mine["levels"]) > 1 else mine["levels"][0])
+    ctry = country.value if country else "+".join(mine["countries"])
+
     if lvl != "all":
         jobs = [j for j in jobs if j.get("level", "intern") == lvl]
+    jobs = [j for j in jobs if in_country(j, ctry)]
 
     undated = 0
     if hours is not None:
@@ -256,9 +286,12 @@ async def latest(interaction: discord.Interaction, hours: int = None,
     jobs = jobs[:max(1, min(count, 10))]
 
     label = {"intern": "internship", "newgrad": "new-grad", "all": "role"}[lvl]
-    note = f"**{total}** open {label}{'s' if total != 1 else ''}"
+    where = {"ca": " in Canada", "us": " in the US", "ca+us": " in Canada/US",
+             "us+ca": " in Canada/US", "all": ""}.get(ctry, "")
+    note = f"**{total}** open {label}{'s' if total != 1 else ''}{where}"
     if hours is not None:
-        note = f"**{total}** {label}{'s' if total != 1 else ''} posted in the last **{hours}h**"
+        note = (f"**{total}** {label}{'s' if total != 1 else ''}{where} posted "
+                f"in the last **{hours}h**")
         if undated:
             note += (f"  ·  {undated} more hidden — Workday publishes no posting "
                      f"date, so they can't be filtered by age")
@@ -521,6 +554,221 @@ async def watching(interaction: discord.Interaction, query: str = None):
 
 
 # --------------------------------------------------------------------------
+# /prefs — what each member wants, and the daily digest that honours it
+# --------------------------------------------------------------------------
+DIGEST_CHECK_MINUTES = 15
+
+
+def _prefs_embed(p: dict, user: discord.abc.User) -> discord.Embed:
+    p = P.clean(p)
+    e = discord.Embed(title="Your radar settings", colour=0x0B5CAB,
+                      description=P.describe(p))
+    e.add_field(name="Looking for",
+                value=", ".join({"intern": "internships / co-ops",
+                                 "newgrad": "new grad"}[x] for x in p["levels"]),
+                inline=True)
+    e.add_field(name="Where",
+                value=", ".join({"ca": "Canada", "us": "United States",
+                                 "other": "elsewhere"}[c] for c in p["countries"]),
+                inline=True)
+    e.add_field(name="Daily DM",
+                value=(f"yes, {p['hour_utc']:02d}:00 UTC" if p["digest"] else "off"),
+                inline=True)
+    e.set_footer(text="/prefs to change · /prefs digest:off to stop the DMs")
+    return e
+
+
+@bot.tree.command(name="prefs",
+                  description="Set what you want the radar to send you")
+@app_commands.describe(
+    level="What you're hunting for",
+    country="Where you can work",
+    digest="Send you a daily DM with new matching roles",
+    hour="Hour of day to send it, 0-23 UTC (13 = 9am Eastern)")
+@app_commands.choices(
+    level=[
+        app_commands.Choice(name="internships / co-ops", value="intern"),
+        app_commands.Choice(name="new grad (full-time)", value="newgrad"),
+        app_commands.Choice(name="both", value="intern+newgrad"),
+    ],
+    country=[
+        app_commands.Choice(name="Canada", value="ca"),
+        app_commands.Choice(name="United States", value="us"),
+        app_commands.Choice(name="Canada + US", value="ca+us"),
+        app_commands.Choice(name="anywhere", value="ca+us+other"),
+    ],
+    digest=[
+        app_commands.Choice(name="yes — DM me daily", value="on"),
+        app_commands.Choice(name="no — don't DM me", value="off"),
+    ])
+async def prefs_cmd(interaction: discord.Interaction,
+                    level: app_commands.Choice[str] = None,
+                    country: app_commands.Choice[str] = None,
+                    digest: app_commands.Choice[str] = None,
+                    hour: int = None):
+    # Ephemeral: these are one person's settings, and a channel full of
+    # "Jack set his preferences" is noise for everyone else.
+    await interaction.response.defer(ephemeral=True)
+    uid = str(interaction.user.id)
+
+    # No arguments at all = "show me what I have".
+    if level is None and country is None and digest is None and hour is None:
+        data = await P.load(http)
+        mine = (data.get("users") or {}).get(uid)
+        if not mine:
+            e = _prefs_embed(P.DEFAULTS, interaction.user)
+            e.title = "You haven't set anything yet — these are the defaults"
+            return await interaction.followup.send(embed=e, ephemeral=True)
+        return await interaction.followup.send(
+            embed=_prefs_embed(mine, interaction.user), ephemeral=True)
+
+    seeded = {"value": False}
+
+    def mutate(current: dict):
+        new = dict(current)
+        new["name"] = str(interaction.user)
+        if level:
+            new["levels"] = level.value.split("+")
+        if country:
+            new["countries"] = country.value.split("+")
+        if digest:
+            new["digest"] = digest.value == "on"
+        if hour is not None:
+            new["hour_utc"] = hour
+        # A first-time user starts with a clean slate rather than a backlog:
+        # seed `sent` from what is already open so their first digest is
+        # tomorrow's new roles, not four hundred old ones.
+        if not current.get("sent") and not current.get("name"):
+            seeded["value"] = True
+        return new, True, "saved"
+
+    ok, msg = await P.save_user(
+        http, uid, mutate, f"prefs: update for {interaction.user} via /prefs")
+    if not ok:
+        return await interaction.followup.send(
+            f"Couldn't save that: {msg}", ephemeral=True)
+
+    data = await P.load(http)
+    mine = (data.get("users") or {}).get(uid, {})
+    e = _prefs_embed(mine, interaction.user)
+    e.title = "Saved"
+    extra = ""
+    if P.clean(mine)["digest"]:
+        matching = [j for j in await open_roles() if P.matches(j, mine)]
+        extra = (f"\n{len(matching)} open role{'s' if len(matching) != 1 else ''} "
+                 f"match this right now. Your first DM goes out at "
+                 f"{P.clean(mine)['hour_utc']:02d}:00 UTC with whatever is new by then.")
+    await interaction.followup.send(content=(P.describe(mine) + extra),
+                                    embed=e, ephemeral=True)
+
+
+async def _send_digest(user_id: str, p: dict, jobs: list[dict]) -> bool:
+    """DM one member their matching roles. Returns False if we couldn't."""
+    try:
+        user = bot.get_user(int(user_id)) or await bot.fetch_user(int(user_id))
+    except Exception as e:
+        log.warning("digest: can't resolve user %s: %s", user_id, e)
+        return False
+
+    n = len(jobs)
+    head = (f"**{n} new role{'s' if n != 1 else ''}** matching your settings "
+            f"— _{P.describe(p)}_")
+    try:
+        await user.send(content=head, embeds=[embed_for(j) for j in jobs[:10]])
+        if n > 10:
+            await user.send(f"…and {n - 10} more — `/latest count:10` in the server.")
+        return True
+    except discord.Forbidden:
+        # They have DMs from server members turned off. Nothing we can do from
+        # here, and retrying every day forever is worse than saying so once.
+        log.info("digest: %s has DMs closed", user_id)
+        return False
+    except Exception as e:
+        log.warning("digest to %s failed: %s", user_id, e)
+        return False
+
+
+@tasks.loop(minutes=DIGEST_CHECK_MINUTES)
+async def daily_digest():
+    """Checks often, sends once a day per member.
+
+    The send is gated on a stored date rather than on "did the loop fire at
+    13:00", because a redeploy at 12:59 would otherwise skip that member for
+    the whole day — and a loop that silently skips is exactly the kind of bug
+    you only notice a week later.
+    """
+    try:
+        data = await P.load(http)
+    except Exception as e:
+        log.warning("digest: couldn't read prefs: %s", e)
+        return
+    users = data.get("users") or {}
+    if not users:
+        return
+
+    now = datetime.now(timezone.utc)
+    today = now.strftime("%Y-%m-%d")
+    due = {uid: P.clean(p) for uid, p in users.items()
+           if P.clean(p)["digest"]
+           and P.clean(p)["hour_utc"] <= now.hour
+           and (p or {}).get("last_digest") != today}
+    if not due:
+        return
+
+    jobs = await open_roles()
+    if not jobs:
+        return
+    jobs.sort(key=lambda j: (j.get("posted_at") is not None, j.get("posted_at") or ""),
+              reverse=True)
+
+    for uid, p in due.items():
+        fresh = P.pick(jobs, p)
+        first_time = not p.get("sent")
+        if first_time:
+            # Don't open with a wall of four hundred roles.
+            fresh = fresh[:P.FIRST_DIGEST]
+        sent_ok = bool(fresh) and await _send_digest(uid, p, fresh)
+
+        # What to remember as delivered:
+        #   nothing to send      -> for a first-timer, remember the whole
+        #                           current backlog so tomorrow is genuinely
+        #                           "new since today", not four hundred roles.
+        #   sent successfully    -> remember everything the message accounted
+        #                           for, including the "…and N more" tail.
+        #   send FAILED          -> remember nothing. Their DMs are closed; the
+        #                           roles should still be waiting when they
+        #                           open them, rather than silently consumed.
+        if not fresh:
+            remember = {j["id"] for j in P.pick(jobs, p)} if first_time else set()
+        elif sent_ok:
+            remember = {j["id"] for j in (P.pick(jobs, p) if first_time else fresh)}
+        else:
+            remember = set()
+
+        # The DAY is marked done regardless, so a member with nothing new isn't
+        # re-checked every 15 minutes until midnight and one with DMs closed
+        # isn't retried all day.
+        def mutate(current, _ids=remember, _today=today):
+            new = dict(current)
+            if _ids:
+                new["sent"] = (list(current.get("sent") or []) + sorted(_ids))[-P.MAX_SENT:]
+            new["last_digest"] = _today
+            return new, True, "ok"
+
+        try:
+            await P.save_user(http, uid, mutate, f"prefs: digest bookkeeping for {uid}")
+        except Exception as e:
+            log.warning("digest: couldn't record send for %s: %s", uid, e)
+        if sent_ok:
+            log.info("digest: sent %d roles to %s", len(fresh), uid)
+
+
+@daily_digest.before_loop
+async def before_digest():
+    await bot.wait_until_ready()
+
+
+# --------------------------------------------------------------------------
 @bot.event
 async def on_ready():
     log.info("logged in as %s", bot.user)
@@ -547,6 +795,8 @@ async def on_ready():
         log.warning("command sync failed: %s", e)
     if not poll_new.is_running():
         poll_new.start()
+    if not daily_digest.is_running():
+        daily_digest.start()
 
 
 def main() -> int:
@@ -558,6 +808,10 @@ def main() -> int:
         return 1
     log.info("watching %s (branch %s), polling every %ss, state in %s",
              REPO, BRANCH, POLL, DATA_DIR)
+    log.info("member preferences: %s backend", P.backend())
+    warn = P.startup_warning()
+    if warn:
+        log.warning("%s", warn)
     bot.run(TOKEN, log_handler=None)
     return 0
 

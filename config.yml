@@ -19,6 +19,26 @@ terms:
   - "Summer 2027"
   # - "Winter 2027"
 
+# ---------------------------------------------------------------------------
+# COUNTRY — which countries to COLLECT
+# ---------------------------------------------------------------------------
+# This is the collection net, not what you get pinged about. Anything listed
+# here lands in feed.json tagged with its country; each Discord member then
+# picks what THEY want to see with /prefs, and /latest country: filters live.
+#
+# So widening this costs you polling volume and feed size, never inbox noise.
+#
+#   ca    - Canada
+#   us    - United States
+#   other - everything else, INCLUDING roles whose location string we can't
+#           read. Leave it off unless you want UK/EU/India postings; a role
+#           with an unparseable location is rare and usually not Canadian.
+countries:
+  - ca
+  - us
+
+# Kept for compatibility: with no `countries:` above, `canada_only: true`
+# behaves exactly as it always did.
 canada_only: true
 
 # ---------------------------------------------------------------------------
@@ -228,6 +248,15 @@ sources:
 alert_levels:
   - intern
   # - newgrad
+
+# Same idea for country. This is the SHARED CHANNEL only — widening `countries`
+# above to collect US roles would otherwise turn the channel into a firehose
+# for everyone, including people who only want Canada. Individual members opt
+# into US roles for themselves with `/prefs country:` and get them by DM.
+alert_countries:
+  - ca
+  # - us
+  # - other
 
 # ---------------------------------------------------------------------------
 # Discord

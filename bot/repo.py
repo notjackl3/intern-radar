@@ -30,7 +30,6 @@ BRANCH = os.environ.get("GITHUB_BRANCH", "main")
 TOKEN = os.environ.get("GITHUB_TOKEN")
 PATH = "watchlist.yml"
 
-API = f"https://api.github.com/repos/{REPO}/contents/{PATH}"
 MARKER = "  # ---- added from Discord with /watch ------------------------------------"
 FALLBACK_ANCHOR = "  # ---- NOT POLLABLE"
 
@@ -128,41 +127,66 @@ def validate(text: str) -> str | None:
     return None
 
 
-async def _get(fetch):
-    code, body = await fetch(f"{API}?ref={BRANCH}", "GET", None, _headers())
+def _api(path: str) -> str:
+    return f"https://api.github.com/repos/{REPO}/contents/{path}"
+
+
+async def _get_path(fetch, path: str):
+    """(text, sha) for any file in the repo. Raises FileNotFoundError on 404,
+    which is a normal state for prefs.json before anyone has set a preference
+    — distinct from a real failure, so callers can start empty instead of
+    treating a first run as an outage."""
+    code, body = await fetch(f"{_api(path)}?ref={BRANCH}", "GET", None, _headers())
+    if code == 404:
+        raise FileNotFoundError(path)
     if code != 200:
-        raise RuntimeError(f"couldn't read {PATH} from GitHub (HTTP {code})")
+        raise RuntimeError(f"couldn't read {path} from GitHub (HTTP {code})")
     return base64.b64decode(body["content"]).decode(), body["sha"]
 
 
-async def _put(fetch, text: str, sha: str, message: str):
-    payload = {"message": message, "branch": BRANCH, "sha": sha,
-               "content": base64.b64encode(text.encode()).decode()}
-    return await fetch(API, "PUT", payload, _headers())
+async def _get(fetch):
+    return await _get_path(fetch, PATH)
 
 
-async def apply(fetch, mutate, message: str) -> tuple[bool, str]:
-    """Read watchlist.yml, apply `mutate(text) -> (text, ok, msg)`, commit.
+async def apply_path(fetch, path: str, mutate, message: str,
+                     validator=None) -> tuple[bool, str]:
+    """Read `path`, apply `mutate(text) -> (text, ok, msg)`, commit.
 
     `sha` is optimistic locking: GitHub rejects the write if the file moved
-    since we read it. The collector commits to this repo on every run, so that
-    is a real race, not a theoretical one — hence the single retry.
+    since we read it. The collector commits to this repo on every run and two
+    members can run /prefs in the same second, so that is a real race, not a
+    theoretical one — hence the retry, which re-reads and re-applies rather
+    than re-sending the stale body.
     """
     if not enabled():
         return False, "no GITHUB_TOKEN set"
-    for attempt in (1, 2):
-        text, sha = await _get(fetch)
+    for attempt in (1, 2, 3):
+        try:
+            text, sha = await _get_path(fetch, path)
+        except FileNotFoundError:
+            text, sha = "", None
         new_text, ok, msg = mutate(text)
         if not ok:
             return False, msg
-        bad = validate(new_text)
-        if bad:
-            return False, f"refusing to commit — {bad}"
-        code, body = await _put(fetch, new_text, sha, message)
+        if validator:
+            bad = validator(new_text)
+            if bad:
+                return False, f"refusing to commit — {bad}"
+        payload = {"message": message, "branch": BRANCH,
+                   "content": base64.b64encode(new_text.encode()).decode()}
+        if sha:
+            payload["sha"] = sha
+        code, body = await fetch(_api(path), "PUT", payload, _headers())
         if code in (200, 201):
             return True, msg
-        if code == 409 and attempt == 1:
-            log.info("watchlist.yml moved under us; re-reading and retrying")
+        if code in (409, 422) and attempt < 3:
+            log.info("%s moved under us; re-reading and retrying", path)
             continue
         return False, f"GitHub rejected the commit (HTTP {code})"
     return False, "the file kept changing underneath the write"
+
+
+async def apply(fetch, mutate, message: str) -> tuple[bool, str]:
+    """The watchlist. Validated before every write, because the collector reads
+    it on every run and a broken commit stops the pipeline silently."""
+    return await apply_path(fetch, PATH, mutate, message, validator=validate)
