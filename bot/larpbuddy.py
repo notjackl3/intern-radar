@@ -682,7 +682,8 @@ async def prefs_cmd(interaction: discord.Interaction,
                                     embed=e, ephemeral=True)
 
 
-async def _send_digest(user_id: str, p: dict, jobs: list[dict]) -> bool:
+async def _send_digest(user_id: str, p: dict, jobs: list[dict],
+                       first_time: bool = False, preview: bool = False) -> bool:
     """DM one member their matching roles. Returns False if we couldn't."""
     try:
         user = bot.get_user(int(user_id)) or await bot.fetch_user(int(user_id))
@@ -691,8 +692,23 @@ async def _send_digest(user_id: str, p: dict, jobs: list[dict]) -> bool:
         return False
 
     n = len(jobs)
-    head = (f"**{n} new role{'s' if n != 1 else ''}** matching your settings "
-            f"— _{P.describe(p)}_")
+    if first_time:
+        # Say plainly that the FIRST one is a catch-up. It is drawn from
+        # everything currently open, so it legitimately contains roles that are
+        # days old — and without this line that reads as a bug rather than as
+        # the intended behaviour.
+        head = (f"**Your first digest** — here are the {n} newest of what's "
+                f"already open and matches _{P.describe(p)}_.\n"
+                f"Some of these have been up for a few days; that's the "
+                f"catch-up. From the next one on you'll only get postings that "
+                f"are new since this message.")
+    elif preview:
+        head = (f"**Preview** — the {n} newest matching _{P.describe(p)}_. "
+                f"Drawn from everything currently open, so it includes roles "
+                f"you've already been sent; your real digest is unaffected.")
+    else:
+        head = (f"**{n} new role{'s' if n != 1 else ''}** matching your settings "
+                f"— _{P.describe(p)}_")
     try:
         await user.send(content=head, embeds=[embed_for(j) for j in jobs[:10]])
         if n > 10:
@@ -744,7 +760,8 @@ async def daily_digest():
         if first_time:
             # Don't open with a wall of four hundred roles.
             fresh = fresh[:P.FIRST_DIGEST]
-        sent_ok = bool(fresh) and await _send_digest(uid, p, fresh)
+        sent_ok = bool(fresh) and await _send_digest(uid, p, fresh,
+                                                      first_time=first_time)
 
         # What to remember as delivered:
         #   nothing to send      -> for a first-timer, remember the whole
@@ -834,7 +851,7 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
             f"{len(matching)} open match your settings, {len(unsent)} you "
             f"haven't been sent yet. This is a dry run: nothing is marked as "
             f"sent, so your real digest is unaffected.")
-    ok = await _send_digest(uid, p, show)
+    ok = await _send_digest(uid, p, show, preview=True)
     if ok:
         return await interaction.followup.send(
             f"Sent you a DM. {head}", ephemeral=True)

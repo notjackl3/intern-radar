@@ -114,7 +114,13 @@ def greenhouse(company: str, token: str):
             "title": j.get("title", ""),
             "location": (j.get("location") or {}).get("name", ""),
             "url": j.get("absolute_url", ""),
-            "posted_at": _iso(j.get("updated_at")),
+            # first_published, NOT updated_at. Greenhouse bumps updated_at on
+            # any edit — a typo fix, a salary band, a location tweak — so a role
+            # first posted three weeks ago reports as "7 days ago" and sorts to
+            # the top of a digest as though it were brand new. Observed live:
+            # a Robinhood req first_published 2026-08-21, updated_at 2026-09-09.
+            # Fall back to updated_at for the rare object without the field.
+            "posted_at": _iso(j.get("first_published") or j.get("updated_at")),
             "term": None,
             "description": _unescape(j.get("content")),
         }
