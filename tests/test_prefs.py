@@ -160,6 +160,90 @@ def test_tmp_backend_warns_loudly():
         os.environ["DATA_DIR"] = old
 
 
+
+# --- cadence: daily clock time vs "every N hours" ------------------------
+from datetime import datetime, timedelta, timezone  # noqa: E402
+
+NOW = datetime(2026, 9, 16, 14, 0, tzinfo=timezone.utc)
+
+
+def ago(h):
+    return (NOW - timedelta(hours=h)).isoformat()
+
+
+def test_daily_fires_once_per_day_after_the_hour():
+    assert P.due({"mode": "daily", "hour_utc": 13}, NOW)
+    assert not P.due({"mode": "daily", "hour_utc": 18}, NOW), "too early"
+    assert not P.due({"mode": "daily", "hour_utc": 13,
+                      "last_digest": "2026-09-16"}, NOW), "already sent today"
+    assert P.due({"mode": "daily", "hour_utc": 13,
+                  "last_digest": "2026-09-15"}, NOW), "yesterday doesn't count"
+
+
+def test_daily_is_gated_on_the_date_not_on_the_exact_minute():
+    """A redeploy at 12:59 must not cost that member their 13:00 digest — the
+    loop ticks again at 13:14 and the stored date still says yesterday."""
+    p = {"mode": "daily", "hour_utc": 13, "last_digest": "2026-09-15"}
+    for hour in (13, 14, 20, 23):
+        assert P.due(p, NOW.replace(hour=hour)), hour
+
+
+def test_every_is_a_rate_limit_not_a_fixed_schedule():
+    """"At most every N hours" — so a new posting five minutes after the last
+    digest waits, but one six hours later goes straight out."""
+    assert P.due({"mode": "every", "every_hours": 6}, NOW), "never sent"
+    assert not P.due({"mode": "every", "every_hours": 6, "last_digest_at": ago(2)}, NOW)
+    assert P.due({"mode": "every", "every_hours": 6, "last_digest_at": ago(7)}, NOW)
+    assert P.due({"mode": "every", "every_hours": 1, "last_digest_at": ago(2)}, NOW)
+
+
+def test_every_ignores_the_daily_marker_and_vice_versa():
+    """Switching cadence must not leave the member gated by the other mode's
+    bookkeeping — that is how someone ends up silently waiting a full day."""
+    assert P.due({"mode": "every", "every_hours": 3,
+                  "last_digest": "2026-09-16"}, NOW), "daily marker is irrelevant here"
+    assert P.due({"mode": "daily", "hour_utc": 13,
+                  "last_digest_at": ago(0.5)}, NOW), "cycle stamp is irrelevant here"
+
+
+def test_unreadable_timestamp_sends_rather_than_going_silent():
+    """A corrupt stamp should cost you one duplicate digest, never permanent
+    silence — silence is the failure nobody notices."""
+    for junk in ("banana", "", 12345, None, "2026-13-45T99:99:99"):
+        assert P.due({"mode": "every", "every_hours": 6, "last_digest_at": junk}, NOW)
+
+
+def test_digest_off_beats_every_cadence():
+    assert not P.due({"mode": "every", "every_hours": 1, "digest": False}, NOW)
+    assert not P.due({"mode": "daily", "hour_utc": 0, "digest": False}, NOW)
+
+
+def test_every_hours_is_clamped():
+    assert P.clean({"every_hours": 0})["every_hours"] == P.MIN_EVERY
+    assert P.clean({"every_hours": 9999})["every_hours"] == P.MAX_EVERY
+    assert P.clean({"every_hours": "six"})["every_hours"] == P.DEFAULTS["every_hours"]
+    assert P.clean({"every_hours": 3})["every_hours"] == 3
+
+
+def test_unknown_mode_falls_back_to_daily():
+    assert P.clean({"mode": "hourly"})["mode"] == "daily"
+    assert P.clean({"mode": None})["mode"] == "daily"
+    assert P.clean({"mode": "every"})["mode"] == "every"
+
+
+def test_cadence_reads_clearly_in_both_modes():
+    assert "13:00 UTC" in P.cadence({"mode": "daily", "hour_utc": 13})
+    assert "every 3h" in P.cadence({"mode": "every", "every_hours": 3})
+    assert "OFF" in P.cadence({"digest": False})
+
+
+def test_naive_timestamp_does_not_crash():
+    """Anything written by an older build has no timezone on it."""
+    naive = NOW.replace(tzinfo=None) - timedelta(hours=7)
+    assert P.due({"mode": "every", "every_hours": 6,
+                  "last_digest_at": naive.isoformat()}, NOW)
+
+
 if __name__ == "__main__":
     import types
     fns = [v for k, v in sorted(vars().items())

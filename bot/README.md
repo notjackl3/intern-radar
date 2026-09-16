@@ -71,7 +71,8 @@ That decoupling is deliberate:
 | `/watch <company or board URL>` | start monitoring a new employer |
 | `/unwatch <company>` | stop monitoring one |
 | `/prefs` | show your settings |
-| `/prefs level: country: digest: hour:` | change them |
+| `/prefs level: country: digest: hour: every:` | change them |
+| `/digest` | send yourself a preview right now |
 
 ## `/prefs` — per-member settings and the daily DM
 
@@ -85,7 +86,25 @@ Each member sets their own filter and gets their own daily DM:
 - **country** — Canada, US, both, or anywhere
 - **digest** — a DM once a day with roles matching *your* settings that you
   haven't been sent before
-- **hour** — 0-23 UTC (13 = 9am Eastern)
+- **hour** — DAILY mode: a clock time, 0-23 UTC (13 = 9am Eastern)
+- **every** — CYCLE mode: send as soon as something new appears, **at most**
+  every N hours (1-168)
+
+`hour:` and `every:` are two different cadences and setting one switches you to
+that mode, so you can't pass both. The difference:
+
+| | fires | when there's nothing new |
+|---|---|---|
+| `hour:13` | once a day, once 13:00 UTC has passed | still marks the day done, stays quiet until tomorrow |
+| `every:6` | as soon as something new appears, but never less than 6h since the last one | sends nothing and doesn't start the clock — checks again in 15 min |
+
+So `every:1` is near-live without being a firehose, and a quiet weekend costs
+you no messages at all. Switching to cycles clears the daily marker, so you
+don't get told "already sent today" and left waiting until tomorrow.
+
+`/digest` sends you a preview of the DM right now. It's a dry run — it doesn't
+mark anything sent and doesn't touch the cadence clock, so running it never
+costs you your real digest. Safe to spam while you tune `/prefs`.
 
 A bare `/prefs` shows what you have. Everything is ephemeral — nobody else
 sees your settings change. `/latest` with no arguments now answers *your*

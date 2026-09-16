@@ -54,7 +54,11 @@ COUNTRIES = ("ca", "us", "other")
 LEVELS = ("intern", "newgrad")
 
 DEFAULTS = {"countries": ["ca"], "levels": ["intern"], "digest": True,
-            "hour_utc": 13}          # 13:00 UTC ≈ 9am Eastern
+            "mode": "daily", "hour_utc": 13, "every_hours": 6}
+# 13:00 UTC ≈ 9am Eastern
+
+MODES = ("daily", "every")
+MIN_EVERY, MAX_EVERY = 1, 168
 
 MAX_SENT = 3000
 FIRST_DIGEST = 10
@@ -93,19 +97,37 @@ def clean(p: dict | None) -> dict:
     p = dict(p or {})
     out = dict(DEFAULTS)
     out.update({k: v for k, v in p.items() if k in
-                ("countries", "levels", "digest", "hour_utc", "name", "sent")})
+                ("countries", "levels", "digest", "mode", "hour_utc",
+                 "every_hours", "name", "sent", "last_digest",
+                 "last_digest_at")})
 
     c = [x for x in (out.get("countries") or []) if x in COUNTRIES]
     out["countries"] = c or list(DEFAULTS["countries"])
     l = [x for x in (out.get("levels") or []) if x in LEVELS]
     out["levels"] = l or list(DEFAULTS["levels"])
     out["digest"] = bool(out.get("digest", True))
+    out["mode"] = out.get("mode") if out.get("mode") in MODES else "daily"
     try:
         out["hour_utc"] = max(0, min(23, int(out.get("hour_utc", 13))))
     except (TypeError, ValueError):
         out["hour_utc"] = DEFAULTS["hour_utc"]
+    try:
+        out["every_hours"] = max(MIN_EVERY, min(MAX_EVERY,
+                                                int(out.get("every_hours", 6))))
+    except (TypeError, ValueError):
+        out["every_hours"] = DEFAULTS["every_hours"]
     out["sent"] = list(out.get("sent") or [])[-MAX_SENT:]
     return out
+
+
+def cadence(p: dict) -> str:
+    p = clean(p)
+    if not p["digest"]:
+        return "digest OFF"
+    if p["mode"] == "every":
+        n = p["every_hours"]
+        return f"as soon as something new appears, at most every {n}h"
+    return f"daily at {p['hour_utc']:02d}:00 UTC"
 
 
 def describe(p: dict) -> str:
@@ -114,9 +136,44 @@ def describe(p: dict) -> str:
              "intern": "internships / co-ops", "newgrad": "new grad"}
     where = " + ".join(names[c] for c in p["countries"])
     what = " + ".join(names[x] for x in p["levels"])
-    when = (f"daily at {p['hour_utc']:02d}:00 UTC" if p["digest"]
-            else "daily digest OFF")
-    return f"{what} · {where} · {when}"
+    return f"{what} · {where} · {cadence(p)}"
+
+
+def due(p: dict, now) -> bool:
+    """Should this member's digest go out right now?
+
+    Two cadences, and they differ in a way that matters:
+
+      daily  — a clock time. Fires once per calendar day once the hour has
+               passed, EVEN IF there is nothing new (the caller then sends
+               nothing but still marks the day done, so it stops re-checking
+               until midnight). Gated on a stored DATE rather than on the loop
+               ticking at exactly :00, so a redeploy at 12:59 doesn't silently
+               skip that day.
+
+      every  — a rate limit, not a schedule. "At most every N hours" rather
+               than "every N hours on the dot": the digest goes out as soon as
+               something new appears, but never more often than N hours apart.
+               That makes every:1 genuinely useful — near-live without being a
+               firehose — and means a quiet day sends nothing at all rather
+               than a string of empty messages.
+    """
+    p = clean(p)
+    if not p["digest"]:
+        return False
+    if p["mode"] == "every":
+        last = p.get("last_digest_at")
+        if not last:
+            return True
+        try:
+            from datetime import datetime
+            prev = datetime.fromisoformat(str(last))
+            if prev.tzinfo is None:
+                prev = prev.replace(tzinfo=now.tzinfo)
+        except (TypeError, ValueError):
+            return True      # unreadable stamp: treat as never sent
+        return (now - prev).total_seconds() >= p["every_hours"] * 3600
+    return p["hour_utc"] <= now.hour and p.get("last_digest") != now.strftime("%Y-%m-%d")
 
 
 # --------------------------------------------------------------------------

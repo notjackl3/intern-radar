@@ -583,8 +583,9 @@ def _prefs_embed(p: dict, user: discord.abc.User) -> discord.Embed:
 @app_commands.describe(
     level="What you're hunting for",
     country="Where you can work",
-    digest="Send you a daily DM with new matching roles",
-    hour="Hour of day to send it, 0-23 UTC (13 = 9am Eastern)")
+    digest="Send you a DM when new matching roles appear",
+    hour="DAILY mode: hour of day to send it, 0-23 UTC (13 = 9am Eastern)",
+    every="CYCLE mode: send as soon as something new appears, at most every N hours")
 @app_commands.choices(
     level=[
         app_commands.Choice(name="internships / co-ops", value="intern"),
@@ -605,14 +606,25 @@ async def prefs_cmd(interaction: discord.Interaction,
                     level: app_commands.Choice[str] = None,
                     country: app_commands.Choice[str] = None,
                     digest: app_commands.Choice[str] = None,
-                    hour: int = None):
+                    hour: int = None, every: int = None):
     # Ephemeral: these are one person's settings, and a channel full of
     # "Jack set his preferences" is noise for everyone else.
     await interaction.response.defer(ephemeral=True)
     uid = str(interaction.user.id)
 
     # No arguments at all = "show me what I have".
-    if level is None and country is None and digest is None and hour is None:
+    if every is not None and hour is not None:
+        return await interaction.followup.send(
+            "Pick one or the other: `hour:` is a clock time (once a day), "
+            "`every:` is a cycle (as soon as there's something new, at most "
+            "that often). Setting one switches you to that mode.", ephemeral=True)
+    if every is not None and not (P.MIN_EVERY <= every <= P.MAX_EVERY):
+        return await interaction.followup.send(
+            f"`every:` has to be between {P.MIN_EVERY} and {P.MAX_EVERY} hours.",
+            ephemeral=True)
+
+    if (level is None and country is None and digest is None
+            and hour is None and every is None):
         data = await P.load(http)
         mine = (data.get("users") or {}).get(uid)
         if not mine:
@@ -635,6 +647,14 @@ async def prefs_cmd(interaction: discord.Interaction,
             new["digest"] = digest.value == "on"
         if hour is not None:
             new["hour_utc"] = hour
+            new["mode"] = "daily"
+        if every is not None:
+            new["every_hours"] = every
+            new["mode"] = "every"
+            # Switching cadence clears the daily marker, so a member who moves
+            # to cycles at 14:00 isn't told "already sent today" and left
+            # waiting until tomorrow for their first one.
+            new["last_digest"] = None
         # A first-time user starts with a clean slate rather than a backlog:
         # seed `sent` from what is already open so their first digest is
         # tomorrow's new roles, not four hundred old ones.
@@ -708,10 +728,7 @@ async def daily_digest():
 
     now = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
-    due = {uid: P.clean(p) for uid, p in users.items()
-           if P.clean(p)["digest"]
-           and P.clean(p)["hour_utc"] <= now.hour
-           and (p or {}).get("last_digest") != today}
+    due = {uid: P.clean(p) for uid, p in users.items() if P.due(p, now)}
     if not due:
         return
 
@@ -745,15 +762,30 @@ async def daily_digest():
         else:
             remember = set()
 
-        # The DAY is marked done regardless, so a member with nothing new isn't
-        # re-checked every 15 minutes until midnight and one with DMs closed
-        # isn't retried all day.
-        def mutate(current, _ids=remember, _today=today):
+        # When to say "that's this cycle done" differs by mode, and getting it
+        # backwards is how you either spam someone or go silent on them:
+        #
+        #   daily  — mark the DAY done regardless. A member with nothing new
+        #            shouldn't be re-checked every 15 minutes until midnight,
+        #            and one with DMs closed shouldn't be retried all day.
+        #   every  — only start the clock when a message actually went out.
+        #            The cadence is "at most every N hours", so a quiet cycle
+        #            must cost nothing: no message, and no waiting another N
+        #            hours before the next check.
+        def mutate(current, _ids=remember, _today=today, _sent=sent_ok,
+                   _mode=p["mode"], _now=now.isoformat()):
             new = dict(current)
             if _ids:
                 new["sent"] = (list(current.get("sent") or []) + sorted(_ids))[-P.MAX_SENT:]
-            new["last_digest"] = _today
+            if _mode == "every":
+                if _sent:
+                    new["last_digest_at"] = _now
+            else:
+                new["last_digest"] = _today
             return new, True, "ok"
+
+        if p["mode"] == "every" and not sent_ok:
+            continue          # nothing to record; check again on the next tick
 
         try:
             await P.save_user(http, uid, mutate, f"prefs: digest bookkeeping for {uid}")
@@ -761,6 +793,56 @@ async def daily_digest():
             log.warning("digest: couldn't record send for %s: %s", uid, e)
         if sent_ok:
             log.info("digest: sent %d roles to %s", len(fresh), uid)
+
+
+@bot.tree.command(name="digest",
+                  description="Send yourself your digest right now, as a preview")
+@app_commands.describe(
+    count="How many roles to include (1-10)")
+async def digest_now(interaction: discord.Interaction, count: int = 10):
+    """A dry run of the scheduled DM.
+
+    Deliberately does NOT mark anything as sent or touch the cadence clock, so
+    running this never costs you your real digest — the same roles still turn
+    up at your scheduled time. That also makes it safe to run repeatedly while
+    tuning /prefs, which is the whole reason it exists.
+    """
+    await interaction.response.defer(ephemeral=True)
+    uid = str(interaction.user.id)
+    data = await P.load(http)
+    mine = (data.get("users") or {}).get(uid)
+    if not mine:
+        return await interaction.followup.send(
+            "You haven't set anything yet — run `/prefs` first, then this will "
+            "show you exactly what your DM will look like.", ephemeral=True)
+
+    p = P.clean(mine)
+    jobs = await open_roles()
+    jobs.sort(key=lambda j: (j.get("posted_at") is not None, j.get("posted_at") or ""),
+              reverse=True)
+    matching = [j for j in jobs if P.matches(j, p)]
+    unsent = P.pick(jobs, p)
+    show = (unsent or matching)[:max(1, min(count, 10))]
+
+    if not show:
+        return await interaction.followup.send(
+            f"Nothing matches your settings right now — _{P.describe(p)}_\n"
+            f"({len(jobs)} roles open in total; try `/prefs country:Canada + US` "
+            f"or `level:both` to widen it.)", ephemeral=True)
+
+    head = (f"**Preview of your digest** — _{P.describe(p)}_\n"
+            f"{len(matching)} open match your settings, {len(unsent)} you "
+            f"haven't been sent yet. This is a dry run: nothing is marked as "
+            f"sent, so your real digest is unaffected.")
+    ok = await _send_digest(uid, p, show)
+    if ok:
+        return await interaction.followup.send(
+            f"Sent you a DM. {head}", ephemeral=True)
+    # DMs closed — show it here instead rather than just reporting a failure.
+    await interaction.followup.send(
+        content=head + "\n\n_(Couldn't DM you — your Discord privacy settings "
+                       "block DMs from server members, so here it is instead.)_",
+        embeds=[embed_for(j) for j in show], ephemeral=True)
 
 
 @daily_digest.before_loop
