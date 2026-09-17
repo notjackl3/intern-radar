@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T04:52:11.972473+00:00",
-  "open_count": 1475,
-  "new_count": 21,
+  "generated_at": "2026-09-17T11:40:34.798433+00:00",
+  "open_count": 1464,
+  "new_count": 3,
   "tier": "full",
   "jobs": [
     {
@@ -67,20 +67,6 @@
       "title": "JR-8229 \u2013 Radar Systems Engineering COOP",
       "location": "Ottawa",
       "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "71accb0287dc2ab0",
-      "source": "workday",
-      "company": "Bank of Montreal (External)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -235,6 +221,20 @@
       "title": "Winter Co-op 2027 - Software Engineering",
       "location": "Waterloo, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "71accb0287dc2ab0",
+      "source": "workday",
+      "company": "Bank of Montreal (External)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -766,121 +766,57 @@
       ]
     },
     {
-      "id": "93edae099bd5775b",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Software Engineering Intern - Security",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608",
-      "posted_at": "2026-09-04T17:10:04.463+00:00",
+      "id": "f05872574795ca63",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "posted_at": null,
       "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company https://www.super.com/press/super-2022-fast-500; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs https://www.super.com/careers that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\nTerm: This internship is for the Winter Term: January 4 - December 17, 2027. A 12 month term is preferable; however we can be open to a shorter term for the right candidate.\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nAs a Software Engineer Intern on our Security team, you'll get hands-on experience keeping Super.com http://Super.com's products secure across the software lifecycle. Your work spans offense and defense: building security tooling and proofs of concept (with AI), triaging findings from our security tools, and doing offensive testing to find issues before attackers do. You don't need to be an expert; this is a learning role where you'll build real AppSec and DevSecOps skills on a team that ships.\n\nYou'll report to our Staff Software Engineer - Security and work closely with product engineers, DevOps, and Fraud. Expect frequent collaboration, mentorship, and a fast pace, with real ownership of the projects you take on. You'll ship meaningful security work during your internship.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Help add security tooling and checks to our CI/CD pipelines\n\n - Build and improve security tooling by writing scripts and automation (primarily Python)\n\n - Use AI to help with day-to-day security work\n\n - Do offensive testing to find vulnerabilities in our products and build proofs of concept\n\n - Help triage security findings and patch the straightforward ones, like SCA version bumps\n\n - Work with engineers, DevOps, and Fraud, learning how security fits into how we build and ship\n\n\n\n\nOUR TECHNOLOGY:\n\n - Services are authored as K8s-based microservices powered by Python FastAPI backends and Typescript React front-end code.\n\n - Apps are built upon Postgres, Redis, Kafka, Elasticsearch, and Snowflake.\n\n - Our infrastructure runs on AWS and leverages hosted infrastructure technologies such as EKS, MSK, Elasticache, and RDS. We use Istio for service mesh, Helm, TF and Crossplane for IAC, and Kyverno for policy-as-code enforcement.\n\n - Security and application logs/metrics/events are managed through Datadog\n\n - As an AI-First engineering organization, we leverage modern AI development workflows using tools such as Cursor, Claude, and internally built AI agents to accelerate implementation and iteration across our codebases. You'll own and advance our AI infrastructure in this role.\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - Currently pursuing a degree in Computer Science, Cybersecurity, or a related field (or equivalent experience)\n\n - Genuine interest in application and infrastructure security, with some familiarity with the OWASP Top 10 and common vulnerability classes\n\n - Some hands-on experience finding vulnerabilities through CTFs, labs, or coursework\n\n - Familiarity with web technologies and networking fundamentals (e.g., HTTP, REST APIs, TLS, DNS)\n\n - Solid programming fundamentals (Python preferred)\n\n - Comfortable in a fast-paced environment, with curiosity and a strong willingness to learn\n\n - Strong communicator who can work across engineering, DevOps, and other teams\n\n\n\n\nBONUS POINTS FOR:\n\n - Relevant security certifications (e.g., Security+, eJPT, PJPT, or similar)\n\n - Previous security or software engineering internship experience\n\n - Success in Bug Bounty programs, CTF competitions, or similar\n\n - Interest in using AI/LLMs to support security or engineering work\n\n - Exposure to cloud or cloud security (AWS and/or Kubernetes preferred)\n\n - Exposure to mobile development or mobile security\n\n - Independent projects visible on GitHub\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
       "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "63f9df3ec24d5248",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
     },
     {
-      "id": "720bbbeea32d32ba",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Software Engineering Intern - Platform (12 months)",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7",
-      "posted_at": "2026-09-04T17:19:32.521+00:00",
+      "id": "6c54e9dc66cb476a",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "posted_at": null,
       "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company https://www.super.com/press/super-2022-fast-500; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs https://www.super.com/careers that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\nTerm: This internship is for the Winter Term: January 4 - December 17, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking to hire Software Engineering Interns with at least 8 months of experience to join our engineering team. It is a really exciting and technically challenging time for our engineering teams as we focus on 3 development pillars: travel, fintech, and a superapp membership to unite them along with other savings and earnings use cases. Between them, our services handle 1000s of requests per second, ingest over 1TB of data per day and process over $1MM per day in sales, while maintaining a 99.9+% uptime.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Ship technically challenging projects end-to-end in a fast-paced, iterative environment\n\n - Have the opportunity to very meaningfully propel the business forward, and recognize the impact of your work on the company\u2019s business metrics and user experience\n\n - Own features, services, caches, and databases, including: deployment, monitoring, debugging, and testing\n\n - Write production-ready, well-tested code in your first week\n\n - Be data-driven and close to the customer, performing experiments for nearly everything you launch\n\n - Work on a combination of frontend and backend work across multiple services and codebases\n\n\n\n\nOUR TECH\n\n - We use a state of the art architecture powered by microservices written primarily in Python (FastAPI). We use React (with TypeScript) on the frontend, and Postgres/Redis for storage and caching\n\n - We use Gitlab for version control and CI/CD, and our infrastructure is hosted on AWS (using Kubernetes). It takes under 30 minutes for merged code to reach production\n\n - We invest heavily in monitoring and automated alerting using Datadog\n\n - We use Amplitude client-side metrics and experimentation, and Snowflake for our data warehouse\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 8 months of web development work experience, preferably with exposure to a dynamic, startup or scaleup environment\n\n - You have experience working with a modern frontend JS framework (ex. React, Vue, Angular), and have worked with web servers\n\n - You learn quickly, regardless of the languages and technologies used\n\n - You have experience taking ownership and shipping entire features end-to-end\n\n - You thrive on decoding intricate problems with logical, well-reasoned solutions\n\n - You are interested in working on both the frontend and backend components of features\n\n - You are interested in working with React on the frontend and Python on the backend\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
     },
     {
-      "id": "a8accf95b57251db",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Data Analytics Intern",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/68809622-6599-4379-bb88-925b2d8fcfd9",
-      "posted_at": "2026-09-04T17:28:36.418+00:00",
+      "id": "174e86f1fc78e7f3",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Analyst - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+      "posted_at": null,
       "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company https://www.super.com/press/super-2022-fast-500; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs https://www.super.com/careers that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\nTerm: This internship is for the Winter Term: January 4 - April 30, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for a Data Analytics Intern to join our growing data team for the Winter 2026 term. As a Data Analyst Intern at Super, you will be responsible for using data to answer strategic questions and support our business strategy and rapid growth. With a strong analytical and data-driven approach you\u2019ll help our team organize, visualize and understand large data sets relating to various performance marketing channels. This is an exciting opportunity that will allow you to run deep-dive analysis, create regression or segmentation models, build dashboards and generate reporting to drive business growth and draw strategic insights from product, user, and operational data.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Data-driven Culture: you will be an ambassador for our data-driven culture, taking data and using it to answer business questions and drive strategy & decision making\n\n - Data Management: you will access, clean and organize raw data in a way that makes sense for you, your team and your stakeholders\n\n - Visualizations: you will help us to see and understand our data in a way that makes sense, creating automated dashboards and funnels for various internal teams\n\n - Hard Questions: You\u2019ll be taking our data and using it to answer business questions, drive strategy and decision making\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You can pull, clean and manipulate large sets of complex data to turn them into stories that business stakeholders can understand\n\n - You can write SQL queries and perform data analysis with Python and/or R, and know your way around analytics tools (Looker, amplitude DBT and snowflake)\n\n - You are naturally curious and have a solid understanding of common statistical methods and how they relate to real world applications\n\n - You are able to work independently while also embracing mentorship and guidance, confidently addressing stakeholder requests and contributing valuable insights.\n\n - You take ownership of your work, leveraging the support provided to solve problems and deliver impactful results.\n\n - You are comfortable navigating ambiguous or changing priorities and can adjust your approach to meet new challenges.\n\n - You understand how data insights connect to broader business goals and are eager to learn how to make strategic contributions\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "3f8334d7465ec352",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Data Engineering Intern",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807",
-      "posted_at": "2026-09-04T17:35:47.050+00:00",
-      "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\nTerm: This internship is for the Winter Term: January 4 - April 30, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for a Data Engineer Intern to join our growing team for the Winter 2026 Term. In this role, you will have the opportunity to build scalable and highly available data pipelines using modern tech and tools on one of Canada\u2019s fastest-growing startups. As a Data Engineer, you\u2019ll build highly reliable and scalable ELT pipelines for large datasets (we do over 10 million searches/day). You\u2019ll work on data-intensive applications, ensuring high data quality and uptime, and work directly with analysts on a full-stack data team. You\u2019ll have lots of autonomy to create impact while tackling intricate technical problems.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Maintaining and improving warehouse governance.\n\n - Implement improvements in our platform operations.\n\n - Building and maintaining pipelines that ingest large amounts of data from various sources.\n\n - Write various styles of automated tests to ensure operational reliability and data integrity.\n\n - From time to time create data models for analytical and marketing purposes.\n\n\n\n\nOUR TECH\n\n - We use a SOA architecture powered by many micro-services, including the bot platform, the NLP engine and the pricing/recommendation engines.\n\n - We use a modern data stack of Airflow, Fivetran, Snowflake, dbt, Looker, Hightouch, and more.\n\n - We built a proprietary event logging platform which processes terabytes of data weekly.\n\n - We have a distributed ELT infrastructure hosted using Kubernetes and AWS.\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 6-18 months of Data Engineering or Software Engineering work experience, preferably with exposure to a dynamic, startup environment.\n\n - You learn quickly, regardless of the languages and technologies used.\n\n - You have experience building scalable data pipelines and powerful reporting tools.\n\n - You have experience with building backend applications, primarily working with APIs and databases.\n\n - You thrive on decoding complex problems with logical, well-reasoned solutions.\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "c4715438d35e4a32",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Data Engineering Intern (8 months)",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/c54cf7df-73b3-49d4-acff-5dc04fba15a4",
-      "posted_at": "2026-09-04T17:39:51.641+00:00",
-      "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\n\nTerm: This internship is for the Winter Term: January 4 - August 27, 2027\n\n\u00a0\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\u00a0\n\n\nABOUT THIS ROLE\n\nWe are looking for a Data Engineer Intern to join our growing team for the Winter 2026 Term. In this role, you will have the opportunity to build scalable and highly available data pipelines using modern tech and tools on one of Canada\u2019s fastest-growing startups. As a Data Engineer, you\u2019ll build highly reliable and scalable ELT pipelines for large datasets (we do over 10 million searches/day). You\u2019ll work on data-intensive applications, ensuring high data quality and uptime, and work directly with analysts on a full-stack data team. You\u2019ll have lots of autonomy to create impact while tackling intricate technical problems.\n\n\u00a0\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Maintaining and improving warehouse governance.\n\n - Implement improvements in our platform operations.\n\n - Building and maintaining pipelines that ingest large amounts of data from various sources.\n\n - Write various styles of automated tests to ensure operational reliability and data integrity.\n\n - From time to time create data models for analytical and marketing purposes.\n\n\u00a0\n\n\nOUR TECH\n\n - We use a SOA architecture powered by many micro-services, including the bot platform, the NLP engine and the pricing/recommendation engines.\n\n - We use a modern data stack of Airflow, Fivetran, Snowflake, dbt, Looker, Hightouch, and more.\n\n - We built a proprietary event logging platform which processes terabytes of data weekly.\n\n - We have a distributed ELT infrastructure hosted using Kubernetes and AWS.\n\n\u00a0\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 6-18 months of Data Engineering or Software Engineering work experience, preferably with exposure to a dynamic, startup environment.\n\n - You learn quickly, regardless of the languages and technologies used.\n\n - You have experience building scalable data pipelines and powerful reporting tools.\n\n - You have experience with building backend applications, primarily working with APIs and databases.\n\n - You thrive on decoding complex problems with logical, well-reasoned solutions.\n\n\u00a0\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\u00a0\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "894977b77d8caa0f",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Software Engineer in Data Intern (8 months)",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/2c889dd2-0103-43e8-a405-e5b006d8b5ec",
-      "posted_at": "2026-09-04T17:52:23.819+00:00",
-      "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\n\nTerm: This internship is for the Winter Term: January 4 - August 27, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking to hire a Software Engineer In Data intern to join our growing Data team. As a Software Engineer In Data at Super.com http://Super.com, your work will span from application development and maintenance to our post production enterprise data warehouse, ensuring a congruent flow. You will own, build, maintain, and enhance processes to ensure this end to end reliability.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Ship technically challenging projects end-to-end in a fast-paced, iterative environment.\n\n - Have the opportunity to very meaningfully propel the business forward, and recognize the impact of your work on the company\u2019s business metrics.\n\n - Own features, services, caches, and databases, including: deployment, monitoring, debugging, and testing.\n\n - Write production-ready, well-tested code in your first week.\n\n - Work on our product analytics backend service and our data pipelines.\n\n - Be an ambassador for our data-driven culture, taking data and shaping it to facilitate analysis, insight generation, and decision-making.\n\n - You will ingest, clean, validate, and organize raw data in a way that makes sense for both product and analysis.\n\n - You will help shape data strategies between systems within the organization to ensure consistent and predictable consumption.\n\n - You will work with key stakeholders to understand existing processes and collaborate to design and implement improved and automated processes.\n\n\n\n\nOUR TECH\n\n - We use a state of the art architecture powered by microservices written primarily in Python (FastAPI). We use Postgres for our relational database. For transparency, we use React for the frontend but for this role, it will be seldomly be used.\n\n - We use Gitlab for version control and CI/CD, and our infrastructure is hosted on AWS (using Kubernetes). It takes under 30 minutes for merged code to reach production\n\n - We invest heavily in monitoring and automated alerting using Datadog for application monitoring, Elementary for data monitoring, and BigEye for data freshness.\n\n - We use Amplitude client-side metrics and experimentation, Snowflake for our data warehouse, and Airflow for building data pipelines.\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 8 months of backend development work experience, preferably with exposure to a dynamic, startup or scaleup environment.\n\n - You learn quickly, regardless of the languages and technologies used.\n\n - You have experience taking ownership and shipping entire features end-to-end, including communicating with key stakeholders.\n\n - You have a good understanding of relational databases and working with SQL.\n\n - You thrive on decoding intricate problems with logical, well-reasoned solutions.\n\n - You are interested in working with ETL/ELT tools and building data pipelines.\n\n - You are interested in working with Python on the backend.\n\n - You are interested in designing schemas, data modelling, and working with data warehouses.\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "9e8ea47b0ce02050",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Software Engineering Intern (Full-Stack)",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/b2615f7e-c6d2-46d6-9699-5027da9b5757",
-      "posted_at": "2026-09-04T16:45:44.784+00:00",
-      "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company https://www.super.com/press/super-2022-fast-500; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs https://www.super.com/careers that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\n\nTerm: This internship is for the Winter Term: January 4 - April 30, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking to hire Software Engineering Interns with at least 8 months of experience to join our engineering team. It is a really exciting and technically challenging time for our engineering teams as we focus on 3 development pillars: travel, fintech, and a superapp membership to unite them along with other savings and earnings use cases. Between them, our services handle 1000s of requests per second, ingest over 1TB of data per day and process over $1MM per day in sales, while maintaining a 99.9+% uptime.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Ship technically challenging projects end-to-end in a fast-paced, iterative environment\n\n - Have the opportunity to very meaningfully propel the business forward, and recognize the impact of your work on the company\u2019s business metrics and user experience\n\n - Own features, services, caches, and databases, including: deployment, monitoring, debugging, and testing\n\n - Write production-ready, well-tested code in your first week\n\n - Be data-driven and close to the customer, performing experiments for nearly everything you launch\n\n - Work on a combination of frontend and backend work across multiple services and codebases\n\n\n\n\nOUR TECH\n\n - We use a state of the art architecture powered by microservices written primarily in Python (FastAPI). We use React (with TypeScript) on the frontend, and Postgres/Redis for storage and caching\n\n - We use Gitlab for version control and CI/CD, and our infrastructure is hosted on AWS (using Kubernetes). It takes under 30 minutes for merged code to reach production\n\n - We invest heavily in monitoring and automated alerting using Datadog\n\n - We use Amplitude client-side metrics and experimentation, and Snowflake for our data warehouse\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 8 months of web development work experience, preferably with exposure to a dynamic, startup or scaleup environment\n\n - You have experience working with a modern frontend JS framework (ex. React, Vue, Angular), and have worked with web servers\n\n - You learn quickly, regardless of the languages and technologies used\n\n - You have experience taking ownership and shipping entire features end-to-end\n\n - You thrive on decoding intricate problems with logical, well-reasoned solutions\n\n - You are interested in working on both the frontend and backend components of features\n\n - You are interested in working with React on the frontend and Python on the backend\n   \n   \n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "28091cb4454dc538",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Software Engineering Intern - Infrastructure (DevOps)",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/97bd1ee5-1b97-496b-836c-453d105f0eb3",
-      "posted_at": "2026-09-04T17:02:10.302+00:00",
-      "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company https://www.super.com/press/super-2022-fast-500; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs https://www.super.com/careers that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\n\nTerm: This internship is for the Winter Term: January 4 - April 30, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for an Infrastructure Engineering Intern with 4-16 months of experience to join our infrastructure engineering team. Our team is responsible for the infrastructure around building, deploying, and monitoring our services, databases, and caches.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Work with cutting edge infrastructure tools like Docker, Kubernetes, Terraform, Helm, and Istio\n\n - Accelerate development across the company with faster, safer, and more frequent deploys\n\n - Meaningfully improve developer happiness and productivity across the company with better development tools and workflows\n\n - Contribute directly to the bottom line with cost savings initiatives and optimizations\n\n - Catch errors and performance issues early with automated monitoring and alerting\n\n\n\n\nOUR TECH:\n\n - Amazon Web Services (AWS)\n\n - Tens of containerized microservices written in Python and/or JS processing a total of 15k+ requests per second\n\n - Kubernetes for deploying services\n\n - Infrastructure as Code in Terraform and Helm\n\n - Datadog and Incident.IO http://Incident.IO for logging, monitoring, and alerting\n\n - Postgres for storage and Redis for caching\n\n - Gitlab for version control and CI/CD\n\n - Python, Bash, and Docker for local development workflows and CI/CD jobs\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have experience and comfort with POSIX-based operating systems\n\n - You\u2019ve used docker before and understand what it is and what problems it solves\n\n - You have some knowledge of how networked services in the cloud work: VPC, IP, TCP, DNS, HTTP, etc.\n\n - You abhor repetitive manual processes and are excited to automate them away\n\n - You have a sixth sense for spotting waste (in money, time, CPU cycles) and eliminating it\n\n - You learn quickly, regardless of the languages and technologies used\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -895,6 +831,21 @@
       "posted_at": "2026-07-14T19:37:42.124+00:00",
       "term": null,
       "description": "ABOUT GEORGIAN\n\n\n\nGeorgian is a Toronto-based venture capital firm that partners with high-growth technology companies across cybersecurity, AI software, robotics, defense. We manage about $6B in assets and we have invested in more than 80 companies that we support with capital and technical capability.\n\n\n\nOur in-house AI lab works directly with portfolio companies to provide a differentiated experience across the investment lifecycle, and drives the adoption of AI for our internal operations.\n\n\u00a0\n\n\nABOUT THE ROLE\n\n\n\nAre you an aspiring AI Engineer eager to gain real-world impact and learn how to push AI's boundaries? Imagine diving into diverse, cutting-edge AI problems across multiple high-growth companies with the support of a leading VC firm. That's Georgian.\n\n\n\nWe're not your typical VC. Georgian's unique R&D team partners directly with our portfolio companies, providing the technical horsepower and strategic guidance to help accelerate their AI initiatives. We also play a critical role in our investment process, conducting deep technical diligence to identify promising AI-driven businesses.\n\n\n\nThink of it as working in a dynamic startup environment, but without the inherent risks of a single venture. You'll tackle fascinating challenges, meet and potentially work with brilliant founders and CTOs, and try to help unearth the next generation of industry leaders. It's a fun, engaging, and highly impactful way to build your career.\n\n\n\n\nWHY THIS ROLE EXISTS\n\n\n\nGeorgian's mission is to empower the world's leading B2B software companies with an unfair advantage, accelerating their participation in the digital economy. As an AI Engineer Intern on our R&D team, you'll support this mission by contributing to cutting-edge machine learning projects. You'll assist in bringing machine learning expertise directly to our portfolio companies' most pressing challenges, helping them build and scale potentially transformative AI products. You'll also contribute to our investment process technical diligence, helping us identify innovative and technically sound companies.\n\n\n\n\nWHAT YOU'LL OWN & DELIVER\n\n\n\n - Support AI system development. Assist in building LLM agents, Retrieval\u2011Augmented Generation (RAG) pipelines and fine\u2011tuned domain\u2011specific models under guidance; help implement workflows with frameworks like LangChain/LlamaIndex/PydanticAI.\n\n - Contribute to portfolio projects. Support Georgian \"strike teams\" embedded in portfolio companies; assist with code implementation, testing, and documentation.\n\n - Technical analysis & documentation. Help convert technical concepts into clear documentation; support preparation of demos and presentations for stakeholders.\n\n - Hands\u2011on R&D support. Assist in rapid prototyping, run experiments and ablation studies, contribute to internal tech notes and documentation.\n\n - Support AI roadmap development. Help gather requirements in discovery workshops, assist in documenting technical specifications and implementation plans.\n\n - Contribute to safety & governance. Assist in implementing evaluation pipelines and testing frameworks to keep models reliable and compliant.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\n\n\n\nIDEAL ATTRIBUTES\n\n - Education & Experience: Currently pursuing or recently completed a Master's or PhD degree in Computer Science, Electrical Engineering, Statistics, or a related quantitative discipline with a focus on machine learning, optimization theory, or related areas.\n\n - Hands-On Foundation: Familiarity with deep learning toolkits such as Scikit-learn, TensorFlow, or PyTorch. Understanding of GenAI, LLM tooling and Context Engineering fundamentals.\n\n - Software Development: Proficiency in Python and foundational software development skills, enabling you to write clean, efficient code.\n\n - Problem Formulation & Communication: The ability to understand applied research problems, assist in designing experiments, implement solutions, and clearly document findings for diverse audiences with varying technical backgrounds.\n\n - Collaboration: Demonstrated ability to work on team projects, collaborate effectively with technical groups, and communicate progress to mentors and stakeholders.\n\n\n\n\nNICE-TO-HAVES\n\n - Experience contributing to open-source AI/ML-related projects or research papers.\n\n - Familiarity with cloud platforms (AWS, GCP, Azure) for MLOps and model deployment.\n\n - Exposure to specific industry verticals relevant to Georgian's portfolio (e.g., vertical SaaS, cybersecurity, healthcare tech, fintech).\n\n\n\n\nCULTURAL ATTRIBUTES WE LOVE\n\n\n\n - High ambition & agency: You're allergic to incrementalism and thrive in low\u2011structure, high\u2011ownership settings.\n\n - Insatiable curiosity: You debug the root cause and ask why until everyone else gets annoyed\u2014in a good way.\n\n - Team over ego: You amplify colleagues and founders alike, seeing leverage in elevating the collective.\n\n - Commercial storytelling: You speak with brevity and distill complexity so a time\u2011starved CEO instantly sees value.\n\n\n\n\nHIRING PROCESS\n\n\n\nWe don't hire like a MAG7 or scale up \u2014 in fact we rarely hire compared to them.\n\n\n\nYou shouldn't expect a cookie-cutter high-volume hiring process with us \u2014 but a more boutique one that allows you to see a lot of the organization before joining us.\n\n\n\nWe build a thesis in what an individual brings to our very small team, versus simply matching qualifications:\n\n 1. 30\u2011min intro (values & motivations)\n\n 2. 60\u2011min technical interview (ML fundamentals & problem\u2011solving)\n\n 3. Project discussion with team members\n\n\n\n\nPOSITION STATUS\n\n\u00a0\n\nThis posting represents an active, future internship vacancy on our team. We will be interviewing for this role in the fall.\n\n\u00a0\n\n\nOUR COMMITMENT TO ACCESSIBILITY\n\n\n\nGeorgian is dedicated to building an inclusive environment where everyone can thrive. We provide reasonable accommodations throughout our recruitment process to ensure every candidate has the opportunity to perform at their best. If you require any specific accommodations at any stage, please reach out to us at peopleteam [at]  georgian.io.\n\n\n\n\nUSE OF AI\n\n\n\nInnovation is at our core and we use artificial intelligence (AI) to support parts of our hiring process, such as screening and evaluating applications. These tools are designed to assist - not replace - human decision making and all final hiring decisions are made by our team.  We regularly review our AI tools to help promote fairness and reduce the risk of unintended bias. If you have any questions about how we use AI in our process or would like more information, please contact us at careers [at] georgian.io.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b12104a7206fa345",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "posted_at": "2026-08-19T17:27:07.198000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -961,32 +912,62 @@
       ]
     },
     {
-      "id": "b12104a7206fa345",
+      "id": "7d8b978b9350a276",
       "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
-      "posted_at": "2026-08-19T17:27:07.198000+00:00",
+      "company": "Mirego",
+      "title": "Stagiaire en d\u00e9veloppement logiciel - \u00c9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative - janvier 2027",
+      "location": "Qu\u00e9bec, QC",
+      "url": "https://jobs.lever.co/mirego/0c8b2116-e325-4a26-b87e-a80b4b37dda7",
+      "posted_at": "2026-09-02T14:31:04.657000+00:00",
       "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
+      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec une \u00e9quipe de d\u00e9veloppement exp\u00e9riment\u00e9e ainsi que des sp\u00e9cialistes en gestion de produits, design, assurance qualit\u00e9 et agilit\u00e9, tu participeras \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, que ce soit \u00e0 petite ou grande \u00e9chelle. \nNous croyons que chaque membre de l\u2019\u00e9quipe a un r\u00f4le cl\u00e9 \u00e0 jouer. Ton stage chez Mirego te permettra de relever des d\u00e9fis stimulants, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n\u00a0\nDans l\u2019\u00e9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative, tu contribueras \u00e0 des projets tels que l\u2019extraction des informations documentaires, l\u2019automatisation de processus, l\u2019analyse d\u2019image et l\u2019aide \u00e0 la prise de d\u00e9cision.\n",
       "level": "intern",
       "countries": [
         "ca"
       ]
     },
     {
-      "id": "f05872574795ca63",
+      "id": "810149f922d51d23",
+      "source": "lever",
+      "company": "Mirego",
+      "title": "Stagiaire en d\u00e9veloppement logiciel - janvier 2027",
+      "location": "Qu\u00e9bec, QC",
+      "url": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1",
+      "posted_at": "2026-09-02T14:59:46.500000+00:00",
+      "term": null,
+      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85085bd7043a3bc4",
+      "source": "lever",
+      "company": "ShyftLabs",
+      "title": "AI Engineer Intern",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "posted_at": "2026-07-21T18:59:53.642000+00:00",
+      "term": null,
+      "description": "",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "08f04e7e8417fbd1",
       "source": "workday",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "company": "SOTI (Next-Gen)",
+      "title": "Performance Test Engineer Intern (January 2027 12 Months)",
+      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -1027,107 +1008,6 @@
       "posted_at": null,
       "term": null,
       "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "63f9df3ec24d5248",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "6c54e9dc66cb476a",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "174e86f1fc78e7f3",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Analyst - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "7d8b978b9350a276",
-      "source": "lever",
-      "company": "Mirego",
-      "title": "Stagiaire en d\u00e9veloppement logiciel - \u00c9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative - janvier 2027",
-      "location": "Qu\u00e9bec, QC",
-      "url": "https://jobs.lever.co/mirego/0c8b2116-e325-4a26-b87e-a80b4b37dda7",
-      "posted_at": "2026-09-02T14:31:04.657000+00:00",
-      "term": null,
-      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec une \u00e9quipe de d\u00e9veloppement exp\u00e9riment\u00e9e ainsi que des sp\u00e9cialistes en gestion de produits, design, assurance qualit\u00e9 et agilit\u00e9, tu participeras \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, que ce soit \u00e0 petite ou grande \u00e9chelle. \nNous croyons que chaque membre de l\u2019\u00e9quipe a un r\u00f4le cl\u00e9 \u00e0 jouer. Ton stage chez Mirego te permettra de relever des d\u00e9fis stimulants, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n\u00a0\nDans l\u2019\u00e9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative, tu contribueras \u00e0 des projets tels que l\u2019extraction des informations documentaires, l\u2019automatisation de processus, l\u2019analyse d\u2019image et l\u2019aide \u00e0 la prise de d\u00e9cision.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "810149f922d51d23",
-      "source": "lever",
-      "company": "Mirego",
-      "title": "Stagiaire en d\u00e9veloppement logiciel - janvier 2027",
-      "location": "Qu\u00e9bec, QC",
-      "url": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1",
-      "posted_at": "2026-09-02T14:59:46.500000+00:00",
-      "term": null,
-      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "08f04e7e8417fbd1",
-      "source": "workday",
-      "company": "SOTI (Next-Gen)",
-      "title": "Performance Test Engineer Intern (January 2027 12 Months)",
-      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85085bd7043a3bc4",
-      "source": "lever",
-      "company": "ShyftLabs",
-      "title": "AI Engineer Intern",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
-      "posted_at": "2026-07-21T18:59:53.642000+00:00",
-      "term": null,
-      "description": "",
-      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -1441,48 +1321,6 @@
       ]
     },
     {
-      "id": "b317a19500879197",
-      "source": "workday",
-      "company": "CAE",
-      "title": "\u00a0  C-DS-902 Junior Data Analytics Intern",
-      "location": "Halifax",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Halifax/XMLNAME----C-DS-902-Junior-Data-Analytics-Intern_123391",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "edb3648b056eba8c",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "3a10e8b055b93b0f",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-IT-200 Product Cybersecurity Specialist Intern",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "ed0d0a00f894c65b",
       "source": "workday",
       "company": "Motorola Solutions",
@@ -1578,6 +1416,48 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "b317a19500879197",
+      "source": "workday",
+      "company": "CAE",
+      "title": "\u00a0  C-DS-902 Junior Data Analytics Intern",
+      "location": "Halifax",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Halifax/XMLNAME----C-DS-902-Junior-Data-Analytics-Intern_123391",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "edb3648b056eba8c",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3a10e8b055b93b0f",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-IT-200 Product Cybersecurity Specialist Intern",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1885,21 +1765,6 @@
       ]
     },
     {
-      "id": "a521f9e8a3d4937b",
-      "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6142432004",
-      "posted_at": "2026-09-02T20:47:41-04:00",
-      "term": null,
-      "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "5e8b0cb4b702cf60",
       "source": "greenhouse",
       "company": "Diligent",
@@ -1909,6 +1774,21 @@
       "posted_at": "2026-08-05T07:55:21-04:00",
       "term": null,
       "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a521f9e8a3d4937b",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6142432004",
+      "posted_at": "2026-09-02T20:47:41-04:00",
+      "term": null,
+      "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
       "level": "intern",
       "countries": [
         "ca"
@@ -2278,34 +2158,6 @@
       ]
     },
     {
-      "id": "127d54a56597474f",
-      "source": "workday",
-      "company": "Cisco",
-      "title": "Security Engineer I (Intern) - United States",
-      "location": "RTP, North Carolina, US",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "3083dd0f62e2e1c5",
-      "source": "workday",
-      "company": "Cisco",
-      "title": "Software Engineer I (Intern) - United States",
-      "location": "RTP, North Carolina, US",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "d673f01084148f7f",
       "source": "greenhouse",
       "company": "Stripe",
@@ -2330,6 +2182,34 @@
       "posted_at": "2026-08-18T13:17:06-04:00",
       "term": null,
       "description": "Company Description: At Databricks, we are obsessed with enabling data teams to solve the world\u2019s toughest problems, from security threat detection to cancer drug development. We do this by building and running the world\u2019s best data and AI platform, so our customers can focus on the high value challenges that are central to their own missions. The Mosaic AI organization enables companies to develop AI models and systems using their own data, with technologies ranging from fine-tuning LLMs for enterprise domains, to a platform for building compound AI systems that use retrieval and agents. Mosaic AI is committed to the belief that a company\u2019s AI models are just as valuable as any other core IP, and that high-quality AI models should be available to all. Job description: Most of the world's data+AI problems lie in enterprise domains, behind closed doors. Our research team's goal is to push the frontier of \"domain adaptation\" - how can we develop LLMs and AI systems that work well for custom domains. To do this we are tackling open research problems on a range of topics, from how to scale/automate eval, fine tune with synthetic data, retrieval augmentation, fast/efficient inference and more.&nbsp; You will work with our research team on projects focused on adapting LLMs and AI systems towards enterprise domains. This may include: Adapting, improving, and evaluating a method from the literature. Designing an entirely new method for domain adaptation. Composing together multiple methods to create new recipes for efficient post-training. Evaluation of LLMs and AI systems.&nbsp; Your qualifications and qualities: &nbsp;Required: Research experience in and proficiency with the fundamentals of deep learning. Pursuing a PhD in computer science or related fields (electrical engineering, neuroscience, physics, math, etc.). Proficient software engineering skills, including with PyTorch. &nbsp; Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . &nbsp; SF Bay Area Hourly Rate $54 &mdash; $60 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "127d54a56597474f",
+      "source": "workday",
+      "company": "Cisco",
+      "title": "Security Engineer I (Intern) - United States",
+      "location": "RTP, North Carolina, US",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "3083dd0f62e2e1c5",
+      "source": "workday",
+      "company": "Cisco",
+      "title": "Software Engineer I (Intern) - United States",
+      "location": "RTP, North Carolina, US",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "us"
@@ -2411,63 +2291,6 @@
       ]
     },
     {
-      "id": "d4f2ec5fbd510153",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "720775834abc20b7",
       "source": "greenhouse",
       "company": "DoorDash",
@@ -2510,6 +2333,63 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "d4f2ec5fbd510153",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2948,21 +2828,6 @@
       ]
     },
     {
-      "id": "f4793c9af103bec9",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7766277003",
-      "posted_at": "2026-08-12T15:12:11-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Affirm Card is one of the company\u2019s fastest-growing products and an increasingly significant contributor to overall platform GMV. Our team builds and operates the systems behind every card issued at Affirm and every transaction processed across Affirm\u2019s card products, including the Affirm Card and one-time virtual cards. We own the core issuing and processing infrastructure powering authorization, transaction processing, account and card lifecycle management, tokenization, and platform security. As Affirm continues to expand its card offerings, the scale, complexity, and reliability requirements of our systems continue to grow. You will work on systems that sit directly on the critical path of every card transaction, collaborating closely with product and cross-functional partner teams. This is a unique opportunity to help shape some of Affirm\u2019s most strategic and fastest-growing products while solving complex engineering challenges at scale. What You'll Do &nbsp; With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For &nbsp; You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year:&nbsp; 165,000 &nbsp;-&nbsp; 225,000 USA base pay range (all other U.S. states) per year:&nbsp; 146,000 &nbsp;-&nbsp; 206,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "55c25fa6faed0f71",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2975,6 +2840,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "f4793c9af103bec9",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7766277003",
+      "posted_at": "2026-08-12T15:12:11-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Affirm Card is one of the company\u2019s fastest-growing products and an increasingly significant contributor to overall platform GMV. Our team builds and operates the systems behind every card issued at Affirm and every transaction processed across Affirm\u2019s card products, including the Affirm Card and one-time virtual cards. We own the core issuing and processing infrastructure powering authorization, transaction processing, account and card lifecycle management, tokenization, and platform security. As Affirm continues to expand its card offerings, the scale, complexity, and reliability requirements of our systems continue to grow. You will work on systems that sit directly on the critical path of every card transaction, collaborating closely with product and cross-functional partner teams. This is a unique opportunity to help shape some of Affirm\u2019s most strategic and fastest-growing products while solving complex engineering challenges at scale. What You'll Do &nbsp; With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For &nbsp; You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year:&nbsp; 165,000 &nbsp;-&nbsp; 225,000 USA base pay range (all other U.S. states) per year:&nbsp; 146,000 &nbsp;-&nbsp; 206,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2993,21 +2873,6 @@
       ]
     },
     {
-      "id": "795dc035d17c5d87",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
-      "posted_at": "2026-08-12T15:12:11-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team\u2019s goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization. As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality. Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives. What You'll Do: Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines. Design and implement technical solutions to optimize test execution time and enhance test stability. Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company. Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation. Contribute to the evolution of the company\u2019s overall test strategy. With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. This role includes participation in an on-call rotation What We Look For: An East Coast location to enable smoother collaboration with European colleagues. 3+ years of experience in test automation. Proficient in both TypeScript and Python. Hands-on experience with Playwright and Pytest. Experience in building and optimizing CI pipelines. Experience with Docker and AWS. Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies. Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans. Experience in building or enhancing test automation frameworks and infrastructure is highly desirable. Mobile, infrastructure and performance test automation experience will be considered a significant advantage. Eager to grow and continuously learn new skills. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. &nbsp;#Li-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For posit",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "667ff04f073744bf",
       "source": "greenhouse",
       "company": "Affirm",
@@ -3020,6 +2885,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "795dc035d17c5d87",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+      "posted_at": "2026-08-12T15:12:11-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team\u2019s goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization. As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality. Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives. What You'll Do: Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines. Design and implement technical solutions to optimize test execution time and enhance test stability. Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company. Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation. Contribute to the evolution of the company\u2019s overall test strategy. With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. This role includes participation in an on-call rotation What We Look For: An East Coast location to enable smoother collaboration with European colleagues. 3+ years of experience in test automation. Proficient in both TypeScript and Python. Hands-on experience with Playwright and Pytest. Experience in building and optimizing CI pipelines. Experience with Docker and AWS. Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies. Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans. Experience in building or enhancing test automation frameworks and infrastructure is highly desirable. Mobile, infrastructure and performance test automation experience will be considered a significant advantage. Eager to grow and continuously learn new skills. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. &nbsp;#Li-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For posit",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -3233,6 +3113,62 @@
       ]
     },
     {
+      "id": "bc6524fddb8053f6",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "O'Fallon, Missouri",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-289342",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "61c8da9781499897",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II - Blockchain",
+      "location": "Arlington, Virginia",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II---Blockchain_R-290740",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a5c964362d7dc1a8",
+      "source": "workday",
+      "company": "BCI",
+      "title": "Platform Engineer ServiceNow Co-op/Internship (Winter 2027 & Summer 2027)",
+      "location": "Victoria, BC",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Platform-Engineer-ServiceNow-Co-op-Internship--Winter-2027---Summer-2027-_JR101585",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3eb0317929a75263",
+      "source": "workday",
+      "company": "BCI",
+      "title": "Analyst, Early Talent Program, Infrastructure & Renewable Resources",
+      "location": "Victoria, BC",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Analyst--Early-Talent-Program--Infrastructure---Renewable-Resources_JR101589",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "023a2875647b8358",
       "source": "workday",
       "company": "Royal Bank of Canada (Early Talent)",
@@ -3331,45 +3267,45 @@
       ]
     },
     {
-      "id": "3eb0317929a75263",
+      "id": "5cb818c6598b24e6",
       "source": "workday",
-      "company": "BCI",
-      "title": "Analyst, Early Talent Program, Infrastructure & Renewable Resources",
-      "location": "Victoria, BC",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Analyst--Early-Talent-Program--Infrastructure---Renewable-Resources_JR101589",
+      "company": "Intel",
+      "title": "Software Research Engineering - (PhD Intern)",
+      "location": "US, Oregon, Hillsboro",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
       "posted_at": null,
       "term": null,
-      "level": "newgrad",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "da48dcd4efe66e65",
+      "source": "workday",
+      "company": "Intel",
+      "title": "AI and Compiler Engineering Graduate Intern",
+      "location": "Virtual Canada",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
       "countries": [
         "ca"
       ]
     },
     {
-      "id": "bc6524fddb8053f6",
+      "id": "21330a94f1b0e282",
       "source": "workday",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "O'Fallon, Missouri",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-289342",
+      "company": "Intel",
+      "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
+      "location": "Canada, Toronto",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "61c8da9781499897",
-      "source": "workday",
-      "company": "Mastercard",
-      "title": "Software Engineer II - Blockchain",
-      "location": "Arlington, Virginia",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II---Blockchain_R-290740",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -3463,48 +3399,6 @@
       "title": "2027 Winter Student Opportunities RBC Borealis -Machine Learning Software Engineer, 4 Months\u00a0- Montreal",
       "location": "MONTR\u00c9AL, Quebec, Canada",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "5cb818c6598b24e6",
-      "source": "workday",
-      "company": "Intel",
-      "title": "Software Research Engineering - (PhD Intern)",
-      "location": "US, Oregon, Hillsboro",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "da48dcd4efe66e65",
-      "source": "workday",
-      "company": "Intel",
-      "title": "AI and Compiler Engineering Graduate Intern",
-      "location": "Virtual Canada",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "21330a94f1b0e282",
-      "source": "workday",
-      "company": "Intel",
-      "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
-      "location": "Canada, Toronto",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -4422,24 +4316,6 @@
       "posted_at": "2026-08-03T06:15:11+00:00",
       "term": "Summer 2027",
       "degrees": [
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a1010bc6b63a3e50",
-      "source": "simplify",
-      "company": "TikTok",
-      "title": "Software Engineer Intern",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7662700594251958581",
-      "posted_at": "2026-08-03T06:15:12+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
         "Master's"
       ],
       "level": "intern",
@@ -8761,24 +8637,6 @@
       ]
     },
     {
-      "id": "baac630552a3b717",
-      "source": "simplify",
-      "company": "Finastra",
-      "title": "AI Engineer Intern - Summer 2027",
-      "location": "Atlanta, GA",
-      "url": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079",
-      "posted_at": "2026-08-27T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "79895a9044574f0d",
       "source": "simplify",
       "company": "Tesla",
@@ -9375,24 +9233,6 @@
       "posted_at": "2026-08-31T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "803b98721d79e2a4",
-      "source": "simplify",
-      "company": "Compeer Financial",
-      "title": "Data Analytics Intern",
-      "location": "Eau Claire, WI; Rochester, MN; Lakeville, MN; Mankato, MN; Bloomington, IL",
-      "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008",
-      "posted_at": "2026-08-31T19:36:07+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
       "level": "intern",
       "countries": [
         "us"
@@ -16994,23 +16834,6 @@
       ]
     },
     {
-      "id": "35c05edca00d0b44",
-      "source": "simplify",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - Interns/Graduates",
-      "location": "Maple Grove, MN",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813549535",
-      "posted_at": "2026-09-14T06:20:04+00:00",
-      "term": "Summer 2027; Summer 2028",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "05cf8b84fc7d2cfe",
       "source": "simplify",
       "company": "Guardian Life",
@@ -17326,24 +17149,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a9eee5a9e8a94561",
-      "source": "simplify",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "location": "Redondo Beach, CA; Palmdale, CA; San Diego, CA; El Segundo, CA",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
-      "posted_at": "2026-09-14T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
       ],
       "level": "intern",
       "countries": [
@@ -19378,6 +19183,42 @@
       ]
     },
     {
+      "id": "41eb144372efcc6f",
+      "source": "simplify",
+      "company": "Smith+Nephew",
+      "title": "Data Science Intern - AI Center of Excellence",
+      "location": "Pittsburgh, PA",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "951b504e966afb97",
+      "source": "simplify",
+      "company": "Smith+Nephew",
+      "title": "Robotics Software Engineer Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "8fd1a25f08f43c55",
       "source": "simplify-newgrad",
       "company": "Perpay",
@@ -20374,23 +20215,6 @@
       "location": "Hazelwood, MO",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1",
       "posted_at": "2026-07-07T22:18:46+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "d11f2626b444de82",
-      "source": "simplify-newgrad",
-      "company": "The Boeing Company",
-      "title": "Entry Level Simulation Software Engineer",
-      "location": "Hazelwood, MO",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853",
-      "posted_at": "2026-07-07T22:18:08+00:00",
       "term": null,
       "degrees": [
         "Bachelor's"
