@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T00:16:07.930960+00:00",
-  "open_count": 1495,
-  "new_count": 25,
+  "generated_at": "2026-09-18T07:28:59.733443+00:00",
+  "open_count": 1501,
+  "new_count": 8,
   "tier": "full",
   "jobs": [
     {
@@ -67,6 +67,20 @@
       "title": "JR-8229 \u2013 Radar Systems Engineering COOP",
       "location": "Ottawa",
       "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "71accb0287dc2ab0",
+      "source": "workday",
+      "company": "Bank of Montreal (External)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -257,17 +271,115 @@
       ]
     },
     {
-      "id": "71accb0287dc2ab0",
+      "id": "b162794705a1b921",
       "source": "workday",
-      "company": "Bank of Montreal (External)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+      "company": "TD Bank",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Data Engineer",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "20a8359f721dad0b",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Cyber Security",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "627ea8ddd7cefd1e",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Cloud/DevOps",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "62e28de6a28b13b6",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Data Analyst",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "487ce3218b53fb50",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "03c5977639361271",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer III",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III_R_1507027",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "2ac2cce1afa6cc7b",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "125c5927cd084410",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Cyber Security",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -352,118 +464,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "b162794705a1b921",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Data Engineer",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "20a8359f721dad0b",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Cyber Security",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "627ea8ddd7cefd1e",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Cloud/DevOps",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "62e28de6a28b13b6",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Data Analyst",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "487ce3218b53fb50",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "cf031b5e334cad79",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer III (Salesforce Loyalty Management Technical Lead)",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Software-Engineer-III--Salesforce-Loyalty-Management-Technical-Lead-_R_1508495",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "03c5977639361271",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer III",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III_R_1507027",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "2ac2cce1afa6cc7b",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -765,6 +765,34 @@
       ]
     },
     {
+      "id": "88987cb6dda2e9ae",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+      "location": "Burlington, VT",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "f05872574795ca63",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "566e155720b1ff72",
       "source": "ashby",
       "company": "Georgian",
@@ -825,16 +853,43 @@
       ]
     },
     {
-      "id": "d07760a1daea10b2",
-      "source": "ashby",
-      "company": "Exegy",
-      "title": "Stagiaire en d\u00e9veloppement logiciel / Software Developer Intern",
-      "location": "Montreal",
-      "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
-      "posted_at": "2026-09-10T19:32:54.144+00:00",
+      "id": "63f9df3ec24d5248",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "posted_at": null,
       "term": null,
-      "description": "\u00c0 propos d'Exegy\n\nExegy est un leader mondial en mati\u00e8re de donn\u00e9es de march\u00e9 intelligentes, de syst\u00e8mes de trading avanc\u00e9s et de technologies \u00e9volutives. Exegy agit en tant que partenaire de confiance pour l'ensemble de l'\u00e9cosyst\u00e8me financier : c\u00f4t\u00e9 acheteur, c\u00f4t\u00e9 vendeur, bourses et entreprises de technologie des services financiers \u00e0 travers le monde. Dont le si\u00e8ge social est \u00e0 St. Louis, avec des bureaux r\u00e9gionaux en Am\u00e9rique du Nord, au Royaume-Uni/Europe et en Asie-Pacifique, Exegy dispose d'une pr\u00e9sence mondiale pour offrir un support de classe mondiale et des services g\u00e9r\u00e9s \u00e0 sa client\u00e8le de participants d'\u00e9lite aux march\u00e9s financiers.\n\nR\u00e9sum\u00e9 du poste\n\nExegy est \u00e0 la recherche d'un(e) stagiaire en d\u00e9veloppement logiciel pour soutenir notre \u00e9quipe d'ing\u00e9nierie dans le d\u00e9veloppement de logiciels en Python, d'outils d'automatisation et d'applications internes visant \u00e0 am\u00e9liorer l'efficacit\u00e9, la fiabilit\u00e9 et l'\u00e9volutivit\u00e9 de nos processus technologiques et op\u00e9rationnels.\n\nIl s'agit d'un poste de stage coop\u00e9ratif de 4 mois (avec possibilit\u00e9 de prolongation \u00e0 8 mois), bas\u00e9 \u00e0 Montr\u00e9al, pour la session Hiver 2026\u20132027. Nous recherchons des \u00e9tudiant(e)s en fin de parcours (S3 ou \u00e9quivalent). La ma\u00eetrise du fran\u00e7ais est requise pour ce poste.\n\nL'\u00e9tudiant(e) acquerra une exp\u00e9rience pratique en d\u00e9veloppement logiciel dans un environnement d'ing\u00e9nierie professionnel, en travaillant aux c\u00f4t\u00e9s de d\u00e9veloppeurs et d'ing\u00e9nieurs syst\u00e8mes exp\u00e9riment\u00e9s sur des projets concrets. Le r\u00f4le mettra fortement l'accent sur le d\u00e9veloppement Python et l'automatisation, notamment l'identification de processus manuels ou r\u00e9p\u00e9titifs pouvant \u00eatre optimis\u00e9s par le biais de logiciels.\n\nResponsabilit\u00e9s\n\n - D\u00e9velopper, tester, d\u00e9boguer et maintenir des scripts Python, des applications et des outils d'automatisation\n\n - Concevoir et am\u00e9liorer des flux de travail automatis\u00e9s afin de r\u00e9duire les t\u00e2ches manuelles d'ing\u00e9nierie et d'exploitation\n\n - Cr\u00e9er des outils et utilitaires internes pour soutenir le provisionnement, la configuration, la surveillance, les tests et la gestion des syst\u00e8mes\n\n - Travailler avec des API, des donn\u00e9es structur\u00e9es et des syst\u00e8mes logiciels existants pour int\u00e9grer et automatiser des processus\n\n - Participer au d\u00e9veloppement et \u00e0 la maintenance des logiciels utilis\u00e9s pour soutenir les plateformes technologiques haute performance d'Exegy\n\n - Diagnostiquer les probl\u00e8mes logiciels et contribuer \u00e0 l'analyse des causes profondes et \u00e0 la r\u00e9solution de probl\u00e8mes techniques\n\n - R\u00e9diger un code propre, maintenable et bien document\u00e9 en suivant les bonnes pratiques de d\u00e9veloppement logiciel \u00e9tablies\n\n - D\u00e9velopper des tests unitaires et participer aux revues de code afin d'am\u00e9liorer la qualit\u00e9 et la fiabilit\u00e9 des logiciels\n\n - Maintenir la documentation technique pour les applications, les scripts d'automatisation, les flux de travail et les processus d'ing\u00e9nierie\n\n - Collaborer avec les d\u00e9veloppeurs, les ing\u00e9nieurs syst\u00e8mes et d'autres \u00e9quipes techniques pour comprendre les besoins et les traduire en solutions logicielles concr\u00e8tes\n\n - Rechercher et \u00e9valuer de nouvelles technologies, outils et approches susceptibles d'am\u00e9liorer l'automatisation et l'efficacit\u00e9 de l'ing\u00e9nierie\n\n - Participer aux r\u00e9unions d'\u00e9quipe, aux discussions techniques et au cycle de d\u00e9veloppement logiciel dans son ensemble\n\nProfil recherch\u00e9\n\n - En fin de parcours dans un programme de g\u00e9nie informatique, de g\u00e9nie logiciel, d'informatique ou dans une discipline technique connexe (S3 ou \u00e9quivalent)\n\n - Exp\u00e9rience en programmation Python acquise dans le cadre de cours, de projets personnels, de stages ou d'exp\u00e9riences professionnelles ant\u00e9rieures\n\n - Compr\u00e9hension des fondamentaux du d\u00e9veloppement logiciel, notamment les structures de donn\u00e9es, la programmation orient\u00e9e objet, les tests et le d\u00e9bogage\n\n - Familiarit\u00e9 avec Git ou un autre syst\u00e8me de contr\u00f4le de version\n\n - Int\u00e9r\u00eat pour l'automatisation logicielle, les outils internes, le DevOps, l'ing\u00e9nierie des syst\u00e8mes ou les technologies d'infrastructure\n\n - Solides comp\u00e9tences analytiques et en r\u00e9solution de probl\u00e8mes\n\n - Capacit\u00e9 \u00e0 apprendre rapidement de nouvelles technologies et \u00e0 travailler en collaboration dans un environnement technique\n\n - Excellentes comp\u00e9tences en communication \u00e9crite et orale, en fran\u00e7ais et en anglais\n\nUne exposition \u00e0 Linux, aux API REST, au CI/CD, aux technologies cloud, \u00e0 l'automatisation d'infrastructure ou aux technologies financi\u00e8res est un atout, mais n'est pas requise.\n\nCe stage offre l'opportunit\u00e9 de contribuer directement \u00e0 des initiatives d'ing\u00e9nierie orient\u00e9es production, tout en d\u00e9veloppant une exp\u00e9rience pratique en d\u00e9veloppement Python, en automatisation, en int\u00e9gration de syst\u00e8mes et en pratiques d'ing\u00e9nierie modernes.\n\n_______________________________________________________________________________\n\nAbout Exegy\n\nExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St. Louis with regional offices in North America, the UK/Europe and Asia Pacific, Exegy has the global footprint to deliver world-class support and managed services to its customer base of elite financial market participants.\n\nJob Summary\n\nExegy is seeking a Software Developer Intern to support our engineering team in developing Python-based software, automation tools, and internal applications that improve the efficiency, reliability, and scalability of our technology and operational processes.\n\nThis is a 4-month co-op position (with the possibility of extension to 8 months) based in Montreal, for the Winter 2026\u20132027 term. We are looking for students in the final stages of their program (S3 or equivalent).\n\nThe student will gain hands-on software development experience in a professional engineering environment, working alongside experienced developers and systems engineers on real-world projects. The role will have a strong emphasis on Python development and automation, including identifying manual or repetitive processes that can be streamlined through software.\n\nResponsibilities\n\n - Develop, test, debug, and maintain Python scripts, applications, and automation tools\n\n - Design and improve automated workflows that reduce manual engineering and operational tasks\n\n - Build internal tools and utilities to support provisioning, configuration, monitoring, testing, and system management\n\n - Work with APIs, structured data, and existing software systems to integrate and automate processes\n\n - Assist with developing and maintaining software used to support Exegy's high-performance technology platforms\n\n - Troubleshoot software issues and contribute to root-cause analysis and technical problem solving\n\n - Write clean, maintainable, and well-documented code following established software development practices\n\n - Develop unit tests and participate in code reviews to improve software quality and reliability\n\n - Maintain technical documentation for applications, automation scripts, workflows, and engineering processes\n\n - Collaborate with software developers, systems engineers, and other technical teams to understand requirements and translate them into practical software solutions\n\n - Research and evaluate new technologies, tools, and approaches that could improve automation and engineering efficiency\n\n - Participate in team meetings, technical discussions, and the broader software development lifecycle\n\nOur Ideal Candidate\n\n - Nearing the end of a degree in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline (S3 or equivalent)\n\n - Experience programming in Python through coursework, personal projects, internships, or previous work experience\n\n - Understanding of software development fundamentals, including data structures, object-oriented programming, testing, and debugging\n\n - Familiarity with Git or another source-control system\n\n - Interest in software automation, internal tooling, DevOps, systems engineering, or infrastructure technologies\n\n - Strong analytical and problem-solving skills\n\n - Ability to learn new technologies quickly and work collaboratively in a technical team environment\n\n - Strong written and verbal communication skills\n\nExposure to Linux, REST APIs, CI/CD, cloud technologies, infrastructure automation, or financial technology is beneficial but not required.\n\nThis internship provides the opportunity to contribute directly to production-oriented engineering initiatives while developing practical experience in Python software development, automation, systems integration, and modern engineering practices.",
-      "level": "intern",
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6c54e9dc66cb476a",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "174e86f1fc78e7f3",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Analyst - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -849,6 +904,21 @@
       "posted_at": "2026-08-19T17:27:07.198000+00:00",
       "term": null,
       "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d07760a1daea10b2",
+      "source": "ashby",
+      "company": "Exegy",
+      "title": "Stagiaire en d\u00e9veloppement logiciel / Software Developer Intern",
+      "location": "Montreal",
+      "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
+      "posted_at": "2026-09-10T19:32:54.144+00:00",
+      "term": null,
+      "description": "\u00c0 propos d'Exegy\n\nExegy est un leader mondial en mati\u00e8re de donn\u00e9es de march\u00e9 intelligentes, de syst\u00e8mes de trading avanc\u00e9s et de technologies \u00e9volutives. Exegy agit en tant que partenaire de confiance pour l'ensemble de l'\u00e9cosyst\u00e8me financier : c\u00f4t\u00e9 acheteur, c\u00f4t\u00e9 vendeur, bourses et entreprises de technologie des services financiers \u00e0 travers le monde. Dont le si\u00e8ge social est \u00e0 St. Louis, avec des bureaux r\u00e9gionaux en Am\u00e9rique du Nord, au Royaume-Uni/Europe et en Asie-Pacifique, Exegy dispose d'une pr\u00e9sence mondiale pour offrir un support de classe mondiale et des services g\u00e9r\u00e9s \u00e0 sa client\u00e8le de participants d'\u00e9lite aux march\u00e9s financiers.\n\nR\u00e9sum\u00e9 du poste\n\nExegy est \u00e0 la recherche d'un(e) stagiaire en d\u00e9veloppement logiciel pour soutenir notre \u00e9quipe d'ing\u00e9nierie dans le d\u00e9veloppement de logiciels en Python, d'outils d'automatisation et d'applications internes visant \u00e0 am\u00e9liorer l'efficacit\u00e9, la fiabilit\u00e9 et l'\u00e9volutivit\u00e9 de nos processus technologiques et op\u00e9rationnels.\n\nIl s'agit d'un poste de stage coop\u00e9ratif de 4 mois (avec possibilit\u00e9 de prolongation \u00e0 8 mois), bas\u00e9 \u00e0 Montr\u00e9al, pour la session Hiver 2026\u20132027. Nous recherchons des \u00e9tudiant(e)s en fin de parcours (S3 ou \u00e9quivalent). La ma\u00eetrise du fran\u00e7ais est requise pour ce poste.\n\nL'\u00e9tudiant(e) acquerra une exp\u00e9rience pratique en d\u00e9veloppement logiciel dans un environnement d'ing\u00e9nierie professionnel, en travaillant aux c\u00f4t\u00e9s de d\u00e9veloppeurs et d'ing\u00e9nieurs syst\u00e8mes exp\u00e9riment\u00e9s sur des projets concrets. Le r\u00f4le mettra fortement l'accent sur le d\u00e9veloppement Python et l'automatisation, notamment l'identification de processus manuels ou r\u00e9p\u00e9titifs pouvant \u00eatre optimis\u00e9s par le biais de logiciels.\n\nResponsabilit\u00e9s\n\n - D\u00e9velopper, tester, d\u00e9boguer et maintenir des scripts Python, des applications et des outils d'automatisation\n\n - Concevoir et am\u00e9liorer des flux de travail automatis\u00e9s afin de r\u00e9duire les t\u00e2ches manuelles d'ing\u00e9nierie et d'exploitation\n\n - Cr\u00e9er des outils et utilitaires internes pour soutenir le provisionnement, la configuration, la surveillance, les tests et la gestion des syst\u00e8mes\n\n - Travailler avec des API, des donn\u00e9es structur\u00e9es et des syst\u00e8mes logiciels existants pour int\u00e9grer et automatiser des processus\n\n - Participer au d\u00e9veloppement et \u00e0 la maintenance des logiciels utilis\u00e9s pour soutenir les plateformes technologiques haute performance d'Exegy\n\n - Diagnostiquer les probl\u00e8mes logiciels et contribuer \u00e0 l'analyse des causes profondes et \u00e0 la r\u00e9solution de probl\u00e8mes techniques\n\n - R\u00e9diger un code propre, maintenable et bien document\u00e9 en suivant les bonnes pratiques de d\u00e9veloppement logiciel \u00e9tablies\n\n - D\u00e9velopper des tests unitaires et participer aux revues de code afin d'am\u00e9liorer la qualit\u00e9 et la fiabilit\u00e9 des logiciels\n\n - Maintenir la documentation technique pour les applications, les scripts d'automatisation, les flux de travail et les processus d'ing\u00e9nierie\n\n - Collaborer avec les d\u00e9veloppeurs, les ing\u00e9nieurs syst\u00e8mes et d'autres \u00e9quipes techniques pour comprendre les besoins et les traduire en solutions logicielles concr\u00e8tes\n\n - Rechercher et \u00e9valuer de nouvelles technologies, outils et approches susceptibles d'am\u00e9liorer l'automatisation et l'efficacit\u00e9 de l'ing\u00e9nierie\n\n - Participer aux r\u00e9unions d'\u00e9quipe, aux discussions techniques et au cycle de d\u00e9veloppement logiciel dans son ensemble\n\nProfil recherch\u00e9\n\n - En fin de parcours dans un programme de g\u00e9nie informatique, de g\u00e9nie logiciel, d'informatique ou dans une discipline technique connexe (S3 ou \u00e9quivalent)\n\n - Exp\u00e9rience en programmation Python acquise dans le cadre de cours, de projets personnels, de stages ou d'exp\u00e9riences professionnelles ant\u00e9rieures\n\n - Compr\u00e9hension des fondamentaux du d\u00e9veloppement logiciel, notamment les structures de donn\u00e9es, la programmation orient\u00e9e objet, les tests et le d\u00e9bogage\n\n - Familiarit\u00e9 avec Git ou un autre syst\u00e8me de contr\u00f4le de version\n\n - Int\u00e9r\u00eat pour l'automatisation logicielle, les outils internes, le DevOps, l'ing\u00e9nierie des syst\u00e8mes ou les technologies d'infrastructure\n\n - Solides comp\u00e9tences analytiques et en r\u00e9solution de probl\u00e8mes\n\n - Capacit\u00e9 \u00e0 apprendre rapidement de nouvelles technologies et \u00e0 travailler en collaboration dans un environnement technique\n\n - Excellentes comp\u00e9tences en communication \u00e9crite et orale, en fran\u00e7ais et en anglais\n\nUne exposition \u00e0 Linux, aux API REST, au CI/CD, aux technologies cloud, \u00e0 l'automatisation d'infrastructure ou aux technologies financi\u00e8res est un atout, mais n'est pas requise.\n\nCe stage offre l'opportunit\u00e9 de contribuer directement \u00e0 des initiatives d'ing\u00e9nierie orient\u00e9es production, tout en d\u00e9veloppant une exp\u00e9rience pratique en d\u00e9veloppement Python, en automatisation, en int\u00e9gration de syst\u00e8mes et en pratiques d'ing\u00e9nierie modernes.\n\n_______________________________________________________________________________\n\nAbout Exegy\n\nExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St. Louis with regional offices in North America, the UK/Europe and Asia Pacific, Exegy has the global footprint to deliver world-class support and managed services to its customer base of elite financial market participants.\n\nJob Summary\n\nExegy is seeking a Software Developer Intern to support our engineering team in developing Python-based software, automation tools, and internal applications that improve the efficiency, reliability, and scalability of our technology and operational processes.\n\nThis is a 4-month co-op position (with the possibility of extension to 8 months) based in Montreal, for the Winter 2026\u20132027 term. We are looking for students in the final stages of their program (S3 or equivalent).\n\nThe student will gain hands-on software development experience in a professional engineering environment, working alongside experienced developers and systems engineers on real-world projects. The role will have a strong emphasis on Python development and automation, including identifying manual or repetitive processes that can be streamlined through software.\n\nResponsibilities\n\n - Develop, test, debug, and maintain Python scripts, applications, and automation tools\n\n - Design and improve automated workflows that reduce manual engineering and operational tasks\n\n - Build internal tools and utilities to support provisioning, configuration, monitoring, testing, and system management\n\n - Work with APIs, structured data, and existing software systems to integrate and automate processes\n\n - Assist with developing and maintaining software used to support Exegy's high-performance technology platforms\n\n - Troubleshoot software issues and contribute to root-cause analysis and technical problem solving\n\n - Write clean, maintainable, and well-documented code following established software development practices\n\n - Develop unit tests and participate in code reviews to improve software quality and reliability\n\n - Maintain technical documentation for applications, automation scripts, workflows, and engineering processes\n\n - Collaborate with software developers, systems engineers, and other technical teams to understand requirements and translate them into practical software solutions\n\n - Research and evaluate new technologies, tools, and approaches that could improve automation and engineering efficiency\n\n - Participate in team meetings, technical discussions, and the broader software development lifecycle\n\nOur Ideal Candidate\n\n - Nearing the end of a degree in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline (S3 or equivalent)\n\n - Experience programming in Python through coursework, personal projects, internships, or previous work experience\n\n - Understanding of software development fundamentals, including data structures, object-oriented programming, testing, and debugging\n\n - Familiarity with Git or another source-control system\n\n - Interest in software automation, internal tooling, DevOps, systems engineering, or infrastructure technologies\n\n - Strong analytical and problem-solving skills\n\n - Ability to learn new technologies quickly and work collaboratively in a technical team environment\n\n - Strong written and verbal communication skills\n\nExposure to Linux, REST APIs, CI/CD, cloud technologies, infrastructure automation, or financial technology is beneficial but not required.\n\nThis internship provides the opportunity to contribute directly to production-oriented engineering initiatives while developing practical experience in Python software development, automation, systems integration, and modern engineering practices.",
       "level": "intern",
       "countries": [
         "ca"
@@ -897,31 +967,17 @@
       ]
     },
     {
-      "id": "88987cb6dda2e9ae",
+      "id": "08f04e7e8417fbd1",
       "source": "workday",
-      "company": "Marvell",
-      "title": "SRAM Software Engineer Intern, BS - Summer 2027",
-      "location": "Burlington, VT",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+      "company": "SOTI (Next-Gen)",
+      "title": "Performance Test Engineer Intern (January 2027 12 Months)",
+      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "f05872574795ca63",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -949,62 +1005,6 @@
       "posted_at": "2026-09-02T14:59:46.500000+00:00",
       "term": null,
       "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "63f9df3ec24d5248",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "6c54e9dc66cb476a",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "174e86f1fc78e7f3",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Analyst - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "08f04e7e8417fbd1",
-      "source": "workday",
-      "company": "SOTI (Next-Gen)",
-      "title": "Performance Test Engineer Intern (January 2027 12 Months)",
-      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
-      "posted_at": null,
-      "term": null,
       "level": "intern",
       "countries": [
         "ca"
@@ -1065,6 +1065,20 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "f2be086b25f30d26",
+      "source": "workday",
+      "company": "Bank of Montreal (Privileged)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1228,20 +1242,6 @@
       "title": "Site Reliability Engineering (SRE) Intern",
       "location": "Canada, Quebec, Montreal",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Site-Reliability-Engineering--SRE--Intern_JR111560",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "f2be086b25f30d26",
-      "source": "workday",
-      "company": "Bank of Montreal (Privileged)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1600,34 +1600,6 @@
       ]
     },
     {
-      "id": "a8ff2a5254223a25",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1860c6e1a37bab94",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "6db5090c47acc4dc",
       "source": "workday",
       "company": "Altera",
@@ -1651,6 +1623,34 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a8ff2a5254223a25",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1860c6e1a37bab94",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "us"
       ]
@@ -2142,34 +2142,6 @@
       ]
     },
     {
-      "id": "9598095cd97391d6",
-      "source": "workday",
-      "company": "Salesforce",
-      "title": "Software Engineer II - Slack Developer Experience AI",
-      "location": "Canada - Toronto",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineer-II--Machine-Learning---Slack_JR358348-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "4f907e8db5f36275",
-      "source": "workday",
-      "company": "Salesforce",
-      "title": "Software Engineer II (Full-Stack)",
-      "location": "North Carolina - Raleigh",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "0b845921ded5a707",
       "source": "workday",
       "company": "Adobe",
@@ -2196,6 +2168,34 @@
       "level": "newgrad",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "9598095cd97391d6",
+      "source": "workday",
+      "company": "Salesforce",
+      "title": "Software Engineer II - Slack Developer Experience AI",
+      "location": "Canada - Toronto",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineer-II--Machine-Learning---Slack_JR358348-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "4f907e8db5f36275",
+      "source": "workday",
+      "company": "Salesforce",
+      "title": "Software Engineer II (Full-Stack)",
+      "location": "North Carolina - Raleigh",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2379,6 +2379,21 @@
       ]
     },
     {
+      "id": "c900c2b81d2de48d",
+      "source": "greenhouse",
+      "company": "Pinterest",
+      "title": "Software Engineer II, Android",
+      "location": "Toronto, ON, CA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
+      "posted_at": "2026-09-16T14:51:43-04:00",
+      "term": null,
+      "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop Grow as an engineer by working with world-class peers on varied and high impact projects Leverage AI to seek faster execution (i.e. draft, prototype, outline) and explore alternative options (i.e. iterate, compare approaches) Leverage AI to synthesize information (summarize, distill themes) and automate repeatable tasks (documentation, reporting, QA checks) &nbsp; What we\u2019re looking for: Deep understanding of Android development and best practices in Kotlin and/or Java, e.g. Activity Lifecycle, memory management, etc. 3+ years of industry Android application development experience, building consumer or business facing products Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers Ability to keep up-to-date with new technologies to understand what should be incorporated Strong collaboration and communication skills Demonstrated ability to use AI to improve speed and quality in your day-to-day workflow for relevant outputs. Strong track record of critical evaluation and verification of AI-assisted work (e.g., testing, source-checking, data validation, peer review). High integrity and ownership: you protect sensitive data, avoid over-reliance on AI, and remain accountable for final decisions and deliverables. Bachelor\u2019s degree in Computer Science, a related field, or equivalent experience. &nbsp; Relocation Statement: &nbsp;This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model. &nbsp; In-Office Requirement Statement: We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. This role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in Ontario. #LI-REMOTE &nbsp; At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found&nbsp; here . Canada based applicants only $139,378 &mdash; $189,378 CAD Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&nbsp; this form for support. &nbsp; By submitting this application, I certify that all information submitted in my ",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "26ced3507f729e19",
       "source": "workday",
       "company": "Cadence",
@@ -2401,21 +2416,6 @@
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
       "posted_at": null,
       "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "c900c2b81d2de48d",
-      "source": "greenhouse",
-      "company": "Pinterest",
-      "title": "Software Engineer II, Android",
-      "location": "Toronto, ON, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
-      "posted_at": "2026-09-16T14:51:43-04:00",
-      "term": null,
-      "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop Grow as an engineer by working with world-class peers on varied and high impact projects Leverage AI to seek faster execution (i.e. draft, prototype, outline) and explore alternative options (i.e. iterate, compare approaches) Leverage AI to synthesize information (summarize, distill themes) and automate repeatable tasks (documentation, reporting, QA checks) &nbsp; What we\u2019re looking for: Deep understanding of Android development and best practices in Kotlin and/or Java, e.g. Activity Lifecycle, memory management, etc. 3+ years of industry Android application development experience, building consumer or business facing products Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers Ability to keep up-to-date with new technologies to understand what should be incorporated Strong collaboration and communication skills Demonstrated ability to use AI to improve speed and quality in your day-to-day workflow for relevant outputs. Strong track record of critical evaluation and verification of AI-assisted work (e.g., testing, source-checking, data validation, peer review). High integrity and ownership: you protect sensitive data, avoid over-reliance on AI, and remain accountable for final decisions and deliverables. Bachelor\u2019s degree in Computer Science, a related field, or equivalent experience. &nbsp; Relocation Statement: &nbsp;This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model. &nbsp; In-Office Requirement Statement: We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. This role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in Ontario. #LI-REMOTE &nbsp; At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found&nbsp; here . Canada based applicants only $139,378 &mdash; $189,378 CAD Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&nbsp; this form for support. &nbsp; By submitting this application, I certify that all information submitted in my ",
       "level": "intern",
       "countries": [
         "ca"
@@ -3090,31 +3090,17 @@
       ]
     },
     {
-      "id": "a5c964362d7dc1a8",
+      "id": "1fd74ba93b61712c",
       "source": "workday",
-      "company": "BCI",
-      "title": "Platform Engineer ServiceNow Co-op/Internship (Winter 2027 & Summer 2027)",
-      "location": "Victoria, BC",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Platform-Engineer-ServiceNow-Co-op-Internship--Winter-2027---Summer-2027-_JR101585",
+      "company": "Mastercard",
+      "title": "Software Engineer II - Decision Management Program",
+      "location": "O'Fallon, Missouri",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "3eb0317929a75263",
-      "source": "workday",
-      "company": "BCI",
-      "title": "Analyst, Early Talent Program, Infrastructure & Renewable Resources",
-      "location": "Victoria, BC",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Analyst--Early-Talent-Program--Infrastructure---Renewable-Resources_JR101589",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -3143,6 +3129,34 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "a5c964362d7dc1a8",
+      "source": "workday",
+      "company": "BCI",
+      "title": "Platform Engineer ServiceNow Co-op/Internship (Winter 2027 & Summer 2027)",
+      "location": "Victoria, BC",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Platform-Engineer-ServiceNow-Co-op-Internship--Winter-2027---Summer-2027-_JR101585",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3eb0317929a75263",
+      "source": "workday",
+      "company": "BCI",
+      "title": "Analyst, Early Talent Program, Infrastructure & Renewable Resources",
+      "location": "Victoria, BC",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Analyst--Early-Talent-Program--Infrastructure---Renewable-Resources_JR101589",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -3300,6 +3314,48 @@
       ]
     },
     {
+      "id": "5cb818c6598b24e6",
+      "source": "workday",
+      "company": "Intel",
+      "title": "Software Research Engineering - (PhD Intern)",
+      "location": "US, Oregon, Hillsboro",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "da48dcd4efe66e65",
+      "source": "workday",
+      "company": "Intel",
+      "title": "AI and Compiler Engineering Graduate Intern",
+      "location": "Virtual Canada",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "21330a94f1b0e282",
+      "source": "workday",
+      "company": "Intel",
+      "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
+      "location": "Canada, Toronto",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "9395c096111aea8f",
       "source": "workday",
       "company": "Royal Bank of Canada (Global)",
@@ -3390,48 +3446,6 @@
       "title": "2027 Winter Student Opportunities RBC Borealis -Machine Learning Software Engineer, 4 Months\u00a0- Montreal",
       "location": "MONTR\u00c9AL, Quebec, Canada",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "5cb818c6598b24e6",
-      "source": "workday",
-      "company": "Intel",
-      "title": "Software Research Engineering - (PhD Intern)",
-      "location": "US, Oregon, Hillsboro",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "da48dcd4efe66e65",
-      "source": "workday",
-      "company": "Intel",
-      "title": "AI and Compiler Engineering Graduate Intern",
-      "location": "Virtual Canada",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "21330a94f1b0e282",
-      "source": "workday",
-      "company": "Intel",
-      "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
-      "location": "Canada, Toronto",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -5045,6 +5059,23 @@
       "location": "Palo Alto, CA; Bastrop, TX; Irvine, CA; Cape Canaveral, FL; Brownsville, TX; Redmond, WA; McGregor, TX; Hawthorne, CA",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
       "posted_at": "2026-08-03T22:31:23+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b465c89e82c6e8a3",
+      "source": "simplify",
+      "company": "Netsmart",
+      "title": "Software Engineer Intern",
+      "location": "Overland Park, KS",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "posted_at": "2026-08-03T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -15182,42 +15213,6 @@
       ]
     },
     {
-      "id": "e8a805318d9e73d8",
-      "source": "simplify",
-      "company": "Tradeweb",
-      "title": "C++ Distributed Systems Developer Intern - C++ Core Services",
-      "location": "Jersey City, NJ",
-      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
-      "posted_at": "2026-09-10T01:14:30+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "7b25a43ad11c314a",
-      "source": "simplify",
-      "company": "Tradeweb",
-      "title": "Application Software Engineering Internship - IFI Application",
-      "location": "Jersey City, NJ",
-      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906",
-      "posted_at": "2026-09-10T01:14:31+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "126cb76ebfdc707d",
       "source": "simplify",
       "company": "Shield AI",
@@ -19665,6 +19660,110 @@
       "location": "Urbandale, IA",
       "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false",
       "posted_at": "2026-09-17T22:05:21+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "0de34d33839c5b1e",
+      "source": "simplify",
+      "company": "Qualcomm",
+      "title": "Low Power AI Software Development Intern - Interim Engineering Intern - Software",
+      "location": "Markham, ON, Canada",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721143440",
+      "posted_at": "2026-09-18T01:22:59+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "1f01bc4b832b23c3",
+      "source": "simplify",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Colorado Springs, CO",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a73303d6bad03c41",
+      "source": "simplify",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7686283601340369205",
+      "posted_at": "2026-09-18T01:13:34+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5237b63a561dac15",
+      "source": "simplify",
+      "company": "TRC Companies",
+      "title": "Software Engineer Intern",
+      "location": "Calgary, AB, Canada",
+      "url": "https://careers.trccompanies.com/jobs/26840?icims=1",
+      "posted_at": "2026-09-18T01:08:05+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Associate's"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "10dd40fb662996df",
+      "source": "simplify",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer",
+      "location": "Seattle, WA; Arlington County, Arlington, VA",
+      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+      "posted_at": "2026-09-18T01:05:04+00:00",
+      "term": "Summer 2027; Winter 2027; Fall 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b92dca309b94e3c7",
+      "source": "simplify",
+      "company": "Tesla",
+      "title": "Internship - Software Engineering - People Products - Summer 2027",
+      "location": "Palo Alto, CA",
+      "url": "https://www.tesla.com/careers/search/job/284004",
+      "posted_at": "2026-09-18T06:09:26+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
