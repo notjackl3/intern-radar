@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "269f69450a08c0ec",
+    "source": "simplify",
+    "company": "CoBank",
+    "title": "Software Engineer Intern",
+    "location": "Greenwood Village, CO",
+    "url": "https://careers.cobank.com/jobs/7940?icims=1",
+    "posted_at": "2026-09-18T22:04:42+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "43f7bff2eadf5328",
+    "source": "simplify",
+    "company": "Tyler Technologies",
+    "title": "Software Development Intern",
+    "location": "Lawrenceville, GA",
+    "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false",
+    "posted_at": "2026-09-18T14:22:44+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "4f2b83663559e179",
+    "source": "workday",
+    "company": "TD Bank",
+    "title": "Software Engineer I - Mainframe",
+    "location": "Toronto, Ontario",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Mainframe_R_1511496",
+    "posted_at": null,
+    "term": null,
+    "level": "newgrad",
+    "countries": [
+      "ca"
+    ]
+  }
+]
