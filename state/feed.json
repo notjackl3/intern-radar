@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T04:50:51.136180+00:00",
-  "open_count": 1562,
-  "new_count": 23,
+  "generated_at": "2026-09-22T11:34:27.917412+00:00",
+  "open_count": 1555,
+  "new_count": 1,
   "tier": "full",
   "jobs": [
     {
@@ -503,20 +503,6 @@
       ]
     },
     {
-      "id": "bbf76be5427e9646",
-      "source": "workday",
-      "company": "Manulife",
-      "title": "Summer Intern 2027 - Infrastructure Equity Internship",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "ad11f91e4e4dea2c",
       "source": "workday",
       "company": "Manulife",
@@ -579,6 +565,20 @@
       "title": "Summer Intern 2027 - Software Engineering",
       "location": "Waterloo, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "bbf76be5427e9646",
+      "source": "workday",
+      "company": "Manulife",
+      "title": "Summer Intern 2027 - Infrastructure Equity Internship",
+      "location": "Toronto, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -941,6 +941,21 @@
       ]
     },
     {
+      "id": "85085bd7043a3bc4",
+      "source": "lever",
+      "company": "ShyftLabs",
+      "title": "AI Engineer Intern",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "posted_at": "2026-07-21T18:59:53.642000+00:00",
+      "term": null,
+      "description": "",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "8763ca919c8c5255",
       "source": "workday",
       "company": "Ciena",
@@ -983,21 +998,6 @@
       ]
     },
     {
-      "id": "85085bd7043a3bc4",
-      "source": "lever",
-      "company": "ShyftLabs",
-      "title": "AI Engineer Intern",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
-      "posted_at": "2026-07-21T18:59:53.642000+00:00",
-      "term": null,
-      "description": "",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "d61d0cd6c9e11706",
       "source": "workday",
       "company": "SOTI (Next-Gen)",
@@ -1018,20 +1018,6 @@
       "title": "Performance Test Engineer Intern (January 2027 12 Months)",
       "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "f2be086b25f30d26",
-      "source": "workday",
-      "company": "Bank of Montreal (Privileged)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1065,6 +1051,20 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "f2be086b25f30d26",
+      "source": "workday",
+      "company": "Bank of Montreal (Privileged)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1404,34 +1404,6 @@
       ]
     },
     {
-      "id": "8a4880feeb90b722",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b2925ffc60cd709a",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "6db5090c47acc4dc",
       "source": "workday",
       "company": "Altera",
@@ -1457,6 +1429,34 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "8a4880feeb90b722",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b2925ffc60cd709a",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1831,51 +1831,6 @@
       ]
     },
     {
-      "id": "07768ec774e22b13",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Massachusetts - Boston",
-      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
-      "posted_at": "2025-08-20T21:39:30.830000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b10cfadd87e3f8ef",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "California - Pleasanton",
-      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
-      "posted_at": "2025-08-20T21:41:24.921000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2420fd7f9955aff7",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Ohio - Columbus",
-      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
-      "posted_at": "2025-08-20T21:40:56.551000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5e8b0cb4b702cf60",
       "source": "greenhouse",
       "company": "Diligent",
@@ -1903,104 +1858,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "8b5af961dac85fd0",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ea2cf9444908993c",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II, Synthesis",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--Synthesis_R55632",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a582a7f393b4ff68",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II , Synthesis",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer--Synthesis_R52773",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "45f0b33f357e0c3f",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R51635",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "70aad656eaeb6d79",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55205",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "7f43835be845a73b",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II, AI Platform",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5915056fcc02222c",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -2214,6 +2071,149 @@
       ]
     },
     {
+      "id": "8b5af961dac85fd0",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "ea2cf9444908993c",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II, Synthesis",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--Synthesis_R55632",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a582a7f393b4ff68",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II , Synthesis",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer--Synthesis_R52773",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "45f0b33f357e0c3f",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R51635",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "70aad656eaeb6d79",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55205",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "7f43835be845a73b",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II, AI Platform",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5915056fcc02222c",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "07768ec774e22b13",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Massachusetts - Boston",
+      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "posted_at": "2025-08-20T21:39:30.830000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b10cfadd87e3f8ef",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "California - Pleasanton",
+      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
+      "posted_at": "2025-08-20T21:41:24.921000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "2420fd7f9955aff7",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Ohio - Columbus",
+      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
+      "posted_at": "2025-08-20T21:40:56.551000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "ca632f68f069d85a",
       "source": "workday",
       "company": "Harris Computer",
@@ -2237,20 +2237,6 @@
       "posted_at": null,
       "term": null,
       "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "0b845921ded5a707",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "Software Engineer in Quality Engineering",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
       "countries": [
         "us"
       ]
@@ -2291,6 +2277,20 @@
       "title": "Software Engineer II (Full-Stack)",
       "location": "North Carolina - Raleigh",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "0b845921ded5a707",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "Software Engineer in Quality Engineering",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -3120,6 +3120,34 @@
       ]
     },
     {
+      "id": "4aaad43b9b409fbc",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "O'Fallon, Missouri",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-289524-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1fd74ba93b61712c",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II - Decision Management Program",
+      "location": "O'Fallon, Missouri",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "d06ba6e7f343804e",
       "source": "workday",
       "company": "Visa",
@@ -3266,34 +3294,6 @@
       "title": "Software Engineer, Intern - 2027 Austin, TX",
       "location": "US - Austin, TX",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "4aaad43b9b409fbc",
-      "source": "workday",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "O'Fallon, Missouri",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-289524-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1fd74ba93b61712c",
-      "source": "workday",
-      "company": "Mastercard",
-      "title": "Software Engineer II - Decision Management Program",
-      "location": "O'Fallon, Missouri",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -4422,24 +4422,6 @@
       "location": "San Jose, CA",
       "url": "https://lifeattiktok.com/search/7667346576033777925",
       "posted_at": "2026-08-03T06:15:07+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1e20785fd14e4c7a",
-      "source": "simplify",
-      "company": "TikTok",
-      "title": "Backend Software Engineer Intern",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7667933770819897605",
-      "posted_at": "2026-08-03T06:15:03+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
@@ -12003,23 +11985,6 @@
       ]
     },
     {
-      "id": "24e958b038b0df8a",
-      "source": "simplify",
-      "company": "Intel",
-      "title": "Software Engineer Intern",
-      "location": "Austin, TX; Santa Clara, CA; Hillsboro, OR; Folsom, CA; Phoenix, AZ",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
-      "posted_at": "2026-09-02T00:00:00+00:00",
-      "term": "Spring 2027; Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "2a6191be5e301558",
       "source": "simplify",
       "company": "HD Supply",
@@ -14833,23 +14798,6 @@
       ]
     },
     {
-      "id": "ca35331398e11c12",
-      "source": "simplify",
-      "company": "Collier Aerospace",
-      "title": "Software Engineer Intern - Web Applications - Summer 2027",
-      "location": "Newport News, VA",
-      "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
-      "posted_at": "2026-09-09T22:34:44+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "d6d2d7d6712e3a44",
       "source": "simplify",
       "company": "Kensho",
@@ -15566,24 +15514,6 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "ace975b7e6392f5e",
-      "source": "simplify",
-      "company": "RTX",
-      "title": "Software Engineering Co-op",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551",
-      "posted_at": "2026-09-10T00:00:00+00:00",
-      "term": "Spring 2027; Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -17912,24 +17842,6 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "7f5f517fa37f5a14",
-      "source": "simplify",
-      "company": "RTX",
-      "title": "Software Engineer Intern",
-      "location": "Marlborough, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955",
-      "posted_at": "2026-09-15T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -20736,23 +20648,6 @@
       ]
     },
     {
-      "id": "493ca68dd8ab408a",
-      "source": "simplify",
-      "company": "Tyler Technologies",
-      "title": "Software Development Intern - Summer 2027",
-      "location": "Yarmouth, ME; Orono, ME; Falmouth, ME",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
-      "posted_at": "2026-09-21T22:26:01+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "b065f4acf326fa8e",
       "source": "simplify",
       "company": "Commerce Bank",
@@ -20780,6 +20675,24 @@
       "term": "Summer 2027",
       "degrees": [
         "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1b66aa5a8dc3cb42",
+      "source": "simplify",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
+      "location": "San Diego, CA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "posted_at": "2026-09-22T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -25355,24 +25268,6 @@
       ]
     },
     {
-      "id": "2c049b57f254ac47",
-      "source": "simplify-newgrad",
-      "company": "TD Bank",
-      "title": "Associate Software Engineer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
-      "posted_at": "2026-09-08T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Certificate"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "a2e87e505c1692cd",
       "source": "simplify-newgrad",
       "company": "Atlassian",
@@ -25884,23 +25779,6 @@
       "location": "Dallas, TX",
       "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
       "posted_at": "2026-09-16T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5c20f3cf801a8205",
-      "source": "simplify-newgrad",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineering",
-      "location": "Greenville, TX",
-      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1430740500/?ats=successfactors",
-      "posted_at": "2026-09-16T22:06:43+00:00",
       "term": null,
       "degrees": [
         "Bachelor's"
