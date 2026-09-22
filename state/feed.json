@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-09-22T16:57:25.504291+00:00",
-  "open_count": 1557,
+  "generated_at": "2026-09-22T21:19:41.010479+00:00",
+  "open_count": 1556,
   "new_count": 5,
   "tier": "full",
   "jobs": [
+    {
+      "id": "fbd6de49b6295471",
+      "source": "workday",
+      "company": "CIBC (Campus)",
+      "title": "Application/Software Developer Co-op",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3b67cbb779c56ce3",
+      "source": "workday",
+      "company": "CIBC (Campus)",
+      "title": "Software/Application Developer Co-op",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
     {
       "id": "a0fca4f5eb6c8233",
       "source": "workday",
@@ -503,6 +531,48 @@
       ]
     },
     {
+      "id": "f84324893e6d0521",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Associate Developer, Research Technology",
+      "location": "New York, New York",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Associate-Developer--Research-Technology_R_1512655",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "091ac4ed27df72ac",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer II - Release & Deploy",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II---Release---Deploy_R_1508474",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6a6b3aea6c1a8ea8",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer II - AEM",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II---AEM_R_1508770",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "76fd59c7878386d3",
       "source": "workday",
       "company": "TD Bank",
@@ -663,7 +733,7 @@
       "title": "AI Compiler Software Intern (PEY)",
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
-      "posted_at": "2026-09-02T17:54:05-04:00",
+      "posted_at": "2026-09-22T13:48:04-04:00",
       "term": null,
       "description": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities. At Tenstorrent, interns don\u2019t just write code\u2014they help shape the future of AI compute. As a Software Compiler Intern, you\u2019ll work with a dedicated mentor and collaborate across software, firmware, hardware, and systems teams. This is a rare chance to work on performance-critical code and gain experience across the full AI stack. This role is on-site based in Toronto, Canada. &nbsp; Who You Are Pursuing (or recently completed) a degree in EE, CE, CS, or a related field. Solid foundation in C/C++ and algorithms; Python skills are a bonus. Curious about compilers, ML, parallel systems, or processor architecture. Problem-solver who enjoys working across abstraction layers What We Need Contribute to the development of Tenstorrent\u2019s ML graph compiler. Benchmark and optimize key ML workloads across hardware/software. Build performance analysis tools to inform compiler and runtime design. Collaborate with ML and systems teams to co-design across the stack. What You Will Learn Compiler design for machine learning models and workloads. End-to-end co-design of software and cutting-edge AI hardware. Performance tuning and analysis in a high-performance runtime. Real-world ML integration with frameworks and low-level systems. &nbsp; Tenstorrent offers a highly competitive compensation package and benefits, and we are an equal opportunity employer. This offer of employment is contingent upon the applicant being eligible to access U.S. export-controlled technology. Due to U.S. export laws, including those codified in the U.S. Export Administration Regulations (EAR), the Company is required to ensure compliance with these laws when transferring technology to nationals of certain countries (such as EAR Country Groups D:1, E1, and E2). These requirements apply to persons located in the U.S. and all countries outside the U.S. As the position offered will have direct and/or indirect access to information, systems, or technologies subject to these laws, the offer may be contingent upon your citizenship/permanent residency status or ability to obtain prior license approval from the U.S. Commerce Department or applicable federal agency. If employment is not possible due to U.S. export laws, any offer of employment will be rescinded.",
       "level": "intern",
@@ -678,7 +748,7 @@
       "title": "Finance Operations Intern ",
       "location": "Santa Clara, California, United States",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186884007",
-      "posted_at": "2026-09-03T18:25:24-04:00",
+      "posted_at": "2026-09-22T13:48:04-04:00",
       "term": null,
       "description": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities. At Tenstorrent, we believe the future of computing must be open, which is why our interns don\u2019t just watch from the sidelines - they help build the core of it. We provide a \"code-to-career\" pipeline where students collaborate with industry experts to solve high-stakes problems in RISC-V and AI hardware-software co-design. By joining us, you are taking an internship to democratize high-performance computers that are accessible to everyone. We are seeking a Finance Operations Intern to support key finance workflows across travel and expense, enterprise systems, and cross-functional business operations. This role provides hands-on experience with finance processes, business systems, and operational improvements within a fast-growing AI company. The intern will contribute to workflow coordination, documentation, process improvement, and the systems that enable Finance to scale effectively. This role is onsite, based out of Santa Clara, CA. &nbsp; Who You Are Currently pursuing a Bachelor\u2019s or Master\u2019s degree in Finance, Accounting, Business, Operations, Information Systems, or a related field. Interested in finance operations, business processes, enterprise systems, and continuous improvement. Strong attention to detail with the ability to organize information and manage multiple workflows. A proactive learner with strong communication skills and a willingness to collaborate in a fast-paced environment. What We Need Support travel and expense operations, including Navan-related process coordination, issue tracking, and workflow support. Assist with contract and agreement coordination in CPAi and purchase requisition/purchase order management in SAP. Help document finance workflows, standard operating procedures, and process requirements across systems. Analyze process challenges and support improvements to data quality, workflow consistency, and operational efficiency. What You Will Learn How corporate finance operations, policies, and approval workflows function within a global organization. How enterprise systems such as SAP, Navan, and workflow tools support scalable finance processes. How Finance partners with Legal and cross-functional teams to execute business operations. How to identify process improvements and build operational solutions that support company growth. &nbsp; USA Hiring Timelines This internship opportunity is available throughout our 3 terms with the following corresponding recruitment cycles: Winter Term: Jan\u2013Apr work term, Sept\u2013Dec recruit. Summer Term: May\u2013Aug work term, Oct\u2013Apr recruit. Fall Term: Sept\u2013Dec work term, Jan\u2013Aug recruit. Please note these timelines are for reference only. Actual timelines may vary. &nbsp; Compensation for all interns at Tenstorrent ranges from $39/hr - $59/hr including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made. Tenstorrent offers a highly competitive compensation package and benefits, and we are an equal opportunity employer. This offer of employment is contingent upon the applicant being eligible to access U.S. export-controlled technology. Due to U.S. export laws, including those codified in the U.S. Export Administration Regulations (EAR), the Company is required to ensure compliance with these laws when transferring technology to nationals of certain countries (such as EAR Country Groups D:1, E1, and E2). These requirements apply to persons located in the U.S. and all countries outside the U.S. As the position offered will have direct and/or indirect access to information, systems, or technologies subject to these laws, the offer may be contingent upon your citizenship/permanent residency status or ability to obtain prior license approval from the U.S. Commerce Department or applicable federal agency. If employment is not possible due to U.S. export laws, any offer of employment will be rescinded.",
       "level": "intern",
@@ -822,63 +892,6 @@
       ]
     },
     {
-      "id": "8763ca919c8c5255",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a8a82dcdad71dcec",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Developer (New Grad)",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "7a914a083a061b63",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Developer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b12104a7206fa345",
-      "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
-      "posted_at": "2026-08-19T17:27:07.198000+00:00",
-      "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "d93cfe3cd80f0378",
       "source": "ashby",
       "company": "Bree",
@@ -924,6 +937,21 @@
       ]
     },
     {
+      "id": "b12104a7206fa345",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "posted_at": "2026-08-19T17:27:07.198000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "d07760a1daea10b2",
       "source": "ashby",
       "company": "Exegy",
@@ -939,99 +967,12 @@
       ]
     },
     {
-      "id": "7d8b978b9350a276",
-      "source": "lever",
-      "company": "Mirego",
-      "title": "Stagiaire en d\u00e9veloppement logiciel - \u00c9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative - janvier 2027",
-      "location": "Qu\u00e9bec, QC",
-      "url": "https://jobs.lever.co/mirego/0c8b2116-e325-4a26-b87e-a80b4b37dda7",
-      "posted_at": "2026-09-02T14:31:04.657000+00:00",
-      "term": null,
-      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec une \u00e9quipe de d\u00e9veloppement exp\u00e9riment\u00e9e ainsi que des sp\u00e9cialistes en gestion de produits, design, assurance qualit\u00e9 et agilit\u00e9, tu participeras \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, que ce soit \u00e0 petite ou grande \u00e9chelle. \nNous croyons que chaque membre de l\u2019\u00e9quipe a un r\u00f4le cl\u00e9 \u00e0 jouer. Ton stage chez Mirego te permettra de relever des d\u00e9fis stimulants, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n\u00a0\nDans l\u2019\u00e9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative, tu contribueras \u00e0 des projets tels que l\u2019extraction des informations documentaires, l\u2019automatisation de processus, l\u2019analyse d\u2019image et l\u2019aide \u00e0 la prise de d\u00e9cision.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "810149f922d51d23",
-      "source": "lever",
-      "company": "Mirego",
-      "title": "Stagiaire en d\u00e9veloppement logiciel - janvier 2027",
-      "location": "Qu\u00e9bec, QC",
-      "url": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1",
-      "posted_at": "2026-09-02T14:59:46.500000+00:00",
-      "term": null,
-      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85085bd7043a3bc4",
-      "source": "lever",
-      "company": "ShyftLabs",
-      "title": "AI Engineer Intern",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
-      "posted_at": "2026-07-21T18:59:53.642000+00:00",
-      "term": null,
-      "description": "",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "d61d0cd6c9e11706",
+      "id": "8763ca919c8c5255",
       "source": "workday",
-      "company": "SOTI (Next-Gen)",
-      "title": "Software Developer Intern (January 2026 12 months)",
-      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "08f04e7e8417fbd1",
-      "source": "workday",
-      "company": "SOTI (Next-Gen)",
-      "title": "Performance Test Engineer Intern (January 2027 12 Months)",
-      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "f2be086b25f30d26",
-      "source": "workday",
-      "company": "Bank of Montreal (Privileged)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "63f9df3ec24d5248",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "company": "Ciena",
+      "title": "Embedded Software Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
       "posted_at": null,
       "term": null,
       "level": "newgrad",
@@ -1040,26 +981,12 @@
       ]
     },
     {
-      "id": "6c54e9dc66cb476a",
+      "id": "a8a82dcdad71dcec",
       "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "174e86f1fc78e7f3",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Analyst - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+      "company": "Ciena",
+      "title": "Embedded Software Developer (New Grad)",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
       "posted_at": null,
       "term": null,
       "level": "newgrad",
@@ -1124,6 +1051,79 @@
       ]
     },
     {
+      "id": "d61d0cd6c9e11706",
+      "source": "workday",
+      "company": "SOTI (Next-Gen)",
+      "title": "Software Developer Intern (January 2026 12 months)",
+      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "08f04e7e8417fbd1",
+      "source": "workday",
+      "company": "SOTI (Next-Gen)",
+      "title": "Performance Test Engineer Intern (January 2027 12 Months)",
+      "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "7d8b978b9350a276",
+      "source": "lever",
+      "company": "Mirego",
+      "title": "Stagiaire en d\u00e9veloppement logiciel - \u00c9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative - janvier 2027",
+      "location": "Qu\u00e9bec, QC",
+      "url": "https://jobs.lever.co/mirego/0c8b2116-e325-4a26-b87e-a80b4b37dda7",
+      "posted_at": "2026-09-02T14:31:04.657000+00:00",
+      "term": null,
+      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec une \u00e9quipe de d\u00e9veloppement exp\u00e9riment\u00e9e ainsi que des sp\u00e9cialistes en gestion de produits, design, assurance qualit\u00e9 et agilit\u00e9, tu participeras \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, que ce soit \u00e0 petite ou grande \u00e9chelle. \nNous croyons que chaque membre de l\u2019\u00e9quipe a un r\u00f4le cl\u00e9 \u00e0 jouer. Ton stage chez Mirego te permettra de relever des d\u00e9fis stimulants, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n\u00a0\nDans l\u2019\u00e9quipe d\u2019intelligence artificielle g\u00e9n\u00e9rative, tu contribueras \u00e0 des projets tels que l\u2019extraction des informations documentaires, l\u2019automatisation de processus, l\u2019analyse d\u2019image et l\u2019aide \u00e0 la prise de d\u00e9cision.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "810149f922d51d23",
+      "source": "lever",
+      "company": "Mirego",
+      "title": "Stagiaire en d\u00e9veloppement logiciel - janvier 2027",
+      "location": "Qu\u00e9bec, QC",
+      "url": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1",
+      "posted_at": "2026-09-02T14:59:46.500000+00:00",
+      "term": null,
+      "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85085bd7043a3bc4",
+      "source": "lever",
+      "company": "ShyftLabs",
+      "title": "AI Engineer Intern",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "posted_at": "2026-07-21T18:59:53.642000+00:00",
+      "term": null,
+      "description": "",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "f6deb85dfdd99ac1",
       "source": "workday",
       "company": "Marvell (Careers 2)",
@@ -1144,6 +1144,62 @@
       "title": "Firmware Engineer Intern",
       "location": "Ottawa, Canada",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "63f9df3ec24d5248",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6c54e9dc66cb476a",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "174e86f1fc78e7f3",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Analyst - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "f2be086b25f30d26",
+      "source": "workday",
+      "company": "Bank of Montreal (Privileged)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1460,6 +1516,48 @@
       ]
     },
     {
+      "id": "457ad9f69dc231f1",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-416 \u2013 Stagiaire d\u00e9veloppeur(se) C++ CGF\u202fUnreal",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d6832476eef63f28",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-112 Stagiaire d\u00e9veloppeur(se) logiciel \u2013 Environnement immersif",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85312f8265585656",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "0e8abcdd2f50699a",
       "source": "workday",
       "company": "Motorola Solutions",
@@ -1480,20 +1578,6 @@
       "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
       "location": "Plantation, FL",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "4feb9af96255aa15",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Software Engineer II",
-      "location": "Schaumburg, IL",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-II_R68953",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1583,48 +1667,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "457ad9f69dc231f1",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-416 \u2013 Stagiaire d\u00e9veloppeur(se) C++ CGF\u202fUnreal",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "d6832476eef63f28",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-112 Stagiaire d\u00e9veloppeur(se) logiciel \u2013 Environnement immersif",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85312f8265585656",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -1906,6 +1948,104 @@
       ]
     },
     {
+      "id": "8b5af961dac85fd0",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "ea2cf9444908993c",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II, Synthesis",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--Synthesis_R55632",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a582a7f393b4ff68",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II , Synthesis",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer--Synthesis_R52773",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "45f0b33f357e0c3f",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R51635",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "70aad656eaeb6d79",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55205",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "7f43835be845a73b",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II, AI Platform",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5915056fcc02222c",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "8cad1f11ced5d8d3",
       "source": "greenhouse",
       "company": "Sony Interactive",
@@ -2116,104 +2256,6 @@
       ]
     },
     {
-      "id": "8b5af961dac85fd0",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ea2cf9444908993c",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II, Synthesis",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--Synthesis_R55632",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a582a7f393b4ff68",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II , Synthesis",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer--Synthesis_R52773",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "45f0b33f357e0c3f",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R51635",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "70aad656eaeb6d79",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55205",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "7f43835be845a73b",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II, AI Platform",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5915056fcc02222c",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ca632f68f069d85a",
       "source": "workday",
       "company": "Harris Computer",
@@ -2239,6 +2281,21 @@
       "level": "newgrad",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "d7e95b8ecf7bea1d",
+      "source": "greenhouse",
+      "company": "D2L",
+      "title": "Software Developer - New Graduate",
+      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
+      "posted_at": "2026-06-25T10:07:09-04:00",
+      "term": null,
+      "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift.&nbsp; New models of teaching and learning enable a personalized, student-centric experience \u2013 and deliver&nbsp;improved retention, engagement, satisfaction, and results for learners of all ages \u2013 in schools, campuses, and companies. D2L is disrupting the way the world learns, by providing the next generation learning environment and solutions to engage and inspire learners. And most importantly, by giving customers a platform that is easy, flexible, and smart.&nbsp;No other company provides a solution as robust and innovative as D2L. D2L has had a singular mission for 25 years and is dedicated to that same mission in the years ahead: to transform the way the world learns \u2013 and by doing so, we will help improve human potential globally. Every application we receive is personally reviewed by a member of our Talent Acquisition team - yes, a real person looks at your resume! While we use AI tools internally to streamline tasks like meeting notes, summaries, and administrative work, these tools never rank resumes, make hiring decisions, or influence candidate evaluations. How will I make an Impact?&nbsp; At D2L, we are looking for Software Developers who graduated in 2025 to help us advance our goal of using technology to transform teaching and learning around the world.&nbsp; Our software is used daily by millions of people around the world and we need developers who are up to the challenge that this presents.&nbsp; We need these developers to work on a wide range of technologies including, but not limited to: distributed systems, automated test development, user interfaces, mobile and cloud computing. As a developer, you will help make dreams a reality. Software Developers at D2L have a passion for technology and code. Beyond code, developers are expected to collaborate closely with others including technical product managers, designers and test developers. Your ideas and perspectives are essential to making sure we are building the right things What you\u2019ll bring to the role: Ability to analyze and decompose problems into potential technical solutions Experience with OO design and proficient coding skills (ie:&nbsp; C++, C# or Java) Strong understanding of Computer Science topics including: data structures, algorithms, databases, distributed systems Experience in software development, preferably in a technology focused company Acumen with Artificial Intelligence tools Education Requirements Bachelor's degree in Computer Science or a related field; completed in 2025 D2L operates in a hybrid work style, with expectation of 3 days per week in office.&nbsp; This posting is not for a current vacancy; it is for future candidate consideration The expected base salary range for a new hire in this role is listed below.&nbsp;The annualized base salary offered is determined by each candidate\u2019s relevant knowledge, skills, education, training and experience. It is aligned to ensure both internal and external competitiveness using market data for the geographic location and industry. As part of the total compensation at D2L the role may be eligible for additional benefits including a Wellness Subsidy, Equity Grants, Variable Incentive, and more. Base Salary Range $75,000 &mdash; $85,000 CAD Don\u2019t meet every single requirement? &nbsp;We strongly encourage you to still apply! At D2L, we are committed to creating a diverse and inclusive environment. We encourage your application even if you don't believe you meet every single qualification outlined, because we love to help our people grow and develop! Why we're awesome: &nbsp; At D2L, we are dedicated to providing you with the tools to do the best work of your life. While some of our perks and benefits may vary depending on location or employment type, we are proud to provide employees with the following through&nbsp; #LifeAtD2L : Impactful work transforming the way the world learns Flexible work arrangements Learning and Growth opportunities Tuition reimbursement of up to $4,000 CAD for continuing education through our SkillsWave Program 2 Paid Days off for SkillsWave-related activities like exams or final assignments Employee wellbeing (Access to mental health services, EFAP program, financial planning and more) Retirement planning 2 Paid Volunteer Days Competitive Benefits Package Home Internet Reimbursements Employee Referral Program Wellness Reimbursement Employee Recognition Social Events Dog Friendly Offices Spaces at our HQ in Kitchener, Winnipeg, Vancouver and Melbourne offices.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2284,34 +2341,6 @@
       ]
     },
     {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "d673f01084148f7f",
       "source": "greenhouse",
       "company": "Stripe",
@@ -2342,18 +2371,31 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
       "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2423,7 +2465,7 @@
       "title": "PhD Intern, Data Science (2027)",
       "location": "San Francisco, CA \u2022 New York, NY",
       "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
-      "posted_at": "2026-09-21T13:47:10-04:00",
+      "posted_at": "2026-09-22T16:22:34-04:00",
       "term": null,
       "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! Figma\u2019s Data Science team partners across product, engineering, design, marketing, sales, and operations to help Figma make better decisions with data. As a PhD Data Science Intern, you\u2019ll bring rigorous research training to some of Figma\u2019s most important and open-ended questions, from researching emerging product and user behaviors and Figma\u2019s broader ecosystem to developing new measurement methodologies, applying causal inference or machine learning, and building analytical systems. You\u2019ll own a data science project end-to-end: from framing the question and methodology to translating findings into insights that influence Figma\u2019s products, strategy, or data science practices; with the potential to continue toward publication after the internship. This internship will be based out of our San Francisco or New York hub. What you\u2019ll do at Figma: Partner with cross-functional teams to turn ambiguous product, platform, or business questions into well-defined data science problems Analyze user, product, or business data to uncover insights and recommend actions Design and evaluate experiments, metrics, statistical or machine learning models, and analytical frameworks Communicate assumptions, tradeoffs, limitations, and recommendations clearly to technical and non-technical partners Own a focused internship project end-to-end, from problem framing and technical execution through final recommendations, with potential to continue toward publication after the internship We\u2019d love to hear from you if you have: Currently pursuing a PhD in Data Science, Statistics, Computer Science, Human-Computer Interaction (HCI), Economics, Operations Research, Physics, Applied Mathematics, or a related quantitative field; with demonstrated experience conducting independent research (e.g. thesis or equivalent research milestone) Demonstrated fluency in one or more research methodologies or technical areas, such as statistics, experimentation, machine learning, causal inference, econometrics, optimization, user research methods, or AI/LLMs Experience using a scripting language such as Python or R, as well as proficiency with SQL, for analysis, modeling, or work with complex or large-scale datasets through research, internships, or applied projects Ability to explain technical concepts clearly and connect analysis to decisions, recommendations, or product/business impact A curious, rigorous, and self-starting mindset, with the ability to thrive in ambiguous, fast-moving environments and translate research into real-world impact While it's not required, it's an added plus if you also have: Prior industry or applied research experience with experimental design, causal inference, forecasting, product measurement, user research, or applied machine learning to influence product, business, platform, or stakeholder decisions Publications or research relevant to applied data science Experience or interest in AI product measurement, LLM analytics/evaluation, recommendation systems, search, personalization, or evaluating AI-powered features At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you\u2019re excited about this role but your past experience doesn\u2019t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Pay Transparency Disclosure This internship role is based in either Figma\u2019s San Francisco or New York hub offices, and has the hourly base pay rate stated below.&nbsp; Figma also offers interns a housing stipend and travel reimbursement. Figma\u2019s compensation and benefits are subject to change and may be modified in the future. Internship $68 &mdash; $68 USD At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.&nbsp; Examples of accommodations include but are not limited to:&nbsp; Holding interviews in an accessible location Enabling closed captioning on video conferencing Ensuring all written communication be compatible with screen readers Changing the mode or format of interviews&nbsp; To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding. By applying for this job, the candidate acknowledges and agrees that ",
       "level": "intern",
@@ -2447,13 +2489,28 @@
       ]
     },
     {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "720775834abc20b7",
       "source": "greenhouse",
       "company": "DoorDash",
       "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
       "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
-      "posted_at": "2026-09-21T15:51:36-04:00",
+      "posted_at": "2026-09-22T17:13:29-04:00",
       "term": null,
       "description": "About the Team DoorDash, Deliveroo, and Wolt are one global team building the future of local commerce. Our products power millions of interactions between consumers, merchants, and couriers every day, in cities around the world. Together, we\u2019re combining global scale with deep local understanding to deliver what\u2019s next. At DoorDash, you may collaborate with teammates, systems, and leaders across all three brands.&nbsp;We\u2019re looking for students completing a bachelor\u2019s or master\u2019s degree to begin their engineering careers with DoorDash. You\u2019ll help build and operate reliable, scalable technology that improves the experiences of consumers, merchants, and delivery partners across our global platform.&nbsp;Our Engineering team tackles complex technical challenges across a global, three-sided marketplace -&nbsp; from creating intuitive product experiences to designing the infrastructure and backend systems that help local commerce thrive. You\u2019re excited about this opportunity because you will\u2026 You\u2019ll work alongside a mentor, manager, and experienced engineers while contributing to real products and systems. As you build your technical knowledge, you\u2019ll take on increasing ownership and see how your work affects the people and businesses using our platform. Here\u2019s what your day-to-day might look like: Develop, maintain, and ship production-ready software with support from your mentor and team Write clean, testable code and contribute to code reviews, version control, and engineering best practices Learn the systems and technical areas your work contributes to, including how they operate at scale Apply feedback and coaching to strengthen your technical skills and problem-solving approach Collaborate with engineers and cross-functional partners to solve problems for consumers, merchants, and delivery partners We\u2019re excited about you because you have\u2026 A bachelor\u2019s or master\u2019s degree in Computer Science or a related discipline, graduating between Fall 2026 and Summer 2027 At least two previous software engineering internships or equivalent practical experience, with no more than two years of full-time professional experience Experience using at least one object-oriented programming language, such as Python, Java, or Kotlin A solid understanding of algorithms and data structures Experience working with databases and technologies such as SQL Experience writing clean code, using version control, and creating unit tests Nice to Have Curiosity about using AI-powered tools to support software development, problem-solving, and learning, alongside an understanding of how to evaluate their outputs and use them responsibly Experience analyzing and improving the efficiency, scalability, or stability of software systems Interest in developing, releasing, and operating large-scale web applications Familiarity with systems monitoring, live deployments, or continuous integration Experience solving real-time technology problems Familiarity with service-oriented architecture, API development, or systems design Why You\u2019ll Love It Here You\u2019ll begin your career by contributing to technology used in the real world every day, with mentorship and support from experienced engineers. As your skills grow, so will the scope of the problems you can own. You\u2019ll learn how large-scale systems behave in production, see the impact of what you build, and work with teammates across different disciplines, countries, and brands. What We Offer Premium healthcare and comprehensive health benefits Wellness expense reimbursement Paid parental leave Benefits and perks designed to support your health, wellbeing, and development Compensation The successful candidate\u2019s starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee\u2019s work location. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information. DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others. To learn more about our benefits, visit our careers page here . See below for paid time off details: For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year. For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week). The national base pay range for this position within the United States, including Illinois and Colorado. $107,400 &mdash; $158,000 USD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives o",
       "level": "newgrad",
@@ -2468,7 +2525,7 @@
       "title": "Software Engineer II, Data Engineering",
       "location": "San Francisco, CA; Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6458514",
-      "posted_at": "2026-09-21T15:51:36-04:00",
+      "posted_at": "2026-09-22T17:13:29-04:00",
       "term": null,
       "description": "About the Team Data is at the foundation of DoorDash success. The Data Engineering team builds database solutions for various use cases including reporting, product analytics, marketing optimization and financial reporting. By implementing pipelines, data structures, and data warehouse architectures; this team serves as the foundation for decision-making at DoorDash. About the Role DoorDash is looking for a Softare Engineer II to be a technical powerhouse to help us scale our data infrastructure, automation and tools to meet growing business needs. You're excited about this opportunity because you will\u2026 Work with business partners and stakeholders to understand data requirements Work with engineering, product teams and 3rd parties to collect required data Design, develop and implement large scale, high volume, high performance data models and pipelines for Data Lake and Data Warehouse Develop and implement data quality checks, conduct QA and implement monitoring routines Improve the reliability and scalability of our ETL processes Manage a portfolio of data products that deliver high-quality, trustworthy data Help onboard and support other engineers as they join the team We're excited about you because\u2026 3+ years of professional experience working in data engineering, business intelligence, or a similar role You have proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software Proficiency in programming languages such as Python/Java 3+ years of experience in ETL orchestration and workflow management tools like Airflow, Flink, Oozie and Azkaban using AWS/GCP Expert in Database fundamentals, SQL and distributed computing 3+ years of experience with the Distributed data/similar ecosystem (Spark, Hive, Druid, Presto) and streaming technologies such as Kafka/Flink. Experience working with Snowflake, Redshift, PostgreSQL and/or other DBMS platforms Excellent communication skills and experience working with technical and non-technical teams Knowledge of reporting tools such as Tableau, Superset and Looker Comfortable working in fast paced environment, self starter and self organizing Ability to think strategically, analyze and interpret market and consumer information You must be located near one of our engineering hubs indicated above &nbsp; We use Covey as part of our hiring and / or promotional process for jobs in NYC and certain features may qualify it as an AEDT. As part of the evaluation process we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound on August 21, 2023. Please see the independent bias audit report covering our use of Covey here . Compensation The successful candidate's starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions.&nbsp; Base salary is localized according to an employee\u2019s work location. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information. DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others. To learn more about our benefits, visit our careers page here . See below for paid time off details: For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year. For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week). The national base pay ranges for this position within the United States, including Illinois and Colorado. I4 $130,600 &mdash; $192,000 USD I5 $159,800 &mdash; $235,000 USD I6 $193,800 &mdash; $285,000 USD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more. Our Commitment to Diversity and Inclusion We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel. Statement of Non-Discrimination: In keeping with o",
       "level": "intern",
@@ -2483,7 +2540,7 @@
       "title": "Software Engineer, Intern (Summer 2027) - US",
       "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
-      "posted_at": "2026-09-21T15:51:36-04:00",
+      "posted_at": "2026-09-22T17:13:29-04:00",
       "term": null,
       "description": "About the Team DoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers. About the Role At DoorDash, our product engineers implement and operate technological solutions to improve the experiences of our merchants, dashers, and consumers. From creating beautiful, user-friendly flows to crafting scalable backend architectures, we strive to deliver reliant, performant technology that delights our customers.&nbsp; We believe interns are essential to our mission of attracting and retaining top talent. During our 12-week Software Engineer internship, interns are completely immersed in their teams and will have the opportunity to develop, maintain, and ship products. As an intern, you will directly impact our business by collaborating with your team to solve real problems for our customers. Applicants must be authorized to work in the U.S. to be considered for this position. F-1 students are eligible if they are using Curricular Practical Training (CPT). DoorDash does not support students on J-1 visas at this time. The 2027 internship program will be hosted in person at a Doordash office in one of the following locations; New York, San Francisco, Sunnyvale, Los Angeles and Seattle. You will have an opportunity to select your preferred location(s) during the application process. You\u2019re excited about this opportunity because you will\u2026 Develop, maintain and ship technical elements with the support of your mentor, manager, and team members Act on feedback, coaching, and mentorship from your mentor and team members Actively learn about the elements to which you contribute Make a direct impact on our business by collaborating with your team to solve problems for our customers Participate in intern programming - Leadership Speaker series, social events \u2013 virtually and in-person Present your summer learnings during a final presentation at the end of the internship You are excited about an in person summer work experience&nbsp; Here are some examples of past intern projects: Collection of Summer 2024 Intern Projects Summer 2024 Intern Projects Cont. We\u2019re excited about you because\u2026 You are pursuing a B.S. or M.S. Degree in Computer Science or equivalent, have no more than 2 years of full-time work experience, and are graduating between Fall 2027 to Summer 2028. You are available for a May or June 2027 start date (Internships are only hosted during the Summer) You have experience working with databases (e.g., AWS, SQL, etc.)&nbsp; You have a solid understanding of algorithms and data structures You have proficient experience working with at least 1 object-oriented programming language (e.g., Python, Java, Kotlin, etc.) You have experience writing clean code, working with version control, and doing unit testing. Preferred but not required&nbsp; At least 1 previous Software Engineering internship or equivalent relevant experience Curiosity about and experience using AI-powered tools to support software development, problem solving, and learning, with an understanding of how to evaluate outputs and use these tools responsibly Ability to analyze and improve efficiency, scalability, and stability of various systems Excited to develop, release and run large-scale web applications Experience with solutions for systems monitoring, live deployments, and continuous integration Experience with real-time technology problems Experience working with service-oriented architecture, writing APIs, and designing systems. Participation in project or research-based technical work, hackathons, technical conferences/organization, on-campus student organization leadership, technical teaching assistant roles, relevant extracurricular activities, or other technical experience. Compensation Actual compensation within the pay range listed below will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. Base salary is localized according to employee work location.&nbsp; DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others. To learn more about our benefits, visit our careers page here . See below for paid time off details: For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year. For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week). The national base pay range for this position within the United States, including Illinois and Colorado. $107,400 &mdash; $158,000 USD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growi",
       "level": "intern",
@@ -2507,18 +2564,18 @@
       ]
     },
     {
-      "id": "c900c2b81d2de48d",
+      "id": "4e1b5c6510944ecf",
       "source": "greenhouse",
       "company": "Pinterest",
-      "title": "Software Engineer II, Android",
-      "location": "Toronto, ON, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
+      "title": "Software Engineer II, Big Data, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782546",
       "posted_at": "2026-09-16T14:51:43-04:00",
       "term": null,
-      "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop Grow as an engineer by working with world-class peers on varied and high impact projects Leverage AI to seek faster execution (i.e. draft, prototype, outline) and explore alternative options (i.e. iterate, compare approaches) Leverage AI to synthesize information (summarize, distill themes) and automate repeatable tasks (documentation, reporting, QA checks) &nbsp; What we\u2019re looking for: Deep understanding of Android development and best practices in Kotlin and/or Java, e.g. Activity Lifecycle, memory management, etc. 3+ years of industry Android application development experience, building consumer or business facing products Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers Ability to keep up-to-date with new technologies to understand what should be incorporated Strong collaboration and communication skills Demonstrated ability to use AI to improve speed and quality in your day-to-day workflow for relevant outputs. Strong track record of critical evaluation and verification of AI-assisted work (e.g., testing, source-checking, data validation, peer review). High integrity and ownership: you protect sensitive data, avoid over-reliance on AI, and remain accountable for final decisions and deliverables. Bachelor\u2019s degree in Computer Science, a related field, or equivalent experience. &nbsp; Relocation Statement: &nbsp;This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model. &nbsp; In-Office Requirement Statement: We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. This role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in Ontario. #LI-REMOTE &nbsp; At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found&nbsp; here . Canada based applicants only $139,378 &mdash; $189,378 CAD Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&nbsp; this form for support. &nbsp; By submitting this application, I certify that all information submitted in my ",
+      "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . About tvScientific tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business. &nbsp; As a Data Engineer at tvScientific, you will be a key player in implementing the robust data infrastructure to power our data-heavy company. You will collaborate with our cross-functional teams to evolve our core data pipelines, design for efficiency as we scale, and store data in optimal engines and formats. This is an individual contributor role, where you will work to define and implement a strategic vision for data engineering within the organization.&nbsp; What you'll do: Design and implement robust data infrastructure in AWS, using Spark with Scala Evolve our core&nbsp; data pipelines to efficiently scale for our massive growth Store data in optimal engines and formats, matching your designs to our performance needs and cost factors Collaborate with our cross-functional teams to design data solutions that meet business needs Design and implement knowledge graphs, exposing their functionality both via Batch Processing and APIs Leverage and optimize AWS resources while designing for scale Collaborate closely with our Data Science and Product teams How we'll define success: Successful design and implementation of scalable and efficient data infrastructure Timely delivery and optimization of data assets and APIs High attention to detail in implementation of automated data quality checks Effective collaboration with cross-functional teams What we're looking for: Production data engineering experience Proficiency in Spark and Scala, with proven experience building data infrastructure in Spark using Scala is preferred Experience in delivering significant technical initiatives and building reliable, large scale services Experience in delivering APIs backed by relationship-heavy datasets Familiarity with data lakes, cloud warehouses, and storage formats Strong proficiency in AWS services Expertise in SQL for data manipulation and extraction Excellent written and verbal communication skills Bachelor's degree in Computer Science or a related field Demonstrated ability to use AI to improve speed and quality in your day-to-day workflow for relevant outputs Strong track record of critical evaluation and verification of AI-assisted work (e.g., testing, source-checking, data validation, peer review) High integrity and ownership: you protect sensitive data, avoid over-reliance on AI, and remain accountable for final decisions and deliverables Nice-to-haves: Experience in adtech Experience implementing data governance practices, including data quality, metadata management, and access controls Strong understanding of privacy-by-design principles and handling of sensitive or regulated data Familiarity with data table formats like Apache Iceberg, Delta Previous experience building out a Data Engineering function Proven experience working closely with Data Science teams on machine learning pipelines &nbsp; In-Office Requirement Statement: We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. Relocation Statement: This position is not eligible for relocation assistance. Visit our &nbsp;PinFlex &nbsp;page to learn more about our working model. &nbsp; #LI-SM4 #LI-REMOTE At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found here . US based applicants only $123,696 &mdash; $254,667 USD Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status",
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -2528,7 +2585,7 @@
       "title": "Data Scientist, International",
       "location": "Toronto, ON",
       "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/6827862",
-      "posted_at": "2026-09-21T15:52:08-04:00",
+      "posted_at": "2026-09-22T17:11:14-04:00",
       "term": null,
       "description": "About the Team The Analytics team is looking for Data Analysts and Data Scientists to guide measurement, strategy, and tactical decision-making using Advanced Analytics approaches, as we expand our logistics platform across the globe. Data Scientists at DoorDash work to uncover insights and turn them into actionable recommendations, helping drive decisions for the entire organisation. Analytics is very integral to all operational areas at DoorDash. About the Role Data Science at DoorDash involves diving deeper into our data to solve crucial business problems, ideate &amp; run experiments to solve for insights gleaned from this deep dive and work with a cross-functional team to drive real-world operational change. It is NOT just about building Machine Learning models and putting them into production. This is a rare operational and actionable data-driven experience.&nbsp; We solve many exciting challenges from all three sides of our marketplace including customer acquisition, balancing supply and demand, fraud and support, marketing, marketplace efficiency, and more. If you enjoy finding patterns amidst chaos, are excited to build a market from 0 to 1, and have experience using analytics to affect revenue, growth, operations or beyond, we're looking for someone like you! You're excited about this opportunity because you will\u2026 Be a first-class thought partner to our product, business, finance and executive teams and help them make decisions on what\u2019s next for DoorDash Use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business Build full-cycle analytics experiments, reports, and dashboards using SQL, Python, R, or other scripting and statistical tools Produce recommendations and use statistical techniques and hypothesis testing and other experimentation techniques to validate your findings Provide insights to enable our cross-functional team to understand marketplace dynamics, user behaviours, and long-term trends Identify and measure levers to help move essential metrics and make recommendations Possess excellent stakeholder management skills, know how to effectively collaborate well with strategy, operations, product, finance and engineering and set priorities Be excited to travel to meet with business partners and the teams in each market We're excited about you because\u2026&nbsp; 3+ years of experience in data analytics, consulting, or related role The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way The determination to initiate and lead/own strategic projects to completion with a cross-functional team Experience working with experimentation techniques (A/B testing, Causal Inference) and interpreting hypothesis testing Proficiency in at least one programming language (Python, R,...) Expertise with SQL queries, ETLs, etc\u2026&nbsp; Proficiency in one or more analytics &amp; visualization tools Experience building and training statistical and machine learning models (classifiers, regression models...) &nbsp; &nbsp; Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024. The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey Compensation Actual compensation within the pay range listed below will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. Base salary is localized according to employee work location.&nbsp; In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information. DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package for all regular employees, that includes paid time off, paid parental leave, wellness benefit and several paid holidays. Additionally, for full-time employees, DoorDash offers medical, dental, and vision benefits, disability and basic life insurance, an RRSP including an employer match, and a mental health program, among others. To learn more about our benefits, visit our careers page here . The base pay for this position ranges from our lowest geographical market up to our highest geographical market within British Columbia. I4 $114,000 &mdash; $142,500 CAD I5 $142,000 &mdash; $177,500 CAD I6 $176,000 &mdash; $220,000 CAD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more. Our Commitment to Diversity and Inclusion We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of people from all backgrounds, experien",
       "level": "intern",
@@ -2543,7 +2600,7 @@
       "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
       "location": "Toronto, ON",
       "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
-      "posted_at": "2026-09-21T15:52:08-04:00",
+      "posted_at": "2026-09-22T17:11:14-04:00",
       "term": null,
       "description": "About the Team DoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers. About the Role We are looking for highly motivated recent college graduates At DoorDash, our product engineers implement and operate technological solutions to improve the experiences of our merchants, dashers, and consumers. From creating beautiful, user-friendly flows to crafting scalable backend architectures, we strive to deliver reliant, performant technology that delights our customers.&nbsp; You\u2019re excited about this opportunity because you will\u2026 Develop, maintain and ship technical elements with the support of your mentor, manager, and team members Act on feedback, coaching, and mentorship from your mentor and team members Actively learn about the elements to which you contribute Make a direct impact on our business by collaborating with your team to solve problems for our customers We\u2019re excited about you because you have\u2026 You recently graduated from a Canadian university with a B.S. or M.S. Degree in Computer Science or equivalent and graduated between Fall 2026-Summer 2027 At least 2 previous Software Engineering internships or equivalent work experience with&nbsp; no more than 2 years of full-time work experience Experience working with databases (e.g. SQL) Solid understanding of algorithms and data structures Experience working with at least one object-oriented programming language )e.g. Python, Java, Kotlin, etc.) Experience writing clean code, working with version control, and unit testing Nice to Haves: Able to analyze and improve efficiency, scalability, and stability of various systems Excited to develop, release, and run large-scale web applications Experience with solutions for systems monitoring, live deployments, and continuous integration Experience with real-time technology problems Experience working with service oriented architecture, writing APIs, and designing systems Compensation Actual compensation within the pay range listed below will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. Base salary is localized according to employee work location.&nbsp; In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information. DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package for all regular employees, that includes paid time off, paid parental leave, wellness benefit and several paid holidays. Additionally, for full-time employees, DoorDash offers medical, dental, and vision benefits, disability and basic life insurance, an RRSP including an employer match, and a mental health program, among others. To learn more about our benefits, visit our careers page here . The base pay for this position ranges from our lowest geographical market up to our highest geographical market within British Columbia. $94,500 &mdash; $118,000 CAD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more. Our Commitment to Diversity and Inclusion We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.&nbsp; If you need any accommodations, please inform your recruiting contact upon initial connection. Beware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring \u2014 learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness .",
       "level": "newgrad",
@@ -2558,7 +2615,7 @@
       "title": "Software Engineer, Intern (Summer 2027) - TOR",
       "location": "Toronto, ON",
       "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
-      "posted_at": "2026-09-21T15:52:08-04:00",
+      "posted_at": "2026-09-22T17:11:14-04:00",
       "term": null,
       "description": "About the Team DoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers. About the Role At DoorDash, our product engineers implement and operate technological solutions to improve the experiences of our merchants, dashers, and consumers. From creating beautiful, user-friendly flows to crafting scalable backend architectures, we strive to deliver reliant, performant technology that delights our customers.&nbsp; We believe interns are essential to our mission of attracting and retaining top talent. During our 12-week Software Engineer internship, interns are completely immersed in their teams and will have the opportunity to develop, maintain, and ship products. As an intern, you will directly impact our business by collaborating with your team to solve real problems for our customers. The 2026 internship program will be hosted in onsite at the DoorDash office in Toronto, ON You\u2019re excited about this opportunity because you will\u2026 Develop, maintain and ship technical elements with the support of your mentor, manager, and team members Act on feedback, coaching, and mentorship from your mentor and team members Actively learn about the elements to which you contribute Make a direct impact on our business by collaborating with your team to solve problems for our customers Participate in intern programming - Leadership Speaker series, social events \u2013 virtually and in-person Present your summer learnings during a final presentation at the end of the internship You are excited about an in person summer work experience&nbsp; Here are some examples of past intern projects: Collection of Summer 2024 Intern Projects Summer 2024 Intern Projects Cont. We\u2019re excited about you because\u2026 You are pursuing a B.S. or M.S. Degree in Computer Science or equivalent, have no more than 2 years of full-time work experience, and are graduating between Fall 2027 to Summer 2028.You are available for a May or June 2027 start date (Internships are only hosted during the Summer) You have experience working with databases (e.g., AWS, SQL, etc.)&nbsp; You have a solid understanding of algorithms and data structures You have proficient experience working with at least 1 object-oriented programming language (e.g., Python, Java, Kotlin, etc.) You have experience writing clean code, working with version control, and doing unit testing. Preferred but not required&nbsp; At least 1 previous Software Engineering internship or equivalent relevant experience Curiosity about and experience using AI-powered tools to support software development, problem solving, and learning, with an understanding of how to evaluate outputs and use these tools responsibly Ability to analyze and improve efficiency, scalability, and stability of various systems Excited to develop, release and run large-scale web applications Experience with solutions for systems monitoring, live deployments, and continuous integration Experience with real-time technology problems Experience working with service-oriented architecture, writing APIs, and designing systems. Participation in project or research-based technical work, hackathons, technical conferences/organization, on-campus student organization leadership, technical teaching assistant roles, relevant extracurricular activities, or other technical experience. Compensation Actual compensation within the pay range listed below will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. Base salary is localized according to employee work location.&nbsp; DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package for all regular employees, that includes paid time off, paid parental leave, wellness benefit and several paid holidays. Additionally, for full-time employees, DoorDash offers medical, dental, and vision benefits, disability and basic life insurance, an RRSP including an employer match, and a mental health program, among others. To learn more about our benefits, visit our careers page here . The base pay for this position ranges from our lowest geographical market up to our highest geographical market within British Columbia. $94,500 &mdash; $118,000 CAD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more. Our Commitment to Diversity and Inclusion We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.&nbsp; If you need any accommodations, please inform your recruiting contact upon initial connection. Beware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial inform",
       "level": "intern",
@@ -2837,21 +2894,6 @@
       ]
     },
     {
-      "id": "795dc035d17c5d87",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
-      "posted_at": "2026-08-12T15:12:11-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team\u2019s goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization. As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality. Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives. What You'll Do: Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines. Design and implement technical solutions to optimize test execution time and enhance test stability. Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company. Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation. Contribute to the evolution of the company\u2019s overall test strategy. With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. This role includes participation in an on-call rotation What We Look For: An East Coast location to enable smoother collaboration with European colleagues. 3+ years of experience in test automation. Proficient in both TypeScript and Python. Hands-on experience with Playwright and Pytest. Experience in building and optimizing CI pipelines. Experience with Docker and AWS. Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies. Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans. Experience in building or enhancing test automation frameworks and infrastructure is highly desirable. Mobile, infrastructure and performance test automation experience will be considered a significant advantage. Eager to grow and continuously learn new skills. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. &nbsp;#Li-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For posit",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "667ff04f073744bf",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2867,15 +2909,15 @@
       ]
     },
     {
-      "id": "ac8220a18f748b2d",
+      "id": "795dc035d17c5d87",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
+      "title": "Software Engineer II, Backend (Test Infra)",
       "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
-      "posted_at": "2026-08-21T13:28:20-04:00",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+      "posted_at": "2026-08-12T15:12:11-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team\u2019s goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization. As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality. Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives. What You'll Do: Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines. Design and implement technical solutions to optimize test execution time and enhance test stability. Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company. Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation. Contribute to the evolution of the company\u2019s overall test strategy. With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. This role includes participation in an on-call rotation What We Look For: An East Coast location to enable smoother collaboration with European colleagues. 3+ years of experience in test automation. Proficient in both TypeScript and Python. Hands-on experience with Playwright and Pytest. Experience in building and optimizing CI pipelines. Experience with Docker and AWS. Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies. Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans. Experience in building or enhancing test automation frameworks and infrastructure is highly desirable. Mobile, infrastructure and performance test automation experience will be considered a significant advantage. Eager to grow and continuously learn new skills. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. &nbsp;#Li-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For posit",
       "level": "intern",
       "countries": [
         "ca"
@@ -2894,6 +2936,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ac8220a18f748b2d",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (App Experience)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
+      "posted_at": "2026-08-21T13:28:20-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -3102,6 +3159,20 @@
       "level": "newgrad",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "aeefb775eb2ba04b",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Arlington, Virginia",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-291095",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -5492,23 +5563,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2a1ba720ddb549e5",
-      "source": "simplify",
-      "company": "GE Appliances",
-      "title": "Software Engineer Co-op - Software Engineering",
-      "location": "Louisville, KY",
-      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
-      "posted_at": "2026-08-05T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -13080,23 +13134,6 @@
       ]
     },
     {
-      "id": "e8aa1fba6e9dec86",
-      "source": "simplify",
-      "company": "General Dynamics UK",
-      "title": "Computer Science and Robotics Co-op - Information Technology",
-      "location": "Sherbrooke, QC, Canada",
-      "url": "https://jobs.smartrecruiters.com/GDMSI/744000147541849",
-      "posted_at": "2026-09-04T22:08:31+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "bd673866b60945e1",
       "source": "simplify",
       "company": "Barclays",
@@ -17261,24 +17298,6 @@
       ]
     },
     {
-      "id": "c1300f19144262c7",
-      "source": "simplify",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Commercialization",
-      "location": "SF; Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "posted_at": "2026-09-14T22:38:06+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "08ef34517ca10a89",
       "source": "simplify",
       "company": "ibotta",
@@ -17447,23 +17466,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "f1eb13782e6d84fa",
-      "source": "simplify",
-      "company": "CAI",
-      "title": "Data Engineer Intern",
-      "location": "Pennsylvania",
-      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481",
-      "posted_at": "2026-09-15T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -18545,6 +18547,24 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "c104e3f4c9060969",
+      "source": "simplify",
+      "company": "Waymo",
+      "title": "Software Engineer Intern - MS/PhD",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "posted_at": "2026-09-16T22:37:43+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
       ],
       "level": "intern",
       "countries": [
@@ -20239,23 +20259,6 @@
       "title": "Data Science Intern",
       "location": "Wilmington, NC",
       "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
-      "posted_at": "2026-09-21T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "688c3881dae14d90",
-      "source": "simplify",
-      "company": "Booz Allen",
-      "title": "Software Developer Intern - University",
-      "location": "McLean, VA",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249802",
       "posted_at": "2026-09-21T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
@@ -23136,23 +23139,6 @@
       ]
     },
     {
-      "id": "0224052ebf511c4e",
-      "source": "simplify-newgrad",
-      "company": "OCLC",
-      "title": "Associate Data Analyst/Metadata Specialist",
-      "location": "Dublin, OH",
-      "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Associate-Data--Metadata-Analyst_R0003901-1",
-      "posted_at": "2026-08-10T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "af625a619936e7b5",
       "source": "simplify-newgrad",
       "company": "Nova Talent",
@@ -25007,23 +24993,6 @@
       "posted_at": "2026-08-13T00:00:00+00:00",
       "term": null,
       "degrees": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "26ab5d6781ff659b",
-      "source": "simplify-newgrad",
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Lakewood, OH",
-      "url": "https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false",
-      "posted_at": "2026-09-04T22:15:54+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
       "level": "newgrad",
       "countries": [
         "us"
