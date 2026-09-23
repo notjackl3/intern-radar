@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T18:29:07.975517+00:00",
-  "open_count": 1564,
-  "new_count": 14,
+  "generated_at": "2026-09-23T23:02:01.743329+00:00",
+  "open_count": 1561,
+  "new_count": 4,
   "tier": "full",
   "jobs": [
     {
@@ -201,34 +201,6 @@
       ]
     },
     {
-      "id": "4dd613c88f073113",
-      "source": "workday",
-      "company": "Canadian Tire",
-      "title": "Data Analyst Student - (4 Months) - Winter Term 2027",
-      "location": "Oakville, ON",
-      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Analyst-Student----4-Months----Winter-Term-2027_JR164861",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "d9f1efd0de6cbac4",
-      "source": "workday",
-      "company": "Canadian Tire",
-      "title": "New Graduate Program - 2027 Data Science Associate, Finance Rotational Program",
-      "location": "Toronto, ON",
-      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "ad11f91e4e4dea2c",
       "source": "workday",
       "company": "Manulife",
@@ -411,62 +383,6 @@
       ]
     },
     {
-      "id": "a5aff92cc226017f",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "d7297a17b912f43d",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "R_1508495 Software Engineer III (Salesforce Loyalty Management Technical Lead)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/R-1508495-Software-Engineer-III--Salesforce-Loyalty-Management-Technical-Lead-_R_1509031",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "2ee90928a33e35ce",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer II (Full Stack Developer)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Full-Stack-Developer-_R_1504012",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "cf031b5e334cad79",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer III (Salesforce Loyalty Management Technical Lead)",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Software-Engineer-III--Salesforce-Loyalty-Management-Technical-Lead-_R_1508495",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "76fd59c7878386d3",
       "source": "workday",
       "company": "TD Bank",
@@ -543,6 +459,48 @@
       "title": "2027 Summer Analyst - Software Engineering Rotational Program (Toronto)",
       "location": "Toronto, Ontario",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "cf031b5e334cad79",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer III (Salesforce Loyalty Management Technical Lead)",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Software-Engineer-III--Salesforce-Loyalty-Management-Technical-Lead-_R_1508495",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "d7297a17b912f43d",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "R_1508495 Software Engineer III (Salesforce Loyalty Management Technical Lead)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/R-1508495-Software-Engineer-III--Salesforce-Loyalty-Management-Technical-Lead-_R_1509031",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a5aff92cc226017f",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -923,21 +881,6 @@
       ]
     },
     {
-      "id": "b12104a7206fa345",
-      "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
-      "posted_at": "2026-08-19T17:27:07.198000+00:00",
-      "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "d07760a1daea10b2",
       "source": "ashby",
       "company": "Exegy",
@@ -947,6 +890,49 @@
       "posted_at": "2026-09-10T19:32:54.144+00:00",
       "term": null,
       "description": "\u00c0 propos d'Exegy\n\nExegy est un leader mondial en mati\u00e8re de donn\u00e9es de march\u00e9 intelligentes, de syst\u00e8mes de trading avanc\u00e9s et de technologies \u00e9volutives. Exegy agit en tant que partenaire de confiance pour l'ensemble de l'\u00e9cosyst\u00e8me financier : c\u00f4t\u00e9 acheteur, c\u00f4t\u00e9 vendeur, bourses et entreprises de technologie des services financiers \u00e0 travers le monde. Dont le si\u00e8ge social est \u00e0 St. Louis, avec des bureaux r\u00e9gionaux en Am\u00e9rique du Nord, au Royaume-Uni/Europe et en Asie-Pacifique, Exegy dispose d'une pr\u00e9sence mondiale pour offrir un support de classe mondiale et des services g\u00e9r\u00e9s \u00e0 sa client\u00e8le de participants d'\u00e9lite aux march\u00e9s financiers.\n\nR\u00e9sum\u00e9 du poste\n\nExegy est \u00e0 la recherche d'un(e) stagiaire en d\u00e9veloppement logiciel pour soutenir notre \u00e9quipe d'ing\u00e9nierie dans le d\u00e9veloppement de logiciels en Python, d'outils d'automatisation et d'applications internes visant \u00e0 am\u00e9liorer l'efficacit\u00e9, la fiabilit\u00e9 et l'\u00e9volutivit\u00e9 de nos processus technologiques et op\u00e9rationnels.\n\nIl s'agit d'un poste de stage coop\u00e9ratif de 4 mois (avec possibilit\u00e9 de prolongation \u00e0 8 mois), bas\u00e9 \u00e0 Montr\u00e9al, pour la session Hiver 2026\u20132027. Nous recherchons des \u00e9tudiant(e)s en fin de parcours (S3 ou \u00e9quivalent). La ma\u00eetrise du fran\u00e7ais est requise pour ce poste.\n\nL'\u00e9tudiant(e) acquerra une exp\u00e9rience pratique en d\u00e9veloppement logiciel dans un environnement d'ing\u00e9nierie professionnel, en travaillant aux c\u00f4t\u00e9s de d\u00e9veloppeurs et d'ing\u00e9nieurs syst\u00e8mes exp\u00e9riment\u00e9s sur des projets concrets. Le r\u00f4le mettra fortement l'accent sur le d\u00e9veloppement Python et l'automatisation, notamment l'identification de processus manuels ou r\u00e9p\u00e9titifs pouvant \u00eatre optimis\u00e9s par le biais de logiciels.\n\nResponsabilit\u00e9s\n\n - D\u00e9velopper, tester, d\u00e9boguer et maintenir des scripts Python, des applications et des outils d'automatisation\n\n - Concevoir et am\u00e9liorer des flux de travail automatis\u00e9s afin de r\u00e9duire les t\u00e2ches manuelles d'ing\u00e9nierie et d'exploitation\n\n - Cr\u00e9er des outils et utilitaires internes pour soutenir le provisionnement, la configuration, la surveillance, les tests et la gestion des syst\u00e8mes\n\n - Travailler avec des API, des donn\u00e9es structur\u00e9es et des syst\u00e8mes logiciels existants pour int\u00e9grer et automatiser des processus\n\n - Participer au d\u00e9veloppement et \u00e0 la maintenance des logiciels utilis\u00e9s pour soutenir les plateformes technologiques haute performance d'Exegy\n\n - Diagnostiquer les probl\u00e8mes logiciels et contribuer \u00e0 l'analyse des causes profondes et \u00e0 la r\u00e9solution de probl\u00e8mes techniques\n\n - R\u00e9diger un code propre, maintenable et bien document\u00e9 en suivant les bonnes pratiques de d\u00e9veloppement logiciel \u00e9tablies\n\n - D\u00e9velopper des tests unitaires et participer aux revues de code afin d'am\u00e9liorer la qualit\u00e9 et la fiabilit\u00e9 des logiciels\n\n - Maintenir la documentation technique pour les applications, les scripts d'automatisation, les flux de travail et les processus d'ing\u00e9nierie\n\n - Collaborer avec les d\u00e9veloppeurs, les ing\u00e9nieurs syst\u00e8mes et d'autres \u00e9quipes techniques pour comprendre les besoins et les traduire en solutions logicielles concr\u00e8tes\n\n - Rechercher et \u00e9valuer de nouvelles technologies, outils et approches susceptibles d'am\u00e9liorer l'automatisation et l'efficacit\u00e9 de l'ing\u00e9nierie\n\n - Participer aux r\u00e9unions d'\u00e9quipe, aux discussions techniques et au cycle de d\u00e9veloppement logiciel dans son ensemble\n\nProfil recherch\u00e9\n\n - En fin de parcours dans un programme de g\u00e9nie informatique, de g\u00e9nie logiciel, d'informatique ou dans une discipline technique connexe (S3 ou \u00e9quivalent)\n\n - Exp\u00e9rience en programmation Python acquise dans le cadre de cours, de projets personnels, de stages ou d'exp\u00e9riences professionnelles ant\u00e9rieures\n\n - Compr\u00e9hension des fondamentaux du d\u00e9veloppement logiciel, notamment les structures de donn\u00e9es, la programmation orient\u00e9e objet, les tests et le d\u00e9bogage\n\n - Familiarit\u00e9 avec Git ou un autre syst\u00e8me de contr\u00f4le de version\n\n - Int\u00e9r\u00eat pour l'automatisation logicielle, les outils internes, le DevOps, l'ing\u00e9nierie des syst\u00e8mes ou les technologies d'infrastructure\n\n - Solides comp\u00e9tences analytiques et en r\u00e9solution de probl\u00e8mes\n\n - Capacit\u00e9 \u00e0 apprendre rapidement de nouvelles technologies et \u00e0 travailler en collaboration dans un environnement technique\n\n - Excellentes comp\u00e9tences en communication \u00e9crite et orale, en fran\u00e7ais et en anglais\n\nUne exposition \u00e0 Linux, aux API REST, au CI/CD, aux technologies cloud, \u00e0 l'automatisation d'infrastructure ou aux technologies financi\u00e8res est un atout, mais n'est pas requise.\n\nCe stage offre l'opportunit\u00e9 de contribuer directement \u00e0 des initiatives d'ing\u00e9nierie orient\u00e9es production, tout en d\u00e9veloppant une exp\u00e9rience pratique en d\u00e9veloppement Python, en automatisation, en int\u00e9gration de syst\u00e8mes et en pratiques d'ing\u00e9nierie modernes.\n\n_______________________________________________________________________________\n\nAbout Exegy\n\nExegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges, and financial services technology firms around the globe. Headquartered in St. Louis with regional offices in North America, the UK/Europe and Asia Pacific, Exegy has the global footprint to deliver world-class support and managed services to its customer base of elite financial market participants.\n\nJob Summary\n\nExegy is seeking a Software Developer Intern to support our engineering team in developing Python-based software, automation tools, and internal applications that improve the efficiency, reliability, and scalability of our technology and operational processes.\n\nThis is a 4-month co-op position (with the possibility of extension to 8 months) based in Montreal, for the Winter 2026\u20132027 term. We are looking for students in the final stages of their program (S3 or equivalent).\n\nThe student will gain hands-on software development experience in a professional engineering environment, working alongside experienced developers and systems engineers on real-world projects. The role will have a strong emphasis on Python development and automation, including identifying manual or repetitive processes that can be streamlined through software.\n\nResponsibilities\n\n - Develop, test, debug, and maintain Python scripts, applications, and automation tools\n\n - Design and improve automated workflows that reduce manual engineering and operational tasks\n\n - Build internal tools and utilities to support provisioning, configuration, monitoring, testing, and system management\n\n - Work with APIs, structured data, and existing software systems to integrate and automate processes\n\n - Assist with developing and maintaining software used to support Exegy's high-performance technology platforms\n\n - Troubleshoot software issues and contribute to root-cause analysis and technical problem solving\n\n - Write clean, maintainable, and well-documented code following established software development practices\n\n - Develop unit tests and participate in code reviews to improve software quality and reliability\n\n - Maintain technical documentation for applications, automation scripts, workflows, and engineering processes\n\n - Collaborate with software developers, systems engineers, and other technical teams to understand requirements and translate them into practical software solutions\n\n - Research and evaluate new technologies, tools, and approaches that could improve automation and engineering efficiency\n\n - Participate in team meetings, technical discussions, and the broader software development lifecycle\n\nOur Ideal Candidate\n\n - Nearing the end of a degree in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline (S3 or equivalent)\n\n - Experience programming in Python through coursework, personal projects, internships, or previous work experience\n\n - Understanding of software development fundamentals, including data structures, object-oriented programming, testing, and debugging\n\n - Familiarity with Git or another source-control system\n\n - Interest in software automation, internal tooling, DevOps, systems engineering, or infrastructure technologies\n\n - Strong analytical and problem-solving skills\n\n - Ability to learn new technologies quickly and work collaboratively in a technical team environment\n\n - Strong written and verbal communication skills\n\nExposure to Linux, REST APIs, CI/CD, cloud technologies, infrastructure automation, or financial technology is beneficial but not required.\n\nThis internship provides the opportunity to contribute directly to production-oriented engineering initiatives while developing practical experience in Python software development, automation, systems integration, and modern engineering practices.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "4dd613c88f073113",
+      "source": "workday",
+      "company": "Canadian Tire",
+      "title": "Data Analyst Student - (4 Months) - Winter Term 2027",
+      "location": "Oakville, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Analyst-Student----4-Months----Winter-Term-2027_JR164861",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d9f1efd0de6cbac4",
+      "source": "workday",
+      "company": "Canadian Tire",
+      "title": "New Graduate Program - 2027 Data Science Associate, Finance Rotational Program",
+      "location": "Toronto, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b12104a7206fa345",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "posted_at": "2026-08-19T17:27:07.198000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -1026,20 +1012,6 @@
       ]
     },
     {
-      "id": "f2be086b25f30d26",
-      "source": "workday",
-      "company": "Bank of Montreal (Privileged)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "8763ca919c8c5255",
       "source": "workday",
       "company": "Ciena",
@@ -1068,6 +1040,62 @@
       ]
     },
     {
+      "id": "99818c875ac55684",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern",
+      "location": "CA-ON - Toronto - TOR",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "185a2dc50e5a6ea5",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Software/Firmware Engineer Intern",
+      "location": "CA-ON - Toronto - TOR",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "88987cb6dda2e9ae",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+      "location": "Burlington, VT",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "f05872574795ca63",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "63f9df3ec24d5248",
       "source": "workday",
       "company": "Capital One",
@@ -1091,6 +1119,48 @@
       "posted_at": null,
       "term": null,
       "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "f6deb85dfdd99ac1",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+      "location": "Burlington, VT",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "aeec56d561fcc0b6",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "Firmware Engineer Intern",
+      "location": "Ottawa, Canada",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "f2be086b25f30d26",
+      "source": "workday",
+      "company": "Bank of Montreal (Privileged)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -1194,20 +1264,6 @@
       ]
     },
     {
-      "id": "90155e20b0fe8f1d",
-      "source": "workday",
-      "company": "Intelcom | Dragonfly",
-      "title": "Business Intelligence (BI) Developer Intern",
-      "location": "Canada, Quebec, Montreal",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "941c611491e8ea45",
       "source": "workday",
       "company": "Intelcom | Dragonfly",
@@ -1250,96 +1306,26 @@
       ]
     },
     {
+      "id": "90155e20b0fe8f1d",
+      "source": "workday",
+      "company": "Intelcom | Dragonfly",
+      "title": "Business Intelligence (BI) Developer Intern",
+      "location": "Canada, Quebec, Montreal",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "ebb8dadef63274c0",
       "source": "workday",
       "company": "Intelcom | Dragonfly",
       "title": "Site Reliability Engineering (SRE) Intern",
       "location": "Canada, Quebec, Montreal",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Site-Reliability-Engineering--SRE--Intern_JR111560",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "99818c875ac55684",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern",
-      "location": "CA-ON - Toronto - TOR",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "185a2dc50e5a6ea5",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "Software/Firmware Engineer Intern",
-      "location": "CA-ON - Toronto - TOR",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "88987cb6dda2e9ae",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "SRAM Software Engineer Intern, BS - Summer 2027",
-      "location": "Burlington, VT",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "f05872574795ca63",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "f6deb85dfdd99ac1",
-      "source": "workday",
-      "company": "Marvell (Careers 2)",
-      "title": "SRAM Software Engineer Intern, BS - Summer 2027",
-      "location": "Burlington, VT",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "aeec56d561fcc0b6",
-      "source": "workday",
-      "company": "Marvell (Careers 2)",
-      "title": "Firmware Engineer Intern",
-      "location": "Ottawa, Canada",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1432,17 +1418,115 @@
       ]
     },
     {
-      "id": "0e8abcdd2f50699a",
+      "id": "6db5090c47acc4dc",
       "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Cyber Security - 2027 Summer Internship (Chicago Hybrid)",
-      "location": "Chicago, IL, More...",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
+      "company": "Altera",
+      "title": "Quartus Compiler Software - Intern",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "ac3714c078bd95b0",
+      "source": "workday",
+      "company": "Altera",
+      "title": "Graduate Intern - Engineering Infrastructure",
+      "location": "San Jose, California, United States",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "8a4880feeb90b722",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b2925ffc60cd709a",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "c0beab6e1a8779b8",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Weapons Simulation Software Co-Op",
+      "location": "Arlington, TX",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "457ad9f69dc231f1",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-416 \u2013 Stagiaire d\u00e9veloppeur(se) C++ CGF\u202fUnreal",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d6832476eef63f28",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-112 Stagiaire d\u00e9veloppeur(se) logiciel \u2013 Environnement immersif",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85312f8265585656",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1502,6 +1586,20 @@
       ]
     },
     {
+      "id": "5402a97823947ace",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "2027 Software Engineering Summer Internship",
+      "location": "Plantation, FL",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "1055f4442052b014",
       "source": "workday",
       "company": "Motorola Solutions",
@@ -1516,12 +1614,12 @@
       ]
     },
     {
-      "id": "5402a97823947ace",
+      "id": "0e8abcdd2f50699a",
       "source": "workday",
       "company": "Motorola Solutions",
-      "title": "2027 Software Engineering Summer Internship",
-      "location": "Plantation, FL",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "title": "Cyber Security - 2027 Summer Internship (Chicago Hybrid)",
+      "location": "Chicago, IL, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1541,62 +1639,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "6db5090c47acc4dc",
-      "source": "workday",
-      "company": "Altera",
-      "title": "Quartus Compiler Software - Intern",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ac3714c078bd95b0",
-      "source": "workday",
-      "company": "Altera",
-      "title": "Graduate Intern - Engineering Infrastructure",
-      "location": "San Jose, California, United States",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "8a4880feeb90b722",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b2925ffc60cd709a",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -1670,118 +1712,6 @@
       ]
     },
     {
-      "id": "371e05f5a48a3c45",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "Software Engineer AV HIL Platform and Services (Early Career))",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "49806287691d7f2d",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems",
-      "location": "Markham, Ontario, Canada",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a8ff2a5254223a25",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1860c6e1a37bab94",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "c0beab6e1a8779b8",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Weapons Simulation Software Co-Op",
-      "location": "Arlington, TX",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "457ad9f69dc231f1",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-416 \u2013 Stagiaire d\u00e9veloppeur(se) C++ CGF\u202fUnreal",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "d6832476eef63f28",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-112 Stagiaire d\u00e9veloppeur(se) logiciel \u2013 Environnement immersif",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85312f8265585656",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "96837c6aa5f43b0c",
       "source": "ashby",
       "company": "Jerry",
@@ -1839,6 +1769,62 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "371e05f5a48a3c45",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "Software Engineer AV HIL Platform and Services (Early Career))",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "49806287691d7f2d",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a8ff2a5254223a25",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1860c6e1a37bab94",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2127,6 +2113,51 @@
       ]
     },
     {
+      "id": "a347c45c8e75b590",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Design Verification Engineer (Intern 2026)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Join Astera Lab\u2019s ASIC team as Design Verification Co-Op working on the forefront of high-performance compute and networking standards in advanced CMOS process nodes. The ideal candidate will be passionate about silicon engineering with a background in VLSI and/or computer architecture. In this position you will be responsible for design and/or verification of blocks using leading edge methodology and tools. Basic qualifications: Completed 3 rd year of study, minimum GPA: 3.5 Strong academics and technical background in either Computer Engineering or Electrical/Electronic Engineering. Authorized to work in Canada and start immediately. Required experience : Courses/Projects in digital logic, programming languages, computer architecture. Hands-on and knowledge of RTL design languages and tools including Verilog, System Verilog. Familiarity with any of the scripting languages Python, Perl, etc. and hands-on experience in C/C++. Detailed oriented with strong analytics and&nbsp;debugging skills. Preferred experience: Knowledge of high-speed interfaces like PCIe, DDR, HBM, Serdes. Knowledge of communication interfaces like SPI, I2C, JTAG. Courses in digital communications and computer networks. System Verilog test bench(UVM) Familiarity with Synopsys EDA tools. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "ab52712060a1c140",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Firmware Engineer (Internship) - Vancouver",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b79a35d0605cda4d",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "8b5af961dac85fd0",
       "source": "workday",
       "company": "Cadence (University)",
@@ -2225,51 +2256,6 @@
       ]
     },
     {
-      "id": "a347c45c8e75b590",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Design Verification Engineer (Intern 2026)",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
-      "posted_at": "2026-08-25T12:42:10-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Join Astera Lab\u2019s ASIC team as Design Verification Co-Op working on the forefront of high-performance compute and networking standards in advanced CMOS process nodes. The ideal candidate will be passionate about silicon engineering with a background in VLSI and/or computer architecture. In this position you will be responsible for design and/or verification of blocks using leading edge methodology and tools. Basic qualifications: Completed 3 rd year of study, minimum GPA: 3.5 Strong academics and technical background in either Computer Engineering or Electrical/Electronic Engineering. Authorized to work in Canada and start immediately. Required experience : Courses/Projects in digital logic, programming languages, computer architecture. Hands-on and knowledge of RTL design languages and tools including Verilog, System Verilog. Familiarity with any of the scripting languages Python, Perl, etc. and hands-on experience in C/C++. Detailed oriented with strong analytics and&nbsp;debugging skills. Preferred experience: Knowledge of high-speed interfaces like PCIe, DDR, HBM, Serdes. Knowledge of communication interfaces like SPI, I2C, JTAG. Courses in digital communications and computer networks. System Verilog test bench(UVM) Familiarity with Synopsys EDA tools. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ab52712060a1c140",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Firmware Engineer (Internship) - Vancouver",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-      "posted_at": "2026-08-25T12:42:10-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b79a35d0605cda4d",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
-      "posted_at": "2026-08-25T12:42:10-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "ca632f68f069d85a",
       "source": "workday",
       "company": "Harris Computer",
@@ -2313,20 +2299,6 @@
       ]
     },
     {
-      "id": "4f907e8db5f36275",
-      "source": "workday",
-      "company": "Salesforce",
-      "title": "Software Engineer II (Full-Stack)",
-      "location": "North Carolina - Raleigh",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "d673f01084148f7f",
       "source": "greenhouse",
       "company": "Stripe",
@@ -2339,20 +2311,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "0b845921ded5a707",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "Software Engineer in Quality Engineering",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -2371,26 +2329,26 @@
       ]
     },
     {
-      "id": "9303cf9eacaa9707",
+      "id": "0b845921ded5a707",
       "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "company": "Adobe",
+      "title": "Software Engineer in Quality Engineering",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
-      "id": "26ced3507f729e19",
+      "id": "4f907e8db5f36275",
       "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "company": "Salesforce",
+      "title": "Software Engineer II (Full-Stack)",
+      "location": "North Carolina - Raleigh",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -2429,18 +2387,18 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "id": "5284023583dde818",
+      "source": "greenhouse",
+      "company": "Figma",
+      "title": "Data Engineer Intern (2027)",
+      "location": "San Francisco, CA \u2022 New York, NY",
+      "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+      "posted_at": "2026-09-23T15:30:27-04:00",
       "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! We are looking for Data Engineering interns who are excited to help scale the systems and pipelines that power decision-making at Figma. As an intern on our data team, you will partner with engineers and analysts to design and build reliable datasets, ensure data quality, and make Figma's data more accessible across the company. This internship will be based out of our San Francisco or New York Hub. What you'll do at Figma: Build, test, and document data pipelines that bring product or business data into Figma\u2019s data warehouse Help design foundational datasets that are trusted, well-documented, and easy to use Optimize pipelines for performance and scalability as Figma grows Partner with cross-functional teammates to understand data needs and deliver solutions Contribute to the tools and practices that make working with data at Figma easier With support from a manager and mentor, you\u2019ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results. Some projects you could work on: Develop new ETL jobs to integrate product or business data into our warehouse Improve the performance and reliability of core pipelines Build reusable datasets that support experimentation, product and business analytics, or cross-functional stakeholders Document and simplify complex data workflows for broader use We'd love to hear from you if you have: Experience coding in Python or a similar language and writing SQL queries Experience building or working with data pipelines, ETL, or large datasets Curiosity about how data systems work and interest in making them more scalable and reliable Strong communication and collaboration skills Excitement to learn, get feedback, and grow as a data engineer At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you\u2019re excited about this role but your past experience doesn\u2019t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Pay Transparency Disclosure This internship role is based in either Figma\u2019s San Francisco or New York hub offices, and has the hourly base pay rate stated below.&nbsp; Figma also offers interns a housing stipend and travel reimbursement. Figma\u2019s compensation and benefits are subject to change and may be modified in the future. Internship $46 &mdash; $46 USD At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.&nbsp; Examples of accommodations include but are not limited to:&nbsp; Holding interviews in an accessible location Enabling closed captioning on video conferencing Ensuring all written communication be compatible with screen readers Changing the mode or format of interviews&nbsp; To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding. By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .",
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -2501,6 +2459,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2573,6 +2546,34 @@
       "posted_at": "2026-09-23T12:28:18-04:00",
       "term": null,
       "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . Pinterest is seeking an experienced Security Engineer to build and implement detection and response improvements and adapt to emerging threats to protect employees and infrastructure. In this role you will have the opportunity to solve challenging problems and provide a meaningful impact on our overall security posture. We are looking for a candidate with a passion for both security and innovation. What you'll do: Build alerts and automation workflows to improve capabilities to detect and response to external and internal security threats Manage our logging pipelines and infrastructure and onboard new logging sources to improve our detection coverage Develop and maintain internal tooling to expand and automate team detection and response capabilities Respond to alerts generated from our tooling and run incidents as part of an on-call rotation Collaborate with cross team partners Hunt for previously undetected threats in our environment Leverage AI to streamline and enhance the efficiency, accuracy, and coverage of security engineering What we\u2019re looking for: Bachelor\u2019s degree in Computer Science, Cybersecurity or, a related field or equivalent experience Strong knowledge of intrusion detection and incident response with an engineering focus in a modern cloud first environment Knowledge of the attacker lifecycle, common attack and detection techniques Hands on experience with writing SIEM queries for alerting, response, and threat hunting Experience consuming threat intel and applying it to improve detection capabilities Familiarity with using multiple sources of telemetry for threat investigations: Eg. EDR, Osquery, Firewall logs Understanding of networking technologies and/or network security, basic TCP/IP network fundamentals Depth in ideally MacOS internals, or alternatively in Linux/UNIX or Windows internals, persistence mechanisms, privilege escalation techniques Scripting or automation experience (e.g., Python, Go, Ruby) for tool development or integration Demonstrated ability to use AI to improve speed and quality in your day-to-day workflow for relevant outputs. Strong track record of critical evaluation and verification of AI-assisted work (e.g., testing, source-checking, data validation, peer review) High integrity and ownership: you protect sensitive data, avoid over-reliance on AI, and remain accountable for final decisions and deliverables In-Office Requirement Statement:&nbsp; We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. This role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in the country.&nbsp; Relocation Statement: This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model. &nbsp; #LI-REMOTE #LI-JT1 At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found here . US based applicants only $123,696 &mdash; $254,667 USD Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&nbsp; this form for support. &nbsp; By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "us"
@@ -2690,7 +2691,7 @@
       "title": "Software Engineer II",
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
-      "posted_at": "2026-09-16T14:10:39-04:00",
+      "posted_at": "2026-09-23T16:50:46-04:00",
       "term": null,
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role: The Safety Triage &amp; Insights team builds products and platforms that help customers review safety events, understand driver risk, and take action more effectively. We work across backend systems, APIs, and user-facing experiences that power safety event triage, supervisor workflows, driver insights, and related safety experiences across Samsara. We are also investing in AI-native product development, including LLM-powered workflows and agentic systems, to help customers move from manual incident review toward more proactive and intelligent safety operations. As a Software Engineer II on the team, you will own customer-facing features from concept to production, delivering experiences that improve customer workflows and drive meaningful business impact. You'll collaborate across Product, Design, and engineering to build scalable, AI-powered solutions while continuously improving the reliability and scalability of the systems you own. This is a remote position open to candidates residing in the US. You should apply if: You want to impact the industries that run our world: The software, firmware, and&nbsp;hardware you build will result in real-world impact, helping to keep the lights on, get food&nbsp;into grocery stores, and most importantly, ensure workers return home safely. You are a life-long learner: We have ambitious goals. Every Samsarian has a growth&nbsp;mindset as we work with a wide range of technologies, challenges, and customers that&nbsp;push us to learn on the go. You believe customers are more than a number: Samsara engineers enjoy a rare&nbsp;closeness to the end user and you will have the opportunity to participate in customer&nbsp;interviews, collaborate with customer success and product managers, and use metrics to&nbsp;ensure our work is translating into better customer outcomes. You are a team player: Working on our Samsara Engineering teams requires a mix of&nbsp;independent effort and collaboration. Motivated by our mission, we\u2019re all racing toward&nbsp;our connected operations vision, and we intend to win together. In this role, you will: Independently deliver well-scoped customer-facing features and platform capabilities from design and implementation through rollout and follow-through in production. Build reliable services, APIs, and web experiences, improving existing systems while shipping new capabilities. Contribute to AI-powered workflows and experiences using modern LLM tooling, including evaluation, iteration, and human-in-the-loop patterns. Make thoughtful technical tradeoffs across speed, maintainability, scalability, and customer impact. Collaborate across Engineering, Product, Design, ML, and platform teams to deliver cohesive customer experiences. Champion, role model, and embed Samsara\u2019s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices. Minimum requirements for the role: 18 months+ of relevant software engineering experience building, shipping, and operating reliable customer-facing production systems. Experience developing features or end-to-end solutions across backend services, APIs, and modern web applications. Ability to independently own moderately complex projects or features within a release or two, with strong execution and follow-through. Experience writing clean, efficient, maintainable code and reviewing peer code for correctness and clarity. Ability to make thoughtful technical tradeoffs across performance, scalability, maintainability, and delivery speed. Experience using metrics, logs, tests, or tracing to debug issues, validate releases, and improve reliability. Strong communication and collaboration skills across engineering and cross-functional partners. Experience or demonstrated interest in AI-native development, including LLMs and workflow automation. A growth mindset, strong product intuition, and excitement for learning new technologies and building impactful customer experiences. An ideal candidate also has: Experience building and scaling customer-facing AI/LLM-powered products in production environments. Experience working across the stack with modern technologies such as Go, GraphQL, TypeScript, React, and AWS. Familiarity with observability, rollout practices, and monitoring approaches that improve product reliability and operational excellence. Experience operating in fast-paced, highly collaborative environments with distributed teams. The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. This role is also eligible for an initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions. Learn more about our total rewards and b",
       "level": "intern",
@@ -2705,7 +2706,7 @@
       "title": "Software Engineering Internship - San Francisco ",
       "location": "San Francisco - SF9",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-      "posted_at": "2026-09-16T14:10:39-04:00",
+      "posted_at": "2026-09-23T16:50:46-04:00",
       "term": null,
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role: At Samsara, interns can work on a wide range of high-impact engineering challenges across our connected operations platform. Depending on the team, an intern may help build the backend infrastructure that powers our IoT platform, scaling data ingestion and storage systems that support over 15,000 hardware assets and tens of thousands of customers around the world. They may also work across the full stack, creating intuitive user experiences that turn data into actionable insights, while partnering closely with product and design to rapidly iterate on features that deliver real customer value. On the mobile side, an intern could help strengthen the infrastructure behind our React Native app, enabling feature teams to move quickly and build performant, maintainable products. For those focused on embedded software, projects may include building and maintaining software that runs directly on Samsara hardware, spanning areas like edge AI, multimedia frameworks, power management, and real-time data processing in demanding real-world environments.&nbsp; Throughout the interview process, we will dig into your past experience, what you are most interested in learning next, and where you would be the best fit across our engineering teams. Our engineering teams use Golang for backend development, TypeScript and React for the web client, GraphQL for data access, and React Native for mobile development. Direct experience with this exact stack is not required, but experience with similar technologies is strongly encouraged.&nbsp; You should apply if\u2026 You want to impact the industries that run our world. The software you build will help keep the lights on, get food into grocery stores, and - most importantly - ensure workers return home safely. You want to build for scale. You'll work on technology that powers physical operations at a scale most engineers never experience. You believe customers are more than a number. Our engineers are deeply invested in our customers and the daily problems they face. They visit customers in person to understand not just how Samsara helps them today, but where our products need to go next. You\u2019ll participate in customer interviews, collaborate with success and product teams, and use metrics to ensure your work translates into real outcomes. You're curious and self-driven. You challenge yourself outside of class - hackathons, side projects, tearing apart how something works just because you want to understand it. You move fast, embrace new technology, and treat learning as constant. You're drawn to hard problems and own them end to end. You dig into complexity, research it thoroughly, and find the simplest solution that works - then see it through, holding yourself to a high standard along the way. You're AI-forward. You've woven AI into how you work, whether that's accelerating debugging, drafting code, or exploring unfamiliar problem spaces faster. You're quick to experiment and always looking for smarter ways to build. You're a collaborator. You work well independently and across cross-functional teams, and you're motivated by winning together, not just individually. Minimum requirements Currently a junior-year student on track to complete a Bachelor\u2019s degree in Computer Science, Mathematics, Software Engineering, Physics, or Data Science between Spring/Summer/Fall 2028 or Winter 2029. This internship is hybrid: 3 days per week in our San Francisco, CA office. Relocation assistance is available. This internship is a full-time, paid experience - interns are expected not to be enrolled in school full-time while working at Samsara. In your application: Include your resume Answer all of the application questions We\u2019re reviewing applications on a rolling basis, and we expect to finalize our cohort by late November/early December. Applications will officially close on November 26th at 11:59pm (ET). Please do not email us to inquire about the status of your application. We know that applying for internships can be time-consuming, and we truly appreciate your effort. We\u2019re looking forward to learning more about you through your application. The range of hourly base salary for this position is below. Please note that base hourly pay may vary depending on factors including your city of residence, job-related knowledge, skills, and experience.&nbsp; Hourly Base Salary $61.90 &mdash; $61.90 USD Total Rewards At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time. Beyo",
       "level": "intern",
@@ -2849,21 +2850,6 @@
       ]
     },
     {
-      "id": "55c25fa6faed0f71",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7777094003",
-      "posted_at": "2026-08-12T15:12:11-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Affirm Card is one of the company\u2019s fastest-growing products and an increasingly significant contributor to overall platform GMV. Our team builds and operates the systems behind every card issued at Affirm and every transaction processed across Affirm\u2019s card products, including the Affirm Card and one-time virtual cards. We own the core issuing and processing infrastructure powering authorization, transaction processing, account and card lifecycle management, tokenization, and platform security. As Affirm continues to expand its card offerings, the scale, complexity, and reliability requirements of our systems continue to grow. You will work on systems that sit directly on the critical path of every card transaction, collaborating closely with product and cross-functional partner teams. This is a unique opportunity to help shape some of Affirm\u2019s most strategic and fastest-growing products while solving complex engineering challenges at scale. What You'll Do &nbsp; With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For &nbsp; You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: 133,000 &nbsp;-&nbsp; 183,000 Location - Remote Canada #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "f4793c9af103bec9",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2876,6 +2862,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "55c25fa6faed0f71",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7777094003",
+      "posted_at": "2026-08-12T15:12:11-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Affirm Card is one of the company\u2019s fastest-growing products and an increasingly significant contributor to overall platform GMV. Our team builds and operates the systems behind every card issued at Affirm and every transaction processed across Affirm\u2019s card products, including the Affirm Card and one-time virtual cards. We own the core issuing and processing infrastructure powering authorization, transaction processing, account and card lifecycle management, tokenization, and platform security. As Affirm continues to expand its card offerings, the scale, complexity, and reliability requirements of our systems continue to grow. You will work on systems that sit directly on the critical path of every card transaction, collaborating closely with product and cross-functional partner teams. This is a unique opportunity to help shape some of Affirm\u2019s most strategic and fastest-growing products while solving complex engineering challenges at scale. What You'll Do &nbsp; With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For &nbsp; You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: 133,000 &nbsp;-&nbsp; 183,000 Location - Remote Canada #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2924,21 +2925,6 @@
       ]
     },
     {
-      "id": "b84193792e66ff4b",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
-      "posted_at": "2026-08-21T13:28:15-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ac8220a18f748b2d",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2951,6 +2937,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "b84193792e66ff4b",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (App Experience)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
+      "posted_at": "2026-08-21T13:28:15-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -3316,6 +3317,20 @@
       ]
     },
     {
+      "id": "da48dcd4efe66e65",
+      "source": "workday",
+      "company": "Intel",
+      "title": "AI and Compiler Engineering Graduate Intern",
+      "location": "Virtual Canada",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "996ab6e9fb697e22",
       "source": "workday",
       "company": "Intel",
@@ -3341,20 +3356,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "da48dcd4efe66e65",
-      "source": "workday",
-      "company": "Intel",
-      "title": "AI and Compiler Engineering Graduate Intern",
-      "location": "Virtual Canada",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -5843,6 +5844,23 @@
       "posted_at": "2026-08-07T22:09:06+00:00",
       "term": "Summer 2027",
       "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "36b283ee23a86ac3",
+      "source": "simplify",
+      "company": "Axon",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA; Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+      "posted_at": "2026-08-07T22:30:05+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
       "level": "intern",
       "countries": [
         "us"
@@ -8603,23 +8621,6 @@
       "posted_at": "2026-08-27T23:30:25+00:00",
       "term": "Summer 2027",
       "degrees": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1c842dc45cae952f",
-      "source": "simplify",
-      "company": "Mastercard",
-      "title": "Data Scientist Intern - Summer 2027",
-      "location": "O'Fallon, MO",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869",
-      "posted_at": "2026-08-28T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
       "level": "intern",
       "countries": [
         "us"
@@ -15443,23 +15444,6 @@
       ]
     },
     {
-      "id": "82f9a911e5ccfaa9",
-      "source": "simplify",
-      "company": "Procter & Gamble",
-      "title": "Research and Development PhD Intern - Life Cycle Assessment - Data Science",
-      "location": "Mason, OH",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787",
-      "posted_at": "2026-09-10T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "PhD"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "655d621c2a3c1e88",
       "source": "simplify",
       "company": "National Information Solutions Cooperative",
@@ -17072,46 +17056,12 @@
       ]
     },
     {
-      "id": "a724704fbcaf564c",
-      "source": "simplify",
-      "company": "Wex",
-      "title": "Full-Stack Software Engineer Intern - Undergraduate",
-      "location": "Remote in USA",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
-      "posted_at": "2026-09-14T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "a43475e51f8d696a",
       "source": "simplify",
       "company": "Wex",
       "title": "Backend Software Engineer Intern - Java & AI - Master's",
       "location": "Remote in USA",
       "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-      "posted_at": "2026-09-14T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "671f6071552ec21b",
-      "source": "simplify",
-      "company": "Wex",
-      "title": "Software Engineer Intern - AI & Cloud",
-      "location": "Remote in USA",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
       "posted_at": "2026-09-14T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
@@ -17729,6 +17679,24 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "56c2195dd5f79bef",
+      "source": "simplify",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Annapolis, MD",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556",
+      "posted_at": "2026-09-15T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -20160,23 +20128,6 @@
       ]
     },
     {
-      "id": "bef0e92f35fc1bd9",
-      "source": "simplify",
-      "company": "Booz Allen",
-      "title": "Software Developer Intern - University",
-      "location": "McLean, VA",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809",
-      "posted_at": "2026-09-21T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "dae0b9501b3eb68d",
       "source": "simplify",
       "company": "Booz Allen",
@@ -20318,23 +20269,6 @@
       "location": "Irvine, CA; Santa Clara, CA; Westlake Village, CA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1",
       "posted_at": "2026-09-21T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "493ca68dd8ab408a",
-      "source": "simplify",
-      "company": "Tyler Technologies",
-      "title": "Software Development Intern - Summer 2027",
-      "location": "Yarmouth, ME; Orono, ME; Falmouth, ME",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
-      "posted_at": "2026-09-21T22:26:01+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -20658,24 +20592,6 @@
       ]
     },
     {
-      "id": "d5429a72b9bf2e5a",
-      "source": "simplify",
-      "company": "CACI",
-      "title": "Software Engineer Intern",
-      "location": "Sterling, VA",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386",
-      "posted_at": "2026-09-22T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "e7dc3b5775115f8d",
       "source": "simplify",
       "company": "Stryker",
@@ -20823,6 +20739,59 @@
       "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
       "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
       "posted_at": "2026-09-23T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1d6fc167adc88520",
+      "source": "simplify",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Development Intern",
+      "location": "Bossier City, LA",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
+      "posted_at": "2026-09-23T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "4a3d7a17db3f8473",
+      "source": "simplify",
+      "company": "West Bend Insurance",
+      "title": "Data Scientist Intern",
+      "location": "Madison, WI; West Bend, WI",
+      "url": "https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false",
+      "posted_at": "2026-09-23T22:06:08+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b313ebd7dca20adc",
+      "source": "simplify",
+      "company": "State Farm",
+      "title": "Software Developer Intern - HR&D",
+      "location": "Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL",
+      "url": "https://jobs.statefarm.com/jobs/45689?icims=1",
+      "posted_at": "2026-09-23T22:06:07+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -21769,26 +21738,6 @@
       ],
       "level": "newgrad",
       "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "79ea5a357f2cdbf1",
-      "source": "simplify-newgrad",
-      "company": "NVIDIA",
-      "title": "Backend Compiler Engineer New Grad",
-      "location": "Canada; Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
-      "posted_at": "2026-07-13T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "ca",
         "us"
       ]
     },
