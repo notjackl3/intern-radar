@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T21:08:57.173655+00:00",
-  "open_count": 1557,
+  "generated_at": "2026-09-27T00:35:03.329459+00:00",
+  "open_count": 1556,
   "new_count": 0,
   "tier": "full",
   "jobs": [
@@ -1152,6 +1152,34 @@
       ]
     },
     {
+      "id": "63f9df3ec24d5248",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "174e86f1fc78e7f3",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Analyst - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "99818c875ac55684",
       "source": "workday",
       "company": "Marvell",
@@ -1205,34 +1233,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "63f9df3ec24d5248",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "174e86f1fc78e7f3",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Analyst - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -1869,51 +1869,6 @@
       ]
     },
     {
-      "id": "b6e3951adf63677d",
-      "source": "ashby",
-      "company": "Zip",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
-      "posted_at": "2026-08-25T20:56:47.582+00:00",
-      "term": null,
-      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a Software Engineer Intern, you will be shown how to build Zip\u2019s core products and architecture. You will ship features that will be immediately used by our users and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\nPrevious interns have worked on:\n\n - Internal AI bot: a bot that uses generative AI to aggregate info from various sources (e.g. google doc, notion, Slack, Zip help site) and generate answers - it\u2019s now actively used by both engineering and customer teams at Zip\n\n - Devbox: building a prototype that bootstraps the development environment in AWS cloud for all zip engineers - this project is now being used by 80+ engineers\n\n - Virtual Card Auto Lock: a feature that automatically locks virtual cards based on various policies, such as after a certain expiration date, when reported lost, or in the event of an overdraft. This feature, along with a self-serve onboarding tool, is now live in our virtual card product\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross-functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science or a related technical field involving coding (e.g. physics or math), with an expected graduation date between December 2027 - June 2028\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship in a high-growth startup environment\n\n\n\nOur internships are full-time and hybrid, based in our San Francisco HQ office. Our Summer 2027 internship runs either May\u2013August or June\u2013September. \n\nThe estimated hourly pay range for this role is $56 - 60 per hour.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work\n\n - \ud83c\udf7d\ufe0f Catered breakfasts, lunches & dinners\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83d\udcbb Apple equipment\n\n - \ud83c\udfe0 Intern Housing stipend\n\n\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "bc4ed0b9c7601bc8",
-      "source": "ashby",
-      "company": "Zip",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "posted_at": "2026-08-25T20:37:11.884+00:00",
-      "term": null,
-      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our San Francisco HQ (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is $165,000 - $170,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8  Start-up equity\n\n - \ud83e\uddb7  100% health, vision & dental coverage options\n\n - \ud83c\udf7d\ufe0f  Catered breakfast, lunch, & dinner\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83c\udfcb\ufe0f\u200d\u2640\ufe0f ClassPass membership\n\n - \ud83d\ude8d  Monthly commuter benefit\n\n - \ud83d\udea0  Team building events & happy hours\n\n - \ud83d\udcbb  Home office stipend\n\n - \ud83d\udedc Phone/internet reimbursement\n\n - \ud83c\udf7c Paid parental leave\n\n - \ud83e\uddd1\u200d\ud83e\uddd1\u200d\ud83e\uddd2\u200d\ud83e\uddd2 Fertility stipend\n\n - \ud83d\udcb8  401k plan\n\n - \ud83e\udd16 Unlimited AI token usage\n\n\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6b83dbc9f15269bb",
-      "source": "ashby",
-      "company": "Zip",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-      "posted_at": "2026-08-25T20:40:17.404+00:00",
-      "term": null,
-      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our Toronto office (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is CA$121,000 - CA$126,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8 Start-up equity\n\n - \ud83e\uddb7 Health, vision & dental coverage\n\n - \ud83c\udf7d\ufe0f Catered lunches & dinners\n\n - \ud83d\ude8d Commuter benefit\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83d\udcbb Apple equipment plus home office budget\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "371e05f5a48a3c45",
       "source": "workday",
       "company": "General Motors",
@@ -1970,48 +1925,48 @@
       ]
     },
     {
-      "id": "07768ec774e22b13",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Massachusetts - Boston",
-      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
-      "posted_at": "2025-08-20T21:39:30.830000+00:00",
+      "id": "b6e3951adf63677d",
+      "source": "ashby",
+      "company": "Zip",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+      "posted_at": "2026-08-25T20:56:47.582+00:00",
       "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a Software Engineer Intern, you will be shown how to build Zip\u2019s core products and architecture. You will ship features that will be immediately used by our users and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\nPrevious interns have worked on:\n\n - Internal AI bot: a bot that uses generative AI to aggregate info from various sources (e.g. google doc, notion, Slack, Zip help site) and generate answers - it\u2019s now actively used by both engineering and customer teams at Zip\n\n - Devbox: building a prototype that bootstraps the development environment in AWS cloud for all zip engineers - this project is now being used by 80+ engineers\n\n - Virtual Card Auto Lock: a feature that automatically locks virtual cards based on various policies, such as after a certain expiration date, when reported lost, or in the event of an overdraft. This feature, along with a self-serve onboarding tool, is now live in our virtual card product\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross-functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science or a related technical field involving coding (e.g. physics or math), with an expected graduation date between December 2027 - June 2028\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship in a high-growth startup environment\n\n\n\nOur internships are full-time and hybrid, based in our San Francisco HQ office. Our Summer 2027 internship runs either May\u2013August or June\u2013September. \n\nThe estimated hourly pay range for this role is $56 - 60 per hour.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work\n\n - \ud83c\udf7d\ufe0f Catered breakfasts, lunches & dinners\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83d\udcbb Apple equipment\n\n - \ud83c\udfe0 Intern Housing stipend\n\n\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "bc4ed0b9c7601bc8",
+      "source": "ashby",
+      "company": "Zip",
+      "title": "Software Engineer, New Grad (2027 Start)",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "posted_at": "2026-08-25T20:37:11.884+00:00",
+      "term": null,
+      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our San Francisco HQ (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is $165,000 - $170,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8  Start-up equity\n\n - \ud83e\uddb7  100% health, vision & dental coverage options\n\n - \ud83c\udf7d\ufe0f  Catered breakfast, lunch, & dinner\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83c\udfcb\ufe0f\u200d\u2640\ufe0f ClassPass membership\n\n - \ud83d\ude8d  Monthly commuter benefit\n\n - \ud83d\udea0  Team building events & happy hours\n\n - \ud83d\udcbb  Home office stipend\n\n - \ud83d\udedc Phone/internet reimbursement\n\n - \ud83c\udf7c Paid parental leave\n\n - \ud83e\uddd1\u200d\ud83e\uddd1\u200d\ud83e\uddd2\u200d\ud83e\uddd2 Fertility stipend\n\n - \ud83d\udcb8  401k plan\n\n - \ud83e\udd16 Unlimited AI token usage\n\n\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
       "level": "newgrad",
       "countries": [
         "us"
       ]
     },
     {
-      "id": "b10cfadd87e3f8ef",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "California - Pleasanton",
-      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
-      "posted_at": "2025-08-20T21:41:24.921000+00:00",
+      "id": "6b83dbc9f15269bb",
+      "source": "ashby",
+      "company": "Zip",
+      "title": "Software Engineer, New Grad (2027 Start)",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+      "posted_at": "2026-08-25T20:40:17.404+00:00",
       "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our Toronto office (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is CA$121,000 - CA$126,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8 Start-up equity\n\n - \ud83e\uddb7 Health, vision & dental coverage\n\n - \ud83c\udf7d\ufe0f Catered lunches & dinners\n\n - \ud83d\ude8d Commuter benefit\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83d\udcbb Apple equipment plus home office budget\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
       "level": "newgrad",
       "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2420fd7f9955aff7",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Ohio - Columbus",
-      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
-      "posted_at": "2025-08-20T21:40:56.551000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -2195,6 +2150,96 @@
       ]
     },
     {
+      "id": "07768ec774e22b13",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Massachusetts - Boston",
+      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "posted_at": "2025-08-20T21:39:30.830000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b10cfadd87e3f8ef",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "California - Pleasanton",
+      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
+      "posted_at": "2025-08-20T21:41:24.921000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "2420fd7f9955aff7",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Ohio - Columbus",
+      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
+      "posted_at": "2025-08-20T21:40:56.551000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a347c45c8e75b590",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Design Verification Engineer (Intern 2026)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Join Astera Lab\u2019s ASIC team as Design Verification Co-Op working on the forefront of high-performance compute and networking standards in advanced CMOS process nodes. The ideal candidate will be passionate about silicon engineering with a background in VLSI and/or computer architecture. In this position you will be responsible for design and/or verification of blocks using leading edge methodology and tools. Basic qualifications: Completed 3 rd year of study, minimum GPA: 3.5 Strong academics and technical background in either Computer Engineering or Electrical/Electronic Engineering. Authorized to work in Canada and start immediately. Required experience : Courses/Projects in digital logic, programming languages, computer architecture. Hands-on and knowledge of RTL design languages and tools including Verilog, System Verilog. Familiarity with any of the scripting languages Python, Perl, etc. and hands-on experience in C/C++. Detailed oriented with strong analytics and&nbsp;debugging skills. Preferred experience: Knowledge of high-speed interfaces like PCIe, DDR, HBM, Serdes. Knowledge of communication interfaces like SPI, I2C, JTAG. Courses in digital communications and computer networks. System Verilog test bench(UVM) Familiarity with Synopsys EDA tools. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "ab52712060a1c140",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Firmware Engineer (Internship) - Vancouver",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b79a35d0605cda4d",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "8b5af961dac85fd0",
       "source": "workday",
       "company": "Cadence (University)",
@@ -2293,51 +2338,6 @@
       ]
     },
     {
-      "id": "a347c45c8e75b590",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Design Verification Engineer (Intern 2026)",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
-      "posted_at": "2026-09-23T16:03:03-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Join Astera Lab\u2019s ASIC team as Design Verification Co-Op working on the forefront of high-performance compute and networking standards in advanced CMOS process nodes. The ideal candidate will be passionate about silicon engineering with a background in VLSI and/or computer architecture. In this position you will be responsible for design and/or verification of blocks using leading edge methodology and tools. Basic qualifications: Completed 3 rd year of study, minimum GPA: 3.5 Strong academics and technical background in either Computer Engineering or Electrical/Electronic Engineering. Authorized to work in Canada and start immediately. Required experience : Courses/Projects in digital logic, programming languages, computer architecture. Hands-on and knowledge of RTL design languages and tools including Verilog, System Verilog. Familiarity with any of the scripting languages Python, Perl, etc. and hands-on experience in C/C++. Detailed oriented with strong analytics and&nbsp;debugging skills. Preferred experience: Knowledge of high-speed interfaces like PCIe, DDR, HBM, Serdes. Knowledge of communication interfaces like SPI, I2C, JTAG. Courses in digital communications and computer networks. System Verilog test bench(UVM) Familiarity with Synopsys EDA tools. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ab52712060a1c140",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Firmware Engineer (Internship) - Vancouver",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-      "posted_at": "2026-09-23T16:03:03-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b79a35d0605cda4d",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
-      "posted_at": "2026-09-23T16:03:03-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "ca632f68f069d85a",
       "source": "workday",
       "company": "Harris Computer",
@@ -2425,6 +2425,34 @@
       ]
     },
     {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "81e3f8381890ee78",
       "source": "greenhouse",
       "company": "Datadog",
@@ -2452,6 +2480,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2527,49 +2570,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -20171,23 +20171,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a0d5d17c3a309a0e",
-      "source": "simplify",
-      "company": "First Citizens BancShares",
-      "title": "IT Intern - Software Developer",
-      "location": "Raleigh, NC",
-      "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1",
-      "posted_at": "2026-09-25T14:08:48+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
