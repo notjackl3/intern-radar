@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T00:35:03.329459+00:00",
-  "open_count": 1556,
+  "generated_at": "2026-09-27T08:08:10.012871+00:00",
+  "open_count": 1550,
   "new_count": 0,
   "tier": "full",
   "jobs": [
@@ -1037,6 +1037,34 @@
       ]
     },
     {
+      "id": "8763ca919c8c5255",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a8a82dcdad71dcec",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Developer (New Grad)",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "7d8b978b9350a276",
       "source": "lever",
       "company": "Mirego",
@@ -1062,34 +1090,6 @@
       "term": null,
       "description": "Chez Mirego, tu feras partie int\u00e9grante d\u2019une \u00e9quipe d\u00e9di\u00e9e au d\u00e9veloppement de produits num\u00e9riques innovants. En collaboration avec des d\u00e9veloppeur\u00b7euses exp\u00e9riment\u00e9\u00b7es ainsi que des sp\u00e9cialistes en gestion de produits, assurance qualit\u00e9, design, gestion de projets et agilit\u00e9.\u00a0 Tu contribueras directement \u00e0 la cr\u00e9ation d\u2019applications qui ont un r\u00e9el impact, \u00e0 petite comme \u00e0 grande \u00e9chelle. Tu auras des d\u00e9fis stimulants qui te pousseront \u00e0 demeurer \u00e0\u00a0 l'aff\u00fbt des derni\u00e8res nouveaut\u00e9s en mati\u00e8re de d\u00e9veloppement.\nTon stage te permettra d\u2019avoir une place r\u00e9elle dans un projet, de livrer des r\u00e9sultats concrets et d\u2019\u00e9voluer dans un environnement o\u00f9 l\u2019apprentissage, le partage de connaissances et la collaboration sont au c\u0153ur de tout ce que nous faisons.\n",
       "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "8763ca919c8c5255",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a8a82dcdad71dcec",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Developer (New Grad)",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -1152,34 +1152,6 @@
       ]
     },
     {
-      "id": "63f9df3ec24d5248",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "174e86f1fc78e7f3",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Data Analyst - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "99818c875ac55684",
       "source": "workday",
       "company": "Marvell",
@@ -1233,6 +1205,34 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "63f9df3ec24d5248",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "174e86f1fc78e7f3",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Data Analyst - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1530,20 +1530,6 @@
       ]
     },
     {
-      "id": "6db5090c47acc4dc",
-      "source": "workday",
-      "company": "Altera",
-      "title": "Quartus Compiler Software - Intern",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "8a4880feeb90b722",
       "source": "workday",
       "company": "Lumentum",
@@ -1564,6 +1550,20 @@
       "title": "Embedded Software DevSecOps Engineer (Co-op Student)",
       "location": "Canada - Ottawa (Bill Leathem)",
       "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6db5090c47acc4dc",
+      "source": "workday",
+      "company": "Altera",
+      "title": "Quartus Compiler Software - Intern",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1883,20 +1883,6 @@
       ]
     },
     {
-      "id": "49806287691d7f2d",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems",
-      "location": "Markham, Ontario, Canada",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "a8ff2a5254223a25",
       "source": "workday",
       "company": "General Motors",
@@ -1970,18 +1956,48 @@
       ]
     },
     {
-      "id": "5e8b0cb4b702cf60",
-      "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
-      "posted_at": "2026-08-05T07:55:21-04:00",
+      "id": "07768ec774e22b13",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Massachusetts - Boston",
+      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "posted_at": "2025-08-20T21:39:30.830000+00:00",
       "term": null,
-      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
-      "level": "intern",
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
       "countries": [
-        "ca"
+        "us"
+      ]
+    },
+    {
+      "id": "b10cfadd87e3f8ef",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "California - Pleasanton",
+      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
+      "posted_at": "2025-08-20T21:41:24.921000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "2420fd7f9955aff7",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Ohio - Columbus",
+      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
+      "posted_at": "2025-08-20T21:40:56.551000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -1994,6 +2010,21 @@
       "posted_at": "2026-09-02T20:47:41-04:00",
       "term": null,
       "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "5e8b0cb4b702cf60",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
+      "posted_at": "2026-08-05T07:55:21-04:00",
+      "term": null,
+      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
       "level": "intern",
       "countries": [
         "ca"
@@ -2144,51 +2175,6 @@
       "posted_at": "2026-09-10T18:14:17-04:00",
       "term": null,
       "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Why PlayStation? &nbsp; PlayStation isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Today, we\u2019re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation\u00ae5, PlayStation\u00ae4, PlayStation\u00aeVR, PlayStation\u00aePlus, PlayStation\u2122Now, acclaimed PlayStation software titles from PlayStation Studios, and more.&nbsp; PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&nbsp; The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.&nbsp; &nbsp; Are you looking for a challenge? &nbsp; We are seeking a Software Engineer to join the team to develop, maintain, and improve the framework powering a rich set of user experiences on multiple platforms.&nbsp; &nbsp; What you will be doing &nbsp; Implement and improve framework features and SDKs across multiple platforms while collaborating with application teams to help them meet their feature and performance requirements&nbsp; Collaborate with framework, and application teams to define SDK requirements and developer experience Create and maintain developer documentation, sample apps, and integration guides Debug and resolve integration issues reported by partner teams or SDK consumers Collaborate with team lead and peers to seek/give feedback on pull requests and technical design documents&nbsp; &nbsp; What we are looking for &nbsp; B.S. degree in Computer Science or equivalent fields&nbsp; 2+ years of professional software development experience&nbsp; Experience writing high-performance code in C++&nbsp; Experience writing JavaScript and/or TypeScript with popular frameworks like React, Angular, Ember and similar.&nbsp; &nbsp; Bonus qualifications &nbsp; Familiar with React Native&nbsp; Familiar with Python&nbsp; Familiar with Jenkins, Github Actions or any CI/CD tools&nbsp; Familiar with Development on multiple platforms (Linux, Android, Windows)&nbsp; Familiar with API and Solution Design&nbsp; At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; In addition, this role is eligible for SIE\u2019s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click&nbsp; here to learn more. &nbsp; The estimated base pay range for this role is listed below. $137,300 &mdash; $205,900 USD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category. We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&nbsp; Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment. &nbsp;",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "07768ec774e22b13",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Massachusetts - Boston",
-      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
-      "posted_at": "2025-08-20T21:39:30.830000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b10cfadd87e3f8ef",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "California - Pleasanton",
-      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
-      "posted_at": "2025-08-20T21:41:24.921000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2420fd7f9955aff7",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Ohio - Columbus",
-      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
-      "posted_at": "2025-08-20T21:40:56.551000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
       "level": "newgrad",
       "countries": [
         "us"
@@ -2425,34 +2411,6 @@
       ]
     },
     {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "81e3f8381890ee78",
       "source": "greenhouse",
       "company": "Datadog",
@@ -2480,21 +2438,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -2570,6 +2513,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2663,12 +2621,26 @@
       ]
     },
     {
-      "id": "0b845921ded5a707",
+      "id": "9303cf9eacaa9707",
       "source": "workday",
-      "company": "Adobe",
-      "title": "Software Engineer in Quality Engineering",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -2686,6 +2658,20 @@
       "posted_at": "2026-09-23T12:28:18-04:00",
       "term": null,
       "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . Pinterest is seeking an experienced Security Engineer to build and implement detection and response improvements and adapt to emerging threats to protect employees and infrastructure. In this role you will have the opportunity to solve challenging problems and provide a meaningful impact on our overall security posture. We are looking for a candidate with a passion for both security and innovation. What you'll do: Build alerts and automation workflows to improve capabilities to detect and response to external and internal security threats Manage our logging pipelines and infrastructure and onboard new logging sources to improve our detection coverage Develop and maintain internal tooling to expand and automate team detection and response capabilities Respond to alerts generated from our tooling and run incidents as part of an on-call rotation Collaborate with cross team partners Hunt for previously undetected threats in our environment Leverage AI to streamline and enhance the efficiency, accuracy, and coverage of security engineering What we\u2019re looking for: Bachelor\u2019s degree in Computer Science, Cybersecurity or, a related field or equivalent experience Strong knowledge of intrusion detection and incident response with an engineering focus in a modern cloud first environment Knowledge of the attacker lifecycle, common attack and detection techniques Hands on experience with writing SIEM queries for alerting, response, and threat hunting Experience consuming threat intel and applying it to improve detection capabilities Familiarity with using multiple sources of telemetry for threat investigations: Eg. EDR, Osquery, Firewall logs Understanding of networking technologies and/or network security, basic TCP/IP network fundamentals Depth in ideally MacOS internals, or alternatively in Linux/UNIX or Windows internals, persistence mechanisms, privilege escalation techniques Scripting or automation experience (e.g., Python, Go, Ruby) for tool development or integration Demonstrated ability to use AI to improve speed and quality in your day-to-day workflow for relevant outputs. Strong track record of critical evaluation and verification of AI-assisted work (e.g., testing, source-checking, data validation, peer review) High integrity and ownership: you protect sensitive data, avoid over-reliance on AI, and remain accountable for final decisions and deliverables In-Office Requirement Statement:&nbsp; We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role. This role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in the country.&nbsp; Relocation Statement: This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model. &nbsp; #LI-REMOTE #LI-JT1 At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found here . US based applicants only $123,696 &mdash; $254,667 USD Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&nbsp; this form for support. &nbsp; By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "0b845921ded5a707",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "Software Engineer in Quality Engineering",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "us"
@@ -3268,7 +3254,7 @@
       "title": "Software Engineer Intern",
       "location": "Hybrid - San Francisco, CA",
       "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-      "posted_at": "2026-09-15T20:18:48-04:00",
+      "posted_at": "2026-09-27T01:33:48-04:00",
       "term": null,
       "description": "Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d&nbsp; learn more about working at Coinbase . This is a 12-week internship during summer 2027.&nbsp; You'll join Coinbase as a software engineer intern and help build the next generation of crypto-forward products and features. You'll solve large-scale, complex technical problems at the intersection of web-scale applications and blockchain technology, shipping real code that impacts millions of users. During the application process, you'll select your preferred team from the groups below. Your application will be primarily considered for your selected team in the specified location. Following the hybrid internship , any full-time return opportunity would be remote-first. Product Group Teams (internship location = San Francisco):&nbsp;&nbsp; Base - Scale the crypto economy by creating integrations, fiat onramps, and developer tools on Coinbase's Ethereum L2 network, connecting builders to 108M+ users and $100B+ in assets. Consumer - Build the fastest way to access crypto through the Coinbase retail and wallet apps, advanced trade, dApps, and staking. Developer - Help build out Coinbase Developer Platform - trusted crypto infrastructure at scale. Payments, Wallets, Trading, and Stablecoin APIs for the global financial system. Institutional - Enable thousands of large financial institutions to securely custody digital assets, stake, and participate in the crypto economy. Platform - Create the scalable, compliant foundational systems (Identity, FinHub, Payments, Blockchain and Infrastructure) that underpin all Coinbase products. Core Teams (internship location = New York City):&nbsp;&nbsp; Security - Build solutions for critical security, compliance, and privacy needs, including the Workforce IAM Platform and security oversight tooling. Enterprise AI&nbsp; - Build AI-powered tools and platforms that boost employee productivity and collaboration, partnering with ML, IT, and HR to bring custom and third-party AI solutions into everyday workflows. Enterprise Engineering (EE) - Develop platforms that enhance customer support, internal tools and compliance through automation and customer-first engineering. What you'll do: Write high-quality, well-tested code that ships to production and directly impacts Coinbase customers. Collaborate with engineers, designers, and product managers to turn technical and product vision into delivered features. Participate in code reviews, providing and receiving feedback that raises the quality bar for your team. Own a defined project end-to-end, from scoping through implementation and launch, within your 12-week internship. Learn and apply crypto and blockchain domain concepts to real engineering problems in a production environment. Required Skills and Experience: Demonstrates the ability to responsibly use generative AI tools and copilots (e.g., LibreChat, Gemini, Glean) in daily workflows, continuously learn as tools evolve, and apply human\u2011in\u2011the\u2011loop practices to deliver business\u2011ready outputs and drive measurable improvements in efficiency, cost, and quality. Programming experience in any language (academic, personal projects, or professional). Demonstrated ability to break down ambiguous problems into concrete implementation steps. Familiarity with at least one of: web development, mobile development, backend systems, or infrastructure. Utilize generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. PID: GETR-PSWE00US-Q326 Pay Transparency Notice: &nbsp;Depending on your work location, the target hourly rate for this position can range as detailed below. &nbsp; Hourly Rate: $60 &mdash; $60 USD Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period. Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation. Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&nbsp;Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial . Data Privacy &amp; Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes .",
       "level": "intern",
@@ -17962,23 +17948,6 @@
       ]
     },
     {
-      "id": "be67b3b96e65b615",
-      "source": "simplify",
-      "company": "Howmet Aerospace",
-      "title": "Artificial Intelligence Intern - AI",
-      "location": "Pittsburgh, PA",
-      "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494",
-      "posted_at": "2026-09-17T14:05:43+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "00412bc011aa4680",
       "source": "simplify",
       "company": "Avis Budget Group",
@@ -24243,24 +24212,6 @@
       ]
     },
     {
-      "id": "71f95b1a6200c0ba",
-      "source": "simplify-newgrad",
-      "company": "General Motors",
-      "title": "Entry Level Software Design Release Engineer",
-      "location": "Milford, MI; Warren, MI",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
-      "posted_at": "2026-09-01T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "fcc3492d3d0236a4",
       "source": "simplify-newgrad",
       "company": "Valon",
@@ -25136,24 +25087,6 @@
       ]
     },
     {
-      "id": "2f358cd760309ed1",
-      "source": "simplify-newgrad",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Software Engineer New Grad - Multiple Teams",
-      "location": "Laurel, MD",
-      "url": "https://careers.jhuapl.edu/jobs/59817?icims=1",
-      "posted_at": "2026-09-10T22:22:11+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "32aa17cec67ba4cd",
       "source": "simplify-newgrad",
       "company": "L3Harris Technologies",
@@ -25880,23 +25813,6 @@
       ]
     },
     {
-      "id": "e116def6505606c6",
-      "source": "simplify-newgrad",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineering",
-      "location": "Greenville, TX",
-      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1431958600/?ats=successfactors",
-      "posted_at": "2026-09-21T22:09:48+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "df4dec46cf7c03b8",
       "source": "simplify-newgrad",
       "company": "Point",
@@ -25943,23 +25859,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "cb9f31c6021f6b30",
-      "source": "simplify-newgrad",
-      "company": "Southwest Airlines",
-      "title": "Associate Software Engineer - Direct College Hire",
-      "location": "Dallas, TX",
-      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886",
-      "posted_at": "2026-09-22T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "newgrad",
       "countries": [
