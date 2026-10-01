@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T23:48:30.442051+00:00",
-  "open_count": 1549,
-  "new_count": 21,
+  "generated_at": "2026-10-01T05:47:34.312263+00:00",
+  "open_count": 1538,
+  "new_count": 2,
   "tier": "full",
   "jobs": [
     {
@@ -215,6 +215,20 @@
       ]
     },
     {
+      "id": "c67cd8cd20f5f9c5",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer I (Cobol Developer)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "76fd59c7878386d3",
       "source": "workday",
       "company": "TD Bank",
@@ -299,6 +313,20 @@
       ]
     },
     {
+      "id": "9ad024cd0c6b2c84",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Analyst",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "125c5927cd084410",
       "source": "workday",
       "company": "TD Bank",
@@ -347,20 +375,6 @@
       "title": "2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps",
       "location": "Mount Laurel, New Jersey",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9ad024cd0c6b2c84",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Analyst",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -431,7 +445,7 @@
       "title": "Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months)",
       "location": "Oakville, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
-      "posted_at": "2026-09-30T09:16:51-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking a embedded developer intern who will be responsible for assisting with the management of the firmware releases for our embedded/IoT devices. If you love technology, and are keen to join an industry leader \u2014 we would love to hear from you! What you'll do: As an Embedded Developer Intern your key area of responsibility will be implementing new logic into the GO device firmware, programming primarily in C and Python. You will work in one or several of many areas of focus depending on your experience including GPS, Modem, Accelerometer, Vehicle Data, Security and more. Part of this role includes utilizing Geotab\u2019s big data environment to analyze the effectiveness of changes implemented and to help troubleshoot and find issues. You will need to work closely with your colleagues on the Embedded Systems Team, as well as Solution Engineering, Software Development and key leadership stakeholders. To be successful in this role you will have a keen eye for the details to consistently adhere to coding standards and perform peer QA and code reviews. Being inquisitive and constantly looking for a new technical challenge or to use a new tool will also contribute to your success. &nbsp;In addition, the successful candidate will have strong communication skills, in their technical documentation, collaboration with teammates, and with providing technical support to other Geotab teams. The opportunity: 12-16 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Develop an in-depth understanding of the GO device firmware and how all the modules work. Perform firmware development in the required area of expertise (modem, GPS, vehicle data, security, etc) using C as per the development standards. Write SQL queries and Python scripts on data from Google BigQuery to determine device health and effectiveness of new functionality. Write unit tests and perform integration and system-level testing in both real and simulated vehicles, to demonstrate that new features meet design requirements. Conduct comprehensive testing and code reviews to ensure that industry coding standards are followed. Keep up-to-date documentation for all your areas of responsibility. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Electrical, Mechatronics, Computer Engineering or a related field Strong knowledge of programming languages (C/C++) in an embedded software context. Well versed in modern scripting languages (e.g. Python) is highly valued. RTOS development and/or knowledge is an asset. Familiar with data structures, algorithms, and design patterns common to embedded (resource-constrained) systems development. Strong presentation and communication skills. Strong analytical skills with the ability to problem-solve to well-judged decisions. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where ne",
       "level": "intern",
@@ -446,7 +460,7 @@
       "title": "Software Developer Intern, Altitude (Winter/January 2027, 12 Months)",
       "location": "Oakville, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5389341008",
-      "posted_at": "2026-09-30T11:29:27-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking a Software Developer Intern who will work closely with the MyGeotab Reporting and Authentication team to collaborate, develop and troubleshoot cases that directly impact how our customers interact with our application. If you love technology and are keen to join an industry leader \u2014 we would love to hear from you! What you'll do: As a Software Developer Intern, your key area of responsibility will be collaborating with fellow developers and our Product team to improve and implement features for our Reporting and Authentication functionality. Your day-to-day may include: designing software solutions, troubleshooting bugs and communicating with internal stakeholders to ensure that deadlines and expectations are met. You will need to work closely with other members of the development and technical teams. To be successful in this role you will need to be a motivated individual with strong written and verbal communication skills, and have the ability to quickly understand complex, technical concepts. In addition, the successful candidate will design robust and scalable software solutions while being able to manage multiple projects and priorities to ensure timely results. The opportunity: 8 - 12 month work-term beginning May 2026. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings and discussions Use GIT for source control Develop UI components using TypeScript, JavaScript, HTML and CSS Develop automated unit tests using XUnit in C# Develop software using C# on .Net Core Create database access code using SQL queries and Postgres database Participate in peer reviews Debugging and testing software Write technical documentation What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Experience with developing applications for a Linux environment Experience with&nbsp; object-oriented design, unit testing, optimization and multithreaded programming (C# and .Net preferred). Excellent written and oral communication skills. Strong analytical skills with the ability to problem-solve to well-judged decisions. Technical competence using software programs, including, but not limited to, Google Suite for business (Sheets, Docs, Slides). Experience with&nbsp; OAuth 2.0 &nbsp;is an asset Experience with JavaScript, HTML and CSS is an asset If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance mana",
       "level": "intern",
@@ -461,7 +475,7 @@
       "title": "Software Developer Intern, Geotab Vitality (Winter/January 2027, 4 Months)",
       "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008",
-      "posted_at": "2026-09-30T09:16:51-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are seeking high-impact talent to join our Systems team for a 4-month co-op term. If you are passionate about software development, artificial intelligence, and cloud technology, and you thrive in collaborative, high-growth environments, we want to hear from you! What you'll do: As a Software Developer Intern on the Systems team, you will work across the full stack to design, build, and optimize the core platform powering Vitality's driver-behavior features. You will write modern TypeScript/React for user interfaces, build robust backend services using C#/.NET and SQL, and leverage BigQuery and GCP to process complex telemetry data. You will collaborate closely with product managers and engineers across the team, gaining deep exposure to modern full-stack development workflows. The opportunity: 4 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings, planning, and design discussions. Use Git (Bitbucket) for source control and follow our code review process. Develop UI components using TypeScript, JavaScript, HTML, and CSS (React). Develop backend services and APIs using C# on .NET. Write automated unit tests as part of a test-driven workflow. Create and maintain database access code using SQL. Use BigQuery/GCP to help analyze and understand product and telemetry data. Debug and troubleshoot issues across the stack, from UI to backend to data. Write clear technical documentation for the features you build. Leverage modern AI development tools (e.g., Claude, GitHub Copilot) to accelerate coding, testing, debugging, and technical documentation workflows. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Experience with &nbsp; React, Angular, JavaScript/TypeScript, HTML, CSS is an asset. Knowledge of backend systems such as C# .NET Core / .NET 7+ Comfort using AI-assisted development tools (e.g. Claude, GitHub Copilot, ChatGPT) in your workflow is an asset. Familiarity with cloud platforms (GCP, AWS, or Azure). Enthusiasm for table tennis, foosball, or team social activities. Strong communication, organization, and time management skills, as well as a willingness to learn and strong work ethic. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as wel",
       "level": "intern",
@@ -476,7 +490,7 @@
       "title": "Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months)",
       "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
-      "posted_at": "2026-09-30T09:16:51-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are looking for amazing talent who can contribute to our efforts and deliver results! Geotab is seeking an intern who will immediately contribute to the Development Team's efforts. If you love technology and software development, are well organized and keen to join an industry leader, we would love to hear from you! What you'll do: As a Software Developer Intern, your key area of responsibility will be to ensure the reliable operation of a web-based application that makes sense of the data collected by our state-of-the-art hardware. We receive detailed data and metrics for hundreds of thousands of vehicles every second, which is processed and interpreted to create actionable information for our customers. This position will involve writing high-performance C# code and SQL queries to process and store this information in real-time.&nbsp; This position utilizes React and TypeScript to create fast and responsive user interfaces. Understanding the performance impact of designs, threading, good UI design and scalability, will make you an ideal and successful candidate who will find reward in building robust software that can function 24/7 with no down time. The opportunity: 8 - 12 month work-term beginning Jan 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings and discussions. Use GIT for source control. Develop software and refine features for C# .NET backend application. Develop UI components using TypeScript, Angular, React, HTML and CSS. Develop automated unit tests using XUnit in C#.&nbsp; Create database access code using SQL queries and Postgres database. Participate in peer reviews. Debugging and testing software. Write technical documentation. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Strong communication, organization, and time management skills, as well as a willingness to learn and strong work ethic. Experience with&nbsp; React, Angular, JavaScript/TypeScript, HTML, CSS is an asset. Knowledge of backend systems such as C# .NET Core / .NET 7+. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as well as accommodation policies and practices, please contact us at careers@geotab.com. By submitting a job application to Geotab Inc. or its affiliates and subsidiaries (",
       "level": "intern",
@@ -491,7 +505,7 @@
       "title": "Software Developer Intern, MyGeotab (Winter/January 2027, 4-8 Months)",
       "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383412008",
-      "posted_at": "2026-09-30T09:16:51-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking Software Developer Interns to help us deliver our MyGeotab cloud services. If you love technology, and are keen to join an industry leader \u2014 we would love to hear from you! What you'll do: As a Software Developer, your key areas of responsibility will be the design, implementation and deployment of MyGeotab. You will work closely with the Cloud Automation and Site Reliability teams to build resilient cloud systems to support our fleet-tracking business.To be successful in this role, you should be a self-starter who can effectively collaborate with hybrid/remote teams. You should be interested in learning new architectures and design patterns. You should be familiar with object-oriented design. The opportunity: 4 - 8 month work-term beginning Jan 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Deliver features to production which have immediate impacts to our customers. Learn how our systems are deployed and scaled in the cloud. Participate in code reviews. Learn best practices in automated testing, source control, continuous integration and continuous delivery. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Experience with developing applications for a Linux environment Experience with&nbsp; object-oriented design, unit testing, optimization and multithreaded programming (C# and .Net preferred). Comfort using AI-assisted development tools (e.g. Claude, GitHub Copilot, ChatGPT) in your workflow is an asset . Excellent written and oral communication skills. Strong analytical skills with the ability to problem-solve to well-judged decisions. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as well as accommodation policies and practices, please contact us at careers@geotab.com. By submitting a job application to Geotab Inc. or its affiliates and subsidiaries (collectively, \u201cGeotab\u201d), you acknowledge Geotab\u2019s collection, use and disclosure of your personal data in accordance with our Privacy Policy . Click here to read our Privacy Notice.&nbsp; This role offers an hourly pay range which is anticipated to be the range listed below. The actual pay for this position depends on a variety of factors",
       "level": "intern",
@@ -506,7 +520,7 @@
       "title": "Software Developer Intern (Winter/January 2027, 8 Months)",
       "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008",
-      "posted_at": "2026-09-30T09:16:51-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking a Software Developer Intern who will support other developers within Geotab by contributing to the architectural and technical advancement of internal platforms and services. If you love technology and are keen to join an industry leader while participating in the developer experience and the foundational systems that power internal teams \u2014 we would love to hear from you. What you'll do: As a Software Developer Intern within Geotab, your key areas of responsibility will be contributing to the advancement of internal platforms and services that support Geotab's development teams. This will involve assisting in the development and improvement of internal tools and automation designed to streamline developer workflows and boost productivity. You will also be involved in tasks related to the architecture and technical evolution of these foundational systems. To be successful in this role, you will need to be a self-starter with strong written and verbal communication skills, and have the ability to quickly understand complex, technical concepts related to internal development platforms. In addition, the successful candidate will have strong analytical and time management skills with an ability to identify needs, develop effective solutions, and manage projects through completion, all within the context of enhancing internal developer tools and systems. You will need to work closely with the other members of the development team and product design teams. The opportunity: 8 - 12 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday, 37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: You will contribute to the enhancement of Geotab's internal development platforms and services, directly supporting the architectural and technical roadmap. You will assist in developing and improving internal tooling, leading to more efficient workflows and increased productivity for other developers. Your contributions to testing and quality assurance will help ensure the reliability and stability of essential internal systems. Through collaboration with senior developers and other stakeholders, you will gain practical experience and contribute to real-world software development projects.. What you'll bring to the role: Pursuing a Degree or Diploma in Computer Science, Math, Software Engineering, or a related field is preferred. Soft Skills: Eager to learn and contribute in a fast-paced environment. Excellent communication and problem-solving skills. Ability to quickly understand complex, technical concepts. A Willingness to participate in team discussions and support fellow team members in a collaborative environment. Technical Skills - Willingness to Learn is Key: Basic understanding of object-oriented programming concepts. Knowledge of backend systems such as C# .NET Core / .NET 7+. IMP. Understanding of version control principles (e.g., Git). Interest in exploring cloud computing (e.g., GCP). Familiarity of database design and relational databases (e.g., PostgreSQL). Foundational knowledge of RESTful API design and development. Exposure to web development technologies (e.g., HTML, CSS, JavaScript, React). If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep",
       "level": "intern",
@@ -521,7 +535,7 @@
       "title": "Vehicle Systems Engineering Intern (Winter/January 2027, 4- 8 Months)",
       "location": "Waterloo, Ontario - Canada",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008",
-      "posted_at": "2026-09-30T09:16:51-04:00",
+      "posted_at": "2026-09-30T19:47:59-04:00",
       "term": null,
       "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking an Vehicle Systems Engineering Intern who will focus on growing Geotab's world class vehicle support by researching new vehicles, reverse engineering their systems and automating the process with software tools. If you love technology, and are keen to join an industry leader \u2014 we would love to hear from you! What you'll do: As a Vehicle Systems Engineering Intern your key area of responsibility will be to gain access to vehicles both in person and remotely across the world, to reverse engineer vehicular systems. This includes electrical, hardware and communications systems, protocols and legislation. In the past, students have developed software tools in C# and python, built big data dashboards using Google Big Query, reverse engineered vehicles from scratch using our in house CAN analysis software, helped diagnose vehicle issues\u2026 the list goes on! &nbsp;You will need to work closely with all development teams across Geotab and implement new initiatives across Big Data, Firmware, Software/ Mobile development and Hardware teams. To be successful in this role you will be a self-starter with strong written and verbal communication skills, and have the ability to quickly understand complex, technical concepts. In addition, the successful candidate will have strong analytical and project management skills with an ability to identify needs, develop effective solutions, and manage projects through completion. The successful candidate will also be able to manage multiple timelines and contrasting priorities to ensure timely results. The opportunity: 4- 8 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Reverse engineer vehicular systems including electrical, hardware and communications systems and protocols Document and design methods to collect data from vehicles in a way that is digestible by Geotab's hardware and software teams Support the global reverse engineering vision and process by contributing to the use, design and implementation of the software tooling Use Cloud-based data warehouses (e.g. BigQuery and Google Cloud compute) for automated analysis of vehicle data and identify vehicle support gaps from our products Assist in the product development cycle through proof of concepts and the execution of beta testing What you'll bring to the role: Pursuing a Degree/Diploma in Mechatronics, Mechanical, Electrical Engineering, Software Engineering or a related field. CAN and CAN bus related experience is an asset General code gurus with a knack for picking up new languages Useful Languages: C#, Python, SQL, MATLAB Other useful software experience: CANalyzer, Simulink Multidisciplinary background Good understanding of vehicle architectures, including hybrid/ electric vehicles Hands-on vehicle experience is an asset (Can you diagnose a problem with your car?) Self- starter Results- oriented Strong time management skills Fantastic communication skills Interest in new mobility technologies, telematics and vehicles Experience or interest &nbsp;in hybrid and electric vehicles and/or green technologies is an asset Must have a valid driver\u2019s license If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life b",
       "level": "intern",
@@ -1850,36 +1864,6 @@
       ]
     },
     {
-      "id": "b6e3951adf63677d",
-      "source": "ashby",
-      "company": "Zip",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
-      "posted_at": "2026-08-25T20:56:47.582+00:00",
-      "term": null,
-      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a Software Engineer Intern, you will be shown how to build Zip\u2019s core products and architecture. You will ship features that will be immediately used by our users and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\nPrevious interns have worked on:\n\n - Internal AI bot: a bot that uses generative AI to aggregate info from various sources (e.g. google doc, notion, Slack, Zip help site) and generate answers - it\u2019s now actively used by both engineering and customer teams at Zip\n\n - Devbox: building a prototype that bootstraps the development environment in AWS cloud for all zip engineers - this project is now being used by 80+ engineers\n\n - Virtual Card Auto Lock: a feature that automatically locks virtual cards based on various policies, such as after a certain expiration date, when reported lost, or in the event of an overdraft. This feature, along with a self-serve onboarding tool, is now live in our virtual card product\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross-functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science or a related technical field involving coding (e.g. physics or math), with an expected graduation date between December 2027 - June 2028\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship in a high-growth startup environment\n\n\n\nOur internships are full-time and hybrid, based in our San Francisco HQ office. Our Summer 2027 internship runs either May\u2013August or June\u2013September. \n\nThe estimated hourly pay range for this role is $56 - 60 per hour.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work\n\n - \ud83c\udf7d\ufe0f Catered breakfasts, lunches & dinners\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83d\udcbb Apple equipment\n\n - \ud83c\udfe0 Intern Housing stipend\n\n\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "bc4ed0b9c7601bc8",
-      "source": "ashby",
-      "company": "Zip",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "posted_at": "2026-08-25T20:37:11.884+00:00",
-      "term": null,
-      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our San Francisco HQ (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is $165,000 - $170,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8  Start-up equity\n\n - \ud83e\uddb7  100% health, vision & dental coverage options\n\n - \ud83c\udf7d\ufe0f  Catered breakfast, lunch, & dinner\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83c\udfcb\ufe0f\u200d\u2640\ufe0f ClassPass membership\n\n - \ud83d\ude8d  Monthly commuter benefit\n\n - \ud83d\udea0  Team building events & happy hours\n\n - \ud83d\udcbb  Home office stipend\n\n - \ud83d\udedc Phone/internet reimbursement\n\n - \ud83c\udf7c Paid parental leave\n\n - \ud83e\uddd1\u200d\ud83e\uddd1\u200d\ud83e\uddd2\u200d\ud83e\uddd2 Fertility stipend\n\n - \ud83d\udcb8  401k plan\n\n - \ud83e\udd16 Unlimited AI token usage\n\n\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "6b83dbc9f15269bb",
       "source": "ashby",
       "company": "Zip",
@@ -2278,6 +2262,48 @@
       ]
     },
     {
+      "id": "0b845921ded5a707",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "Software Engineer in Quality Engineering",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "81e3f8381890ee78",
       "source": "greenhouse",
       "company": "Datadog",
@@ -2383,34 +2409,6 @@
       ]
     },
     {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ef0ec5cde431d6e3",
       "source": "lever",
       "company": "Waabi",
@@ -2423,20 +2421,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "0b845921ded5a707",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "Software Engineer in Quality Engineering",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -2647,21 +2631,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "f7a5206ff6a1371e",
-      "source": "lever",
-      "company": "Arc'teryx",
-      "title": "People Data Analyst Co-Op Student",
-      "location": "North Vancouver, BC (Corporate)",
-      "url": "https://jobs.lever.co/arcteryx.com/826dc4d8-f91e-4893-b8d6-56706194edfb",
-      "posted_at": "2026-09-15T17:13:22.330000+00:00",
-      "term": null,
-      "description": "Department: People & Culture\nReports to: Senior Data Analyst, People Analytics\nLocation: North Vancouver, BC - This role is primarily based out of our North Vancouver office, and is open to hybrid remote work\nWork Arrangement: Flexible, between in-office and home\nPay Range:$42,100 - $55,100; pay is dependent on year of study and related experience\u00a0\nDuration: Eight (8) months, Jan 4th, 2027 \u2013 August 13th, 2027\nHours Per Week: 40 hours per week, M-F\n\nYour Co-Op Opportunity at ARC\u2019TERYX:\nAs a People Data Analyst Co-op Student, you will join the Global People Analytics team to help transform people data into meaningful insights, clear stories, and practical intelligence for People & Culture partners. You will support exploratory analysis, data science opportunities, statistical analysis, and insight storytelling that helps teams better understand\u00a0the employee\u00a0experience and make more informed decisions with tools like Power BI, SQL, Python and Databricks. This is an exciting opportunity to learn how\u00a0people\u00a0analytics, people science, data storytelling, automation, and emerging AI tools come together in a fast-moving, purpose-driven organization.\u00a0\n\u00a0\nMeet Your Future Team:\nThe Global People Operations team provides Total Rewards, People Systems and People Analytics, Automation, and AI services. We play a critical role in scaling the People and Culture function and enabling the business. We partner across all areas to evolve\u00a0people\u00a0practices and\u00a0maintain\u00a0strong alignment with the needs of our growing, global organization.\u00a0\n\nIf you were a People Data Analyst Co-Op Student now, here are some of the core activities you would be doing:\nApplying statistical methods and data science techniques to explore workforce data, identify trends, patterns, outliers, and relationships.\nContributing to advanced analytical use cases, such as predictive modeling, segmentation, correlation analysis, and early hypothesis testing to explore emerging workforce questions.\u00a0\nExperimenting with AI and automation tools to make analytics discovery faster, clearer, and more engaging.\u00a0\nTranslating data findings into clear, compelling visual stories that make workforce insights accessible.\u00a0\nAssisting\u00a0with research design and insight development, including framing questions, reviewing relevant context, testing hypotheses, and translating findings into practical recommendations.\u00a0\nLearning how to work responsibly with\u00a0workforce \u00a0data, including privacy, fairness, quality, and trust.\u00a0\n\nHere are some of the things you will learn by the end of your Co-Op placement:\nYou will gain hands-on experience building end-to-end data pipelines and a predictive machine learning model using industry-leading cloud technologies including Azure, Databricks, and Power BI.\nYou will develop a strong understanding of how people analytics drives strategic workforce decisions, from automating data processes to delivering executive-level insights that influence how an organization attracts, retains, and develops its people.\nYou will leave with practical experience across the full analytics lifecycle. From raw data ingestion and modelling to stakeholder-facing dashboards and recommendations, all within a large-scale HR systems transformation.\n\u00a0\nAre you our next People Data Analyst Co-Op Student?\nYou are currently enrolled in a co-op eligible program in data science, statistics, business analytics, computer science, psychology, economics, HR, or a related field.\u00a0\nYou are curious about people, data, and the stories hidden inside numbers and patterns.\u00a0\nYou are comfortable applying statistical methods and data science techniques to predict outcomes, detect patterns, and translate findings into clear, actionable recommendations for business stakeholders.\nYou have some experience with statistics, Excel, Power BI, SQL, Python, R, or another tool for exploring and analyzing data.\u00a0\nYou enjoy asking \u201cwhy,\u201d testing ideas, and using data to discover what might be happening beneath the surface.\u00a0\nYou can turn analysis into clear visuals, notes, or simple stories that help others understand what matters.\u00a0\nYou enjoy learning new tools, experimenting, solving problems, and building confidence through feedback.\u00a0\nYou are thoughtful with sensitive information and understand why privacy, fairness, and trust matter when working with\u00a0people\u00a0data.\u00a0\nYour passion for your work is paralleled by your passion for getting outside and living it.\u00a0\n\u00a0\nCompensation:\u00a0\nThe salary range for this role is CAD $42,100 - $55,100; Individual pay is determined by factors such as program of study, year of study, job-related skills, and relevant experience.\u00a0\n\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -2905,21 +2874,6 @@
       ]
     },
     {
-      "id": "3d29bdb5cc5f90a4",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Streaming)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
-      "posted_at": "2026-09-30T18:27:04-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Streaming team at Affirm is responsible for all things data and drives the strategy for event driven architecture, stream processing, data exploration, discovery and validation. We leverage existing open source technologies like Kafka, Flink, Schema registry and also build our own as needed. As a member of our team you would spend time identifying and executing on new use cases of data infrastructure, designing and scaling our existing infrastructure and working closely with other teams to promote the optimal use of data at the company. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, Kafka, Flink and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - L Equity Grade - 5 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: 133,000 &nbsp;-&nbsp; 183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "fb384c3355c500b8",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2932,6 +2886,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "3d29bdb5cc5f90a4",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Streaming)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
+      "posted_at": "2026-09-30T18:27:04-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Streaming team at Affirm is responsible for all things data and drives the strategy for event driven architecture, stream processing, data exploration, discovery and validation. We leverage existing open source technologies like Kafka, Flink, Schema registry and also build our own as needed. As a member of our team you would spend time identifying and executing on new use cases of data infrastructure, designing and scaling our existing infrastructure and working closely with other teams to promote the optimal use of data at the company. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, Kafka, Flink and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - L Equity Grade - 5 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: 133,000 &nbsp;-&nbsp; 183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2965,21 +2934,6 @@
       ]
     },
     {
-      "id": "ac8220a18f748b2d",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
-      "posted_at": "2026-08-21T13:28:20-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "b84193792e66ff4b",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2992,6 +2946,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ac8220a18f748b2d",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (App Experience)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
+      "posted_at": "2026-08-21T13:28:20-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -3010,18 +2979,18 @@
       ]
     },
     {
-      "id": "4d6a82a80730400b",
-      "source": "greenhouse",
-      "company": "Instalily AI",
-      "title": "GTM-Operations Intern, Events",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4273058009",
-      "posted_at": "2026-07-15T11:33:36-04:00",
+      "id": "f7a5206ff6a1371e",
+      "source": "lever",
+      "company": "Arc'teryx",
+      "title": "People Data Analyst Co-Op Student",
+      "location": "North Vancouver, BC (Corporate)",
+      "url": "https://jobs.lever.co/arcteryx.com/826dc4d8-f91e-4893-b8d6-56706194edfb",
+      "posted_at": "2026-09-15T17:13:22.330000+00:00",
       "term": null,
-      "description": "About InstaLILY InstaLILY is an AI products and infrastructure company that puts execution at the frontier of enterprise AI. That work begins with Lily\u2122 , the world's first AI Forward Deployed Engineer, which learns how a business works, builds the software it needs, and goes live in days. It does not leave when the work ships; it stays and keeps the software working as the business changes. Lily runs wherever the work happens, in the cloud, on-premise, or at the edge, through InstaLILY's Small Data Center, built with NVIDIA technology. Founded in 2023 by Amit Shah and Sumantro Das, InstaLILY has raised nearly $100 million from Energize Capital, Insight Partners, and Home Depot Ventures. Headquartered in New York, with offices in San Francisco, London, and Toronto, InstaLILY serves leading companies across construction, industrial distribution, logistics, healthcare, and other operationally intensive industries. Learn more at https://instalily.ai/ . The Traction Revenue grew 5x over the past year, and Lily has driven over $200M in new annual sales for a single customer. We serve some of the largest operators in our industries, including SRS Distribution (part of The Home Depot family), United Rentals, and Henry Schein, and we work closely with the Google DeepMind and NVIDIA ecosystems. How We Work We work in small teams with real ownership: clear problems, direct access to the customers whose work you're changing, and room to ship. Your code runs in live production systems inside billion-dollar operations, so you see your impact directly. People who do well here want that proximity to the work. We're growing fast, and the people who join now shape what this company becomes. Everything runs on three principles: Customers, Culture, and Code. The Role You\u2019ll fully own InstaLILY\u2019s events program: hosted summits, exec dinners, fireside chats, mixers, Tech Week programming, Women in AI gatherings, and our presence at industry conferences and expos. You\u2019ll work closely with Growth and GTM teams to tie every event to a business outcome \u2014 who we want to meet, what we want to leave with, and how we measure success. This is not pure event-planning. Every event connects to pipeline, brand, or both. This internship also offers the possibility of conversion to a full-time role. What You\u2019ll Do li]:before:content-['\u2013'] [&amp;>li]:before:absolute [&amp;>li]:before:ml-[-.875rem]\"> Own InstaLILY-hosted events end-to-end: venue logistics, vendor coordination (catering, AV, swag), registration platforms (Luma, Partiful), invite list curation, and run-of-show Coordinate our presence at industry conferences and expos (e.g., MODEX, ISM World, Procurement &amp; Supply Chain LIVE): team attendance, booth logistics, partner meetings, and post-event follow-up Partner with the Brand &amp; Content team on pre-event promo, on-site content, and post-event recaps Work with the Women in AI program on curated events and community programming Track event ROI: costs, attendance, meetings generated, pipeline influenced Manage vendor relationships and maintain an event budget What You\u2019ll Need li]:before:content-['\u2013'] [&amp;>li]:before:absolute [&amp;>li]:before:ml-[-.875rem]\"> 0\u20132 years of professional experience. New grads welcome; strong internships or extracurricular event experience count High-ownership mindset. You\u2019re organized, proactive, and finish what you start without being asked twice Comfortable with details and logistics without losing sight of the bigger GTM goal Strong written and verbal communication. You\u2019ll be emailing executives, vendors, and partners Comfortable with ambiguity and fast pace. Event schedules shift, and you roll with it Curious about AI and enterprise tech. You\u2019ll be in the room with operators at our industry events What You\u2019ll Get li]:before:content-['\u2013'] [&amp;>li]:before:absolute [&amp;>li]:before:ml-[-.875rem]\"> Proven product: &nbsp;Customers are live; this isn\u2019t a bet on an unproven thesis AI-native: &nbsp;In how we build, how we work, and what we sell Visibility: &nbsp;Your work is visible from day one \u2014 executives, customers, and the industry will see what you put together Stage: &nbsp;Early enough to shape how the company scales Global: &nbsp;Based in New York with offices in SF and London Culture: &nbsp;Sharp, low-ego team that keeps raising the bar Growth: &nbsp;The learning curve is steep Compensation and Benefits li]:before:content-['\u2013'] [&amp;>li]:before:absolute [&amp;>li]:before:ml-[-.875rem]\"> Salary Range: &nbsp;$3,500 per month, commensurate with experience Benefits: &nbsp;In-office lunch reimbursement Quality Over Quantity To ensure a focused, high-quality hiring experience, we kindly ask candidates to limit their applications to&nbsp; 3 open requisitions at any given time . Applying strategically to roles that best align with your skills and career goals gives you the highest chance of standing out. Have you interviewed with us in the past 12 months? We encourage you to reach out directly to your previous interviewer rather than submitting a new application. InstaLILY is committed to providing an inclusive and barrier-free recruitment process. If you require an accommodation, please let us know, and we will work with you to meet your needs.",
+      "description": "Department: People & Culture\nReports to: Senior Data Analyst, People Analytics\nLocation: North Vancouver, BC - This role is primarily based out of our North Vancouver office, and is open to hybrid remote work\nWork Arrangement: Flexible, between in-office and home\nPay Range:$42,100 - $55,100; pay is dependent on year of study and related experience\u00a0\nDuration: Eight (8) months, Jan 4th, 2027 \u2013 August 13th, 2027\nHours Per Week: 40 hours per week, M-F\n\nYour Co-Op Opportunity at ARC\u2019TERYX:\nAs a People Data Analyst Co-op Student, you will join the Global People Analytics team to help transform people data into meaningful insights, clear stories, and practical intelligence for People & Culture partners. You will support exploratory analysis, data science opportunities, statistical analysis, and insight storytelling that helps teams better understand\u00a0the employee\u00a0experience and make more informed decisions with tools like Power BI, SQL, Python and Databricks. This is an exciting opportunity to learn how\u00a0people\u00a0analytics, people science, data storytelling, automation, and emerging AI tools come together in a fast-moving, purpose-driven organization.\u00a0\n\u00a0\nMeet Your Future Team:\nThe Global People Operations team provides Total Rewards, People Systems and People Analytics, Automation, and AI services. We play a critical role in scaling the People and Culture function and enabling the business. We partner across all areas to evolve\u00a0people\u00a0practices and\u00a0maintain\u00a0strong alignment with the needs of our growing, global organization.\u00a0\n\nIf you were a People Data Analyst Co-Op Student now, here are some of the core activities you would be doing:\nApplying statistical methods and data science techniques to explore workforce data, identify trends, patterns, outliers, and relationships.\nContributing to advanced analytical use cases, such as predictive modeling, segmentation, correlation analysis, and early hypothesis testing to explore emerging workforce questions.\u00a0\nExperimenting with AI and automation tools to make analytics discovery faster, clearer, and more engaging.\u00a0\nTranslating data findings into clear, compelling visual stories that make workforce insights accessible.\u00a0\nAssisting\u00a0with research design and insight development, including framing questions, reviewing relevant context, testing hypotheses, and translating findings into practical recommendations.\u00a0\nLearning how to work responsibly with\u00a0workforce \u00a0data, including privacy, fairness, quality, and trust.\u00a0\n\nHere are some of the things you will learn by the end of your Co-Op placement:\nYou will gain hands-on experience building end-to-end data pipelines and a predictive machine learning model using industry-leading cloud technologies including Azure, Databricks, and Power BI.\nYou will develop a strong understanding of how people analytics drives strategic workforce decisions, from automating data processes to delivering executive-level insights that influence how an organization attracts, retains, and develops its people.\nYou will leave with practical experience across the full analytics lifecycle. From raw data ingestion and modelling to stakeholder-facing dashboards and recommendations, all within a large-scale HR systems transformation.\n\u00a0\nAre you our next People Data Analyst Co-Op Student?\nYou are currently enrolled in a co-op eligible program in data science, statistics, business analytics, computer science, psychology, economics, HR, or a related field.\u00a0\nYou are curious about people, data, and the stories hidden inside numbers and patterns.\u00a0\nYou are comfortable applying statistical methods and data science techniques to predict outcomes, detect patterns, and translate findings into clear, actionable recommendations for business stakeholders.\nYou have some experience with statistics, Excel, Power BI, SQL, Python, R, or another tool for exploring and analyzing data.\u00a0\nYou enjoy asking \u201cwhy,\u201d testing ideas, and using data to discover what might be happening beneath the surface.\u00a0\nYou can turn analysis into clear visuals, notes, or simple stories that help others understand what matters.\u00a0\nYou enjoy learning new tools, experimenting, solving problems, and building confidence through feedback.\u00a0\nYou are thoughtful with sensitive information and understand why privacy, fairness, and trust matter when working with\u00a0people\u00a0data.\u00a0\nYour passion for your work is paralleled by your passion for getting outside and living it.\u00a0\n\u00a0\nCompensation:\u00a0\nThe salary range for this role is CAD $42,100 - $55,100; Individual pay is determined by factors such as program of study, year of study, job-related skills, and relevant experience.\u00a0\n\u00a0\n",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -3203,12 +3172,12 @@
       ]
     },
     {
-      "id": "aeefb775eb2ba04b",
+      "id": "8a218b22d018e31c",
       "source": "workday",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Arlington, Virginia",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-291095",
+      "company": "Intel",
+      "title": "AI Software Engineering Undergraduate Intern",
+      "location": "Costa Rica, San Jose",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -3265,6 +3234,20 @@
       "title": "Software Research Engineering - (PhD Intern)",
       "location": "US, Oregon, Hillsboro",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "aeefb775eb2ba04b",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Arlington, Virginia",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-291095",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -6494,23 +6477,6 @@
       ]
     },
     {
-      "id": "3e9c965639840cb6",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Software Engineer Intern - Technology",
-      "location": "NYC",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
-      "posted_at": "2026-08-17T22:10:31+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "b128d28dbdfbb8cc",
       "source": "simplify",
       "company": "American Express",
@@ -9084,57 +9050,6 @@
       ]
     },
     {
-      "id": "82974c8ea56c60ad",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Analytics Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729",
-      "posted_at": "2026-09-01T04:52:49+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "8dd781c23f4fff5c",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Engineer Intern - Enterprise Technology Services",
-      "location": "Charlotte, NC",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828",
-      "posted_at": "2026-09-01T04:52:48+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "77d2872dd3b8cf58",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Analytics Intern - Enterprise Technology Services",
-      "location": "NYC",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813",
-      "posted_at": "2026-09-01T04:52:48+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "cbf3c34c79af24ee",
       "source": "simplify",
       "company": "American Express",
@@ -9213,23 +9128,6 @@
       "term": "Summer 2027",
       "degrees": [
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "0e0d131101ef8754",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Analytics Intern - Enterprise Technology Services",
-      "location": "Charlotte, NC",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807",
-      "posted_at": "2026-09-01T04:52:49+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -11114,41 +11012,6 @@
       ]
     },
     {
-      "id": "5f611ce3df3e770a",
-      "source": "simplify",
-      "company": "McKesson",
-      "title": "Data Analyst Intern",
-      "location": "Columbus, OH",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
-      "posted_at": "2026-09-02T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "62a5026819260e74",
-      "source": "simplify",
-      "company": "McKesson",
-      "title": "Software Engineer Intern",
-      "location": "Longmont, CO",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
-      "posted_at": "2026-09-02T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5f61c6b352e23460",
       "source": "simplify",
       "company": "Intel",
@@ -12020,23 +11883,6 @@
       "location": "Cincinnati, OH",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503",
       "posted_at": "2026-08-24T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "e2ced00994c4ae01",
-      "source": "simplify",
-      "company": "Principal Financial Group",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Charlotte, NC",
-      "url": "https://careers.principal.com/jobs/52513?icims=1",
-      "posted_at": "2026-09-04T14:08:02+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -15442,23 +15288,6 @@
       "posted_at": "2026-09-14T14:09:42+00:00",
       "term": "Summer 2027",
       "degrees": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2e9b287742459493",
-      "source": "simplify",
-      "company": "Principal Financial Group",
-      "title": "Data Engineer Intern",
-      "location": "Des Moines, IA",
-      "url": "https://careers.principal.com/jobs/52561?icims=1",
-      "posted_at": "2026-09-14T14:54:20+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
       "level": "intern",
       "countries": [
         "us"
@@ -19524,23 +19353,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "d3ad44e096aad4c7",
-      "source": "simplify",
-      "company": "Verizon Communications",
-      "title": "Data Scientist Intern - Fiber Engineering & Operations",
-      "location": "Irving, TX",
-      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
-      "posted_at": "2026-09-29T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
