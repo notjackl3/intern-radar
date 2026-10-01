@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T05:47:34.312263+00:00",
-  "open_count": 1538,
-  "new_count": 2,
+  "generated_at": "2026-10-01T13:09:31.840747+00:00",
+  "open_count": 1525,
+  "new_count": 9,
   "tier": "full",
   "jobs": [
     {
@@ -313,20 +313,6 @@
       ]
     },
     {
-      "id": "9ad024cd0c6b2c84",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Analyst",
-      "location": "Mount Laurel, New Jersey",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "125c5927cd084410",
       "source": "workday",
       "company": "TD Bank",
@@ -375,6 +361,20 @@
       "title": "2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps",
       "location": "Mount Laurel, New Jersey",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9ad024cd0c6b2c84",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Analyst",
+      "location": "Mount Laurel, New Jersey",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1301,6 +1301,20 @@
       ]
     },
     {
+      "id": "90155e20b0fe8f1d",
+      "source": "workday",
+      "company": "Intelcom | Dragonfly",
+      "title": "Business Intelligence (BI) Developer Intern",
+      "location": "Canada, Quebec, Montreal",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "8988f2d1c724819b",
       "source": "workday",
       "company": "Intelcom | Dragonfly",
@@ -1321,20 +1335,6 @@
       "title": "Software Developer in Test Intern",
       "location": "Canada, Quebec, Montreal",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Developer-in-Test-Intern_JR111565",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "90155e20b0fe8f1d",
-      "source": "workday",
-      "company": "Intelcom | Dragonfly",
-      "title": "Business Intelligence (BI) Developer Intern",
-      "location": "Canada, Quebec, Montreal",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1567,6 +1567,76 @@
       ]
     },
     {
+      "id": "6989ecfb551b6c15",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, Generative AI - 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "f84559cb390c1165",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "50ff69b418b180f0",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "16c60a12d2c7aee3",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "61c80bb63db8f10c",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Deep Learning",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "a38386826d44d6fc",
       "source": "workday",
       "company": "Motorola Solutions",
@@ -1679,76 +1749,6 @@
       ]
     },
     {
-      "id": "6989ecfb551b6c15",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, Generative AI - 2026",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "f84559cb390c1165",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "50ff69b418b180f0",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "16c60a12d2c7aee3",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "61c80bb63db8f10c",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Deep Learning",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "343b8b985e98579e",
       "source": "ashby",
       "company": "Jerry",
@@ -1794,76 +1794,6 @@
       ]
     },
     {
-      "id": "eefa955d802b293b",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "Software Engineer, AV Data Collection - Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "e53c1ca293eb07c1",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Winter Co-op Infotainment Software Developer",
-      "location": "Markham, Ontario, Canada",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "371e05f5a48a3c45",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "Software Engineer AV HIL Platform and Services (Early Career))",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a8ff2a5254223a25",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1860c6e1a37bab94",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "6b83dbc9f15269bb",
       "source": "ashby",
       "company": "Zip",
@@ -1874,6 +1804,36 @@
       "term": null,
       "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our Toronto office (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is CA$121,000 - CA$126,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates. This posting is for a current vacancy.\n\nAs part of our hiring process, Zip uses AI-enabled tools to assist in screening and assessing candidates, including resume review and interview documentation. All hiring decisions are made by people.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8 Start-up equity\n\n - \ud83e\uddb7 Health, vision & dental coverage\n\n - \ud83c\udf7d\ufe0f Catered lunches & dinners\n\n - \ud83d\ude8d Commuter benefit\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83d\udcbb Apple equipment plus home office budget\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
       "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a521f9e8a3d4937b",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6142432004",
+      "posted_at": "2026-09-02T20:47:41-04:00",
+      "term": null,
+      "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "5e8b0cb4b702cf60",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
+      "posted_at": "2026-08-05T07:55:21-04:00",
+      "term": null,
+      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
+      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -1924,30 +1884,15 @@
       ]
     },
     {
-      "id": "a521f9e8a3d4937b",
+      "id": "8cad1f11ced5d8d3",
       "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6142432004",
-      "posted_at": "2026-09-02T20:47:41-04:00",
+      "company": "Sony Interactive",
+      "title": "Full Stack Software Engineer II (Contract Role)",
+      "location": "Canada, Waterloo, ON",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6204389004",
+      "posted_at": "2026-09-21T18:57:30-04:00",
       "term": null,
-      "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "5e8b0cb4b702cf60",
-      "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
-      "posted_at": "2026-08-05T07:55:21-04:00",
-      "term": null,
-      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
+      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Full Stack Software Engineer II (Contract Role) Waterloo, ON Playstation is looking for a Software Engineer to build our next-generation technologies and applications in the growing Madison, WI campus. We apply modern web technologies and methodologies to build an outstanding commerce platform and a customer experience filled with delight. The ideal candidate will come from an object-oriented development background, and be passionate about front end web technologies. Are you ready for a rare opportunity to deliver high-quality, thoroughly tested code at one of the world\u2019s most recognizable brands? We\u2019re doing really cool things with web technologies like React, React Native, and more to keep PlayStation the #1 gaming platform in the world. Yes! There is a Sony Playstation office in Madison, WI! We are located in the heart of downtown right near the Capitol Square with an outstanding view of the east side and many great restaurants and social opportunities right outside the door. This is a hybrid role. We offer a flexible work-from-home policy. In-person meetings may sometimes be required. Otherwise, you can work in the office as much or as little as you prefer. We also host many social and team bonding events in our Madison campus. The team This team focuses on building client application experiences for PlayStation consoles, websites, mobile applications and beyond. These features serve millions of users around the world. If you strive for outstanding UX, improving performance for a fast experience, and the blend of games and technology, please apply. Responsibilities: Develop, test and document business critical features and applications Work with Product Owners and Product Managers to understand feature requirements, capture technical requirements and craft solutions for components and applications for the PlayStation ecosystem Passionate about quality and strives to improve processes, proposes standard methodologies and drives their usage within the teams Developing JavaScript-based applications for PlayStation gaming consoles, web, mobile and future flagship Sony devices and services Building digital commerce solutions for PlayStation games, media content, subscription services and more Write robust unit and component tests to ensure reliability and prevent regressions. Work quickly and optimally in a fast-paced ever-evolving environment Work independently and collaborate with internal and external engineers Work with other team members by reviewing and giving feedback on pull requests and design plans Define and refine technical approaches that support performance, accessibility, and scalability. Exercise your feature building capabilities and collaborate within your team to optimize existing solutions as well Deploying platform experiences through CI/CD pipelines Monitoring software releases, analyze telemetry, and adapt to production data Continuously learn, experiment, and bring forward innovative ideas \u2014 participate in Hackathons and Caf\u00e9 Days to help shape the future of PlayStation experiences. Required Qualifications: Bachelor's degree or equivalent, or 3+ years of relevant work experience instead of a degree 2-3 years of building product experiences with proficiencies in UI technologies A passion for robust sustainable and high-quality code Excellent communication and collaboration skills Strong technical, analytical, and problem-solving skills Capable of producing detailed design and development documentation Preferred Qualifications: Using HTML, CSS, the JavaScript ecosystem and familiarity with popular frameworks like React, Angular, Jest, and TypeScript Familiarity with Java and Spring Boot is a bonus Familiarity with GraphQL, REST APIs, and containerization tools such as Docker. Understanding of build pipelines and CI/CD standards, especially across multiple platforms. Experience working with performance optimization, accessibility, and responsive design principles. Curiosity about AI-assisted development tools or automation that improves developer efficiency At SIE, working with our partners, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location.&nbsp; Please note that the individual base pay range may vary based on job-related factors which may include knowledge, skills, experience, and location. In addition, this role is eligible for benefit offerings that include medical, dental, and vision. Click here &nbsp;to learn more. The estimated base pay range for this role is listed below, this is an hourly rate. $51.62 &mdash; $77.42 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassign",
       "level": "intern",
       "countries": [
         "ca"
@@ -1966,21 +1911,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "8cad1f11ced5d8d3",
-      "source": "greenhouse",
-      "company": "Sony Interactive",
-      "title": "Full Stack Software Engineer II (Contract Role)",
-      "location": "Canada, Waterloo, ON",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6204389004",
-      "posted_at": "2026-09-21T18:57:30-04:00",
-      "term": null,
-      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Full Stack Software Engineer II (Contract Role) Waterloo, ON Playstation is looking for a Software Engineer to build our next-generation technologies and applications in the growing Madison, WI campus. We apply modern web technologies and methodologies to build an outstanding commerce platform and a customer experience filled with delight. The ideal candidate will come from an object-oriented development background, and be passionate about front end web technologies. Are you ready for a rare opportunity to deliver high-quality, thoroughly tested code at one of the world\u2019s most recognizable brands? We\u2019re doing really cool things with web technologies like React, React Native, and more to keep PlayStation the #1 gaming platform in the world. Yes! There is a Sony Playstation office in Madison, WI! We are located in the heart of downtown right near the Capitol Square with an outstanding view of the east side and many great restaurants and social opportunities right outside the door. This is a hybrid role. We offer a flexible work-from-home policy. In-person meetings may sometimes be required. Otherwise, you can work in the office as much or as little as you prefer. We also host many social and team bonding events in our Madison campus. The team This team focuses on building client application experiences for PlayStation consoles, websites, mobile applications and beyond. These features serve millions of users around the world. If you strive for outstanding UX, improving performance for a fast experience, and the blend of games and technology, please apply. Responsibilities: Develop, test and document business critical features and applications Work with Product Owners and Product Managers to understand feature requirements, capture technical requirements and craft solutions for components and applications for the PlayStation ecosystem Passionate about quality and strives to improve processes, proposes standard methodologies and drives their usage within the teams Developing JavaScript-based applications for PlayStation gaming consoles, web, mobile and future flagship Sony devices and services Building digital commerce solutions for PlayStation games, media content, subscription services and more Write robust unit and component tests to ensure reliability and prevent regressions. Work quickly and optimally in a fast-paced ever-evolving environment Work independently and collaborate with internal and external engineers Work with other team members by reviewing and giving feedback on pull requests and design plans Define and refine technical approaches that support performance, accessibility, and scalability. Exercise your feature building capabilities and collaborate within your team to optimize existing solutions as well Deploying platform experiences through CI/CD pipelines Monitoring software releases, analyze telemetry, and adapt to production data Continuously learn, experiment, and bring forward innovative ideas \u2014 participate in Hackathons and Caf\u00e9 Days to help shape the future of PlayStation experiences. Required Qualifications: Bachelor's degree or equivalent, or 3+ years of relevant work experience instead of a degree 2-3 years of building product experiences with proficiencies in UI technologies A passion for robust sustainable and high-quality code Excellent communication and collaboration skills Strong technical, analytical, and problem-solving skills Capable of producing detailed design and development documentation Preferred Qualifications: Using HTML, CSS, the JavaScript ecosystem and familiarity with popular frameworks like React, Angular, Jest, and TypeScript Familiarity with Java and Spring Boot is a bonus Familiarity with GraphQL, REST APIs, and containerization tools such as Docker. Understanding of build pipelines and CI/CD standards, especially across multiple platforms. Experience working with performance optimization, accessibility, and responsive design principles. Curiosity about AI-assisted development tools or automation that improves developer efficiency At SIE, working with our partners, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location.&nbsp; Please note that the individual base pay range may vary based on job-related factors which may include knowledge, skills, experience, and location. In addition, this role is eligible for benefit offerings that include medical, dental, and vision. Click here &nbsp;to learn more. The estimated base pay range for this role is listed below, this is an hourly rate. $51.62 &mdash; $77.42 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassign",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -2189,6 +2119,76 @@
       ]
     },
     {
+      "id": "eefa955d802b293b",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "Software Engineer, AV Data Collection - Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "e53c1ca293eb07c1",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "2027 Winter Co-op Infotainment Software Developer",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "371e05f5a48a3c45",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "Software Engineer AV HIL Platform and Services (Early Career))",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a8ff2a5254223a25",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1860c6e1a37bab94",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "ca632f68f069d85a",
       "source": "workday",
       "company": "Harris Computer",
@@ -2232,36 +2232,6 @@
       ]
     },
     {
-      "id": "ec6b0e250f7d7c62",
-      "source": "greenhouse",
-      "company": "Stripe",
-      "title": "High School Internship, Software Engineering (Summer 2027)",
-      "location": "Seattle, San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "posted_at": "2026-09-30T16:15:13-04:00",
-      "term": null,
-      "description": "This role is intended for current high school students graduating in 2027 or later. &nbsp; Who we are&nbsp; About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier, from solo founders to established enterprises, united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make&nbsp; upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe do not tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many, especially the new and innovative ones, we think that Stripe is one of the very best places to learn about how the world works. What you\u2019ll do This is a small, selective internship for exceptional high school students and recent graduates whose technical work already stands out well beyond what we typically see at this stage. We are not looking for potential or credentials alone. We are looking for students who can show, through what they have built, researched, or contributed, that they are ready to do substantive engineering work with a Stripe team. You will spend 12 consecutive weeks between May and August working in person from Stripe\u2019s San Francisco or Seattle office on a scoped engineering project. You will own a problem end to end with support from your manager and teammates, contribute to Stripe\u2019s codebase, and learn how engineers build reliable systems used by millions of businesses. Recent Stripe intern projects include expanding Payments Foundation Model capabilities to improve generalized anomaly detection, building more approachable fraud controls, creating safer payouts, and developing user-facing solutions that prevent costly pricing mistakes and make merchant checkout setup easier. You will work alongside Stripe\u2019s collegiate interns and full-time employees. That means participating in the same team environment, learning how engineers at different stages approach technical decisions, and building relationships across the broader Stripe community. This is not a trainee or classroom-based program. You will receive support from your manager and teammates, but you will be expected to contribute to your team\u2019s work, learn quickly, communicate clearly, ask strong questions, and produce work that holds up under technical review. As with Stripe\u2019s collegiate internships, strong performance may lead to consideration for future opportunities at Stripe, including full-time employment for interns who meet the relevant eligibility and hiring requirements. Future opportunities are not guaranteed and will depend on individual performance and Stripe\u2019s hiring needs. Responsibilities Participate fully in the team you join, including team discussions, decisions, and the technical design process. Write, test, and document software intended for production use by Stripe teams and users. Give and receive technical feedback through code reviews and design discussions. Collaborate with engineers and cross-functional partners to seek and incorporate feedback. Learn unfamiliar systems through independent research and close work with your manager, mentor, teammates, and subject matter experts. Communicate the status of your work clearly, including progress, risks, open questions, and where you need help. Use current AI development tools thoughtfully while applying rigorous judgment to review, refine, test, and validate outputs. What We Look For We don't have a test score threshold. We look for people who have already started acting like the engineers and operators we most admire. Ambitious builder: Y ou are energized by building solutions without a clear precedent and working through difficult technical problems. You can point to technical work that shows unusual initiative, depth, or originality for someone at your stage. Rigorous thinker:&nbsp; You care about whether your work is correct, not just whether it runs. You test your assumptions, examine edge cases, and can explain the choices you made. Adaptable problem solver:&nbsp; You learn quickly, respond well to feedback, and keep making progress when the path is unclear. Collaborative teammate:&nbsp; You communicate clearly, treat others with kindness, and know when to work independently and when to ask for help. Minimum requirements Currently enrolled in high school, or graduating from high school before the internship begins. Available to work full-time and in person from Stripe\u2019s San Francisco or Seattle office for 12 consecutive weeks during a mutually agreed period between May and August 2027.",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6cd903b435ef2f33",
-      "source": "greenhouse",
-      "company": "Databricks",
-      "title": "PhD GenAI Research Scientist Intern",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-      "posted_at": "2026-09-21T13:22:12-04:00",
-      "term": null,
-      "description": "Company Description: At Databricks, we are obsessed with enabling data teams to solve the world\u2019s toughest problems, from security threat detection to cancer drug development. We do this by building and running the world\u2019s best data and AI platform, so our customers can focus on the high value challenges that are central to their own missions. The Mosaic AI organization enables companies to develop AI models and systems using their own data, with technologies ranging from fine-tuning LLMs for enterprise domains, to a platform for building compound AI systems that use retrieval and agents. Mosaic AI is committed to the belief that a company\u2019s AI models are just as valuable as any other core IP, and that high-quality AI models should be available to all. Job description: Most of the world's data+AI problems lie in enterprise domains, behind closed doors. Our research team's goal is to push the frontier of \"domain adaptation\" - how can we develop LLMs and AI systems that work well for custom domains. To do this we are tackling open research problems on a range of topics, from how to scale/automate eval, fine tune with synthetic data, retrieval augmentation, fast/efficient inference and more.&nbsp; You will work with our research team on projects focused on adapting LLMs and AI systems towards enterprise domains. This may include: Adapting, improving, and evaluating a method from the literature. Designing an entirely new method for domain adaptation. Composing together multiple methods to create new recipes for efficient post-training. Evaluation of LLMs and AI systems.&nbsp; Your qualifications and qualities: &nbsp;Required: Research experience in and proficiency with the fundamentals of deep learning. Pursuing a PhD in computer science or related fields (electrical engineering, neuroscience, physics, math, etc.). Proficient software engineering skills, including with PyTorch. &nbsp; Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . &nbsp; SF Bay Area Hourly Rate $54 &mdash; $60 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "0b845921ded5a707",
       "source": "workday",
       "company": "Adobe",
@@ -2298,6 +2268,36 @@
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
       "posted_at": null,
       "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "ec6b0e250f7d7c62",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
+      "location": "Seattle, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "posted_at": "2026-09-30T16:15:13-04:00",
+      "term": null,
+      "description": "This role is intended for current high school students graduating in 2027 or later. &nbsp; Who we are&nbsp; About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier, from solo founders to established enterprises, united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make&nbsp; upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe do not tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many, especially the new and innovative ones, we think that Stripe is one of the very best places to learn about how the world works. What you\u2019ll do This is a small, selective internship for exceptional high school students and recent graduates whose technical work already stands out well beyond what we typically see at this stage. We are not looking for potential or credentials alone. We are looking for students who can show, through what they have built, researched, or contributed, that they are ready to do substantive engineering work with a Stripe team. You will spend 12 consecutive weeks between May and August working in person from Stripe\u2019s San Francisco or Seattle office on a scoped engineering project. You will own a problem end to end with support from your manager and teammates, contribute to Stripe\u2019s codebase, and learn how engineers build reliable systems used by millions of businesses. Recent Stripe intern projects include expanding Payments Foundation Model capabilities to improve generalized anomaly detection, building more approachable fraud controls, creating safer payouts, and developing user-facing solutions that prevent costly pricing mistakes and make merchant checkout setup easier. You will work alongside Stripe\u2019s collegiate interns and full-time employees. That means participating in the same team environment, learning how engineers at different stages approach technical decisions, and building relationships across the broader Stripe community. This is not a trainee or classroom-based program. You will receive support from your manager and teammates, but you will be expected to contribute to your team\u2019s work, learn quickly, communicate clearly, ask strong questions, and produce work that holds up under technical review. As with Stripe\u2019s collegiate internships, strong performance may lead to consideration for future opportunities at Stripe, including full-time employment for interns who meet the relevant eligibility and hiring requirements. Future opportunities are not guaranteed and will depend on individual performance and Stripe\u2019s hiring needs. Responsibilities Participate fully in the team you join, including team discussions, decisions, and the technical design process. Write, test, and document software intended for production use by Stripe teams and users. Give and receive technical feedback through code reviews and design discussions. Collaborate with engineers and cross-functional partners to seek and incorporate feedback. Learn unfamiliar systems through independent research and close work with your manager, mentor, teammates, and subject matter experts. Communicate the status of your work clearly, including progress, risks, open questions, and where you need help. Use current AI development tools thoughtfully while applying rigorous judgment to review, refine, test, and validate outputs. What We Look For We don't have a test score threshold. We look for people who have already started acting like the engineers and operators we most admire. Ambitious builder: Y ou are energized by building solutions without a clear precedent and working through difficult technical problems. You can point to technical work that shows unusual initiative, depth, or originality for someone at your stage. Rigorous thinker:&nbsp; You care about whether your work is correct, not just whether it runs. You test your assumptions, examine edge cases, and can explain the choices you made. Adaptable problem solver:&nbsp; You learn quickly, respond well to feedback, and keep making progress when the path is unclear. Collaborative teammate:&nbsp; You communicate clearly, treat others with kindness, and know when to work independently and when to ask for help. Minimum requirements Currently enrolled in high school, or graduating from high school before the internship begins. Available to work full-time and in person from Stripe\u2019s San Francisco or Seattle office for 12 consecutive weeks during a mutually agreed period between May and August 2027.",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "6cd903b435ef2f33",
+      "source": "greenhouse",
+      "company": "Databricks",
+      "title": "PhD GenAI Research Scientist Intern",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+      "posted_at": "2026-09-21T13:22:12-04:00",
+      "term": null,
+      "description": "Company Description: At Databricks, we are obsessed with enabling data teams to solve the world\u2019s toughest problems, from security threat detection to cancer drug development. We do this by building and running the world\u2019s best data and AI platform, so our customers can focus on the high value challenges that are central to their own missions. The Mosaic AI organization enables companies to develop AI models and systems using their own data, with technologies ranging from fine-tuning LLMs for enterprise domains, to a platform for building compound AI systems that use retrieval and agents. Mosaic AI is committed to the belief that a company\u2019s AI models are just as valuable as any other core IP, and that high-quality AI models should be available to all. Job description: Most of the world's data+AI problems lie in enterprise domains, behind closed doors. Our research team's goal is to push the frontier of \"domain adaptation\" - how can we develop LLMs and AI systems that work well for custom domains. To do this we are tackling open research problems on a range of topics, from how to scale/automate eval, fine tune with synthetic data, retrieval augmentation, fast/efficient inference and more.&nbsp; You will work with our research team on projects focused on adapting LLMs and AI systems towards enterprise domains. This may include: Adapting, improving, and evaluating a method from the literature. Designing an entirely new method for domain adaptation. Composing together multiple methods to create new recipes for efficient post-training. Evaluation of LLMs and AI systems.&nbsp; Your qualifications and qualities: &nbsp;Required: Research experience in and proficiency with the fundamentals of deep learning. Pursuing a PhD in computer science or related fields (electrical engineering, neuroscience, physics, math, etc.). Proficient software engineering skills, including with PyTorch. &nbsp; Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . &nbsp; SF Bay Area Hourly Rate $54 &mdash; $60 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
       "level": "intern",
       "countries": [
         "us"
@@ -2409,21 +2409,6 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "8a265b43c786b1d3",
       "source": "greenhouse",
       "company": "DoorDash",
@@ -2529,6 +2514,21 @@
       ]
     },
     {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "ef58e14ec8673d0a",
       "source": "greenhouse",
       "company": "DoorDash Canada",
@@ -2631,6 +2631,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "f7a5206ff6a1371e",
+      "source": "lever",
+      "company": "Arc'teryx",
+      "title": "People Data Analyst Co-Op Student",
+      "location": "North Vancouver, BC (Corporate)",
+      "url": "https://jobs.lever.co/arcteryx.com/826dc4d8-f91e-4893-b8d6-56706194edfb",
+      "posted_at": "2026-09-15T17:13:22.330000+00:00",
+      "term": null,
+      "description": "Department: People & Culture\nReports to: Senior Data Analyst, People Analytics\nLocation: North Vancouver, BC - This role is primarily based out of our North Vancouver office, and is open to hybrid remote work\nWork Arrangement: Flexible, between in-office and home\nPay Range:$42,100 - $55,100; pay is dependent on year of study and related experience\u00a0\nDuration: Eight (8) months, Jan 4th, 2027 \u2013 August 13th, 2027\nHours Per Week: 40 hours per week, M-F\n\nYour Co-Op Opportunity at ARC\u2019TERYX:\nAs a People Data Analyst Co-op Student, you will join the Global People Analytics team to help transform people data into meaningful insights, clear stories, and practical intelligence for People & Culture partners. You will support exploratory analysis, data science opportunities, statistical analysis, and insight storytelling that helps teams better understand\u00a0the employee\u00a0experience and make more informed decisions with tools like Power BI, SQL, Python and Databricks. This is an exciting opportunity to learn how\u00a0people\u00a0analytics, people science, data storytelling, automation, and emerging AI tools come together in a fast-moving, purpose-driven organization.\u00a0\n\u00a0\nMeet Your Future Team:\nThe Global People Operations team provides Total Rewards, People Systems and People Analytics, Automation, and AI services. We play a critical role in scaling the People and Culture function and enabling the business. We partner across all areas to evolve\u00a0people\u00a0practices and\u00a0maintain\u00a0strong alignment with the needs of our growing, global organization.\u00a0\n\nIf you were a People Data Analyst Co-Op Student now, here are some of the core activities you would be doing:\nApplying statistical methods and data science techniques to explore workforce data, identify trends, patterns, outliers, and relationships.\nContributing to advanced analytical use cases, such as predictive modeling, segmentation, correlation analysis, and early hypothesis testing to explore emerging workforce questions.\u00a0\nExperimenting with AI and automation tools to make analytics discovery faster, clearer, and more engaging.\u00a0\nTranslating data findings into clear, compelling visual stories that make workforce insights accessible.\u00a0\nAssisting\u00a0with research design and insight development, including framing questions, reviewing relevant context, testing hypotheses, and translating findings into practical recommendations.\u00a0\nLearning how to work responsibly with\u00a0workforce \u00a0data, including privacy, fairness, quality, and trust.\u00a0\n\nHere are some of the things you will learn by the end of your Co-Op placement:\nYou will gain hands-on experience building end-to-end data pipelines and a predictive machine learning model using industry-leading cloud technologies including Azure, Databricks, and Power BI.\nYou will develop a strong understanding of how people analytics drives strategic workforce decisions, from automating data processes to delivering executive-level insights that influence how an organization attracts, retains, and develops its people.\nYou will leave with practical experience across the full analytics lifecycle. From raw data ingestion and modelling to stakeholder-facing dashboards and recommendations, all within a large-scale HR systems transformation.\n\u00a0\nAre you our next People Data Analyst Co-Op Student?\nYou are currently enrolled in a co-op eligible program in data science, statistics, business analytics, computer science, psychology, economics, HR, or a related field.\u00a0\nYou are curious about people, data, and the stories hidden inside numbers and patterns.\u00a0\nYou are comfortable applying statistical methods and data science techniques to predict outcomes, detect patterns, and translate findings into clear, actionable recommendations for business stakeholders.\nYou have some experience with statistics, Excel, Power BI, SQL, Python, R, or another tool for exploring and analyzing data.\u00a0\nYou enjoy asking \u201cwhy,\u201d testing ideas, and using data to discover what might be happening beneath the surface.\u00a0\nYou can turn analysis into clear visuals, notes, or simple stories that help others understand what matters.\u00a0\nYou enjoy learning new tools, experimenting, solving problems, and building confidence through feedback.\u00a0\nYou are thoughtful with sensitive information and understand why privacy, fairness, and trust matter when working with\u00a0people\u00a0data.\u00a0\nYour passion for your work is paralleled by your passion for getting outside and living it.\u00a0\n\u00a0\nCompensation:\u00a0\nThe salary range for this role is CAD $42,100 - $55,100; Individual pay is determined by factors such as program of study, year of study, job-related skills, and relevant experience.\u00a0\n\u00a0\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2979,21 +2994,6 @@
       ]
     },
     {
-      "id": "f7a5206ff6a1371e",
-      "source": "lever",
-      "company": "Arc'teryx",
-      "title": "People Data Analyst Co-Op Student",
-      "location": "North Vancouver, BC (Corporate)",
-      "url": "https://jobs.lever.co/arcteryx.com/826dc4d8-f91e-4893-b8d6-56706194edfb",
-      "posted_at": "2026-09-15T17:13:22.330000+00:00",
-      "term": null,
-      "description": "Department: People & Culture\nReports to: Senior Data Analyst, People Analytics\nLocation: North Vancouver, BC - This role is primarily based out of our North Vancouver office, and is open to hybrid remote work\nWork Arrangement: Flexible, between in-office and home\nPay Range:$42,100 - $55,100; pay is dependent on year of study and related experience\u00a0\nDuration: Eight (8) months, Jan 4th, 2027 \u2013 August 13th, 2027\nHours Per Week: 40 hours per week, M-F\n\nYour Co-Op Opportunity at ARC\u2019TERYX:\nAs a People Data Analyst Co-op Student, you will join the Global People Analytics team to help transform people data into meaningful insights, clear stories, and practical intelligence for People & Culture partners. You will support exploratory analysis, data science opportunities, statistical analysis, and insight storytelling that helps teams better understand\u00a0the employee\u00a0experience and make more informed decisions with tools like Power BI, SQL, Python and Databricks. This is an exciting opportunity to learn how\u00a0people\u00a0analytics, people science, data storytelling, automation, and emerging AI tools come together in a fast-moving, purpose-driven organization.\u00a0\n\u00a0\nMeet Your Future Team:\nThe Global People Operations team provides Total Rewards, People Systems and People Analytics, Automation, and AI services. We play a critical role in scaling the People and Culture function and enabling the business. We partner across all areas to evolve\u00a0people\u00a0practices and\u00a0maintain\u00a0strong alignment with the needs of our growing, global organization.\u00a0\n\nIf you were a People Data Analyst Co-Op Student now, here are some of the core activities you would be doing:\nApplying statistical methods and data science techniques to explore workforce data, identify trends, patterns, outliers, and relationships.\nContributing to advanced analytical use cases, such as predictive modeling, segmentation, correlation analysis, and early hypothesis testing to explore emerging workforce questions.\u00a0\nExperimenting with AI and automation tools to make analytics discovery faster, clearer, and more engaging.\u00a0\nTranslating data findings into clear, compelling visual stories that make workforce insights accessible.\u00a0\nAssisting\u00a0with research design and insight development, including framing questions, reviewing relevant context, testing hypotheses, and translating findings into practical recommendations.\u00a0\nLearning how to work responsibly with\u00a0workforce \u00a0data, including privacy, fairness, quality, and trust.\u00a0\n\nHere are some of the things you will learn by the end of your Co-Op placement:\nYou will gain hands-on experience building end-to-end data pipelines and a predictive machine learning model using industry-leading cloud technologies including Azure, Databricks, and Power BI.\nYou will develop a strong understanding of how people analytics drives strategic workforce decisions, from automating data processes to delivering executive-level insights that influence how an organization attracts, retains, and develops its people.\nYou will leave with practical experience across the full analytics lifecycle. From raw data ingestion and modelling to stakeholder-facing dashboards and recommendations, all within a large-scale HR systems transformation.\n\u00a0\nAre you our next People Data Analyst Co-Op Student?\nYou are currently enrolled in a co-op eligible program in data science, statistics, business analytics, computer science, psychology, economics, HR, or a related field.\u00a0\nYou are curious about people, data, and the stories hidden inside numbers and patterns.\u00a0\nYou are comfortable applying statistical methods and data science techniques to predict outcomes, detect patterns, and translate findings into clear, actionable recommendations for business stakeholders.\nYou have some experience with statistics, Excel, Power BI, SQL, Python, R, or another tool for exploring and analyzing data.\u00a0\nYou enjoy asking \u201cwhy,\u201d testing ideas, and using data to discover what might be happening beneath the surface.\u00a0\nYou can turn analysis into clear visuals, notes, or simple stories that help others understand what matters.\u00a0\nYou enjoy learning new tools, experimenting, solving problems, and building confidence through feedback.\u00a0\nYou are thoughtful with sensitive information and understand why privacy, fairness, and trust matter when working with\u00a0people\u00a0data.\u00a0\nYour passion for your work is paralleled by your passion for getting outside and living it.\u00a0\n\u00a0\nCompensation:\u00a0\nThe salary range for this role is CAD $42,100 - $55,100; Individual pay is determined by factors such as program of study, year of study, job-related skills, and relevant experience.\u00a0\n\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "71e1910f1109da3b",
       "source": "greenhouse",
       "company": "Instalily AI",
@@ -3172,6 +3172,20 @@
       ]
     },
     {
+      "id": "aeefb775eb2ba04b",
+      "source": "workday",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Arlington, Virginia",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-291095",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "8a218b22d018e31c",
       "source": "workday",
       "company": "Intel",
@@ -3214,20 +3228,6 @@
       ]
     },
     {
-      "id": "a2b7b118ac264509",
-      "source": "workday",
-      "company": "Intel",
-      "title": "System Software Engineering - PhD Intern",
-      "location": "US, Oregon, Hillsboro",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5cb818c6598b24e6",
       "source": "workday",
       "company": "Intel",
@@ -3242,12 +3242,12 @@
       ]
     },
     {
-      "id": "aeefb775eb2ba04b",
+      "id": "a2b7b118ac264509",
       "source": "workday",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Arlington, Virginia",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-291095",
+      "company": "Intel",
+      "title": "System Software Engineering - PhD Intern",
+      "location": "US, Oregon, Hillsboro",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -4615,6 +4615,24 @@
       "location": "San Jose, CA",
       "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail",
       "posted_at": "2026-08-03T09:16:36+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1da56a5558e95f67",
+      "source": "simplify",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - CoreAI",
+      "location": "Redmond, WA",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "posted_at": "2026-08-03T09:12:02+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
@@ -6358,23 +6376,6 @@
       ]
     },
     {
-      "id": "3a6abb033a1da97d",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "location": "Atlanta, GA",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
-      "posted_at": "2026-08-17T22:12:28+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "0f5170e9cbb3ffce",
       "source": "simplify",
       "company": "ByteDance",
@@ -6426,23 +6427,6 @@
       ]
     },
     {
-      "id": "7e9a7c087148bfb3",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Software Engineer Intern - Enterprise Technology Services",
-      "location": "Charlotte, NC",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
-      "posted_at": "2026-08-17T22:10:31+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "0d9ff0e181746ae9",
       "source": "simplify",
       "company": "American Express",
@@ -6484,23 +6468,6 @@
       "location": "Phoenix, AZ",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784",
       "posted_at": "2026-08-17T22:51:41+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "433e43974faa6409",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
-      "posted_at": "2026-08-17T22:51:42+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -6567,23 +6534,6 @@
       "location": "Sunrise, FL",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
       "posted_at": "2026-08-17T22:10:31+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "34fa31ef97241810",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Software Engineer Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
-      "posted_at": "2026-08-18T06:16:10+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -7930,24 +7880,6 @@
       ]
     },
     {
-      "id": "74b8e970de8d6757",
-      "source": "simplify",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Huntsville, AL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007",
-      "posted_at": "2026-08-27T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "c3639c05e426fb1c",
       "source": "simplify",
       "company": "Booz Allen",
@@ -8861,23 +8793,6 @@
       ]
     },
     {
-      "id": "6b5521eb018a8acf",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Analytics Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703",
-      "posted_at": "2026-09-01T04:52:49+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "6ffc26c4b72bbabd",
       "source": "simplify",
       "company": "WhatNot",
@@ -8964,40 +8879,6 @@
       ]
     },
     {
-      "id": "d41879317daf7914",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Engineer Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333",
-      "posted_at": "2026-09-01T04:52:49+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "95f8b5f35ddfb930",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Analytics Intern - Enterprise Technology Services",
-      "location": "Palo Alto, CA",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818",
-      "posted_at": "2026-09-01T04:52:48+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "7ef7cf78444309a4",
       "source": "simplify",
       "company": "American Express",
@@ -9077,23 +8958,6 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "3995d72e1a008c05",
-      "source": "simplify",
-      "company": "American Express",
-      "title": "Data Engineer Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339",
-      "posted_at": "2026-09-01T04:52:49+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -12963,24 +12827,6 @@
       ]
     },
     {
-      "id": "897adff9cffddda9",
-      "source": "simplify",
-      "company": "Moog",
-      "title": "Software Engineer Intern - Military Aircraft",
-      "location": "Mineral Wells, TX",
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
-      "posted_at": "2026-09-09T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ed6e68a2e31e86a2",
       "source": "simplify",
       "company": "Navy Federal",
@@ -16327,76 +16173,6 @@
       ]
     },
     {
-      "id": "4ececd1c33ba6b08",
-      "source": "simplify",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern - Thrive",
-      "location": "Pittsburgh, PA",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
-      "posted_at": "2026-09-15T22:38:43+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b8f59a69b396bd2a",
-      "source": "simplify",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern",
-      "location": "Seattle, WA; Pittsburgh, PA; NYC",
-      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-      "posted_at": "2026-09-15T22:38:43+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "c4803b72f7e22ce8",
-      "source": "simplify",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern - Thrive",
-      "location": "Pittsburgh, PA",
-      "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
-      "posted_at": "2026-09-15T22:38:43+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6540db30c59e008e",
-      "source": "simplify",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern",
-      "location": "Seattle, WA; Pittsburgh, PA; NYC",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002",
-      "posted_at": "2026-09-15T22:38:43+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "2593cb1e18ecca5a",
       "source": "simplify",
       "company": "Johnson & Johnson",
@@ -18037,23 +17813,6 @@
       ]
     },
     {
-      "id": "493ca68dd8ab408a",
-      "source": "simplify",
-      "company": "Tyler Technologies",
-      "title": "Software Development Intern - Summer 2027",
-      "location": "Yarmouth, ME; Orono, ME; Falmouth, ME",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
-      "posted_at": "2026-09-21T22:26:01+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "b065f4acf326fa8e",
       "source": "simplify",
       "company": "Commerce Bank",
@@ -19587,24 +19346,6 @@
       ]
     },
     {
-      "id": "b06b1a94654a9483",
-      "source": "simplify",
-      "company": "RTX",
-      "title": "Systems Engineer Co-op - Avi MIL Fms/Das",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
-      "posted_at": "2026-09-08T00:00:00+00:00",
-      "term": "Summer 2027; Fall 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "9db73cb28523e53c",
       "source": "simplify",
       "company": "RTX",
@@ -20315,6 +20056,105 @@
       ]
     },
     {
+      "id": "1ae40ff3e9a1c595",
+      "source": "simplify",
+      "company": "RTX",
+      "title": "Embedded Software Engineer Intern",
+      "location": "East Hartford, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "43c493dfad752d12",
+      "source": "simplify",
+      "company": "Southwest Airlines",
+      "title": "Customer Experience and Analytics Data Science Intern",
+      "location": "Dallas, TX",
+      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "35a8e25333ea8e90",
+      "source": "simplify",
+      "company": "Southwest Airlines",
+      "title": "Software Engineer Intern",
+      "location": "Dallas, TX",
+      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "ebc5ee37db759809",
+      "source": "simplify",
+      "company": "Southwest Airlines",
+      "title": "Data Engineer Intern",
+      "location": "Dallas, TX",
+      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b76e9d8b0112e763",
+      "source": "simplify",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "7e3c97b2a4b38fea",
+      "source": "simplify",
+      "company": "Varda Space",
+      "title": "Flight Software Intern",
+      "location": "El Segundo, CA",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
+      "posted_at": "2026-10-01T09:03:54+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "80dc6b785741c45a",
       "source": "simplify-newgrad",
       "company": "Atria Group",
@@ -20994,23 +20834,6 @@
       "posted_at": "2026-06-29T22:04:55+00:00",
       "term": null,
       "degrees": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b16ed003318e5dbf",
-      "source": "simplify-newgrad",
-      "company": "Billtrust",
-      "title": "Associate Data Scientist",
-      "location": "Hamilton Township, NJ",
-      "url": "https://www.billtrust.com/careers/job-openings/?gh_jid=7790504003",
-      "posted_at": "2026-06-30T22:28:41+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
       "level": "newgrad",
       "countries": [
         "us"
@@ -23318,23 +23141,6 @@
       ]
     },
     {
-      "id": "6f2cb98bd01f37ed",
-      "source": "simplify-newgrad",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineer",
-      "location": "Fort Wayne, IN",
-      "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors",
-      "posted_at": "2026-08-25T09:01:27+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "d2def7c9e3a410ce",
       "source": "simplify-newgrad",
       "company": "Maximor AI",
@@ -24535,25 +24341,6 @@
       ]
     },
     {
-      "id": "9cce0c21afb2b2a5",
-      "source": "simplify-newgrad",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineer",
-      "location": "Richardson, TX",
-      "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1427668800/?ats=successfactors",
-      "posted_at": "2026-09-08T22:22:38+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "a2e87e505c1692cd",
       "source": "simplify-newgrad",
       "company": "Atlassian",
@@ -25561,23 +25348,6 @@
       ]
     },
     {
-      "id": "ab768cb12a01a3a8",
-      "source": "simplify-newgrad",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer",
-      "location": "Dulles, VA",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252863",
-      "posted_at": "2026-09-24T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "914cef5b581db74f",
       "source": "simplify-newgrad",
       "company": "Adobe",
@@ -25736,23 +25506,6 @@
       ]
     },
     {
-      "id": "2982721092eba424",
-      "source": "simplify-newgrad",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer - McClellan CA",
-      "location": "McClellan Park, CA",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
-      "posted_at": "2026-09-29T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "668d55a3ea7cd6c5",
       "source": "simplify-newgrad",
       "company": "ASSA ABLOY",
@@ -25817,25 +25570,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a0d7ec03ffc61541",
-      "source": "simplify-newgrad",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer",
-      "location": "Huntsville, AL",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518",
-      "posted_at": "2026-09-29T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ],
       "level": "newgrad",
       "countries": [
@@ -25992,6 +25726,40 @@
         "Bachelor's"
       ],
       "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "2aa80f7ae51ccfda",
+      "source": "simplify-newgrad",
+      "company": "Kyndryl",
+      "title": "Data Analyst New Grad - Data Operations Associate",
+      "location": "Dallas, TX",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Careers-Consult-Program---Data-Operations-Associate_R-69022-2",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "0cf330b1899e662a",
+      "source": "simplify-newgrad",
+      "company": "Amazon",
+      "title": "Applied Scientist - International Seller Services",
+      "location": "Seattle, WA",
+      "url": "https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
+      "posted_at": "2026-10-01T09:07:47+00:00",
+      "term": null,
+      "degrees": [
+        "Master's"
+      ],
+      "level": "intern",
       "countries": [
         "us"
       ]
