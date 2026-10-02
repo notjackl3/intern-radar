@@ -1,14 +1,59 @@
 [
   {
-    "id": "b662b8c3dd28c8c9",
-    "source": "greenhouse",
-    "company": "Sony Interactive",
-    "title": "Software Engineer II DevEx",
-    "location": "United States, San Mateo, CA",
-    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6211665004",
-    "posted_at": "2026-10-01T20:48:32-04:00",
+    "id": "9d6145d3bff74de0",
+    "source": "simplify",
+    "company": "Walleye Capital",
+    "title": "Special Projects Developer Intern",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
+    "posted_at": "2026-10-02T01:19:07+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "01bce06f498d46b3",
+    "source": "workday",
+    "company": "General Motors",
+    "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+    "posted_at": null,
     "term": null,
-    "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II DevEx &nbsp; Location: San Mateo (Hybrid) DevEx team builds simulation tools that help PlayStation engineers develop, test, and troubleshoot software in a reliable, repeatable environment. These tools shorten feedback cycles, support earlier validation, and make complex development workflows easier to use. &nbsp; As a Software Engineer II, you will design and deliver capabilities that improve the accuracy, reliability, and usability of our simulation environment. Your work will include simulator functionality, integration with development and test workflows, automation, diagnostics, and the tools engineers use to configure and interact with the environment. &nbsp; You will own well-defined features from design through rollout, collaborate with engineering and quality teams across PlayStation, and turn recurring development and testing challenges into reliable, maintainable product improvements. &nbsp; &nbsp; What&nbsp; you\u2019ll do: Design, implement, test, and document production-quality C++ features for simulation and developer tooling. &nbsp; Build and maintain software abstractions, simulated services, and client/server integrations that reproduce important system behaviors in a development environment. &nbsp; Improve core developer workflows such as environment setup, simulator startup, configuration, input handling, debugging, log collection, and failure recovery. &nbsp; Improve and contribute to build, dependency, packaging, and release workflows for the simulation platform using modern build tools, dependency managers, containers, and CI/CD pipelines. &nbsp; Create unit, integration, and end-to-end tests that catch regressions early and move high-value validation into continuous integration. &nbsp; Diagnose failures that cross process, library, container, and platform boundaries; produce clear root-cause analysis and durable fixes. &nbsp; Contribute to shared libraries and developer-facing interfaces including versioning, compatibility, migration guidance, and coordination with consuming teams. &nbsp; Write architecture notes, setup guides, troubleshooting steps, and release documentation that developers can use without direct support from the team. &nbsp; Partner with engineers, QE, product owners, and adjacent platform teams to define integration contracts, sequence cross-team changes, and deliver complete features. &nbsp; Participate in design and code reviews, give actionable feedback, and improve the team\u2019s engineering practices through the work you ship. &nbsp; &nbsp; What&nbsp; we\u2019re looking for: Bachelor\u2019s degree in Computer Science, Computer Engineering, or a related field, or equivalent practical experience. &nbsp; 4+ years of professional software-development experience building systems software, platform software, developer tools, infrastructure or similar technical products. &nbsp; Strong modern C++ development skills and practical experience developing and debugging software on Linux. &nbsp; Experience debugging multi-process, client/server, or platform-integrated software using logs, traces, debuggers, and reproducible test cases. &nbsp; Experience building automated tests and integrating them into CI/CD workflows. &nbsp; Working knowledge of build systems, dependency management, source control, and release practices for a multi-repository codebase. &nbsp; Ability to take a defined problem from technical design through implementation, validation, documentation, and rollout. &nbsp; Clear written and verbal communication, especially when coordinating interfaces or diagnosing issues across team boundaries. &nbsp; &nbsp; It would be a plus if you have: Experience with simulation, emulation, hardware abstraction, service virtualization, or comparable development environments. &nbsp; Experience with containerized development using Docker, dev containers, WSL, or comparable tooling. &nbsp; Familiarity with CMake, package-management tools, CI systems, collaborative source-control workflows, or cross-platform build toolchains. &nbsp; Experience designing or integrating IPC, client/server API\u2019s, shared libraries, or SDK\u2019s. &nbsp; Experience developing complex platform software or software for resource-constrained environments. &nbsp; Experience supporting developer tools as a product: gathering feedback, measuring friction, improving diagnostics, and simplifying onboarding. &nbsp; Working knowledge of one or more additional languages used in tooling or platform development, such as Python, Rust, JavaScript, or TypeScript. &nbsp; &nbsp; At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; In addition, this role is eligible for SIE\u2019s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click&nbsp; here to learn more. &nbsp; The estimated base pay range for this role is l",
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d10c16ac168deed9",
+    "source": "workday",
+    "company": "General Motors",
+    "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "23ab3cf6839f9dd6",
+    "source": "workday",
+    "company": "General Motors",
+    "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+    "posted_at": null,
+    "term": null,
     "level": "intern",
     "countries": [
       "us"
