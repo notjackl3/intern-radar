@@ -1,1 +1,510 @@
-[]
+[
+  {
+    "id": "31148629e8c1d481",
+    "source": "simplify",
+    "company": "Illinois Tool Works",
+    "title": "Software Engineer Intern - Application Software",
+    "location": "Eden Prairie, MN",
+    "url": "https://careers.itw.com/global/en/job/JR10491",
+    "posted_at": "2026-10-07T22:28:37+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "849abbd9ddca09c1",
+    "source": "simplify",
+    "company": "IDEMIA",
+    "title": "Software Engineer Intern",
+    "location": "Reston, VA",
+    "url": "https://uscareers-idemia.icims.com/jobs/8657/job?mobile=true&needsRedirect=false",
+    "posted_at": "2026-10-07T22:28:01+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d91b6430cd46fd8a",
+    "source": "simplify-newgrad",
+    "company": "SpruceID",
+    "title": "Full-Stack Software Engineer New Grad",
+    "location": "Remote in USA",
+    "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true",
+    "posted_at": "2026-10-07T22:27:18+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0c7a4e71a74b465e",
+    "source": "simplify",
+    "company": "State Affairs",
+    "title": "Software Engineer Intern",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
+    "posted_at": "2026-10-07T22:19:27+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "4a00c4a7fde118ed",
+    "source": "simplify-newgrad",
+    "company": "General Dynamics Mission Systems",
+    "title": "Embedded Software Engineer Entry Level",
+    "location": "Bloomington, MN",
+    "url": "https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false",
+    "posted_at": "2026-10-07T22:17:20+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "6313f500ccf631a4",
+    "source": "simplify-newgrad",
+    "company": "Otter.ai",
+    "title": "Software Engineer New Grad - Front-End",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=8016078003",
+    "posted_at": "2026-10-07T22:14:53+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "5d625ff6165f8d04",
+    "source": "simplify-newgrad",
+    "company": "L3Harris Technologies",
+    "title": "Associate Software Engineering",
+    "location": "Fort Wayne, IN",
+    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1437963000/?ats=successfactors",
+    "posted_at": "2026-10-07T22:09:58+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "fbdc6b7534f070fa",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineering Co-op",
+    "location": "Cedar Rapids, IA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Spring 2027; Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "f6469fcdfae4fa70",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineering Co-op - Summer/Fall 2027",
+    "location": "Cedar Rapids, IA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027; Fall 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "cd4cb3111def7acb",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineering Co-op",
+    "location": "Cedar Rapids, IA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Spring 2027; Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "3408c04bdbd2be43",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineer Co-op",
+    "location": "Cedar Rapids, IA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027; Fall 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "f4bd317062ea5e42",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Test Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "148ebe05d6f8376a",
+    "source": "simplify",
+    "company": "Nissan Global",
+    "title": "Systems Engineer Intern - Summer 2027",
+    "location": "Canton, MS",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a5fc230c00de71bc",
+    "source": "simplify-newgrad",
+    "company": "NVIDIA",
+    "title": "Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research",
+    "location": "Santa Clara, CA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "PhD"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "ff468a26a5df9835",
+    "source": "simplify",
+    "company": "McKesson",
+    "title": "Software Engineer Intern",
+    "location": "Pittsburgh, PA; Columbus, OH; Irving, TX",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "39907d45b57cbd3a",
+    "source": "simplify",
+    "company": "ICF International",
+    "title": "Data Engineer Intern",
+    "location": "Remote in USA; Reston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "46bde8d0325a5c1d",
+    "source": "simplify",
+    "company": "ICF International",
+    "title": "Data Analytics Intern",
+    "location": "Reston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "6384cefef8d9b5a9",
+    "source": "simplify",
+    "company": "General Motors",
+    "title": "Systems Engineer Intern - Asd",
+    "location": "Milford, MI; Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "107b30148de013af",
+    "source": "simplify",
+    "company": "Dow Jones",
+    "title": "Data Analyst Intern",
+    "location": "NYC",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "3b26d445e1a3eb8f",
+    "source": "simplify",
+    "company": "Dow Jones",
+    "title": "Software Engineer Intern",
+    "location": "NYC",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "019302db00eab16d",
+    "source": "simplify-newgrad",
+    "company": "CVS Health",
+    "title": "Associate Software Development Engineer - Conversion",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056490",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "3068402c9788f126",
+    "source": "simplify-newgrad",
+    "company": "CACI",
+    "title": "Entry Level C# Software Engineer",
+    "location": "Virginia Beach, VA",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0d1969992288cdf1",
+    "source": "simplify",
+    "company": "Bose",
+    "title": "Audio Machine Learning Intern Co-op",
+    "location": "Bloomfield Hills, MI; Framingham, MA; Atlanta, GA",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": "Winter 2027; Spring 2027; Summer 2027; Fall 2027",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "78912956bb4f2c3f",
+    "source": "simplify-newgrad",
+    "company": "Abbott",
+    "title": "Associate Software Engineer",
+    "location": "Plymouth, MN",
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "807c1647154b2db8",
+    "source": "simplify-newgrad",
+    "company": "Abbott",
+    "title": "Associate Software Engineer",
+    "location": "Plymouth, MN",
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
+    "posted_at": "2026-10-07T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "ce6602f2a7ba8d31",
+    "source": "simplify",
+    "company": "Panasonic Holdings",
+    "title": "Data Engineering Intern",
+    "location": "Bridgeton, MO",
+    "url": "https://careers.na.panasonic.com/jobs/50772?icims=1",
+    "posted_at": "2026-09-02T01:02:33+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "6ebc2b182e553fd1",
+    "source": "simplify-newgrad",
+    "company": "IXL Learning",
+    "title": "Software Engineer New Grad",
+    "location": "Raleigh, NC",
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+    "posted_at": "2026-09-01T04:49:36+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0e967f3904c5c9cc",
+    "source": "workday",
+    "company": "Motorola Solutions",
+    "title": "Software Developer, Embedded Appliances Co-Op",
+    "location": "Vancouver, Canada",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "9ac65794a0f17d3d",
+    "source": "workday",
+    "company": "Motorola Solutions",
+    "title": "GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid)",
+    "location": "Chicago, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "ee9a6116bbaffd79",
+    "source": "workday",
+    "company": "BDO Canada",
+    "title": "DevOps Engineer - New Grad (January 2027)",
+    "location": "Toronto - Bay St",
+    "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7192-1",
+    "posted_at": null,
+    "term": null,
+    "level": "newgrad",
+    "countries": [
+      "ca"
+    ]
+  }
+]
