@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "id": "4e058789d942517a",
+    "source": "simplify-newgrad",
+    "company": "Aurelian",
+    "title": "Software Engineer New Grad",
+    "location": "Seattle, WA",
+    "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true",
+    "posted_at": "2026-10-09T01:23:12+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e56baaff9b1921a6",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895",
+    "posted_at": "2026-10-08T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "137c1a531319dd8d",
+    "source": "workday",
+    "company": "BDO Canada",
+    "title": "DevOps Engineer - New Grad (January 2027)",
+    "location": "Toronto - Bay St",
+    "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194",
+    "posted_at": null,
+    "term": null,
+    "level": "newgrad",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "624082cb1ca32fe7",
+    "source": "workday",
+    "company": "Aptiv",
+    "title": "Embedded Software - Engineering Intern",
+    "location": "USA Walnut Creek, CA - WR",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "22ff8f147b1cb641",
+    "source": "workday",
+    "company": "Aptiv",
+    "title": "Intern - Compiler Team",
+    "location": "USA Walnut Creek, CA - WR",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  }
+]
