@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-10-10T18:35:33.849390+00:00",
-  "open_count": 1539,
+  "generated_at": "2026-10-10T23:34:26.734145+00:00",
+  "open_count": 1540,
   "new_count": 1,
   "tier": "full",
   "jobs": [
-    {
-      "id": "fae6915762335700",
-      "source": "workday",
-      "company": "Bank of Montreal (Campus)",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX, USA",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "75c694148e01154f",
-      "source": "workday",
-      "company": "Bank of Montreal (Campus)",
-      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
     {
       "id": "3b67cbb779c56ce3",
       "source": "workday",
@@ -58,6 +30,34 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "fae6915762335700",
+      "source": "workday",
+      "company": "Bank of Montreal (Campus)",
+      "title": "Software Developer ( Early Career )-15",
+      "location": "Irving, TX, USA",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "75c694148e01154f",
+      "source": "workday",
+      "company": "Bank of Montreal (Campus)",
+      "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -215,20 +215,6 @@
       ]
     },
     {
-      "id": "f94d8908d89a3b1d",
-      "source": "workday",
-      "company": "Canadian Tire",
-      "title": "Data Analyst, International Transportation",
-      "location": "Mississauga, ON",
-      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Data-Analyst--International-Transportation_JR165534",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "125c5927cd084410",
       "source": "workday",
       "company": "TD Bank",
@@ -378,6 +364,20 @@
       "posted_at": null,
       "term": null,
       "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "f94d8908d89a3b1d",
+      "source": "workday",
+      "company": "Canadian Tire",
+      "title": "Data Analyst, International Transportation",
+      "location": "Mississauga, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Data-Analyst--International-Transportation_JR165534",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -756,6 +756,21 @@
       ]
     },
     {
+      "id": "85085bd7043a3bc4",
+      "source": "lever",
+      "company": "ShyftLabs",
+      "title": "AI Engineer Intern",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "posted_at": "2026-07-21T18:59:53.642000+00:00",
+      "term": null,
+      "description": "",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "7917f016b53fbbb9",
       "source": "workday",
       "company": "SOTI (Next-Gen)",
@@ -798,41 +813,12 @@
       ]
     },
     {
-      "id": "85085bd7043a3bc4",
-      "source": "lever",
-      "company": "ShyftLabs",
-      "title": "AI Engineer Intern",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
-      "posted_at": "2026-07-21T18:59:53.642000+00:00",
-      "term": null,
-      "description": "",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "f2be086b25f30d26",
       "source": "workday",
       "company": "Bank of Montreal (Privileged)",
       "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
       "location": "Toronto, ON, CAN",
       "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b7d869fbf7809925",
-      "source": "workday",
-      "company": "Manulife (Admin)",
-      "title": "Winter Co-op 2027 - Software Engineering",
-      "location": "Waterloo, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -864,6 +850,20 @@
       "posted_at": null,
       "term": null,
       "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b7d869fbf7809925",
+      "source": "workday",
+      "company": "Manulife (Admin)",
+      "title": "Winter Co-op 2027 - Software Engineering",
+      "location": "Waterloo, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -1387,6 +1387,90 @@
       ]
     },
     {
+      "id": "6989ecfb551b6c15",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, Generative AI - 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "f84559cb390c1165",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "50ff69b418b180f0",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "16c60a12d2c7aee3",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "61c80bb63db8f10c",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Deep Learning",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "2daefcc656ec1952",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "edb3648b056eba8c",
       "source": "workday",
       "company": "CAE",
@@ -1494,6 +1578,66 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "343b8b985e98579e",
+      "source": "ashby",
+      "company": "Jerry",
+      "title": "Associate Data Scientist",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/f621d767-f3aa-4cdb-9b73-816467624c95",
+      "posted_at": "2026-09-29T16:18:42.284+00:00",
+      "term": null,
+      "description": "Why We Exist\n\nYour car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey \u2014 buy/sell, insurance, maintenance, repairs \u2014 is fragmented, complicated, and expensive.\n\n\u00a0\n\nJerry.ai http://Jerry.ai is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. \n\n\u00a0\n\nWe've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.\n\n\u00a0\n\nWhy We\u2019re Hiring\n\nOur Data Science & Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.\n\n\u00a0\n\nEvery business unit has a Data Science team member embedded within it  \u2014  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. \n\n\u00a0\n\nAs our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:\n\n - Growth Marketing \n\n - Product Development\n\n - AI & Automation\n\n - Strategic Partnerships \n\n\u00a0\n\nOn leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.\n\n\u00a0\n\nWhy You Will (Or Won't) Like Working Here\n\n - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business \u2014 an important product, a new growth channel, a key metric, a critical partner relationship, etc. \n\n - No corporate fluff: The Data Science & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. \n\n - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. \n\n\u00a0\n\nWhat You'll Own\n\nYou'll sit on our central Data Science & Analytics team but you\u2019ll be embedded in one of Jerry's core business areas \u2014 growth, product, AI and automation, strategic partnerships \u2014 and own the analytical function for that business unit end-to-end.\n\n - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.\n\n - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.\n\n - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.\n\n\u00a0\n\nWho You Are\n\n - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\" \n\n - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.\n\n - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it\u2019s outside of your swim lane.\n\n\u00a0\n\nWhat You'll Bring\n\n - 1+ years of experience at a consulting firm, investment bank, or high-growth technology company.\n\n - Strong analytical skills; ability to pull, structure, and interpret data independently.\n\n - Track record of owning ambiguous problems and delivering impact.\n\n - Clear, persuasive communicator who can influence decisions at the leadership level.\n\n\u00a0\n\nOur Tools\n\nSQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.\n\n\u00a0\n\u00a0\n\nWhile we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.\n\n\n\nPlease note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.\n\n\n\nJerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. \n\n\n\nJerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at recruiting@jerry.ai recruiting@getjerry.com\n\n\n\nThe successful candidate\u2019s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants. \n\n\n\nWe offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.\n\n\n\nAbout Jerry.ai\n\nJerry is building the first AI-powered advisor to manage all your physical assets. \n\n\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\n\nWe started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.\n\n\n\nLed by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay \u2014 we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.\n\n\n\nWe are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership. \n\n\n\nWe are a remote-first company, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.\n\n\u00a0",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "99011bf94814095f",
+      "source": "ashby",
+      "company": "Cerebras",
+      "title": "Software Engineer - New Grad 2026",
+      "location": "Toronto, CAN",
+      "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
+      "posted_at": "2026-05-11T19:38:35.637+00:00",
+      "term": null,
+      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nThis role is ideal for candidates with a strong interest in systems programming, networking, embedded systems, distributed infrastructure, or performance-oriented software engineering. Our teams work very closely with hardware, so candidates with experience primarily focused on higher-level application development or AI applications may be less aligned with the nature of this work.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\n - Collaborate with experienced engineers on real-world systems and infrastructure challenges.\n\n - Design, implement, test, and debug software solutions that directly impact system performance and reliability.\n\n - Contribute to low-level software components interacting closely with hardware and networking infrastructure.\n\n - Learn and contribute across multiple layers of a fully integrated AI-accelerated platform.\n\n - Participate in debugging, performance optimization, and system bring-up activities.\n\n - Develop tools and infrastructure to improve observability, reliability, and scalability.\n\n - Work cross-functionally with hardware, firmware, compiler, and infrastructure teams.\n\n\nREQUIRED QUALIFICATIONS\n\n - Recently graduated or currently enrolled in a university program in Computer Science, Computer Engineering, Electrical Engineering, or a related discipline (graduating in 2026).\n\n - Proficiency in C/C++ programming languages\n\n - Interest or exposure to systems/socket programming, networking, embedded systems, operating systems, device drivers, distributed systems, or network performance.\n\n - Desire to work close to hardware/network and learn low-level engineering concepts.\n\n - Detail-oriented but keen to learn the bigger picture and step out of comfort zone.\n\n - Excellent communication and collaboration skills.\n\n - Hybrid role based in Toronto, ON, or Sunnyvale CA\n\n\nASSETS\n\n - Experience with Linux systems programming or debugging tools.\n\n - Familiarity with TCP/RDMA protocols, RPCs, and packet trace tools such as Wireshark\n\n - Exposure to networking concepts, device drivers, embedded systems, or distributed infrastructure.\n\n - Familiarity with performance optimization or concurrent programming concepts.\n\n - Interest in large-scale AI infrastructure and accelerated computing systems.\n\n\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "82678dd7b8c15146",
+      "source": "ashby",
+      "company": "Cerebras",
+      "title": "DevOps Engineer - New Grad 2026",
+      "location": "Toronto, CAN",
+      "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
+      "posted_at": "2026-05-11T20:00:47.834+00:00",
+      "term": null,
+      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6b83dbc9f15269bb",
+      "source": "ashby",
+      "company": "Zip",
+      "title": "Software Engineer, New Grad (2027 Start)",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+      "posted_at": "2026-08-25T20:40:17.404+00:00",
+      "term": null,
+      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our Toronto office (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is CA$121,000 - CA$126,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates. This posting is for a current vacancy.\n\nAs part of our hiring process, Zip uses AI-enabled tools to assist in screening and assessing candidates, including resume review and interview documentation. All hiring decisions are made by people.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8 Start-up equity\n\n - \ud83e\uddb7 Health, vision & dental coverage\n\n - \ud83c\udf7d\ufe0f Catered lunches & dinners\n\n - \ud83d\ude8d Commuter benefit\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83d\udcbb Apple equipment plus home office budget\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -1681,192 +1825,6 @@
       ]
     },
     {
-      "id": "343b8b985e98579e",
-      "source": "ashby",
-      "company": "Jerry",
-      "title": "Associate Data Scientist",
-      "location": "New York, New York",
-      "url": "https://jobs.ashbyhq.com/jerry.ai/f621d767-f3aa-4cdb-9b73-816467624c95",
-      "posted_at": "2026-09-29T16:18:42.284+00:00",
-      "term": null,
-      "description": "Why We Exist\n\nYour car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey \u2014 buy/sell, insurance, maintenance, repairs \u2014 is fragmented, complicated, and expensive.\n\n\u00a0\n\nJerry.ai http://Jerry.ai is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. \n\n\u00a0\n\nWe've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.\n\n\u00a0\n\nWhy We\u2019re Hiring\n\nOur Data Science & Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.\n\n\u00a0\n\nEvery business unit has a Data Science team member embedded within it  \u2014  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. \n\n\u00a0\n\nAs our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:\n\n - Growth Marketing \n\n - Product Development\n\n - AI & Automation\n\n - Strategic Partnerships \n\n\u00a0\n\nOn leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.\n\n\u00a0\n\nWhy You Will (Or Won't) Like Working Here\n\n - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business \u2014 an important product, a new growth channel, a key metric, a critical partner relationship, etc. \n\n - No corporate fluff: The Data Science & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. \n\n - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. \n\n\u00a0\n\nWhat You'll Own\n\nYou'll sit on our central Data Science & Analytics team but you\u2019ll be embedded in one of Jerry's core business areas \u2014 growth, product, AI and automation, strategic partnerships \u2014 and own the analytical function for that business unit end-to-end.\n\n - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.\n\n - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.\n\n - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.\n\n\u00a0\n\nWho You Are\n\n - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\" \n\n - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.\n\n - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it\u2019s outside of your swim lane.\n\n\u00a0\n\nWhat You'll Bring\n\n - 1+ years of experience at a consulting firm, investment bank, or high-growth technology company.\n\n - Strong analytical skills; ability to pull, structure, and interpret data independently.\n\n - Track record of owning ambiguous problems and delivering impact.\n\n - Clear, persuasive communicator who can influence decisions at the leadership level.\n\n\u00a0\n\nOur Tools\n\nSQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.\n\n\u00a0\n\u00a0\n\nWhile we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.\n\n\n\nPlease note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.\n\n\n\nJerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. \n\n\n\nJerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at recruiting@jerry.ai recruiting@getjerry.com\n\n\n\nThe successful candidate\u2019s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants. \n\n\n\nWe offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.\n\n\n\nAbout Jerry.ai\n\nJerry is building the first AI-powered advisor to manage all your physical assets. \n\n\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\n\nWe started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.\n\n\n\nLed by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay \u2014 we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.\n\n\n\nWe are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership. \n\n\n\nWe are a remote-first company, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.\n\n\u00a0",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "99011bf94814095f",
-      "source": "ashby",
-      "company": "Cerebras",
-      "title": "Software Engineer - New Grad 2026",
-      "location": "Toronto, CAN",
-      "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
-      "posted_at": "2026-05-11T19:38:35.637+00:00",
-      "term": null,
-      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nThis role is ideal for candidates with a strong interest in systems programming, networking, embedded systems, distributed infrastructure, or performance-oriented software engineering. Our teams work very closely with hardware, so candidates with experience primarily focused on higher-level application development or AI applications may be less aligned with the nature of this work.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\n - Collaborate with experienced engineers on real-world systems and infrastructure challenges.\n\n - Design, implement, test, and debug software solutions that directly impact system performance and reliability.\n\n - Contribute to low-level software components interacting closely with hardware and networking infrastructure.\n\n - Learn and contribute across multiple layers of a fully integrated AI-accelerated platform.\n\n - Participate in debugging, performance optimization, and system bring-up activities.\n\n - Develop tools and infrastructure to improve observability, reliability, and scalability.\n\n - Work cross-functionally with hardware, firmware, compiler, and infrastructure teams.\n\n\nREQUIRED QUALIFICATIONS\n\n - Recently graduated or currently enrolled in a university program in Computer Science, Computer Engineering, Electrical Engineering, or a related discipline (graduating in 2026).\n\n - Proficiency in C/C++ programming languages\n\n - Interest or exposure to systems/socket programming, networking, embedded systems, operating systems, device drivers, distributed systems, or network performance.\n\n - Desire to work close to hardware/network and learn low-level engineering concepts.\n\n - Detail-oriented but keen to learn the bigger picture and step out of comfort zone.\n\n - Excellent communication and collaboration skills.\n\n - Hybrid role based in Toronto, ON, or Sunnyvale CA\n\n\nASSETS\n\n - Experience with Linux systems programming or debugging tools.\n\n - Familiarity with TCP/RDMA protocols, RPCs, and packet trace tools such as Wireshark\n\n - Exposure to networking concepts, device drivers, embedded systems, or distributed infrastructure.\n\n - Familiarity with performance optimization or concurrent programming concepts.\n\n - Interest in large-scale AI infrastructure and accelerated computing systems.\n\n\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "82678dd7b8c15146",
-      "source": "ashby",
-      "company": "Cerebras",
-      "title": "DevOps Engineer - New Grad 2026",
-      "location": "Toronto, CAN",
-      "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-      "posted_at": "2026-05-11T20:00:47.834+00:00",
-      "term": null,
-      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "6989ecfb551b6c15",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, Generative AI - 2026",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "f84559cb390c1165",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "50ff69b418b180f0",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "16c60a12d2c7aee3",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "61c80bb63db8f10c",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Deep Learning",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2daefcc656ec1952",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6b83dbc9f15269bb",
-      "source": "ashby",
-      "company": "Zip",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-      "posted_at": "2026-08-25T20:40:17.404+00:00",
-      "term": null,
-      "description": "ABOUT ZIP\n\nZip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\n\nThe world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.\n\nBacked by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.\n\n\n\n\nYOUR ROLE\n\nAs a New Grad Software Engineer you will be responsible for building Zip\u2019s core products and architecture. You will ship features that will be immediately used by our customers, and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.\n\n\n\n\nYOU WILL\n\n - Design and build highly reliable and resilient products and features\n\n - Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions\n\n - Write high-quality, extensible, and maintainable code\n\n - Design and build scalable frontend applications and components\n\n - Design and build APIs to drive existing and new features for a web-based application\n\n\n\n\nQUALIFICATIONS\n\n - Pursuing a BS or MS in Computer Science, Computer Engineering, or related technical field involving coding (e.g. physics or math)\n\n - Graduating between December 2026 and June 2027\n\n - Ability to work on-site at our Toronto office (hybrid schedule)\n\n - Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL\n\n - Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed\n\n - Fantastic written and verbal communication skills\n\n - Prior internship experience at a high-growth startup or leading tech company, in a dynamic, fast-moving environment\n\n\n\nThe salary range for this role is CA$121,000 - CA$126,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Relocation assistance may be available for qualified candidates. This posting is for a current vacancy.\n\nAs part of our hiring process, Zip uses AI-enabled tools to assist in screening and assessing candidates, including resume review and interview documentation. All hiring decisions are made by people.\n\n\n\n\nPERKS & BENEFITS\n\nAt Zip, we\u2019re committed to providing our employees with everything they need to do their best work.\n\n - \ud83d\udcc8 Start-up equity\n\n - \ud83e\uddb7 Health, vision & dental coverage\n\n - \ud83c\udf7d\ufe0f Catered lunches & dinners\n\n - \ud83d\ude8d Commuter benefit\n\n - \ud83d\udea0 Team building events & happy hours\n\n - \ud83c\udf34 Flexible PTO\n\n - \ud83d\udcbb Apple equipment plus home office budget\n\nWe're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "624082cb1ca32fe7",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Embedded Software - Engineering Intern",
-      "location": "USA Walnut Creek, CA - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "22ff8f147b1cb641",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Intern - Compiler Team",
-      "location": "USA Walnut Creek, CA - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "4e14d25cd31dac27",
-      "source": "workday",
-      "company": "Royal Bank of Canada (Global)",
-      "title": "2027 Winter \u2013 GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
-      "location": "TORONTO, Ontario, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "07768ec774e22b13",
       "source": "lever",
       "company": "Veeva Systems",
@@ -1922,6 +1880,48 @@
       "term": null,
       "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.\n\u00a0\nAt the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a\u00a0public benefit corporation\u00a0(PBC), legally bound to balancing the interests of customers, employees, society, and investors.\n\u00a0\nAs a\u00a0Work Anywhere\u00a0company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.\n\u00a0\nJoin us in\u00a0transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.\n\n\nThe Role\nWe're hiring Associate Software Engineers in Test to work at Veeva, working on various products in the Life Sciences industry encompassing the fields of pharmaceuticals, biotechnology, and medical devices.\nAs part of our Quality Assurance and Release Engineering team, you'll be responsible for functional and automation testing of software, ensuring customer success with every release.\nGraduates or anyone curious about Quality Engineering can apply. Our onboarding program provides a dedicated buddy to guide you through the process, and our collaborative environment is the perfect place to enhance your skills alongside like-minded engineers.\n",
       "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "624082cb1ca32fe7",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Embedded Software - Engineering Intern",
+      "location": "USA Walnut Creek, CA - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "22ff8f147b1cb641",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Intern - Compiler Team",
+      "location": "USA Walnut Creek, CA - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "4e14d25cd31dac27",
+      "source": "workday",
+      "company": "Royal Bank of Canada (Global)",
+      "title": "2027 Winter \u2013 GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
+      "location": "TORONTO, Ontario, Canada",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -2207,21 +2207,6 @@
       ]
     },
     {
-      "id": "6cd903b435ef2f33",
-      "source": "greenhouse",
-      "company": "Databricks",
-      "title": "PhD GenAI Research Scientist Intern",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-      "posted_at": "2026-10-09T00:21:54-04:00",
-      "term": null,
-      "description": "Company Description: At Databricks, we are obsessed with enabling data teams to solve the world\u2019s toughest problems, from security threat detection to cancer drug development. We do this by building and running the world\u2019s best data and AI platform, so our customers can focus on the high value challenges that are central to their own missions. The Mosaic AI organization enables companies to develop AI models and systems using their own data, with technologies ranging from fine-tuning LLMs for enterprise domains, to a platform for building compound AI systems that use retrieval and agents. Mosaic AI is committed to the belief that a company\u2019s AI models are just as valuable as any other core IP, and that high-quality AI models should be available to all. Job description: Most of the world's data+AI problems lie in enterprise domains, behind closed doors. Our research team's goal is to push the frontier of \"domain adaptation\" - how can we develop LLMs and AI systems that work well for custom domains. To do this we are tackling open research problems on a range of topics, from how to scale/automate eval, fine tune with synthetic data, retrieval augmentation, fast/efficient inference and more.&nbsp; You will work with our research team on projects focused on adapting LLMs and AI systems towards enterprise domains. This may include: Adapting, improving, and evaluating a method from the literature. Designing an entirely new method for domain adaptation. Composing together multiple methods to create new recipes for efficient post-training. Evaluation of LLMs and AI systems.&nbsp; Your qualifications and qualities: &nbsp;Required: Research experience in and proficiency with the fundamentals of deep learning. Pursuing a PhD in computer science or related fields (electrical engineering, neuroscience, physics, math, etc.). Proficient software engineering skills, including with PyTorch. &nbsp; Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . &nbsp; SF Bay Area Hourly Rate $54 &mdash; $60 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "26ced3507f729e19",
       "source": "workday",
       "company": "Cadence",
@@ -2247,6 +2232,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "6cd903b435ef2f33",
+      "source": "greenhouse",
+      "company": "Databricks",
+      "title": "PhD GenAI Research Scientist Intern",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+      "posted_at": "2026-10-09T00:21:54-04:00",
+      "term": null,
+      "description": "Company Description: At Databricks, we are obsessed with enabling data teams to solve the world\u2019s toughest problems, from security threat detection to cancer drug development. We do this by building and running the world\u2019s best data and AI platform, so our customers can focus on the high value challenges that are central to their own missions. The Mosaic AI organization enables companies to develop AI models and systems using their own data, with technologies ranging from fine-tuning LLMs for enterprise domains, to a platform for building compound AI systems that use retrieval and agents. Mosaic AI is committed to the belief that a company\u2019s AI models are just as valuable as any other core IP, and that high-quality AI models should be available to all. Job description: Most of the world's data+AI problems lie in enterprise domains, behind closed doors. Our research team's goal is to push the frontier of \"domain adaptation\" - how can we develop LLMs and AI systems that work well for custom domains. To do this we are tackling open research problems on a range of topics, from how to scale/automate eval, fine tune with synthetic data, retrieval augmentation, fast/efficient inference and more.&nbsp; You will work with our research team on projects focused on adapting LLMs and AI systems towards enterprise domains. This may include: Adapting, improving, and evaluating a method from the literature. Designing an entirely new method for domain adaptation. Composing together multiple methods to create new recipes for efficient post-training. Evaluation of LLMs and AI systems.&nbsp; Your qualifications and qualities: &nbsp;Required: Research experience in and proficiency with the fundamentals of deep learning. Pursuing a PhD in computer science or related fields (electrical engineering, neuroscience, physics, math, etc.). Proficient software engineering skills, including with PyTorch. &nbsp; Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . &nbsp; SF Bay Area Hourly Rate $54 &mdash; $60 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2277,21 +2277,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2026 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -2382,6 +2367,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2026 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2550,21 +2550,6 @@
       ]
     },
     {
-      "id": "b941e2b8302cbc9c",
-      "source": "ashby",
-      "company": "OpenAI",
-      "title": "Software Engineer, Cooperative AI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9",
-      "posted_at": "2026-10-05T23:10:27.181+00:00",
-      "term": null,
-      "description": "About the Team\nThe Cooperative AI team is scaling OpenAI with OpenAI. We are building an AI powered knowledge system that evolves and learns as our products, systems and customers evolve. We leverage our state of the art models, technologies, and products (some external, some still in the lab) to assist or completely automate robust operations supporting both internal and external customers. We support OpenAI customers and internal partners globally, powering systems from customer support to integrity to product insights. We are a self-contained multi-disciplinary team, who enjoy a lightning fast feedback loop with customers at scale, some of whom sit just a few pods away. We iterate fast, and engineer for reliable long-term impact. We're constantly looking for the similarities and patterns in different types of work, and focus on building simple primitives, to apply world class knowledge to many domains.\n\n\nThe work of this team exemplifies use of OpenAI technologies. We build systems so everyone can see the leverage that is possible with well designed AI-based implementations. We do this by working through internal use cases focused on Customers (specifically knowledge systems, automation systems, and automated agent systems) to prove impact, then we scale.\n\n\nAbout the Role\n\nWe\u2019re looking for Software Engineers who're passionate about blending production-ready platform architecture with new tech and new paradigms. You\u2019ll push the boundaries of OpenAI\u2019s newest technologies to enable interactions and automations that are not only functional, but delightful. We value proactive, customer-centric engineers who can get the foundational details right (data models, architecture, security) in service of enabling great products.\n\n In this role, you will:\n\n - Own the end-to-end development lifecycle for new platform capabilities and integrations with other systems\n\n - Collaborate closely with engineers, data scientists, information systems architects, and internal customers to understand their problems and implement effective solutions\n\n - Work with product and research team to share relevant feedback and iterate on applying their latest models\n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "668e37dacc425004",
       "source": "lever",
       "company": "Fullscript",
@@ -2577,6 +2562,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "b941e2b8302cbc9c",
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Cooperative AI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9",
+      "posted_at": "2026-10-05T23:10:27.181+00:00",
+      "term": null,
+      "description": "About the Team\nThe Cooperative AI team is scaling OpenAI with OpenAI. We are building an AI powered knowledge system that evolves and learns as our products, systems and customers evolve. We leverage our state of the art models, technologies, and products (some external, some still in the lab) to assist or completely automate robust operations supporting both internal and external customers. We support OpenAI customers and internal partners globally, powering systems from customer support to integrity to product insights. We are a self-contained multi-disciplinary team, who enjoy a lightning fast feedback loop with customers at scale, some of whom sit just a few pods away. We iterate fast, and engineer for reliable long-term impact. We're constantly looking for the similarities and patterns in different types of work, and focus on building simple primitives, to apply world class knowledge to many domains.\n\n\nThe work of this team exemplifies use of OpenAI technologies. We build systems so everyone can see the leverage that is possible with well designed AI-based implementations. We do this by working through internal use cases focused on Customers (specifically knowledge systems, automation systems, and automated agent systems) to prove impact, then we scale.\n\n\nAbout the Role\n\nWe\u2019re looking for Software Engineers who're passionate about blending production-ready platform architecture with new tech and new paradigms. You\u2019ll push the boundaries of OpenAI\u2019s newest technologies to enable interactions and automations that are not only functional, but delightful. We value proactive, customer-centric engineers who can get the foundational details right (data models, architecture, security) in service of enabling great products.\n\n In this role, you will:\n\n - Own the end-to-end development lifecycle for new platform capabilities and integrations with other systems\n\n - Collaborate closely with engineers, data scientists, information systems architects, and internal customers to understand their problems and implement effective solutions\n\n - Work with product and research team to share relevant feedback and iterate on applying their latest models\n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -3135,21 +3135,6 @@
       ]
     },
     {
-      "id": "f7a5206ff6a1371e",
-      "source": "lever",
-      "company": "Arc'teryx",
-      "title": "People Data Analyst Co-Op Student",
-      "location": "North Vancouver, BC (Corporate)",
-      "url": "https://jobs.lever.co/arcteryx.com/826dc4d8-f91e-4893-b8d6-56706194edfb",
-      "posted_at": "2026-09-15T17:13:22.330000+00:00",
-      "term": null,
-      "description": "Department: People & Culture\nReports to: Senior Data Analyst, People Analytics\nLocation: North Vancouver, BC - This role is primarily based out of our North Vancouver office, and is open to hybrid remote work\nWork Arrangement: Flexible, between in-office and home\nPay Range:$42,100 - $55,100; pay is dependent on year of study and related experience\u00a0\nDuration: Eight (8) months, Jan 4th, 2027 \u2013 August 13th, 2027\nHours Per Week: 40 hours per week, M-F\n\nYour Co-Op Opportunity at ARC\u2019TERYX:\nAs a People Data Analyst Co-op Student, you will join the Global People Analytics team to help transform people data into meaningful insights, clear stories, and practical intelligence for People & Culture partners. You will support exploratory analysis, data science opportunities, statistical analysis, and insight storytelling that helps teams better understand\u00a0the employee\u00a0experience and make more informed decisions with tools like Power BI, SQL, Python and Databricks. This is an exciting opportunity to learn how\u00a0people\u00a0analytics, people science, data storytelling, automation, and emerging AI tools come together in a fast-moving, purpose-driven organization.\u00a0\n\u00a0\nMeet Your Future Team:\nThe Global People Operations team provides Total Rewards, People Systems and People Analytics, Automation, and AI services. We play a critical role in scaling the People and Culture function and enabling the business. We partner across all areas to evolve\u00a0people\u00a0practices and\u00a0maintain\u00a0strong alignment with the needs of our growing, global organization.\u00a0\n\nIf you were a People Data Analyst Co-Op Student now, here are some of the core activities you would be doing:\nApplying statistical methods and data science techniques to explore workforce data, identify trends, patterns, outliers, and relationships.\nContributing to advanced analytical use cases, such as predictive modeling, segmentation, correlation analysis, and early hypothesis testing to explore emerging workforce questions.\u00a0\nExperimenting with AI and automation tools to make analytics discovery faster, clearer, and more engaging.\u00a0\nTranslating data findings into clear, compelling visual stories that make workforce insights accessible.\u00a0\nAssisting\u00a0with research design and insight development, including framing questions, reviewing relevant context, testing hypotheses, and translating findings into practical recommendations.\u00a0\nLearning how to work responsibly with\u00a0workforce \u00a0data, including privacy, fairness, quality, and trust.\u00a0\n\nHere are some of the things you will learn by the end of your Co-Op placement:\nYou will gain hands-on experience building end-to-end data pipelines and a predictive machine learning model using industry-leading cloud technologies including Azure, Databricks, and Power BI.\nYou will develop a strong understanding of how people analytics drives strategic workforce decisions, from automating data processes to delivering executive-level insights that influence how an organization attracts, retains, and develops its people.\nYou will leave with practical experience across the full analytics lifecycle. From raw data ingestion and modelling to stakeholder-facing dashboards and recommendations, all within a large-scale HR systems transformation.\n\u00a0\nAre you our next People Data Analyst Co-Op Student?\nYou are currently enrolled in a co-op eligible program in data science, statistics, business analytics, computer science, psychology, economics, HR, or a related field.\u00a0\nYou are curious about people, data, and the stories hidden inside numbers and patterns.\u00a0\nYou are comfortable applying statistical methods and data science techniques to predict outcomes, detect patterns, and translate findings into clear, actionable recommendations for business stakeholders.\nYou have some experience with statistics, Excel, Power BI, SQL, Python, R, or another tool for exploring and analyzing data.\u00a0\nYou enjoy asking \u201cwhy,\u201d testing ideas, and using data to discover what might be happening beneath the surface.\u00a0\nYou can turn analysis into clear visuals, notes, or simple stories that help others understand what matters.\u00a0\nYou enjoy learning new tools, experimenting, solving problems, and building confidence through feedback.\u00a0\nYou are thoughtful with sensitive information and understand why privacy, fairness, and trust matter when working with\u00a0people\u00a0data.\u00a0\nYour passion for your work is paralleled by your passion for getting outside and living it.\u00a0\n\u00a0\nCompensation:\u00a0\nThe salary range for this role is CAD $42,100 - $55,100; Individual pay is determined by factors such as program of study, year of study, job-related skills, and relevant experience.\u00a0\n\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "71e1910f1109da3b",
       "source": "greenhouse",
       "company": "Instalily AI",
@@ -3294,6 +3279,21 @@
       "posted_at": "2026-08-24T21:09:16-04:00",
       "term": null,
       "description": "Established in 2004, we are a tech pioneer offering world-class adult entertainment and games on some of the internet\u2019s safest and most popular platforms. With the support of an international team of dynamic and collaborative innovators, we are on a mission to enable safe user experiences and empower our communities by celebrating diversity, inclusion, and expression \u2014 all while maintaining robust trust-and-safety protocols.&nbsp; We embrace the best of both worlds! Local talent can thrive in our collaborative office space with the flexibility of a hybrid work environment, while remote team members play an integral role in shaping our dynamic culture from afar. We have offices in Montreal (Quebec), Austin (Texas) and Nicosia (Cyprus).&nbsp; *A select number of positions require full-time in office attendance* We\u2019re seeking a motivated, senior-level security professional to lead our Email &amp; Collaboration Security program. Reporting to the Infrastructure Security Manager, this individual contributor role will drive the development, implementation, and maintenance of DLP and email governance standards. You\u2019ll need to be a self-starter who can identify security gaps, develop solutions, and collaborate across teams\u2014with support from leadership and peers. What you\u2019ll be doing: &nbsp; Developing messaging &amp; collaboration security standards and guidelines. Manage security policies for various Email security and DLP solutions. Manage and maintain email security and DLP tools. Work closely with various teams (e.g., SOC, Systems, Compliance) to implement security measures and ensure consistent application of security policies. Maintain comprehensive documentation of email &amp; collaboration security configurations, policies, and procedures. Provide regular reports on security posture and key performance indicators (KPIs).&nbsp; What you\u2019ll need to be successful: &nbsp; Must Haves: &nbsp; 5+ years of professional experience in a dedicated security role Proven experience managing email security appliances in a high-volume environment University degree in Information Security, Computer Science, or equivalent. In-depth knowledge of email security principles, protocols, and technologies (e.g., DKIM, DMARC, SPF). Hands-on experience configuring and managing email security appliances and tools from major vendors (e.g., Proofpoint, Abnormal, Sophos, Barracuda, Cisco). Hands-on experience configuring and managing DLP solutions across email, instant messaging and cloud storage/sharing. Experience scripting and parsing information in Python/BASH/GoLang&nbsp; Nice to Have: &nbsp; Security Certifications: CISSP, CISM, CCSP, etc&nbsp; As an equal opportunity employer, we celebrate diversity and are committed to creating an inclusive environment for all employees In this role you may be exposed to adult content &nbsp;",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "f7a5206ff6a1371e",
+      "source": "lever",
+      "company": "Arc'teryx",
+      "title": "People Data Analyst Co-Op Student",
+      "location": "North Vancouver, BC (Corporate)",
+      "url": "https://jobs.lever.co/arcteryx.com/826dc4d8-f91e-4893-b8d6-56706194edfb",
+      "posted_at": "2026-09-15T17:13:22.330000+00:00",
+      "term": null,
+      "description": "Department: People & Culture\nReports to: Senior Data Analyst, People Analytics\nLocation: North Vancouver, BC - This role is primarily based out of our North Vancouver office, and is open to hybrid remote work\nWork Arrangement: Flexible, between in-office and home\nPay Range:$42,100 - $55,100; pay is dependent on year of study and related experience\u00a0\nDuration: Eight (8) months, Jan 4th, 2027 \u2013 August 13th, 2027\nHours Per Week: 40 hours per week, M-F\n\nYour Co-Op Opportunity at ARC\u2019TERYX:\nAs a People Data Analyst Co-op Student, you will join the Global People Analytics team to help transform people data into meaningful insights, clear stories, and practical intelligence for People & Culture partners. You will support exploratory analysis, data science opportunities, statistical analysis, and insight storytelling that helps teams better understand\u00a0the employee\u00a0experience and make more informed decisions with tools like Power BI, SQL, Python and Databricks. This is an exciting opportunity to learn how\u00a0people\u00a0analytics, people science, data storytelling, automation, and emerging AI tools come together in a fast-moving, purpose-driven organization.\u00a0\n\u00a0\nMeet Your Future Team:\nThe Global People Operations team provides Total Rewards, People Systems and People Analytics, Automation, and AI services. We play a critical role in scaling the People and Culture function and enabling the business. We partner across all areas to evolve\u00a0people\u00a0practices and\u00a0maintain\u00a0strong alignment with the needs of our growing, global organization.\u00a0\n\nIf you were a People Data Analyst Co-Op Student now, here are some of the core activities you would be doing:\nApplying statistical methods and data science techniques to explore workforce data, identify trends, patterns, outliers, and relationships.\nContributing to advanced analytical use cases, such as predictive modeling, segmentation, correlation analysis, and early hypothesis testing to explore emerging workforce questions.\u00a0\nExperimenting with AI and automation tools to make analytics discovery faster, clearer, and more engaging.\u00a0\nTranslating data findings into clear, compelling visual stories that make workforce insights accessible.\u00a0\nAssisting\u00a0with research design and insight development, including framing questions, reviewing relevant context, testing hypotheses, and translating findings into practical recommendations.\u00a0\nLearning how to work responsibly with\u00a0workforce \u00a0data, including privacy, fairness, quality, and trust.\u00a0\n\nHere are some of the things you will learn by the end of your Co-Op placement:\nYou will gain hands-on experience building end-to-end data pipelines and a predictive machine learning model using industry-leading cloud technologies including Azure, Databricks, and Power BI.\nYou will develop a strong understanding of how people analytics drives strategic workforce decisions, from automating data processes to delivering executive-level insights that influence how an organization attracts, retains, and develops its people.\nYou will leave with practical experience across the full analytics lifecycle. From raw data ingestion and modelling to stakeholder-facing dashboards and recommendations, all within a large-scale HR systems transformation.\n\u00a0\nAre you our next People Data Analyst Co-Op Student?\nYou are currently enrolled in a co-op eligible program in data science, statistics, business analytics, computer science, psychology, economics, HR, or a related field.\u00a0\nYou are curious about people, data, and the stories hidden inside numbers and patterns.\u00a0\nYou are comfortable applying statistical methods and data science techniques to predict outcomes, detect patterns, and translate findings into clear, actionable recommendations for business stakeholders.\nYou have some experience with statistics, Excel, Power BI, SQL, Python, R, or another tool for exploring and analyzing data.\u00a0\nYou enjoy asking \u201cwhy,\u201d testing ideas, and using data to discover what might be happening beneath the surface.\u00a0\nYou can turn analysis into clear visuals, notes, or simple stories that help others understand what matters.\u00a0\nYou enjoy learning new tools, experimenting, solving problems, and building confidence through feedback.\u00a0\nYou are thoughtful with sensitive information and understand why privacy, fairness, and trust matter when working with\u00a0people\u00a0data.\u00a0\nYour passion for your work is paralleled by your passion for getting outside and living it.\u00a0\n\u00a0\nCompensation:\u00a0\nThe salary range for this role is CAD $42,100 - $55,100; Individual pay is determined by factors such as program of study, year of study, job-related skills, and relevant experience.\u00a0\n\u00a0\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -20398,6 +20398,25 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "8601bdb2237fc021",
+      "source": "simplify",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
+      "posted_at": "2026-10-10T22:07:37+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
       ],
       "level": "intern",
       "countries": [
