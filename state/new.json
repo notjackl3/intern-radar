@@ -1,17 +1,337 @@
 [
   {
-    "id": "26716a54990d0855",
-    "source": "greenhouse",
-    "company": "Instacart",
-    "title": "Software Engineer II, CRM & SEO",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "url": "https://instacart.careers/job/?gh_jid=8244914",
-    "posted_at": "2026-10-01T12:24:52-04:00",
-    "term": null,
-    "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Marketing Enablement &amp; Technology (MET) team sits within Instacart's Marketing organization, building the systems, data pipelines, and platforms that power how Instacart markets, measures, and grows. Operating at the intersection of Marketing, Product, and Engineering, we own the platforms behind organic search visibility, campaign feeds, audience targeting, event pipelines, and QA automation. We're seeking a Software Engineer II who will build across two of our highest-leverage growth surfaces: Technical Search Visibility (SEO) and CRM Enablement. On the SEO side, you'll ship full-stack features that improve Instacart's search engine and AI answer engine visibility across millions of web pages and drive organic traffic. On the CRM side, you'll build and evolve the componentized email system and execution tooling that gets lifecycle campaigns from brief to send across email, push, SMS, and in-app. You'll own features from build through rollout, contribute to technical decisions, and partner closely with Marketing and Product to turn growth requirements into scalable, testable customer experiences. This is a hands-on role that spans both pods. You'll move between organic-traffic engineering and CRM execution tooling, so we're looking for someone who's comfortable being a full-stack generalist and going deep in whichever surface the work calls for. About the Job&nbsp; Design, build, and ship high-quality full-stack features that enhance search engine visibility, AI answer engine performance, and organic traffic, with a strong sense of urgency and ownership. Build and evolve a modular React email component library that compiles to secure, client-safe HTML with simple, reusable abstractions. Develop responsive, accessible HTML/CSS emails that render consistently across clients, devices, and dark mode, and enhance our Next.js compilation pipeline (preview, compile, validate, export) for speed, reliability, and observability. Contribute to data pipelines for SEO and AEO ingestion, transformation, and delivery, keeping the system healthy as it grows. Own execution of dynamic CRM campaigns (email, push, in-app) using structured blocks, templating languages, and JSON/YAML config, integrating with ESPs like Braze and REST APIs/webhooks for personalization and targeting with secure data handling. Build automation and internal tooling that cuts QA and setup time across both surfaces, from SEO experimentation to CRM deep-link and token coverage. Apply technical best practices to deliver performant, observable, and cost-aware code that improves search rankings, LLM visibility, campaign rendering fidelity, and user experience. Troubleshoot rendering and logic issues across devices and states, leading triage, root-cause analysis, and system-level fixes. Collaborate with product managers, designers, and marketing partners to translate user needs into technical requirements, surface trade-offs, and deliver on shared goals. About You Minimum Qualifications 3-5 years of software engineering experience with proficiency in React, TypeScript, Ruby, Python, PostgreSQL, and SQL. Demonstrated ability to build and launch complete full-stack features with minimal oversight, from development through experimentation and production rollout. Hands-on use of React and Next.js to componentize UI and email and compile to production HTML with scalable abstractions. Expertise in HTML/CSS and responsive email development, with strong rendering fidelity, performance, and accessibility across clients, devices, and dark mode. Experience with distributed systems and data engineering, designing pipelines, optimizing schemas, and ensuring data quality, with exposure to Airflow or dbt. Comfort building and testing REST API integrations (JSON, webhooks) for personalization and orchestration, including hands-on API testing and validation, with secure, privacy-compliant data handling. Ability to write performant code and improve observability through logging and metrics, identifying and resolving bottlenecks as they arise. Strong product mindset with the ability to translate user needs into technical requirements and understand how your work impacts business metrics. Effective communicator who can collaborate across marketing, product, creative, and engineering partners to align on requirements and deliver solutions. Systems mindset: you improve the whole ecosystem you work in, leave code and docs better than you found them, and surface technical debt proactively Preferred Qualifications Experience with SEO/AEO initiatives or familiarity with SEO best practices, answer engine optimization for LLMs, structured data (Schema.org), search engine crawling and indexing, and Core Web Vitals. Familiarity with how AI-powered search engines and LLMs consume and surface content, with curiosity about optimizing for AI answer gen",
+    "id": "b50f934217b09eca",
+    "source": "simplify",
+    "company": "AGCO",
+    "title": "Embedded Software Engineer Intern",
+    "location": "Hesston, KS; Jackson, MN",
+    "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors",
+    "posted_at": "2026-10-16T22:40:02+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "614043956ba59a11",
+    "source": "simplify",
+    "company": "Impulse Space",
+    "title": "Enterprise Software Engineer Intern",
+    "location": "Redondo Beach, CA",
+    "url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq",
+    "posted_at": "2026-10-16T22:38:25+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d8a52e5b0b6cdb9b",
+    "source": "simplify",
+    "company": "Boston Scientific",
+    "title": "AI/Data Science Intern",
+    "location": "Maple Grove, MN",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
+    "posted_at": "2026-10-16T22:38:24+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "c17f4865ae613c7c",
+    "source": "simplify",
+    "company": "Veeam Software",
+    "title": "Data & Analytics Engineering Intern",
+    "location": "Alpharetta, GA",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
+    "posted_at": "2026-10-16T22:29:17+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0732c93587ccd314",
+    "source": "simplify",
+    "company": "Wellmark",
+    "title": "Software Engineer Intern - Technology Health Plan",
+    "location": "Des Moines, IA",
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218",
+    "posted_at": "2026-10-16T22:22:03+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "2a662eea39ad4ef4",
+    "source": "simplify",
+    "company": "Electronic Arts",
+    "title": "AI/ML Software Engineer Co-op Intern",
+    "location": "Vancouver, BC, Canada",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
+    "posted_at": "2026-10-16T22:11:44+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Master's"
+    ],
     "level": "intern",
     "countries": [
       "ca"
+    ]
+  },
+  {
+    "id": "8d0eb20398d77eb3",
+    "source": "simplify-newgrad",
+    "company": "T-Mobile",
+    "title": "Associate Engineer - Software - Mobile App Development",
+    "location": "Frisco, TX; Bellevue, WA; Overland Park, KS",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "5ca8663fb353cc43",
+    "source": "simplify",
+    "company": "Ryan",
+    "title": "Software Development Intern",
+    "location": "Plano, TX",
+    "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "fdb451bef3b81ee1",
+    "source": "simplify",
+    "company": "Ryan",
+    "title": "Software Development Intern",
+    "location": "Plano, TX",
+    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "7be9fa149895bba9",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Aurora, CO",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "dc725e5bd731c31b",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Aurora, CO",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "bf158ff9df2e15c0",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Boulder, CO",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "6fe64bf9a4e31f62",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Software Engineering Intern",
+    "location": "Colorado Springs, CO",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "31734a79adaf2133",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Colorado Springs, CO",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "7ad5ade1d034d515",
+    "source": "simplify-newgrad",
+    "company": "Northrop Grumman",
+    "title": "Associate Software Engineer - Pathways",
+    "location": "Dulles, VA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0da31d5eb39133d6",
+    "source": "simplify-newgrad",
+    "company": "Morningstar",
+    "title": "Associate Software Engineer",
+    "location": "Toronto, ON, Canada; Chicago, IL",
+    "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "ca",
+      "us"
+    ]
+  },
+  {
+    "id": "8c652a1a20fb3328",
+    "source": "simplify",
+    "company": "General Dynamics Information Technology",
+    "title": "Quality Assurance Associate Intern",
+    "location": "Falls Church, VA",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Quality-Assurance-Associate--Intern_RQ230538",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "880e9df8f49c3bef",
+    "source": "simplify",
+    "company": "American Family Insurance Group",
+    "title": "Data Engineering / Data Science Intern",
+    "location": "Madison, WI",
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "99cada4e44ec7d14",
+    "source": "simplify-newgrad",
+    "company": "Aderant",
+    "title": "Associate Software Engineer",
+    "location": "Atlanta, GA",
+    "url": "https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484",
+    "posted_at": "2026-10-12T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
     ]
   }
 ]
