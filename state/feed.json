@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:01:09.937556+00:00",
+  "generated_at": "2026-10-18T15:53:13.692811+00:00",
   "open_count": 1491,
   "new_count": 0,
   "tier": "full",
@@ -42,6 +42,20 @@
       "posted_at": null,
       "term": null,
       "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "4ec71f69b68192e9",
+      "source": "workday",
+      "company": "Manulife",
+      "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
+      "location": "Boston, Massachusetts",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
       "countries": [
         "us"
       ]
@@ -103,15 +117,15 @@
       ]
     },
     {
-      "id": "4ec71f69b68192e9",
+      "id": "d4a90f33bb912479",
       "source": "workday",
-      "company": "Manulife",
-      "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
-      "location": "Boston, Massachusetts",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
+      "company": "Bank of Montreal (External)",
+      "title": "Software Developer ( Early Career )-15",
+      "location": "Irving, TX, USA",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
       "posted_at": null,
       "term": null,
-      "level": "intern",
+      "level": "newgrad",
       "countries": [
         "us"
       ]
@@ -184,20 +198,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "d4a90f33bb912479",
-      "source": "workday",
-      "company": "Bank of Montreal (External)",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX, USA",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -471,36 +471,6 @@
       ]
     },
     {
-      "id": "b12104a7206fa345",
-      "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
-      "posted_at": "2026-08-19T17:27:07.198000+00:00",
-      "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a05cb5d10721a30b",
-      "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Software Engineering Intern (January 2027)",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
-      "posted_at": "2026-10-16T15:15:29.033000+00:00",
-      "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe\u2019re on the hunt for a top-tier\u00a0Software Engineering Intern\u00a0who will assist in developing and maintaining high-performance backend services and infrastructure. You will work closely with cross-functional teams such as satellite operations, ground stations and software development to build scalable applications that support the development, testing, and operation of our satellites and mission control software.\u00a0You will be trusted from day-one to get hands on with the breadth of our software stack.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "d93cfe3cd80f0378",
       "source": "ashby",
       "company": "Bree",
@@ -540,6 +510,36 @@
       "posted_at": "2026-09-04T19:53:44.887+00:00",
       "term": null,
       "description": "ABOUT BREE\n\nBree is a consumer finance platform that brings better, faster, and cheaper financial services to over half the Canadian population who live paycheck to paycheck. We operate in a huge, but overlooked market in a country with the least amount of financial technology innovation in the developed world. Our first act is to become the cheapest and best provider of short-term credit to the 20 million people in Canada who live paycheck to paycheck.\n\nMore than 800,000 Canadians have already signed up with Bree and we believe we are just scratching the surface. We are in an exciting place where we have product market fit, explosive growth, and a clear path to becoming one of the most important FinTechs in Canada.\n\n\n\n\nABOUT THE ROLE\n\nWe\u2019re looking for a Product Engineering Co-op to work on real customer-facing features across our backend and mobile apps. You\u2019ll partner with engineers, Product, Design, and CX to understand the problem, build a scoped solution, test it carefully, and learn from the outcome after release.\n\nThis is an 8-month co-op term. (January - August 2027)\n\nAt Bree, co-ops are full members of the Engineering team. You\u2019ll work on the same customer and business problems as full-time engineers, ship real production work, and take part in design discussions, code reviews, testing, and releases. We pair that responsibility with close mentorship, clear context, and projects scoped for you to make a meaningful impact from day one.\n\n\n\n\nWHAT YOU'LL DO\n\n - Build full-stack features with mentorship, from understanding the problem through implementation, testing, and release.\n\n - Work across TypeScript and Node.js backend services and React Native frontends, with support from the team as you learn the stack.\n\n - Use AI development tools to move faster, while validating the code and user experience before it ships.\n\n - Collaborate with Design, Product, and CX on customer-facing improvements, then help review feedback after release.\n   \n   \n\n\nWHAT YOU'LL NEED\n\n - Currently enrolled in a Computer Science, Software Engineering, or related post-secondary programme, and available for the full 8-month term.\n\n - Experience building software through coursework, personal projects, internships, open source, or student teams. A GitHub profile or portfolio is welcome.\n\n - Foundational experience with JavaScript or TypeScript and interest in learning Node.js, React, React Native, or APIs.\n\n - Basic comfort with Git, debugging, and testing. Experience with AWS or serverless systems is helpful, but not required.\n\n - An interest in product thinking: you are curious about users, can explain tradeoffs, and want to understand why a feature matters.\n\n - Clear communication, humility, and a willingness to learn in a fast-moving, collaborative environment.\n\n - A thoughtful approach to using AI: speed matters, but you take ownership for reviewing, testing, and improving what you ship.\n\n\n\n\nNICE TO HAVE\n\n - Exposure to mobile app development, React Native, or release workflows.\n\n - Exposure to logging, performance debugging, or analytics.\n\n - Interest in experiments, event tracking, or simple A/B tests to validate features.\n\n - Contributions to OSS or public write-ups about projects you\u2019ve shipped.\n\n\n\n\nBENEFITS\n\n - Compensation: $50-$70/hour CAD, based on experience and interview performance\n\n - Offer Matching: We're open to matching competing offers\n\n - Perks: $250 monthly lunch stipend, $150 monthly transportation stipend to help with commuting to the office, in-office amenities\n\n - Impact: Work on real production features, with mentorship and review from experienced engineers.\n\n - Growth: Regular mentorship, feedback, and opportunities to learn from engineers across the team.\n\n - Path to Full-Time: Opportunity for new grad full-time employment offer\n\n\n\nLocation: 2 Bloor St W, Unit 2602, Toronto ON, M4W 3E2 (Subway connected directly to the Yonge/Bloor subway station)\n\nHybrid schedule. In-office days are Monday, Wednesday, and Thursday \u2014 we also throw in free lunch if you come in on Tuesdays and Fridays.\n\n - We'll be fully remote in January and most of February, move to 1 day in-office through March, then return to 3 days in-office starting April 2027.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b12104a7206fa345",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Embedded Software Engineering Intern (January 2027) (4 months)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "posted_at": "2026-08-19T17:27:07.198000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe invest heavily to deliver the best products to our customers, and so we\u2019re on the hunt for a top-tier Embedded Software Engineering Intern who will have the opportunity to work on a variety of tasks, including satellite on-board software, payload software, IoT modules and ground equipment.\u00a0\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a05cb5d10721a30b",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Software Engineering Intern (January 2027)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
+      "posted_at": "2026-10-16T15:15:29.033000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe\u2019re on the hunt for a top-tier\u00a0Software Engineering Intern\u00a0who will assist in developing and maintaining high-performance backend services and infrastructure. You will work closely with cross-functional teams such as satellite operations, ground stations and software development to build scalable applications that support the development, testing, and operation of our satellites and mission control software.\u00a0You will be trusted from day-one to get hands on with the breadth of our software stack.\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -785,20 +785,6 @@
       ]
     },
     {
-      "id": "e4d8928e65861aa1",
-      "source": "workday",
-      "company": "Marvell (Careers 2)",
-      "title": "Test Engineering Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5b9366c7ed37472f",
       "source": "workday",
       "company": "Marvell (Careers 2)",
@@ -847,20 +833,6 @@
       "title": "Firmware Engineer Intern, MS - Summer 2027",
       "location": "Santa Clara, CA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9ec83d6bd53d14f7",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "Test Engineering Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1107,104 +1079,6 @@
       ]
     },
     {
-      "id": "edb3648b056eba8c",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a2bbf0b96bef27b3",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire d\u00e9veloppeur de mat\u00e9riel de formation (simulateur de vol) /  Training Material Developer (Flight Simulator)\u00a0",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "edbae0fbe144d759",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "58f6060c7501d311",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - Sp\u00e9cialiste de donn\u00e9es",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "5049bb3d78896077",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Software Developer Coop",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "d6832476eef63f28",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-112 Stagiaire d\u00e9veloppeur(se) logiciel \u2013 Environnement immersif",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85312f8265585656",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "7dfc9ab3913520de",
       "source": "workday",
       "company": "Motorola Solutions",
@@ -1317,6 +1191,118 @@
       ]
     },
     {
+      "id": "edb3648b056eba8c",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a2bbf0b96bef27b3",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire d\u00e9veloppeur de mat\u00e9riel de formation (simulateur de vol) /  Training Material Developer (Flight Simulator)\u00a0",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "edbae0fbe144d759",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "58f6060c7501d311",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire - Sp\u00e9cialiste de donn\u00e9es",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "5049bb3d78896077",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Software Developer Coop",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d6832476eef63f28",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-112 Stagiaire d\u00e9veloppeur(se) logiciel \u2013 Environnement immersif",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85312f8265585656",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "2daefcc656ec1952",
+      "source": "workday",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "6989ecfb551b6c15",
       "source": "workday",
       "company": "NVIDIA",
@@ -1384,6 +1370,20 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "4e14d25cd31dac27",
+      "source": "workday",
+      "company": "Royal Bank of Canada (Global)",
+      "title": "2027 Winter \u2013 GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
+      "location": "TORONTO, Ontario, Canada",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1684,20 +1684,6 @@
       ]
     },
     {
-      "id": "4e14d25cd31dac27",
-      "source": "workday",
-      "company": "Royal Bank of Canada (Global)",
-      "title": "2027 Winter \u2013 GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
-      "location": "TORONTO, Ontario, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "f1c987020398ba92",
       "source": "ashby",
       "company": "Solink",
@@ -1707,6 +1693,227 @@
       "posted_at": "2026-10-14T19:36:35.405+00:00",
       "term": null,
       "description": "SOFTWARE ENGINEER CO-OP, APPS\n\n\nLocation: Ottawa, ON | Hybrid\nReports To: Xiaokun Xu, \nTerm: Jan 2027\nPay band: 55,000k-68,000k\n\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Core Applications and Data team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n   \n   Nice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\n\n\n\nWHY SOLINK?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun.\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Reference Checks\n\n 4. Offer & onboarding \ud83c\udf89\n    \n    Please note: this is subject to change at any point in the recruitment process based on the needs of the business.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume via our [Careers Page https://solink.com/careers/] or apply through your school co-op portal. Let us know what excites you about this role, and how you\u2019d help move Solink forward.\n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "07768ec774e22b13",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Massachusetts - Boston",
+      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "posted_at": "2025-08-20T21:39:30.830000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b10cfadd87e3f8ef",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "California - Pleasanton",
+      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
+      "posted_at": "2025-08-20T21:41:24.921000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "2420fd7f9955aff7",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "location": "Ohio - Columbus",
+      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
+      "posted_at": "2025-08-20T21:40:56.551000+00:00",
+      "term": null,
+      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "6d317db8f04d7ae7",
+      "source": "lever",
+      "company": "Veeva Systems",
+      "title": "Associate Software Engineer in Test",
+      "location": "Canada - Toronto",
+      "url": "https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1",
+      "posted_at": "2026-10-02T19:12:51.579000+00:00",
+      "term": null,
+      "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.\n\u00a0\nAt the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a\u00a0public benefit corporation\u00a0(PBC), legally bound to balancing the interests of customers, employees, society, and investors.\n\u00a0\nAs a\u00a0Work Anywhere\u00a0company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.\n\u00a0\nJoin us in\u00a0transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.\n\n\nThe Role\nWe're hiring Associate Software Engineers in Test to work at Veeva, working on various products in the Life Sciences industry encompassing the fields of pharmaceuticals, biotechnology, and medical devices.\nAs part of our Quality Assurance and Release Engineering team, you'll be responsible for functional and automation testing of software, ensuring customer success with every release.\nGraduates or anyone curious about Quality Engineering can apply. Our onboarding program provides a dedicated buddy to guide you through the process, and our collaborative environment is the perfect place to enhance your skills alongside like-minded engineers.\n",
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a521f9e8a3d4937b",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6142432004",
+      "posted_at": "2026-09-02T20:47:41-04:00",
+      "term": null,
+      "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "5e8b0cb4b702cf60",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
+      "posted_at": "2026-08-05T07:55:21-04:00",
+      "term": null,
+      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b662b8c3dd28c8c9",
+      "source": "greenhouse",
+      "company": "Sony Interactive",
+      "title": "Software Engineer II DevEx",
+      "location": "United States, San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6211665004",
+      "posted_at": "2026-10-01T20:48:32-04:00",
+      "term": null,
+      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II DevEx &nbsp; Location: San Mateo (Hybrid) DevEx team builds simulation tools that help PlayStation engineers develop, test, and troubleshoot software in a reliable, repeatable environment. These tools shorten feedback cycles, support earlier validation, and make complex development workflows easier to use. &nbsp; As a Software Engineer II, you will design and deliver capabilities that improve the accuracy, reliability, and usability of our simulation environment. Your work will include simulator functionality, integration with development and test workflows, automation, diagnostics, and the tools engineers use to configure and interact with the environment. &nbsp; You will own well-defined features from design through rollout, collaborate with engineering and quality teams across PlayStation, and turn recurring development and testing challenges into reliable, maintainable product improvements. &nbsp; &nbsp; What&nbsp; you\u2019ll do: Design, implement, test, and document production-quality C++ features for simulation and developer tooling. &nbsp; Build and maintain software abstractions, simulated services, and client/server integrations that reproduce important system behaviors in a development environment. &nbsp; Improve core developer workflows such as environment setup, simulator startup, configuration, input handling, debugging, log collection, and failure recovery. &nbsp; Improve and contribute to build, dependency, packaging, and release workflows for the simulation platform using modern build tools, dependency managers, containers, and CI/CD pipelines. &nbsp; Create unit, integration, and end-to-end tests that catch regressions early and move high-value validation into continuous integration. &nbsp; Diagnose failures that cross process, library, container, and platform boundaries; produce clear root-cause analysis and durable fixes. &nbsp; Contribute to shared libraries and developer-facing interfaces including versioning, compatibility, migration guidance, and coordination with consuming teams. &nbsp; Write architecture notes, setup guides, troubleshooting steps, and release documentation that developers can use without direct support from the team. &nbsp; Partner with engineers, QE, product owners, and adjacent platform teams to define integration contracts, sequence cross-team changes, and deliver complete features. &nbsp; Participate in design and code reviews, give actionable feedback, and improve the team\u2019s engineering practices through the work you ship. &nbsp; &nbsp; What&nbsp; we\u2019re looking for: Bachelor\u2019s degree in Computer Science, Computer Engineering, or a related field, or equivalent practical experience. &nbsp; 4+ years of professional software-development experience building systems software, platform software, developer tools, infrastructure or similar technical products. &nbsp; Strong modern C++ development skills and practical experience developing and debugging software on Linux. &nbsp; Experience debugging multi-process, client/server, or platform-integrated software using logs, traces, debuggers, and reproducible test cases. &nbsp; Experience building automated tests and integrating them into CI/CD workflows. &nbsp; Working knowledge of build systems, dependency management, source control, and release practices for a multi-repository codebase. &nbsp; Ability to take a defined problem from technical design through implementation, validation, documentation, and rollout. &nbsp; Clear written and verbal communication, especially when coordinating interfaces or diagnosing issues across team boundaries. &nbsp; &nbsp; It would be a plus if you have: Experience with simulation, emulation, hardware abstraction, service virtualization, or comparable development environments. &nbsp; Experience with containerized development using Docker, dev containers, WSL, or comparable tooling. &nbsp; Familiarity with CMake, package-management tools, CI systems, collaborative source-control workflows, or cross-platform build toolchains. &nbsp; Experience designing or integrating IPC, client/server API\u2019s, shared libraries, or SDK\u2019s. &nbsp; Experience developing complex platform software or software for resource-constrained environments. &nbsp; Experience supporting developer tools as a product: gathering feedback, measuring friction, improving diagnostics, and simplifying onboarding. &nbsp; Working knowledge of one or more additional languages used in tooling or platform development, such as Python, Rust, JavaScript, or TypeScript. &nbsp; &nbsp; At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; In addition, this role is eligible for SIE\u2019s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click&nbsp; here to learn more. &nbsp; The estimated base pay range for this role is l",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "cca632aa1da7a3d8",
+      "source": "greenhouse",
+      "company": "Sony Interactive",
+      "title": "Software Engineer II/ Software Developer (Backend)",
+      "location": "Canada, Waterloo, ON",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145793004",
+      "posted_at": "2026-09-10T17:40:17-04:00",
+      "term": null,
+      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II, Backend Waterloo, ON Build what\u2019s next for players. We\u2019re a startup inside Sony PlayStation: fast-moving, experimental, and highly ambitious, while backed by the scale, resources, and trust of Sony Interactive Entertainment. We\u2019re building new mobile and web experiences that help gamers connect, discover, and play together in better ways. This is a rare opportunity to build at startup speed and deliver significant impact inside one of the largest gaming companies in the world. We are seeking a Software Backend Engineer to help design, build, and operate the services and data systems that power our new consumer experiences. &nbsp; Responsibilities Design, build, test, deploy, and operate reliable backend services and APIs for consumer applications across mobile and web. Contribute to backend architecture and technical decisions related to scalability, availability, consistency, latency, security, and cost. Design and maintain data models using relational and non-relational databases, caching systems, and asynchronous processing patterns. Build and maintain GraphQL and REST APIs that support mobile and web client experiences. Monitor and improve service performance, reliability, observability, and operational health. Partner with product managers, designers, and client engineers to translate product requirements into practical technical solutions. Participate in code reviews and share technical knowledge with other members of the engineering team. &nbsp; &nbsp; Requirements 3+ years of professional software development experience building backend services or applications. BS/MS degree in Computer Science, Software Engineering, or equivalent practical experience. Proficiency in server-side development (Node.js with TypeScript preferred). Experience with relational and non-relational databases, including data modelling, indexing, transactions, and performance optimization (PostgreSQL preferred). Experience designing, building, or integrating GraphQL and REST APIs. Familiarity with caching, message queues, event streams, or asynchronous processing systems. Understanding of cloud infrastructure, containerized services, CI/CD pipelines, and infrastructure as code. Experience working with production systems on AWS or another major cloud platform. Bonus Experience building social, community, gaming, or other consumer products. Understanding of real-time communication systems, including messaging, presence, notifications, and activity feeds. Experience working with social graphs, recommendation systems, content discovery services, or personalization platforms. Familiarity with trust and safety, content moderation, abuse prevention, or user-reporting systems. Previous experience at an early-stage startup or on a zero-to-one product team. &nbsp; At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; &nbsp; The estimated Ontario base pay range for this role is listed below. $119,400 &mdash; $169,400 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category. We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&nbsp; Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment. &nbsp;",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "0e07bb9021a2caf2",
+      "source": "greenhouse",
+      "company": "Sony Interactive",
+      "title": "Software Engineer II / Software Developer II (React Native)",
+      "location": "Canada, Waterloo, ON",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6134526004",
+      "posted_at": "2026-09-10T17:40:17-04:00",
+      "term": null,
+      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II / Software Developer II (React Native)&nbsp; &nbsp; Build what\u2019s next for players. We\u2019re a startup inside Sony PlayStation. Fast-moving, experimental, and highly ambitious. Backed by the scale, resources, and trust of Sony Interactive Entertainment. We\u2019re building new mobile and web experiences that help gamers connect, discover, and play together in better ways. This is a rare opportunity to design at startup speed and drive huge impact inside the largest gaming company in the world. We are seeking a Software Engineer II specializing in React Native and high-performance mobile development. In this role, you will design, build, and improve mobile experiences while contributing to the architecture, frameworks, and technical practices that support our applications. You will collaborate closely with engineers, product managers, designers, and researchers to deliver user interfaces that are performant, accessible, reliable, and delightful at scale. You will take ownership of meaningful features from development through release and production support. Responsibilities &nbsp; Design, build, test, release, and maintain mobile application features using React Native and modern JavaScript and TypeScript. Contribute to the evolution of frontend architecture, reusable components, development patterns, and technical standards. Partner with product managers, designers, and researchers to translate user experience requirements into practical, maintainable technical solutions. Write maintainable, well-tested code and contribute to code reviews, documentation, testing practices, and release processes. Investigate, diagnose, and resolve application defects, performance issues, and production incidents. Collaborate with the backend team to deliver reliable end-to-end experiences. &nbsp; &nbsp; Requirements 3+ years of professional software development experience, including experience building React Native applications or high-performance JavaScript and TypeScript applications. BS/MS degree in Computer Science, Software Engineering, or equivalent practical experience. Strong understanding of React Native, JavaScript, TypeScript, component architecture, state management, and mobile application development. Experience profiling, debugging, and optimizing frontend or mobile application performance. Understanding of cross-platform application architecture and communication between JavaScript and native modules. Experience delivering production-quality mobile applications using React Native. Experience building reusable UI components and maintainable frontend systems. Ability to independently deliver well-defined projects while collaborating effectively with engineers and cross-functional partners. Strong problem-solving, communication, and debugging skills. Passion for delivering high-quality user interfaces with excellent performance and usability. Bonus Experience building social, community, gaming, or other consumer products. Familiarity with VoIP, call dialing and ringing flows in Android/React Native Experience with accessibility, internationalization, and UI testing frameworks.&nbsp; Familiarity with CI/CD pipelines and modern build systems for frontend development. Previous experience at an early-stage startup or on a zero-to-one product team. At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; &nbsp; The estimated Ontario base pay range for this role is listed below. $115,500 &mdash; $173,300 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category. We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&nbsp; Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment. &nbsp;",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "8b5af961dac85fd0",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "70aad656eaeb6d79",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55205",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "7f43835be845a73b",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II, AI Platform",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5915056fcc02222c",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "ab52712060a1c140",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Firmware Engineer (Internship) - Vancouver",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b79a35d0605cda4d",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
+      "posted_at": "2026-09-23T16:03:03-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
       "level": "intern",
       "countries": [
         "ca"
@@ -1797,227 +2004,6 @@
       ]
     },
     {
-      "id": "07768ec774e22b13",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Massachusetts - Boston",
-      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
-      "posted_at": "2025-08-20T21:39:30.830000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\n\u00a0\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b10cfadd87e3f8ef",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "California - Pleasanton",
-      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
-      "posted_at": "2025-08-20T21:41:24.921000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2420fd7f9955aff7",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer - 2027 Start Dates",
-      "location": "Ohio - Columbus",
-      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
-      "posted_at": "2025-08-20T21:40:56.551000+00:00",
-      "term": null,
-      "description": "Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our website.\n\u00a0\nThe Role\nWe are hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program.\u00a0\n\u00a0\nWe believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer. \n",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6d317db8f04d7ae7",
-      "source": "lever",
-      "company": "Veeva Systems",
-      "title": "Associate Software Engineer in Test",
-      "location": "Canada - Toronto",
-      "url": "https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1",
-      "posted_at": "2026-10-02T19:12:51.579000+00:00",
-      "term": null,
-      "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.\n\u00a0\nAt the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a\u00a0public benefit corporation\u00a0(PBC), legally bound to balancing the interests of customers, employees, society, and investors.\n\u00a0\nAs a\u00a0Work Anywhere\u00a0company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.\n\u00a0\nJoin us in\u00a0transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.\n\n\nThe Role\nWe're hiring Associate Software Engineers in Test to work at Veeva, working on various products in the Life Sciences industry encompassing the fields of pharmaceuticals, biotechnology, and medical devices.\nAs part of our Quality Assurance and Release Engineering team, you'll be responsible for functional and automation testing of software, ensuring customer success with every release.\nGraduates or anyone curious about Quality Engineering can apply. Our onboarding program provides a dedicated buddy to guide you through the process, and our collaborative environment is the perfect place to enhance your skills alongside like-minded engineers.\n",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "8b5af961dac85fd0",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "70aad656eaeb6d79",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55205",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "7f43835be845a73b",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II, AI Platform",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5915056fcc02222c",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5e8b0cb4b702cf60",
-      "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
-      "posted_at": "2026-08-05T07:55:21-04:00",
-      "term": null,
-      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a521f9e8a3d4937b",
-      "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6142432004",
-      "posted_at": "2026-09-02T20:47:41-04:00",
-      "term": null,
-      "description": "Position Overview: As a Software Engineer II at Diligent, you\u2019ll take on a hands-on technical role in building secure, scalable, and high-performing serverless microservices using TypeScript on AWS. You\u2019ll contribute meaningfully to our mission of making governance effortless for our customers, working in a team of passionate and talented individuals that owns its services end to end\u2014from architecture and implementation to monitoring and continuous improvements. This role is ideal for a mid-level engineer who writes solid code and embraces AI-powered tools to work smarter and faster. &nbsp;You\u2019ll help shape architectural discussions, and scale modern development practices, including responsible use of AI in workflows. Key Responsibilities Design and implement secure, scalable, high-performing, yet simple solutions using AWS Serverless technology. These solutions should strive to be event-driven, highly observable, with infrastructure as code, and tightly leveraging AWS\u2019s ecosystem of services. Optimize your development and delivery experience in order to maximize your team\u2019s productivity and deploy continuously to production. Work in a collaborative environment where you regularly pair, plan, and execute tasks as a team and maintain a healthy development flow by adhering to Agile processes and driving iterative enhancements. Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment. Required Experience/Skills 3\u20135 years of professional software engineering experience in an agile, fast-paced environment. AI Tooling &amp; Practices: Uses AI to boost productivity, skilled in prompt engineering, and evaluates AI outputs responsibly (bias, cost, ethics). Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness). Cloud &amp; infrastructure basics: Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform). CI/CD mindset: Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling. Backend Proficiency: Builds RESTful APIs with Node.js/TypeScript, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL). Frontend familiarity: Experience using React or Angular for modern web interfaces. Collaboration &amp; communication: Comfortable discussing architectural decisions, documenting designs, and presenting technical ideas clearly. Pay Range $110,000 &mdash; $120,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered in New York, Diligent has offices in Washington D.C.,&nbsp; London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney. &nbsp;To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to&nbsp; work onsite at least 50% of the time. &nbsp;We believe that in-person engagement helps drive innovation, teamwork, and a strong sense of community. &nbsp; Diligent is proud to be an equal opportunity employer. We do not discriminate based on race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, regi",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b662b8c3dd28c8c9",
-      "source": "greenhouse",
-      "company": "Sony Interactive",
-      "title": "Software Engineer II DevEx",
-      "location": "United States, San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6211665004",
-      "posted_at": "2026-10-01T20:48:32-04:00",
-      "term": null,
-      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II DevEx &nbsp; Location: San Mateo (Hybrid) DevEx team builds simulation tools that help PlayStation engineers develop, test, and troubleshoot software in a reliable, repeatable environment. These tools shorten feedback cycles, support earlier validation, and make complex development workflows easier to use. &nbsp; As a Software Engineer II, you will design and deliver capabilities that improve the accuracy, reliability, and usability of our simulation environment. Your work will include simulator functionality, integration with development and test workflows, automation, diagnostics, and the tools engineers use to configure and interact with the environment. &nbsp; You will own well-defined features from design through rollout, collaborate with engineering and quality teams across PlayStation, and turn recurring development and testing challenges into reliable, maintainable product improvements. &nbsp; &nbsp; What&nbsp; you\u2019ll do: Design, implement, test, and document production-quality C++ features for simulation and developer tooling. &nbsp; Build and maintain software abstractions, simulated services, and client/server integrations that reproduce important system behaviors in a development environment. &nbsp; Improve core developer workflows such as environment setup, simulator startup, configuration, input handling, debugging, log collection, and failure recovery. &nbsp; Improve and contribute to build, dependency, packaging, and release workflows for the simulation platform using modern build tools, dependency managers, containers, and CI/CD pipelines. &nbsp; Create unit, integration, and end-to-end tests that catch regressions early and move high-value validation into continuous integration. &nbsp; Diagnose failures that cross process, library, container, and platform boundaries; produce clear root-cause analysis and durable fixes. &nbsp; Contribute to shared libraries and developer-facing interfaces including versioning, compatibility, migration guidance, and coordination with consuming teams. &nbsp; Write architecture notes, setup guides, troubleshooting steps, and release documentation that developers can use without direct support from the team. &nbsp; Partner with engineers, QE, product owners, and adjacent platform teams to define integration contracts, sequence cross-team changes, and deliver complete features. &nbsp; Participate in design and code reviews, give actionable feedback, and improve the team\u2019s engineering practices through the work you ship. &nbsp; &nbsp; What&nbsp; we\u2019re looking for: Bachelor\u2019s degree in Computer Science, Computer Engineering, or a related field, or equivalent practical experience. &nbsp; 4+ years of professional software-development experience building systems software, platform software, developer tools, infrastructure or similar technical products. &nbsp; Strong modern C++ development skills and practical experience developing and debugging software on Linux. &nbsp; Experience debugging multi-process, client/server, or platform-integrated software using logs, traces, debuggers, and reproducible test cases. &nbsp; Experience building automated tests and integrating them into CI/CD workflows. &nbsp; Working knowledge of build systems, dependency management, source control, and release practices for a multi-repository codebase. &nbsp; Ability to take a defined problem from technical design through implementation, validation, documentation, and rollout. &nbsp; Clear written and verbal communication, especially when coordinating interfaces or diagnosing issues across team boundaries. &nbsp; &nbsp; It would be a plus if you have: Experience with simulation, emulation, hardware abstraction, service virtualization, or comparable development environments. &nbsp; Experience with containerized development using Docker, dev containers, WSL, or comparable tooling. &nbsp; Familiarity with CMake, package-management tools, CI systems, collaborative source-control workflows, or cross-platform build toolchains. &nbsp; Experience designing or integrating IPC, client/server API\u2019s, shared libraries, or SDK\u2019s. &nbsp; Experience developing complex platform software or software for resource-constrained environments. &nbsp; Experience supporting developer tools as a product: gathering feedback, measuring friction, improving diagnostics, and simplifying onboarding. &nbsp; Working knowledge of one or more additional languages used in tooling or platform development, such as Python, Rust, JavaScript, or TypeScript. &nbsp; &nbsp; At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; In addition, this role is eligible for SIE\u2019s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click&nbsp; here to learn more. &nbsp; The estimated base pay range for this role is l",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "cca632aa1da7a3d8",
-      "source": "greenhouse",
-      "company": "Sony Interactive",
-      "title": "Software Engineer II/ Software Developer (Backend)",
-      "location": "Canada, Waterloo, ON",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145793004",
-      "posted_at": "2026-09-10T17:40:17-04:00",
-      "term": null,
-      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II, Backend Waterloo, ON Build what\u2019s next for players. We\u2019re a startup inside Sony PlayStation: fast-moving, experimental, and highly ambitious, while backed by the scale, resources, and trust of Sony Interactive Entertainment. We\u2019re building new mobile and web experiences that help gamers connect, discover, and play together in better ways. This is a rare opportunity to build at startup speed and deliver significant impact inside one of the largest gaming companies in the world. We are seeking a Software Backend Engineer to help design, build, and operate the services and data systems that power our new consumer experiences. &nbsp; Responsibilities Design, build, test, deploy, and operate reliable backend services and APIs for consumer applications across mobile and web. Contribute to backend architecture and technical decisions related to scalability, availability, consistency, latency, security, and cost. Design and maintain data models using relational and non-relational databases, caching systems, and asynchronous processing patterns. Build and maintain GraphQL and REST APIs that support mobile and web client experiences. Monitor and improve service performance, reliability, observability, and operational health. Partner with product managers, designers, and client engineers to translate product requirements into practical technical solutions. Participate in code reviews and share technical knowledge with other members of the engineering team. &nbsp; &nbsp; Requirements 3+ years of professional software development experience building backend services or applications. BS/MS degree in Computer Science, Software Engineering, or equivalent practical experience. Proficiency in server-side development (Node.js with TypeScript preferred). Experience with relational and non-relational databases, including data modelling, indexing, transactions, and performance optimization (PostgreSQL preferred). Experience designing, building, or integrating GraphQL and REST APIs. Familiarity with caching, message queues, event streams, or asynchronous processing systems. Understanding of cloud infrastructure, containerized services, CI/CD pipelines, and infrastructure as code. Experience working with production systems on AWS or another major cloud platform. Bonus Experience building social, community, gaming, or other consumer products. Understanding of real-time communication systems, including messaging, presence, notifications, and activity feeds. Experience working with social graphs, recommendation systems, content discovery services, or personalization platforms. Familiarity with trust and safety, content moderation, abuse prevention, or user-reporting systems. Previous experience at an early-stage startup or on a zero-to-one product team. &nbsp; At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; &nbsp; The estimated Ontario base pay range for this role is listed below. $119,400 &mdash; $169,400 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category. We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&nbsp; Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment. &nbsp;",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "0e07bb9021a2caf2",
-      "source": "greenhouse",
-      "company": "Sony Interactive",
-      "title": "Software Engineer II / Software Developer II (React Native)",
-      "location": "Canada, Waterloo, ON",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6134526004",
-      "posted_at": "2026-09-10T17:40:17-04:00",
-      "term": null,
-      "description": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity. Software Engineer II / Software Developer II (React Native)&nbsp; &nbsp; Build what\u2019s next for players. We\u2019re a startup inside Sony PlayStation. Fast-moving, experimental, and highly ambitious. Backed by the scale, resources, and trust of Sony Interactive Entertainment. We\u2019re building new mobile and web experiences that help gamers connect, discover, and play together in better ways. This is a rare opportunity to design at startup speed and drive huge impact inside the largest gaming company in the world. We are seeking a Software Engineer II specializing in React Native and high-performance mobile development. In this role, you will design, build, and improve mobile experiences while contributing to the architecture, frameworks, and technical practices that support our applications. You will collaborate closely with engineers, product managers, designers, and researchers to deliver user interfaces that are performant, accessible, reliable, and delightful at scale. You will take ownership of meaningful features from development through release and production support. Responsibilities &nbsp; Design, build, test, release, and maintain mobile application features using React Native and modern JavaScript and TypeScript. Contribute to the evolution of frontend architecture, reusable components, development patterns, and technical standards. Partner with product managers, designers, and researchers to translate user experience requirements into practical, maintainable technical solutions. Write maintainable, well-tested code and contribute to code reviews, documentation, testing practices, and release processes. Investigate, diagnose, and resolve application defects, performance issues, and production incidents. Collaborate with the backend team to deliver reliable end-to-end experiences. &nbsp; &nbsp; Requirements 3+ years of professional software development experience, including experience building React Native applications or high-performance JavaScript and TypeScript applications. BS/MS degree in Computer Science, Software Engineering, or equivalent practical experience. Strong understanding of React Native, JavaScript, TypeScript, component architecture, state management, and mobile application development. Experience profiling, debugging, and optimizing frontend or mobile application performance. Understanding of cross-platform application architecture and communication between JavaScript and native modules. Experience delivering production-quality mobile applications using React Native. Experience building reusable UI components and maintainable frontend systems. Ability to independently deliver well-defined projects while collaborating effectively with engineers and cross-functional partners. Strong problem-solving, communication, and debugging skills. Passion for delivering high-quality user interfaces with excellent performance and usability. Bonus Experience building social, community, gaming, or other consumer products. Familiarity with VoIP, call dialing and ringing flows in Android/React Native Experience with accessibility, internationalization, and UI testing frameworks.&nbsp; Familiarity with CI/CD pipelines and modern build systems for frontend development. Previous experience at an early-stage startup or on a zero-to-one product team. At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; &nbsp; The estimated Ontario base pay range for this role is listed below. $115,500 &mdash; $173,300 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our&nbsp; Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights. Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category. We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&nbsp; Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment. &nbsp;",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ab52712060a1c140",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Firmware Engineer (Internship) - Vancouver",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-      "posted_at": "2026-09-23T16:03:03-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b79a35d0605cda4d",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
-      "posted_at": "2026-09-23T16:03:03-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "7ea4819bf39a6b1f",
       "source": "greenhouse",
       "company": "Faire",
@@ -2060,34 +2046,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -2211,15 +2169,28 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2027 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
       "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "ca"
@@ -2298,6 +2269,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2027 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2571,21 +2557,6 @@
       ]
     },
     {
-      "id": "17f063070257dfd7",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Batch Developer Experience)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm.&nbsp; As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm\u2019s critical batch workloads. What you'll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "016361cdb3f87909",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2601,18 +2572,18 @@
       ]
     },
     {
-      "id": "8944417618d321d6",
+      "id": "17f063070257dfd7",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Backend (Decisions Orchestration)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+      "title": "Software Engineer II, Backend (Batch Developer Experience)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
       "posted_at": "2026-10-16T17:13:47-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Your role will be instrumental in designing the next generation of Affirm\u2019s Checkout Platform to provide a world-class buying experience that puts customers first! We are seeking a Backend Software Engineer to build out financial products and features providing new levels of accessibility and flexibility to our users. You will work in a fast-paced team environment, designing and implementing new API\u2019s and microservice interfaces to manage every users\u2019 transaction with Affirm. You will also use your technical skillset to find opportunities to improve the performance and reliability of the systems that drive the user journey through purchasing with Affirm. Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It\u2019s going to be an amazing ride! What you'll do Work with technical leaders in the team to design and implement insightful forward-looking approaches that go beyond the direct team and solve large open-ended problems Actively own components of checkout systems and define their long-term health, while also improving the health of surrounding systems Collaborate with engineers within our team and across the organization to build the next generation of the checkout platform Learn and improve engineering standards, tooling, and processes across the checkout platform What we look for Take Ownership. You enjoy working with product and engineering leaders to develop detailed project definitions, and drive technical decisions within your team Execute. You have a proven track record of developing, testing, and shipping high-quality software at scale Collaborate. You communicate clearly both verbally and in writing. If anything, you trend towards over-communication Build Teams. You grow with engineers around you through sharing your learnings and providing feedback to your peers that will help the team grow Customer-centric mentality. You are empathetic to the user experience and thoughtful about what we can do to make it better This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field Tech You Will Use Python Kotlin RPC Redis MySQL AWS Github Base Pay Grade - L Equity Grade - USA 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 &nbsp; &nbsp;#LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm.&nbsp; As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm\u2019s critical batch workloads. What you'll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -2628,6 +2599,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "8944417618d321d6",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Decisions Orchestration)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Your role will be instrumental in designing the next generation of Affirm\u2019s Checkout Platform to provide a world-class buying experience that puts customers first! We are seeking a Backend Software Engineer to build out financial products and features providing new levels of accessibility and flexibility to our users. You will work in a fast-paced team environment, designing and implementing new API\u2019s and microservice interfaces to manage every users\u2019 transaction with Affirm. You will also use your technical skillset to find opportunities to improve the performance and reliability of the systems that drive the user journey through purchasing with Affirm. Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It\u2019s going to be an amazing ride! What you'll do Work with technical leaders in the team to design and implement insightful forward-looking approaches that go beyond the direct team and solve large open-ended problems Actively own components of checkout systems and define their long-term health, while also improving the health of surrounding systems Collaborate with engineers within our team and across the organization to build the next generation of the checkout platform Learn and improve engineering standards, tooling, and processes across the checkout platform What we look for Take Ownership. You enjoy working with product and engineering leaders to develop detailed project definitions, and drive technical decisions within your team Execute. You have a proven track record of developing, testing, and shipping high-quality software at scale Collaborate. You communicate clearly both verbally and in writing. If anything, you trend towards over-communication Build Teams. You grow with engineers around you through sharing your learnings and providing feedback to your peers that will help the team grow Customer-centric mentality. You are empathetic to the user experience and thoughtful about what we can do to make it better This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field Tech You Will Use Python Kotlin RPC Redis MySQL AWS Github Base Pay Grade - L Equity Grade - USA 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 &nbsp; &nbsp;#LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2751,21 +2737,6 @@
       ]
     },
     {
-      "id": "28861fd19a669877",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (Ads Platform)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Our Marketplace is continually evolving to deliver a deeply personalized shopping experience that seamlessly links consumers with merchant partners. By leveraging machine learning alongside rich consumer and merchant data, we aim to simplify and streamline the customer journey around everyday and major purchases with tailored brands, products, deals, and offers. In tandem, we are advancing our Ads Platform which is a key technology that empowers merchant partners to strategically deploy their budgets and reach targeted consumers for maximum incremental impact. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React. You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "a934c42c1968d558",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2778,6 +2749,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "28861fd19a669877",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (Ads Platform)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Our Marketplace is continually evolving to deliver a deeply personalized shopping experience that seamlessly links consumers with merchant partners. By leveraging machine learning alongside rich consumer and merchant data, we aim to simplify and streamline the customer journey around everyday and major purchases with tailored brands, products, deals, and offers. In tandem, we are advancing our Ads Platform which is a key technology that empowers merchant partners to strategically deploy their budgets and reach targeted consumers for maximum incremental impact. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React. You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -16357,6 +16343,23 @@
       ]
     },
     {
+      "id": "6f5189cd42d5186f",
+      "source": "simplify",
+      "company": "Marvell",
+      "title": "Test Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "7803b2253f1ed39f",
       "source": "simplify",
       "company": "Marvell",
@@ -16367,6 +16370,23 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "f4f6cd999e32fdfc",
+      "source": "simplify",
+      "company": "Marvell",
+      "title": "Test Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -16973,23 +16993,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "ced3b7ef99051768",
-      "source": "simplify",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "posted_at": "2026-10-05T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
