@@ -1,117 +1,26 @@
 [
   {
-    "id": "098791bd9a72a6a4",
-    "source": "simplify",
-    "company": "Robert Bosch Venture Capital",
-    "title": "Software Engineering Co-op",
-    "location": "Fountain Inn, SC",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
-    "posted_at": "2026-10-19T14:08:39+00:00",
-    "term": "Summer 2027",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "level": "intern",
-    "countries": [
-      "us"
-    ]
-  },
-  {
-    "id": "118a431f246be1f4",
-    "source": "simplify",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Cedar Rapids, IA",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-    "posted_at": "2026-10-19T00:00:00+00:00",
-    "term": "Summer 2027",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "level": "intern",
-    "countries": [
-      "us"
-    ]
-  },
-  {
-    "id": "78f1288dd3cb19b2",
-    "source": "workday",
-    "company": "RTX",
-    "title": "Systems Engineering Intern (Summer 2027)",
-    "location": "US-CA-SAN DIEGO-SD1 ~ 8650 Balboa Ave ~ SAN ANTONIO BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01880911",
-    "posted_at": null,
+    "id": "9848daf8b0ae37d5",
+    "source": "greenhouse",
+    "company": "OpenTable",
+    "title": "Software Engineer II - Backend",
+    "location": "Toronto, Canada",
+    "url": "https://job-boards.greenhouse.io/opentable/jobs/8887462002",
+    "posted_at": "2026-10-19T17:04:58-04:00",
     "term": null,
-    "level": "intern",
-    "countries": [
-      "us"
-    ]
-  },
-  {
-    "id": "fadc21ec640343b5",
-    "source": "workday",
-    "company": "Mastercard",
-    "title": "Software Engineer II (Backend Java)",
-    "location": "Vancouver, Canada",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II--Backend-Java-_R-293047",
-    "posted_at": null,
-    "term": null,
+    "description": "This hybrid role requires working in the Toronto office two days per week. With millions of diners, 70,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a passion for helping restaurants thrive. Our world-class technology empowers restaurants to focus on what matters most \u2013 their team, their guests, and their bottom line \u2013 while enabling diners to discover and book the perfect restaurant for every occasion.&nbsp; Every employee at OpenTable has a tangible impact on what we do and how we do it. You\u2019ll also be part of a global team and its portfolio of metasearch brands. Hospitality is all about taking care of others, and it defines our culture. What the Team Does The TMS Inventory team manages the core availability and reservation engine at OpenTable. At a high level, we own: The Inventory &amp; Availability Engine \u2014 a real-time system that computes bookable slots for restaurants based on capacity, constraints, table configuration, and reservation history Core reservation flows \u2014 inventory consumption, slot locking, and availability calculations The availability publishing pipeline \u2014 ensuring that when restaurants update their schedules, accurate availability propagates across all surfaces (diner-facing apps, in-house tools, partner APIs) Our Mission: Own and evolve the inventory and availability platform so that every reservation is backed by accurate, real-time capacity data \u2014 ensuring restaurants never get overbooked and diners always see truthful availability. This team owns a mission-critical system for the company and works on complex backend systems where reliability and correctness are paramount . Team Structure The team includes engineers ranging from SE2 through Principal level , with a strong culture of code review, design docs, and collaborative problem-solving. We own the entire software lifecycle for our services \u2014 we build, deploy, monitor, and operate them in production. Technologies Used Primary language: C# / .NET (must have) Infrastructure: Kubernetes, Helm, TeamCity CI/CD Observability: OpenTelemetry, Grafana, Prometheus, ELK Messaging: Kafka (event-driven architecture) Databases: Redis, MongoDB Source Control: GitHub Day-to-Day Responsibilities An engineer on this team will: Design and implement backend features and services that support inventory, availability, and reservation flows Work across the full development lifecycle \u2014 from technical design and coding to testing, deployment, monitoring, and production support Debug production issues using logs, metrics, traces, and dashboards Contribute to improving system reliability, correctness, and operational readiness Partner with Product, Design, and peer engineering teams to clarify requirements and make thoughtful technical tradeoffs Participate in code reviews, technical discussions, and design documentation Help maintain and evolve a complex distributed backend platform that sits in the critical path of the reservation experience This posting is for an existing vacancy. Benefits and Perks Work from (almost) anywhere for up to 20 days per year Focus on mental health and well-being: Company-paid therapy sessions through SpringHealth Company-paid subscription to Headspace Annual company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!) Paid parental leave Generous paid vacation + time off for your birthday Paid volunteer time Focus on your career growth: Development Dollars Leadership development Access to thousands of on-demand e-learnings Travel Discounts Employee Resource Groups 20 days of paid time off Private health and dental insurance Life and Disability insurance The best connections happen face-to-face, whether you\u2019re sitting down to dinner or having coffee with a coworker. That\u2019s why OpenTable has adopted a hybrid workplace model. This role aligns with that approach, with an expectation of coming into the office two days a week\u2014giving employees the best of both worlds: in-person collaboration and flexibility. The expected range of compensation for this position based in Toronto, Canada, including commission and/or bonuses, is $110,000-$130,000 CAD. There are a variety of factors that go into determining a compensation range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required. We offer a competitive base salary and benefits including: health benefits; flexible spending account; retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, bereavement leave, floating holidays and paid holidays); and parental leave benefits. This role is eligible to be considered for an annual bonus and equity grant. Work Environment &amp; Flexibility At OpenTable, we pride ourselves on fostering a global and dynamic work environment. As a team member with us, you will benefit from a schedule tailored to accommodate a global workforce operating across multiple time zones. While the majority of your responsibilities may align with conventional business hours, there will be instances where you are expected to manage communications - via calls, Slack messages, or emails - outside of regular working hours to effectively collaborate with international colleagues, respond to restaurant partners, and/or address urgent matters. OpenTable will always abide by and consider local laws and regulations. Inclusion We\u2019re committed to creating a workplace where everyone feels they belong and can thrive. We know the best ideas come when we bring different voices to the table, so we're building a team as dynamic as the diners and restaurants we serve\u2014and fostering a culture where everyone feels welcome to be themselves. If you need accommodations during the application or interview process, or on the job, we\u2019re here to support you. Please reach out to your recruiter to request any accommodations. #LI-AS3 #LI",
     "level": "intern",
     "countries": [
       "ca"
     ]
   },
   {
-    "id": "645f7607234b50de",
+    "id": "80690c7d0cd4513c",
     "source": "workday",
-    "company": "Mastercard",
-    "title": "Software Engineer II (Full-Stack - Java - React)",
-    "location": "Vancouver, Canada",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II--Full-Stack---Java---React-_R-293915",
-    "posted_at": null,
-    "term": null,
-    "level": "intern",
-    "countries": [
-      "ca"
-    ]
-  },
-  {
-    "id": "73f9f9da87aa5fbf",
-    "source": "workday",
-    "company": "Marvell (Careers 2)",
-    "title": "AI Data Science Intern, MS - Summer 2027",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
-    "posted_at": null,
-    "term": null,
-    "level": "intern",
-    "countries": [
-      "us"
-    ]
-  },
-  {
-    "id": "198ac248d78f2e6e",
-    "source": "workday",
-    "company": "Marvell",
-    "title": "AI Data Science Intern, MS - Summer 2027",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1",
-    "posted_at": null,
-    "term": null,
-    "level": "intern",
-    "countries": [
-      "us"
-    ]
-  },
-  {
-    "id": "2a427924bd0224ec",
-    "source": "workday",
-    "company": "Loblaw Companies",
-    "title": "Applied Machine Learning - Co-op Student",
-    "location": "1 Presidents Choice Circle, Brampton, ON",
-    "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038",
+    "company": "Bank of Montreal (Campus)",
+    "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2",
     "posted_at": null,
     "term": null,
     "level": "intern",
