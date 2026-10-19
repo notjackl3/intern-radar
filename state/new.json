@@ -1,26 +1,662 @@
 [
   {
-    "id": "9848daf8b0ae37d5",
-    "source": "greenhouse",
-    "company": "OpenTable",
-    "title": "Software Engineer II - Backend",
-    "location": "Toronto, Canada",
-    "url": "https://job-boards.greenhouse.io/opentable/jobs/8887462002",
-    "posted_at": "2026-10-19T17:04:58-04:00",
+    "id": "3051c402bc0d2be1",
+    "source": "simplify",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Orlando, FL",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262",
+    "posted_at": "2026-10-19T22:43:20+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "ef2f9c480b9aabe2",
+    "source": "simplify",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Orlando, FL",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250",
+    "posted_at": "2026-10-19T22:43:19+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d3fb91eae5cbfc01",
+    "source": "simplify-newgrad",
+    "company": "Amazon",
+    "title": "Software Engineer \u2013 Early Career",
+    "location": "Madison, WI; Boston, MA; Seattle, WA; Austin, TX; Detroit, MI; Santa Clara, CA; Arlington County, Arlington, VA; Minneapolis, MN; Denver, CO",
+    "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+    "posted_at": "2026-10-19T22:39:29+00:00",
     "term": null,
-    "description": "This hybrid role requires working in the Toronto office two days per week. With millions of diners, 70,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a passion for helping restaurants thrive. Our world-class technology empowers restaurants to focus on what matters most \u2013 their team, their guests, and their bottom line \u2013 while enabling diners to discover and book the perfect restaurant for every occasion.&nbsp; Every employee at OpenTable has a tangible impact on what we do and how we do it. You\u2019ll also be part of a global team and its portfolio of metasearch brands. Hospitality is all about taking care of others, and it defines our culture. What the Team Does The TMS Inventory team manages the core availability and reservation engine at OpenTable. At a high level, we own: The Inventory &amp; Availability Engine \u2014 a real-time system that computes bookable slots for restaurants based on capacity, constraints, table configuration, and reservation history Core reservation flows \u2014 inventory consumption, slot locking, and availability calculations The availability publishing pipeline \u2014 ensuring that when restaurants update their schedules, accurate availability propagates across all surfaces (diner-facing apps, in-house tools, partner APIs) Our Mission: Own and evolve the inventory and availability platform so that every reservation is backed by accurate, real-time capacity data \u2014 ensuring restaurants never get overbooked and diners always see truthful availability. This team owns a mission-critical system for the company and works on complex backend systems where reliability and correctness are paramount . Team Structure The team includes engineers ranging from SE2 through Principal level , with a strong culture of code review, design docs, and collaborative problem-solving. We own the entire software lifecycle for our services \u2014 we build, deploy, monitor, and operate them in production. Technologies Used Primary language: C# / .NET (must have) Infrastructure: Kubernetes, Helm, TeamCity CI/CD Observability: OpenTelemetry, Grafana, Prometheus, ELK Messaging: Kafka (event-driven architecture) Databases: Redis, MongoDB Source Control: GitHub Day-to-Day Responsibilities An engineer on this team will: Design and implement backend features and services that support inventory, availability, and reservation flows Work across the full development lifecycle \u2014 from technical design and coding to testing, deployment, monitoring, and production support Debug production issues using logs, metrics, traces, and dashboards Contribute to improving system reliability, correctness, and operational readiness Partner with Product, Design, and peer engineering teams to clarify requirements and make thoughtful technical tradeoffs Participate in code reviews, technical discussions, and design documentation Help maintain and evolve a complex distributed backend platform that sits in the critical path of the reservation experience This posting is for an existing vacancy. Benefits and Perks Work from (almost) anywhere for up to 20 days per year Focus on mental health and well-being: Company-paid therapy sessions through SpringHealth Company-paid subscription to Headspace Annual company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!) Paid parental leave Generous paid vacation + time off for your birthday Paid volunteer time Focus on your career growth: Development Dollars Leadership development Access to thousands of on-demand e-learnings Travel Discounts Employee Resource Groups 20 days of paid time off Private health and dental insurance Life and Disability insurance The best connections happen face-to-face, whether you\u2019re sitting down to dinner or having coffee with a coworker. That\u2019s why OpenTable has adopted a hybrid workplace model. This role aligns with that approach, with an expectation of coming into the office two days a week\u2014giving employees the best of both worlds: in-person collaboration and flexibility. The expected range of compensation for this position based in Toronto, Canada, including commission and/or bonuses, is $110,000-$130,000 CAD. There are a variety of factors that go into determining a compensation range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required. We offer a competitive base salary and benefits including: health benefits; flexible spending account; retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, bereavement leave, floating holidays and paid holidays); and parental leave benefits. This role is eligible to be considered for an annual bonus and equity grant. Work Environment &amp; Flexibility At OpenTable, we pride ourselves on fostering a global and dynamic work environment. As a team member with us, you will benefit from a schedule tailored to accommodate a global workforce operating across multiple time zones. While the majority of your responsibilities may align with conventional business hours, there will be instances where you are expected to manage communications - via calls, Slack messages, or emails - outside of regular working hours to effectively collaborate with international colleagues, respond to restaurant partners, and/or address urgent matters. OpenTable will always abide by and consider local laws and regulations. Inclusion We\u2019re committed to creating a workplace where everyone feels they belong and can thrive. We know the best ideas come when we bring different voices to the table, so we're building a team as dynamic as the diners and restaurants we serve\u2014and fostering a culture where everyone feels welcome to be themselves. If you need accommodations during the application or interview process, or on the job, we\u2019re here to support you. Please reach out to your recruiter to request any accommodations. #LI-AS3 #LI",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "893bbb4470e5c5c9",
+    "source": "simplify",
+    "company": "Scale AI",
+    "title": "Machine Learning Research Intern",
+    "location": "SF; NYC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+    "posted_at": "2026-10-19T22:34:09+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "49d5ee4964043bd5",
+    "source": "simplify",
+    "company": "Patreon",
+    "title": "Software Engineer Intern",
+    "location": "SF; NYC",
+    "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true",
+    "posted_at": "2026-10-19T22:34:03+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e369692cf80628df",
+    "source": "simplify",
+    "company": "Patreon",
+    "title": "Software Engineer Intern",
+    "location": "NYC",
+    "url": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application?embed=true",
+    "posted_at": "2026-10-19T22:34:03+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "57873669d5b647d0",
+    "source": "simplify",
+    "company": "Westinghouse Electric Company",
+    "title": "Software Development Intern",
+    "location": "Cranberry Township, PA",
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors",
+    "posted_at": "2026-10-19T22:33:25+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d89bb5df89039484",
+    "source": "simplify",
+    "company": "Inversion Space",
+    "title": "AI & Internal Tools Software Engineer Intern",
+    "location": "Playa Vista, LA",
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005",
+    "posted_at": "2026-10-19T22:32:24+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a2199b92b86fea2a",
+    "source": "simplify",
+    "company": "Inversion Space",
+    "title": "Vehicle Software Engineer Intern",
+    "location": "Playa Vista, LA",
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005",
+    "posted_at": "2026-10-19T22:32:24+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "1f0633d5417aba17",
+    "source": "simplify-newgrad",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Cybersecurity Software Engineer New Grad - Cyber Concepts",
+    "location": "Laurel, MD",
+    "url": "https://careers.jhuapl.edu/jobs/60116?icims=1",
+    "posted_at": "2026-10-19T22:30:39+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "b7cdb7ece984256c",
+    "source": "simplify",
+    "company": "The Allen Institute for AI",
+    "title": "Research Intern - Robotics",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641",
+    "posted_at": "2026-10-19T22:21:18+00:00",
+    "term": "Spring 2027; Summer 2027",
+    "degrees": [
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "785a98038e86f64a",
+    "source": "simplify",
+    "company": "Paccar",
+    "title": "Warranty Data Analyst Intern",
+    "location": "Kirkland, WA",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors",
+    "posted_at": "2026-10-19T22:19:35+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "dc9f05e1c915aea5",
+    "source": "simplify",
+    "company": "Point72",
+    "title": "Quantitative Developer Intern",
+    "location": "NYC",
+    "url": "https://boards.greenhouse.io/point72/jobs/7609197002",
+    "posted_at": "2026-10-19T22:16:38+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "eb8d5b1648af4f57",
+    "source": "simplify",
+    "company": "Qualcomm",
+    "title": "Machine Learning AISW Intern",
+    "location": "Markham, ON, Canada",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721636765",
+    "posted_at": "2026-10-19T22:05:24+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
     "level": "intern",
     "countries": [
       "ca"
     ]
   },
   {
-    "id": "80690c7d0cd4513c",
+    "id": "d05dfa07c4a23bf9",
+    "source": "simplify",
+    "company": "Tyler Technologies",
+    "title": "Software Developer Intern",
+    "location": "Orono, ME",
+    "url": "https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false",
+    "posted_at": "2026-10-19T22:04:57+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "92cf0ec8b1fd75c9",
+    "source": "simplify",
+    "company": "Amplify",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA",
+    "url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true",
+    "posted_at": "2026-10-19T22:03:57+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "2220afa241d0cec5",
+    "source": "simplify",
+    "company": "Amplify",
+    "title": "Data Analytics Intern",
+    "location": "Remote in USA",
+    "url": "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true",
+    "posted_at": "2026-10-19T22:03:57+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0f61c20aa7a286dd",
+    "source": "simplify",
+    "company": "The Toro Company",
+    "title": "Cloud Software Developer Intern",
+    "location": "Frederick, CO",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e4f3d2e93325ccff",
+    "source": "simplify",
+    "company": "Salesforce",
+    "title": "Software Engineer Intern",
+    "location": "SF; Bellevue, WA",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "74f2403b1a8c14ae",
+    "source": "simplify",
+    "company": "Rogue Fitness",
+    "title": "AI Engineer Intern",
+    "location": "Columbus, OH",
+    "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "4ad43486b398983c",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineering Co-op - Summer / Fall 2027",
+    "location": "Cedar Rapids, IA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027; Fall 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "35ae1614a488358c",
+    "source": "simplify",
+    "company": "QTS",
+    "title": "People Services Data Analytics Intern",
+    "location": "Ashburn, VA",
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "bde6e3431276e80a",
+    "source": "simplify-newgrad",
+    "company": "PulteGroup",
+    "title": "Associate Developer",
+    "location": "Tempe, AZ",
+    "url": "https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Tempe-AZ/Associate-Developer_JR9750",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": null,
+    "degrees": null,
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "b889efe2d4646463",
+    "source": "simplify",
+    "company": "Highmark Health",
+    "title": "Data Science Research and Development Graduate Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "28c4d24b7ff04c36",
+    "source": "simplify",
+    "company": "Highmark Health",
+    "title": "Data Analyst Undergraduate Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "832140a9032eb01d",
+    "source": "simplify",
+    "company": "GlobalFoundries",
+    "title": "AI/ML Systems Engineering Intern",
+    "location": "Richardson, TX",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "6912428000972960",
+    "source": "simplify-newgrad",
+    "company": "GlobalFoundries",
+    "title": "AI/ML Systems Engineer New Grad",
+    "location": "Richardson, TX",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d34c95c9d8861f54",
+    "source": "simplify",
+    "company": "General Dynamics Information Technology",
+    "title": "Software Developer Intern",
+    "location": "Egg Harbor Township, NJ",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "75b109f95138e191",
+    "source": "simplify",
+    "company": "Creative Artists Agency",
+    "title": "Data Analytics Intern",
+    "location": "Denver, CO",
+    "url": "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "274097be1d30aeba",
+    "source": "simplify",
+    "company": "Cognex",
+    "title": "Software Engineer Intern",
+    "location": "Wauwatosa, WI",
+    "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "2c216dd3b8f91e41",
+    "source": "simplify",
+    "company": "Associated Bank",
+    "title": "Corporate Intern - Digital Delivery - Artificial Intelligence",
+    "location": "Milwaukee, WI",
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "de2ac2679fc70d9a",
+    "source": "simplify-newgrad",
+    "company": "Applied Materials",
+    "title": "Software Engineer New Grad",
+    "location": "Santa Clara, CA",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+    "posted_at": "2026-10-19T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "383eaf3b0a1bbf00",
+    "source": "simplify",
+    "company": "GM financial",
+    "title": "Oracle Application Developer Intern",
+    "location": "Irving, TX",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804",
+    "posted_at": "2026-09-17T22:16:14+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a7610e79397336b0",
+    "source": "simplify-newgrad",
+    "company": "Otter.ai",
+    "title": "Software Engineer New Grad - Backend",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7798264003",
+    "posted_at": "2026-07-08T01:11:11+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "99909c82a5463dd7",
     "source": "workday",
-    "company": "Bank of Montreal (Campus)",
+    "company": "TD Bank",
+    "title": "Guidewire Software Engineer I",
+    "location": "Toronto, Ontario",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Guidewire-Software-Engineer-I_R_1517063-1",
+    "posted_at": null,
+    "term": null,
+    "level": "newgrad",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "f444b29190b98f89",
+    "source": "workday",
+    "company": "Mastercard",
+    "title": "Software Engineer II",
+    "location": "O'Fallon, Missouri",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-293589",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "0452ae034a05dbeb",
+    "source": "workday",
+    "company": "Mastercard",
+    "title": "Software Engineer II",
+    "location": "Arlington, Virginia",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-293167",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a3261fdd63b37a73",
+    "source": "workday",
+    "company": "Bank of Montreal (Privileged)",
     "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
     "location": "Toronto, ON, CAN",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "bc104d8d334313c3",
+    "source": "workday",
+    "company": "Bank of Montreal (External)",
+    "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1",
     "posted_at": null,
     "term": null,
     "level": "intern",
