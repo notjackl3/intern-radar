@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-10-22T11:47:01.266822+00:00",
-  "open_count": 1485,
-  "new_count": 4,
+  "generated_at": "2026-10-22T17:10:12.028886+00:00",
+  "open_count": 1491,
+  "new_count": 6,
   "tier": "full",
   "jobs": [
+    {
+      "id": "df7f41db8cd3e315",
+      "source": "workday",
+      "company": "CIBC (Campus)",
+      "title": "Machine Learning Engineer Co-op",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b5017830a8fa5ef0",
+      "source": "workday",
+      "company": "CIBC (Campus)",
+      "title": "2027 Summer Intern - Software Engineering",
+      "location": "Chicago, IL",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
     {
       "id": "80690c7d0cd4513c",
       "source": "workday",
@@ -33,45 +61,17 @@
       ]
     },
     {
-      "id": "b5017830a8fa5ef0",
+      "id": "d095caf9a07e1199",
       "source": "workday",
-      "company": "CIBC (Campus)",
-      "title": "2027 Summer Intern - Software Engineering",
-      "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "bc104d8d334313c3",
-      "source": "workday",
-      "company": "Bank of Montreal (External)",
-      "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1",
+      "company": "TD Bank",
+      "title": "Software Engineer II",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1503082",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "d4a90f33bb912479",
-      "source": "workday",
-      "company": "Bank of Montreal (External)",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX, USA",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -100,6 +100,34 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "bc104d8d334313c3",
+      "source": "workday",
+      "company": "Bank of Montreal (External)",
+      "title": "Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d4a90f33bb912479",
+      "source": "workday",
+      "company": "Bank of Montreal (External)",
+      "title": "Software Developer ( Early Career )-15",
+      "location": "Irving, TX, USA",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -463,21 +491,6 @@
       ]
     },
     {
-      "id": "85085bd7043a3bc4",
-      "source": "lever",
-      "company": "ShyftLabs",
-      "title": "AI Engineer Intern",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
-      "posted_at": "2026-07-21T18:59:53.642000+00:00",
-      "term": null,
-      "description": "",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "36f9191e97be2912",
       "source": "workday",
       "company": "SOTI (Next-Gen)",
@@ -548,29 +561,16 @@
       ]
     },
     {
-      "id": "8763ca919c8c5255",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "posted_at": null,
+      "id": "85085bd7043a3bc4",
+      "source": "lever",
+      "company": "ShyftLabs",
+      "title": "AI Engineer Intern",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "posted_at": "2026-07-21T18:59:53.642000+00:00",
       "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a8a82dcdad71dcec",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Developer (New Grad)",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
+      "description": "",
+      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -585,6 +585,20 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6c54e9dc66cb476a",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -683,6 +697,34 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "8763ca919c8c5255",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a8a82dcdad71dcec",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Developer (New Grad)",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -842,34 +884,6 @@
       ]
     },
     {
-      "id": "6bfac37ac66598b0",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software Engineer Co-op/Intern",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b63692cdb593a31b",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Reliability Test Automation Engineer (Co-op/Intern)",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "edb3648b056eba8c",
       "source": "workday",
       "company": "CAE",
@@ -940,12 +954,12 @@
       ]
     },
     {
-      "id": "a57b71d18bf97066",
+      "id": "6bfac37ac66598b0",
       "source": "workday",
-      "company": "Interac",
-      "title": "Software Tester Intern",
-      "location": "Toronto",
-      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Tester-Intern_REQ-2398",
+      "company": "Lumentum",
+      "title": "Embedded Software Engineer Co-op/Intern",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -954,17 +968,31 @@
       ]
     },
     {
-      "id": "3f20ab9fee44a054",
+      "id": "b63692cdb593a31b",
       "source": "workday",
-      "company": "Interac",
-      "title": "Business Systems & AI Intern",
-      "location": "Toronto",
-      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393",
+      "company": "Lumentum",
+      "title": "Reliability Test Automation Engineer (Co-op/Intern)",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "dc584115f9bd1f8b",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Presale Systems Engineer - Summer 2027 Internship",
+      "location": "Brooklyn, NY, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -1108,6 +1136,34 @@
       ]
     },
     {
+      "id": "a57b71d18bf97066",
+      "source": "workday",
+      "company": "Interac",
+      "title": "Software Tester Intern",
+      "location": "Toronto",
+      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Tester-Intern_REQ-2398",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3f20ab9fee44a054",
+      "source": "workday",
+      "company": "Interac",
+      "title": "Business Systems & AI Intern",
+      "location": "Toronto",
+      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "6bfa6e49d5c6faf7",
       "source": "workday",
       "company": "NVIDIA",
@@ -1237,50 +1293,6 @@
       ]
     },
     {
-      "id": "f1c987020398ba92",
-      "source": "ashby",
-      "company": "Solink",
-      "title": "Software Engineer Co-op, Apps",
-      "location": "Ottawa Office",
-      "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430",
-      "posted_at": "2026-10-14T19:36:35.405+00:00",
-      "term": null,
-      "description": "SOFTWARE ENGINEER CO-OP, APPS\n\n\nLocation: Ottawa, ON | Hybrid\nReports To: Xiaokun Xu, \nTerm: Jan 2027\nPay band: 52,000k-68,000k\n\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Core Applications and Data team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n   \n   Nice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\n\n\n\nWHY SOLINK?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun.\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Reference Checks\n\n 4. Offer & onboarding \ud83c\udf89\n    \n    Please note: this is subject to change at any point in the recruitment process based on the needs of the business.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume via our [Careers Page https://solink.com/careers/] or apply through your school co-op portal. Let us know what excites you about this role, and how you\u2019d help move Solink forward.\n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "15a9dda7b61cfd5e",
-      "source": "ashby",
-      "company": "Solink",
-      "title": "Software Engineer Co-op, Agents",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e",
-      "posted_at": "2026-10-19T16:15:40.512+00:00",
-      "term": null,
-      "description": "SOFTWARE ENGINEER CO-OP, AGENTS\n\n\nLocation: Ottawa, ON | Hybrid OR Remote| Canada\nReports To: Dan Murdock, Director, Engineering\nPay band: 55,000k-68,000k\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Agents team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You are comfortable working independently, motivated to take initiative, and willing to ask questions when you need guidance.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n\nNice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\nWhy Solink?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Offer & onboarding \ud83c\udf89\n\n\nPLEASE NOTE: THIS IS SUBJECT TO CHANGE AT ANY POINT IN THE RECRUITMENT PROCESS BASED ON THE NEEDS OF THE BUSINESS.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume through our [Careers Page https://solink.com/careers/] or your school portal \n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "7ab4be85694d89a9",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Summer Intern, Fleet Reliability & Test Engineering, ASD",
-      "location": "Milford, Michigan, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "147b0fe32ceb5f73",
       "source": "workday",
       "company": "General Motors",
@@ -1399,6 +1411,20 @@
       "title": "2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
       "location": "Sunnyvale, California, United States of America",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "7ab4be85694d89a9",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "2027 Summer Intern, Fleet Reliability & Test Engineering, ASD",
+      "location": "Milford, Michigan, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1533,59 +1559,33 @@
       ]
     },
     {
-      "id": "49ad9567327c79b2",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Software Development Intern",
-      "location": "Troy, MI - USA",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
-      "posted_at": null,
+      "id": "f1c987020398ba92",
+      "source": "ashby",
+      "company": "Solink",
+      "title": "Software Engineer Co-op, Apps",
+      "location": "Ottawa Office",
+      "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430",
+      "posted_at": "2026-10-14T19:36:35.405+00:00",
       "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b8f9e1be059b2d1c",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Associate Data Developer",
-      "location": "USA Walnut Creek, CA - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "aa9006a536eafe59",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Software Engineering Intern",
-      "location": "CAN Kanata (2), ON - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-      "posted_at": null,
-      "term": null,
+      "description": "SOFTWARE ENGINEER CO-OP, APPS\n\n\nLocation: Ottawa, ON | Hybrid\nReports To: Xiaokun Xu, \nTerm: Jan 2027\nPay band: 52,000k-68,000k\n\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Core Applications and Data team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n   \n   Nice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\n\n\n\nWHY SOLINK?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun.\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Reference Checks\n\n 4. Offer & onboarding \ud83c\udf89\n    \n    Please note: this is subject to change at any point in the recruitment process based on the needs of the business.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume via our [Careers Page https://solink.com/careers/] or apply through your school co-op portal. Let us know what excites you about this role, and how you\u2019d help move Solink forward.\n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
       "level": "intern",
       "countries": [
         "ca"
       ]
     },
     {
-      "id": "624082cb1ca32fe7",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Embedded Software - Engineering Intern",
-      "location": "USA Walnut Creek, CA - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
-      "posted_at": null,
+      "id": "15a9dda7b61cfd5e",
+      "source": "ashby",
+      "company": "Solink",
+      "title": "Software Engineer Co-op, Agents",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e",
+      "posted_at": "2026-10-19T16:15:40.512+00:00",
       "term": null,
+      "description": "SOFTWARE ENGINEER CO-OP, AGENTS\n\n\nLocation: Ottawa, ON | Hybrid OR Remote| Canada\nReports To: Dan Murdock, Director, Engineering\nPay band: 55,000k-68,000k\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Agents team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You are comfortable working independently, motivated to take initiative, and willing to ask questions when you need guidance.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n\nNice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\nWhy Solink?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Offer & onboarding \ud83c\udf89\n\n\nPLEASE NOTE: THIS IS SUBJECT TO CHANGE AT ANY POINT IN THE RECRUITMENT PROCESS BASED ON THE NEEDS OF THE BUSINESS.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume through our [Careers Page https://solink.com/careers/] or your school portal \n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -1735,6 +1735,118 @@
       ]
     },
     {
+      "id": "dcab2f7431e2edb2",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Cloud Software Engineer Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "daf1612b0fc00e6d",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Cloud Engineer Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "0c8edf9b075063aa",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Cloud Engineering Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3a95ec260b46120d",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Cloud Engineer Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "49ad9567327c79b2",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Software Development Intern",
+      "location": "Troy, MI - USA",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b8f9e1be059b2d1c",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Associate Data Developer",
+      "location": "USA Walnut Creek, CA - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "aa9006a536eafe59",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Software Engineering Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "624082cb1ca32fe7",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Embedded Software - Engineering Intern",
+      "location": "USA Walnut Creek, CA - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "07768ec774e22b13",
       "source": "lever",
       "company": "Veeva Systems",
@@ -1810,60 +1922,18 @@
       ]
     },
     {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ebb4205472c18bbe",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "2027 Intern - Security Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "266480d0e9f61596",
+      "id": "cbeba5a4911f3345",
       "source": "greenhouse",
       "company": "Stripe",
       "title": "Data Analyst, Intern",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "posted_at": "2026-10-21T14:53:01-04:00",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "posted_at": "2026-10-22T09:15:17-04:00",
       "term": null,
       "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don\u2019t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. &nbsp; About the team Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You'll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you\u2019ll do As an intern at Stripe you\u2019ll work on projects across our stack that directly impact the way millions of businesses operate. You\u2019ll own problems end to end with the support of your manager and teammates. It\u2019s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling. Our internship program is competitive and the expectations are high. &nbsp; Responsibilities Analyze data and running experiments to drive impact Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly Create metrics, reports, and dashboards to inform and run the business Extend Stripe\u2019s metrics semantic layer Build new data assets and improve existing data assets to support decision-making, products, and business processes Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly Present your work to the Data Science team, partner teams, and fellow interns &nbsp; Who you are Ambitious builder: You\u2019re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty. Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before. Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus. &nbsp; Minimum requirements Enrolled in a quantitative Bachelor\u2019s or Master's degree program (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development, analysis, and coding Experience communicating and collaborating with multidisciplinary stakeholders in a team environment &nbsp; Preferred qualifications Experience writing and debugging data pipelines Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -1912,18 +1982,17 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2027 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "id": "ebb4205472c18bbe",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "2027 Intern - Security Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "posted_at": null,
       "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -2017,6 +2086,36 @@
       ]
     },
     {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2027 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "87e6cf225a2e329b",
+      "source": "greenhouse",
+      "company": "DoorDash",
+      "title": "Drone Operations, Intern - Labs (Summer 2027)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381",
+      "posted_at": "2026-10-22T09:31:00-04:00",
+      "term": null,
+      "description": "About the Team DoorDash Labs is an independent team within DoorDash. The Drone Operations team keeps DoorDash's drones airworthy and operates them safely. Our missions range from experimental test flights to commercial delivery. We're hiring Drone Operations interns to work at the intersection of operations and robotics to solve key business problems with elegant technical solutions. If you have a passion for applying robotics solutions to a service loved by millions of people, then we want to talk to you! About the Role As a Drone Operations Intern, you will support daily flight operations for DoorDash\u2019s drone delivery program, from our test flight program to our commercial operation. You will get exposure to all elements of our operation, including Pilots, Maintenance Technicians, Quality/Safety, and Engineering. You will rotate around our facilities and get an end-to-end view of our program.&nbsp; In your first 30 days, you will learn our flight procedures and safety practices. By 90 days, you will own a project that improves flight safety, reliability, or efficiency. Success means the team adopts your work and our operations measurably improve. It is an exciting time to join as we scale from test flights to commercial delivery.You will report into the Head of Drone Operations on our Drone Operations team in our Labs organization. You\u2019re excited about this opportunity because you will\u2026 Work with pilots, technicians, and engineers to troubleshoot issues and improve procedures. Review flight logs and mission data to find trends in safety, reliability, and delivery performance. Help run field operations at flight sites, including aircraft setup, loading, and recovery. Own an intern project and present your results to the team at the end of summer. We\u2019re excited about you because\u2026 You are pursuing a B.S. or M.S. Degree in Aviation Studies or equivalent, have no more than 2 years of full-time work experience, and are graduating between Fall 2027 to Summer 2028.You are available for a May or June 2027 start date (Internships are only hosted during the Summer) You hold, or are willing to obtain, a Federal Aviation Administration (FAA) Part 107 Remote Pilot Certificate. You have hands-on experience building, flying, or maintaining drones or radio-controlled (RC) aircraft. You can operate in field environments with extended periods of standing, repetitive drone handling, and outdoor exposure to varying weather (heat, dust, cold, wind, etc.). You communicate clearly and follow safety procedures carefully. Applications for this position are accepted on an ongoing basis Compensation Actual compensation within the pay range listed below will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. Base salary is localized according to employee work location.&nbsp; DoorDash cares about you and your overall well-being. That\u2019s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others. To learn more about our benefits, visit our careers page here . See below for paid time off details: For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year. For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week). The national base pay range for this position within the United States, including Illinois and Colorado. $107,400 &mdash; $158,000 USD About DoorDash At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more. Our Commitment to Diversity and Inclusion We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel. Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on \u201cprotected categories,\u201d we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or h",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "8a265b43c786b1d3",
       "source": "greenhouse",
       "company": "DoorDash",
@@ -2101,6 +2200,34 @@
       "posted_at": "2026-10-01T12:24:52-04:00",
       "term": null,
       "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Marketing Enablement &amp; Technology (MET) team sits within Instacart's Marketing organization, building the systems, data pipelines, and platforms that power how Instacart markets, measures, and grows. Operating at the intersection of Marketing, Product, and Engineering, we own the platforms behind organic search visibility, campaign feeds, audience targeting, event pipelines, and QA automation. We're seeking a Software Engineer II who will build across two of our highest-leverage growth surfaces: Technical Search Visibility (SEO) and CRM Enablement. On the SEO side, you'll ship full-stack features that improve Instacart's search engine and AI answer engine visibility across millions of web pages and drive organic traffic. On the CRM side, you'll build and evolve the componentized email system and execution tooling that gets lifecycle campaigns from brief to send across email, push, SMS, and in-app. You'll own features from build through rollout, contribute to technical decisions, and partner closely with Marketing and Product to turn growth requirements into scalable, testable customer experiences. This is a hands-on role that spans both pods. You'll move between organic-traffic engineering and CRM execution tooling, so we're looking for someone who's comfortable being a full-stack generalist and going deep in whichever surface the work calls for. About the Job&nbsp; Design, build, and ship high-quality full-stack features that enhance search engine visibility, AI answer engine performance, and organic traffic, with a strong sense of urgency and ownership. Build and evolve a modular React email component library that compiles to secure, client-safe HTML with simple, reusable abstractions. Develop responsive, accessible HTML/CSS emails that render consistently across clients, devices, and dark mode, and enhance our Next.js compilation pipeline (preview, compile, validate, export) for speed, reliability, and observability. Contribute to data pipelines for SEO and AEO ingestion, transformation, and delivery, keeping the system healthy as it grows. Own execution of dynamic CRM campaigns (email, push, in-app) using structured blocks, templating languages, and JSON/YAML config, integrating with ESPs like Braze and REST APIs/webhooks for personalization and targeting with secure data handling. Build automation and internal tooling that cuts QA and setup time across both surfaces, from SEO experimentation to CRM deep-link and token coverage. Apply technical best practices to deliver performant, observable, and cost-aware code that improves search rankings, LLM visibility, campaign rendering fidelity, and user experience. Troubleshoot rendering and logic issues across devices and states, leading triage, root-cause analysis, and system-level fixes. Collaborate with product managers, designers, and marketing partners to translate user needs into technical requirements, surface trade-offs, and deliver on shared goals. About You Minimum Qualifications 3-5 years of software engineering experience with proficiency in React, TypeScript, Ruby, Python, PostgreSQL, and SQL. Demonstrated ability to build and launch complete full-stack features with minimal oversight, from development through experimentation and production rollout. Hands-on use of React and Next.js to componentize UI and email and compile to production HTML with scalable abstractions. Expertise in HTML/CSS and responsive email development, with strong rendering fidelity, performance, and accessibility across clients, devices, and dark mode. Experience with distributed systems and data engineering, designing pipelines, optimizing schemas, and ensuring data quality, with exposure to Airflow or dbt. Comfort building and testing REST API integrations (JSON, webhooks) for personalization and orchestration, including hands-on API testing and validation, with secure, privacy-compliant data handling. Ability to write performant code and improve observability through logging and metrics, identifying and resolving bottlenecks as they arise. Strong product mindset with the ability to translate user needs into technical requirements and understand how your work impacts business metrics. Effective communicator who can collaborate across marketing, product, creative, and engineering partners to align on requirements and deliver solutions. Systems mindset: you improve the whole ecosystem you work in, leave code and docs better than you found them, and surface technical debt proactively Preferred Qualifications Experience with SEO/AEO initiatives or familiarity with SEO best practices, answer engine optimization for LLMs, structured data (Schema.org), search engine crawling and indexing, and Core Web Vitals. Familiarity with how AI-powered search engines and LLMs consume and surface content, with curiosity about optimizing for AI answer gen",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "ca"
@@ -2362,21 +2489,6 @@
       ]
     },
     {
-      "id": "239724e9e6a1ac38",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer I, Fullstack (Search)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Search has become the default way consumers discover where to shop, compare options, and decide what to buy across platforms like Google, TikTok, and even Klarna. As we build a new Ads business and evolve Marketplace into a best in class shopping experience, improving search is one of our highest leverage investments to create an experience users choose and merchants want to invest in. What You'll Do With the support of your team, you will work on tasks that contribute to the team's projects and goals. You will work collaboratively and proactively with your team and stakeholders, bringing them along for your work and helping to create visibility and dialog regarding the risks and trade-offs related to your work. You will strike the right balance of speed and quality in your work, ensuring that we hit our business goals while protecting our systems from downtime. You will contribute to a sense of community on your team by engaging in growth and development activities. What We Look For You have previous work or internship experience working with Javascript/Typescript. You have previous work or internship experience designing, developing and launching backend systems at scale and are experienced using Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - J Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $130,000 - $180,000 USA base pay range (all other U.S. states) per year: $115,000 - $165,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "e1f5e5130d330ae5",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2392,18 +2504,18 @@
       ]
     },
     {
-      "id": "17f063070257dfd7",
+      "id": "239724e9e6a1ac38",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Backend (Batch Developer Experience)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
+      "title": "Software Engineer I, Fullstack (Search)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
       "posted_at": "2026-10-16T17:13:47-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm.&nbsp; As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm\u2019s critical batch workloads. What you'll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Search has become the default way consumers discover where to shop, compare options, and decide what to buy across platforms like Google, TikTok, and even Klarna. As we build a new Ads business and evolve Marketplace into a best in class shopping experience, improving search is one of our highest leverage investments to create an experience users choose and merchants want to invest in. What You'll Do With the support of your team, you will work on tasks that contribute to the team's projects and goals. You will work collaboratively and proactively with your team and stakeholders, bringing them along for your work and helping to create visibility and dialog regarding the risks and trade-offs related to your work. You will strike the right balance of speed and quality in your work, ensuring that we hit our business goals while protecting our systems from downtime. You will contribute to a sense of community on your team by engaging in growth and development activities. What We Look For You have previous work or internship experience working with Javascript/Typescript. You have previous work or internship experience designing, developing and launching backend systems at scale and are experienced using Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - J Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $130,000 - $180,000 USA base pay range (all other U.S. states) per year: $115,000 - $165,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "newgrad",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -2419,6 +2531,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "17f063070257dfd7",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Batch Developer Experience)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm.&nbsp; As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm\u2019s critical batch workloads. What you'll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2557,21 +2684,6 @@
       ]
     },
     {
-      "id": "795dc035d17c5d87",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team\u2019s goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization. As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality. Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives. What You'll Do: Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines. Design and implement technical solutions to optimize test execution time and enhance test stability. Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company. Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation. Contribute to the evolution of the company\u2019s overall test strategy. With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. This role includes participation in an on-call rotation What We Look For: An East Coast location to enable smoother collaboration with European colleagues. 3+ years of experience in test automation. Proficient in both TypeScript and Python. Hands-on experience with Playwright and Pytest. Experience in building and optimizing CI pipelines. Experience with Docker and AWS. Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies. Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans. Experience in building or enhancing test automation frameworks and infrastructure is highly desirable. Mobile, infrastructure and performance test automation experience will be considered a significant advantage. Eager to grow and continuously learn new skills. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. &nbsp;#Li-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For posit",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "667ff04f073744bf",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2584,6 +2696,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "795dc035d17c5d87",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team\u2019s goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization. As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality. Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives. What You'll Do: Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines. Design and implement technical solutions to optimize test execution time and enhance test stability. Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company. Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation. Contribute to the evolution of the company\u2019s overall test strategy. With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. This role includes participation in an on-call rotation What We Look For: An East Coast location to enable smoother collaboration with European colleagues. 3+ years of experience in test automation. Proficient in both TypeScript and Python. Hands-on experience with Playwright and Pytest. Experience in building and optimizing CI pipelines. Experience with Docker and AWS. Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies. Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans. Experience in building or enhancing test automation frameworks and infrastructure is highly desirable. Mobile, infrastructure and performance test automation experience will be considered a significant advantage. Eager to grow and continuously learn new skills. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. &nbsp;#Li-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For posit",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2617,21 +2744,6 @@
       ]
     },
     {
-      "id": "ac8220a18f748b2d",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "b84193792e66ff4b",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2644,6 +2756,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ac8220a18f748b2d",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (App Experience)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -11620,6 +11747,23 @@
       ]
     },
     {
+      "id": "924a67cc31168f82",
+      "source": "simplify",
+      "company": "Target",
+      "title": "Software Engineer Intern",
+      "location": "Brooklyn Park, MN",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082",
+      "posted_at": "2026-09-10T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "bbacab196771059b",
       "source": "simplify",
       "company": "Garmin",
@@ -15253,24 +15397,6 @@
       ]
     },
     {
-      "id": "c6c01797afe825ba",
-      "source": "simplify",
-      "company": "CACI",
-      "title": "Software Engineer Intern",
-      "location": "Omaha, NE",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
-      "posted_at": "2026-09-29T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "b06b1a94654a9483",
       "source": "simplify",
       "company": "RTX",
@@ -16524,23 +16650,6 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a737539be4d1bbd1",
-      "source": "simplify",
-      "company": "KKR",
-      "title": "Summer Analyst Intern - Insurance Risk - Data Science",
-      "location": "NYC",
-      "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004",
-      "posted_at": "2026-10-06T14:13:41+00:00",
-      "term": "Summer 2027",
-      "degrees": [
         "Master's"
       ],
       "level": "intern",
@@ -18518,6 +18627,23 @@
       ]
     },
     {
+      "id": "6574bcb0e2717672",
+      "source": "simplify",
+      "company": "KLA",
+      "title": "Research Scientist Intern - Plasma Light Source Characterization",
+      "location": "Ann Arbor, MI",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033",
+      "posted_at": "2026-10-13T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "b50f934217b09eca",
       "source": "simplify",
       "company": "AGCO",
@@ -18788,24 +18914,6 @@
       "title": "Quality Data Science Co-op",
       "location": "Cincinnati, OH",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "118a431f246be1f4",
-      "source": "simplify",
-      "company": "RTX",
-      "title": "Software Engineer Intern",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
       "posted_at": "2026-10-19T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
@@ -19157,23 +19265,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "74f2403b1a8c14ae",
-      "source": "simplify",
-      "company": "Rogue Fitness",
-      "title": "AI Engineer Intern",
-      "location": "Columbus, OH",
-      "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -19884,58 +19975,6 @@
       ]
     },
     {
-      "id": "3c5c629017071f1c",
-      "source": "simplify",
-      "company": "Qualcomm",
-      "title": "Applied AI Engineer Intern",
-      "location": "Markham, ON, Canada",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721664194",
-      "posted_at": "2026-10-22T01:26:46+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "5afe95123a395e15",
-      "source": "simplify",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Development Intern - AI-Assisted Development",
-      "location": "Saint-Laurent, Montreal, QC, Canada",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1",
-      "posted_at": "2026-10-21T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "928745920d498e0b",
-      "source": "simplify",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Development Intern - AI-Assisted Development",
-      "location": "Saint-Laurent, Montreal, QC, Canada",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294",
-      "posted_at": "2026-10-21T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "c706c9ac68c81e79",
       "source": "simplify",
       "company": "Uline",
@@ -19946,6 +19985,24 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "8410f368bfeac094",
+      "source": "simplify",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Aurora, CO",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+      "posted_at": "2026-10-22T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -25160,6 +25217,23 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5a5a61233adf42cd",
+      "source": "simplify-newgrad",
+      "company": "Mayo Clinic",
+      "title": "Associate Data Science Analyst",
+      "location": "Jacksonville, FL",
+      "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394007",
+      "posted_at": "2026-10-22T14:25:32+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
       ],
       "level": "newgrad",
       "countries": [
