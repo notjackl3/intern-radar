@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T10:55:31.557344+00:00",
-  "open_count": 1519,
+  "generated_at": "2026-10-24T15:56:39.644412+00:00",
+  "open_count": 1518,
   "new_count": 0,
   "tier": "full",
   "jobs": [
@@ -560,6 +560,20 @@
       ]
     },
     {
+      "id": "6c54e9dc66cb476a",
+      "source": "workday",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "398bf227892816b3",
       "source": "workday",
       "company": "Manulife (Admin)",
@@ -653,20 +667,6 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "6c54e9dc66cb476a",
-      "source": "workday",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -868,76 +868,6 @@
       ]
     },
     {
-      "id": "edb3648b056eba8c",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a2bbf0b96bef27b3",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire d\u00e9veloppeur de mat\u00e9riel de formation (simulateur de vol) /  Training Material Developer (Flight Simulator)\u00a0",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "edbae0fbe144d759",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "58f6060c7501d311",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - Sp\u00e9cialiste de donn\u00e9es",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85312f8265585656",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "dc584115f9bd1f8b",
       "source": "workday",
       "company": "Motorola Solutions",
@@ -1120,6 +1050,76 @@
       ]
     },
     {
+      "id": "edb3648b056eba8c",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a2bbf0b96bef27b3",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire d\u00e9veloppeur de mat\u00e9riel de formation (simulateur de vol) /  Training Material Developer (Flight Simulator)\u00a0",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "edbae0fbe144d759",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "58f6060c7501d311",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire - Sp\u00e9cialiste de donn\u00e9es",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85312f8265585656",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "f84559cb390c1165",
       "source": "workday",
       "company": "NVIDIA",
@@ -1202,36 +1202,6 @@
       "level": "newgrad",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "99011bf94814095f",
-      "source": "ashby",
-      "company": "Cerebras",
-      "title": "Software Engineer - New Grad 2026",
-      "location": "Toronto, CAN",
-      "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
-      "posted_at": "2026-05-11T19:38:35.637+00:00",
-      "term": null,
-      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nThis role is ideal for candidates with a strong interest in systems programming, networking, embedded systems, distributed infrastructure, or performance-oriented software engineering. Our teams work very closely with hardware, so candidates with experience primarily focused on higher-level application development or AI applications may be less aligned with the nature of this work.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\n - Collaborate with experienced engineers on real-world systems and infrastructure challenges.\n\n - Design, implement, test, and debug software solutions that directly impact system performance and reliability.\n\n - Contribute to low-level software components interacting closely with hardware and networking infrastructure.\n\n - Learn and contribute across multiple layers of a fully integrated AI-accelerated platform.\n\n - Participate in debugging, performance optimization, and system bring-up activities.\n\n - Develop tools and infrastructure to improve observability, reliability, and scalability.\n\n - Work cross-functionally with hardware, firmware, compiler, and infrastructure teams.\n\n\nREQUIRED QUALIFICATIONS\n\n - Recently graduated or currently enrolled in a university program in Computer Science, Computer Engineering, Electrical Engineering, or a related discipline (graduating in 2026).\n\n - Proficiency in C/C++ programming languages\n\n - Interest or exposure to systems/socket programming, networking, embedded systems, operating systems, device drivers, distributed systems, or network performance.\n\n - Desire to work close to hardware/network and learn low-level engineering concepts.\n\n - Detail-oriented but keen to learn the bigger picture and step out of comfort zone.\n\n - Excellent communication and collaboration skills.\n\n - Hybrid role based in Toronto, ON, or Sunnyvale CA\n\n\nASSETS\n\n - Experience with Linux systems programming or debugging tools.\n\n - Familiarity with TCP/RDMA protocols, RPCs, and packet trace tools such as Wireshark\n\n - Exposure to networking concepts, device drivers, embedded systems, or distributed infrastructure.\n\n - Familiarity with performance optimization or concurrent programming concepts.\n\n - Interest in large-scale AI infrastructure and accelerated computing systems.\n\n\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "82678dd7b8c15146",
-      "source": "ashby",
-      "company": "Cerebras",
-      "title": "DevOps Engineer - New Grad 2026",
-      "location": "Toronto, CAN",
-      "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-      "posted_at": "2026-05-11T20:00:47.834+00:00",
-      "term": null,
-      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
-      "level": "newgrad",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -1498,6 +1468,36 @@
       "level": "newgrad",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "99011bf94814095f",
+      "source": "ashby",
+      "company": "Cerebras",
+      "title": "Software Engineer - New Grad 2026",
+      "location": "Toronto, CAN",
+      "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
+      "posted_at": "2026-05-11T19:38:35.637+00:00",
+      "term": null,
+      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nThis role is ideal for candidates with a strong interest in systems programming, networking, embedded systems, distributed infrastructure, or performance-oriented software engineering. Our teams work very closely with hardware, so candidates with experience primarily focused on higher-level application development or AI applications may be less aligned with the nature of this work.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\n - Collaborate with experienced engineers on real-world systems and infrastructure challenges.\n\n - Design, implement, test, and debug software solutions that directly impact system performance and reliability.\n\n - Contribute to low-level software components interacting closely with hardware and networking infrastructure.\n\n - Learn and contribute across multiple layers of a fully integrated AI-accelerated platform.\n\n - Participate in debugging, performance optimization, and system bring-up activities.\n\n - Develop tools and infrastructure to improve observability, reliability, and scalability.\n\n - Work cross-functionally with hardware, firmware, compiler, and infrastructure teams.\n\n\nREQUIRED QUALIFICATIONS\n\n - Recently graduated or currently enrolled in a university program in Computer Science, Computer Engineering, Electrical Engineering, or a related discipline (graduating in 2026).\n\n - Proficiency in C/C++ programming languages\n\n - Interest or exposure to systems/socket programming, networking, embedded systems, operating systems, device drivers, distributed systems, or network performance.\n\n - Desire to work close to hardware/network and learn low-level engineering concepts.\n\n - Detail-oriented but keen to learn the bigger picture and step out of comfort zone.\n\n - Excellent communication and collaboration skills.\n\n - Hybrid role based in Toronto, ON, or Sunnyvale CA\n\n\nASSETS\n\n - Experience with Linux systems programming or debugging tools.\n\n - Familiarity with TCP/RDMA protocols, RPCs, and packet trace tools such as Wireshark\n\n - Exposure to networking concepts, device drivers, embedded systems, or distributed infrastructure.\n\n - Familiarity with performance optimization or concurrent programming concepts.\n\n - Interest in large-scale AI infrastructure and accelerated computing systems.\n\n\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "82678dd7b8c15146",
+      "source": "ashby",
+      "company": "Cerebras",
+      "title": "DevOps Engineer - New Grad 2026",
+      "location": "Toronto, CAN",
+      "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
+      "posted_at": "2026-05-11T20:00:47.834+00:00",
+      "term": null,
+      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1837,12 +1837,12 @@
       ]
     },
     {
-      "id": "d58ae2006daa3319",
+      "id": "ebb4205472c18bbe",
       "source": "workday",
-      "company": "Sun Life (Experienced)",
-      "title": "Data Science Intern - Summer 2027 Intern",
-      "location": "Wellesley Hills, Massachusetts",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666",
+      "company": "Adobe",
+      "title": "2027 Intern - Security Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1851,12 +1851,27 @@
       ]
     },
     {
-      "id": "ebb4205472c18bbe",
+      "id": "cbeba5a4911f3345",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Data Analyst, Intern",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "posted_at": "2026-10-22T09:15:17-04:00",
+      "term": null,
+      "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don\u2019t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. &nbsp; About the team Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You'll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you\u2019ll do As an intern at Stripe you\u2019ll work on projects across our stack that directly impact the way millions of businesses operate. You\u2019ll own problems end to end with the support of your manager and teammates. It\u2019s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling. Our internship program is competitive and the expectations are high. &nbsp; Responsibilities Analyze data and running experiments to drive impact Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly Create metrics, reports, and dashboards to inform and run the business Extend Stripe\u2019s metrics semantic layer Build new data assets and improve existing data assets to support decision-making, products, and business processes Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly Present your work to the Data Science team, partner teams, and fellow interns &nbsp; Who you are Ambitious builder: You\u2019re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty. Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before. Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus. &nbsp; Minimum requirements Enrolled in a quantitative Bachelor\u2019s or Master's degree program (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development, analysis, and coding Experience communicating and collaborating with multidisciplinary stakeholders in a team environment &nbsp; Preferred qualifications Experience writing and debugging data pipelines Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "d58ae2006daa3319",
       "source": "workday",
-      "company": "Adobe",
-      "title": "2027 Intern - Security Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "company": "Sun Life (Experienced)",
+      "title": "Data Science Intern - Summer 2027 Intern",
+      "location": "Wellesley Hills, Massachusetts",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1890,21 +1905,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "266480d0e9f61596",
-      "source": "greenhouse",
-      "company": "Stripe",
-      "title": "Data Analyst, Intern",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "posted_at": "2026-10-22T09:17:10-04:00",
-      "term": null,
-      "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don\u2019t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. &nbsp; About the team Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You'll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you\u2019ll do As an intern at Stripe you\u2019ll work on projects across our stack that directly impact the way millions of businesses operate. You\u2019ll own problems end to end with the support of your manager and teammates. It\u2019s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling. Our internship program is competitive and the expectations are high. &nbsp; Responsibilities Analyze data and running experiments to drive impact Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly Create metrics, reports, and dashboards to inform and run the business Extend Stripe\u2019s metrics semantic layer Build new data assets and improve existing data assets to support decision-making, products, and business processes Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly Present your work to the Data Science team, partner teams, and fellow interns &nbsp; Who you are Ambitious builder: You\u2019re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty. Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before. Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus. &nbsp; Minimum requirements Enrolled in a quantitative Bachelor\u2019s or Master's degree program (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development, analysis, and coding Experience communicating and collaborating with multidisciplinary stakeholders in a team environment &nbsp; Preferred qualifications Experience writing and debugging data pipelines Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -1950,6 +1950,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2027 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2040,21 +2055,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2027 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -2433,21 +2433,6 @@
       ]
     },
     {
-      "id": "17f063070257dfd7",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Batch Developer Experience)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm.&nbsp; As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm\u2019s critical batch workloads. What you'll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "016361cdb3f87909",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2463,18 +2448,18 @@
       ]
     },
     {
-      "id": "8944417618d321d6",
+      "id": "17f063070257dfd7",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Backend (Decisions Orchestration)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+      "title": "Software Engineer II, Backend (Batch Developer Experience)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
       "posted_at": "2026-10-16T17:13:47-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Your role will be instrumental in designing the next generation of Affirm\u2019s Checkout Platform to provide a world-class buying experience that puts customers first! We are seeking a Backend Software Engineer to build out financial products and features providing new levels of accessibility and flexibility to our users. You will work in a fast-paced team environment, designing and implementing new API\u2019s and microservice interfaces to manage every users\u2019 transaction with Affirm. You will also use your technical skillset to find opportunities to improve the performance and reliability of the systems that drive the user journey through purchasing with Affirm. Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It\u2019s going to be an amazing ride! What you'll do Work with technical leaders in the team to design and implement insightful forward-looking approaches that go beyond the direct team and solve large open-ended problems Actively own components of checkout systems and define their long-term health, while also improving the health of surrounding systems Collaborate with engineers within our team and across the organization to build the next generation of the checkout platform Learn and improve engineering standards, tooling, and processes across the checkout platform What we look for Take Ownership. You enjoy working with product and engineering leaders to develop detailed project definitions, and drive technical decisions within your team Execute. You have a proven track record of developing, testing, and shipping high-quality software at scale Collaborate. You communicate clearly both verbally and in writing. If anything, you trend towards over-communication Build Teams. You grow with engineers around you through sharing your learnings and providing feedback to your peers that will help the team grow Customer-centric mentality. You are empathetic to the user experience and thoughtful about what we can do to make it better This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field Tech You Will Use Python Kotlin RPC Redis MySQL AWS Github Base Pay Grade - L Equity Grade - USA 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 &nbsp; &nbsp;#LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm.&nbsp; As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm\u2019s critical batch workloads. What you'll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -2490,6 +2475,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "8944417618d321d6",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Decisions Orchestration)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Your role will be instrumental in designing the next generation of Affirm\u2019s Checkout Platform to provide a world-class buying experience that puts customers first! We are seeking a Backend Software Engineer to build out financial products and features providing new levels of accessibility and flexibility to our users. You will work in a fast-paced team environment, designing and implementing new API\u2019s and microservice interfaces to manage every users\u2019 transaction with Affirm. You will also use your technical skillset to find opportunities to improve the performance and reliability of the systems that drive the user journey through purchasing with Affirm. Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It\u2019s going to be an amazing ride! What you'll do Work with technical leaders in the team to design and implement insightful forward-looking approaches that go beyond the direct team and solve large open-ended problems Actively own components of checkout systems and define their long-term health, while also improving the health of surrounding systems Collaborate with engineers within our team and across the organization to build the next generation of the checkout platform Learn and improve engineering standards, tooling, and processes across the checkout platform What we look for Take Ownership. You enjoy working with product and engineering leaders to develop detailed project definitions, and drive technical decisions within your team Execute. You have a proven track record of developing, testing, and shipping high-quality software at scale Collaborate. You communicate clearly both verbally and in writing. If anything, you trend towards over-communication Build Teams. You grow with engineers around you through sharing your learnings and providing feedback to your peers that will help the team grow Customer-centric mentality. You are empathetic to the user experience and thoughtful about what we can do to make it better This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field Tech You Will Use Python Kotlin RPC Redis MySQL AWS Github Base Pay Grade - L Equity Grade - USA 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 &nbsp; &nbsp;#LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2628,21 +2628,6 @@
       ]
     },
     {
-      "id": "28861fd19a669877",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (Ads Platform)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
-      "posted_at": "2026-10-16T17:13:47-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Our Marketplace is continually evolving to deliver a deeply personalized shopping experience that seamlessly links consumers with merchant partners. By leveraging machine learning alongside rich consumer and merchant data, we aim to simplify and streamline the customer journey around everyday and major purchases with tailored brands, products, deals, and offers. In tandem, we are advancing our Ads Platform which is a key technology that empowers merchant partners to strategically deploy their budgets and reach targeted consumers for maximum incremental impact. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React. You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "a934c42c1968d558",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2658,18 +2643,18 @@
       ]
     },
     {
-      "id": "b84193792e66ff4b",
+      "id": "28861fd19a669877",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
+      "title": "Software Engineer II, Fullstack (Ads Platform)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
       "posted_at": "2026-10-16T17:13:47-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Our Marketplace is continually evolving to deliver a deeply personalized shopping experience that seamlessly links consumers with merchant partners. By leveraging machine learning alongside rich consumer and merchant data, we aim to simplify and streamline the customer journey around everyday and major purchases with tailored brands, products, deals, and offers. In tandem, we are advancing our Ads Platform which is a key technology that empowers merchant partners to strategically deploy their budgets and reach targeted consumers for maximum incremental impact. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React. You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $133,000 - $183,000. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -2688,15 +2673,15 @@
       ]
     },
     {
-      "id": "c4c76e9477a47f4c",
+      "id": "b84193792e66ff4b",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Full Stack (Card Acquisition)",
+      "title": "Software Engineer II, Fullstack (App Experience)",
       "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
       "posted_at": "2026-10-16T17:13:47-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Card Acquisition team is critical in bringing our exciting product vision to life. Like any other financial company, our first impression is essential in communicating trust and value to our customers and partners. We're a dynamic, innovative team that drives card acquisition and growth. We are passionate about creating seamless and engaging experiences that attract and convert users into loyal customers. Our team leverages the latest technologies and data-driven insights to optimize the onboarding funnel and drive meaningful impact. What You'll Do With the support of your team's tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting \"keep the lights on\" &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React or Vue You have experience shipping mobile apps using native or cross-platform languages like React Native You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor's degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Marketplace and App Experience domain is the main pillar of our core consumer strategy, driving the user journey across all of our frontend surfaces: Mobile and Web. The teams span across multiple products and areas to engage and provide value to our customers, starting with the Home hub in the app or website, which expands into the various product offers and journeys a user can embark on with Affirm. This role will be at the forefront of our front-end facing cross-team projects, working closely with other teams and engineers across our mobile and web technologies, while also evolving and collaborating with every product experience team at Affirm. What You'll Do \u00b7 With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. \u00b7 You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. \u00b7 You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. \u00b7 You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For \u00b7 You have a total of 1.5+ years of experience as a software engineer. \u00b7 You have experience shipping web apps using declarative UI frameworks like React or Vue \u00b7 You have experience shipping mobile apps using native or cross-platform languages like React Native \u00b7 You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. \u00b7 You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. \u00b7 You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. \u00b7 Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. \u00b7 You have strong verbal and written communication skills that support effective collaboration with our global engineering team. \u00b7 This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 #LI-Remote &nbsp; Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
       "level": "intern",
       "countries": [
         "us"
@@ -2715,6 +2700,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "c4c76e9477a47f4c",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Full Stack (Card Acquisition)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+      "posted_at": "2026-10-16T17:13:47-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Card Acquisition team is critical in bringing our exciting product vision to life. Like any other financial company, our first impression is essential in communicating trust and value to our customers and partners. We're a dynamic, innovative team that drives card acquisition and growth. We are passionate about creating seamless and engaging experiences that attract and convert users into loyal customers. Our team leverages the latest technologies and data-driven insights to optimize the onboarding funnel and drive meaningful impact. What You'll Do With the support of your team's tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting \"keep the lights on\" &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React or Vue You have experience shipping mobile apps using native or cross-platform languages like React Native You have experience designing, developing and launching APIs at scale using languages like Kotlin or Python. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor's degree in a related field. Base Pay Grade - L Equity Grade - 6 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000 USA base pay range (all other U.S. states) per year: $146,000 - $206,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -18941,24 +18941,6 @@
       "degrees": [
         "Bachelor's",
         "Associate's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "0d369c0a7a07c1c9",
-      "source": "simplify",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "location": "Roy, UT",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
-      "posted_at": "2026-10-21T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ],
       "level": "intern",
       "countries": [
