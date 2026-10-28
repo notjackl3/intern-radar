@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T22:13:46.453223+00:00",
-  "open_count": 1505,
-  "new_count": 13,
+  "generated_at": "2026-10-28T01:24:21.267285+00:00",
+  "open_count": 1526,
+  "new_count": 25,
   "tier": "full",
   "jobs": [
     {
@@ -75,51 +75,6 @@
       ]
     },
     {
-      "id": "a66d7511d11139e0",
-      "source": "greenhouse",
-      "company": "Geotab",
-      "title": "Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months)",
-      "location": "Oakville, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
-      "posted_at": "2026-10-27T11:30:12-04:00",
-      "term": null,
-      "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking a embedded developer intern who will be responsible for assisting with the management of the firmware releases for our embedded/IoT devices. If you love technology, and are keen to join an industry leader \u2014 we would love to hear from you! What you'll do: As an Embedded Developer Intern your key area of responsibility will be implementing new logic into the GO device firmware, programming primarily in C and Python. You will work in one or several of many areas of focus depending on your experience including GPS, Modem, Accelerometer, Vehicle Data, Security and more. Part of this role includes utilizing Geotab\u2019s big data environment to analyze the effectiveness of changes implemented and to help troubleshoot and find issues. You will need to work closely with your colleagues on the Embedded Systems Team, as well as Solution Engineering, Software Development and key leadership stakeholders. To be successful in this role you will have a keen eye for the details to consistently adhere to coding standards and perform peer QA and code reviews. Being inquisitive and constantly looking for a new technical challenge or to use a new tool will also contribute to your success. &nbsp;In addition, the successful candidate will have strong communication skills, in their technical documentation, collaboration with teammates, and with providing technical support to other Geotab teams. The opportunity: 12-16 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Develop an in-depth understanding of the GO device firmware and how all the modules work. Perform firmware development in the required area of expertise (modem, GPS, vehicle data, security, etc) using C as per the development standards. Write SQL queries and Python scripts on data from Google BigQuery to determine device health and effectiveness of new functionality. Write unit tests and perform integration and system-level testing in both real and simulated vehicles, to demonstrate that new features meet design requirements. Conduct comprehensive testing and code reviews to ensure that industry coding standards are followed. Keep up-to-date documentation for all your areas of responsibility. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Electrical, Mechatronics, Computer Engineering or a related field Strong knowledge of programming languages (C/C++) in an embedded software context. Well versed in modern scripting languages (e.g. Python) is highly valued. RTOS development and/or knowledge is an asset. Familiar with data structures, algorithms, and design patterns common to embedded (resource-constrained) systems development. Strong presentation and communication skills. Strong analytical skills with the ability to problem-solve to well-judged decisions. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where ne",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a941bcbb93d43cbe",
-      "source": "greenhouse",
-      "company": "Geotab",
-      "title": "Software Developer Intern, Geotab Vitality (Winter/January 2027, 4 Months)",
-      "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008",
-      "posted_at": "2026-10-27T11:30:11-04:00",
-      "term": null,
-      "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are seeking high-impact talent to join our Systems team for a 4-month co-op term. If you are passionate about software development, artificial intelligence, and cloud technology, and you thrive in collaborative, high-growth environments, we want to hear from you! What you'll do: As a Software Developer Intern on the Systems team, you will work across the full stack to design, build, and optimize the core platform powering Vitality's driver-behavior features. You will write modern TypeScript/React for user interfaces, build robust backend services using C#/.NET and SQL, and leverage BigQuery and GCP to process complex telemetry data. You will collaborate closely with product managers and engineers across the team, gaining deep exposure to modern full-stack development workflows. The opportunity: 4 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings, planning, and design discussions. Use Git (Bitbucket) for source control and follow our code review process. Develop UI components using TypeScript, JavaScript, HTML, and CSS (React). Develop backend services and APIs using C# on .NET. Write automated unit tests as part of a test-driven workflow. Create and maintain database access code using SQL. Use BigQuery/GCP to help analyze and understand product and telemetry data. Debug and troubleshoot issues across the stack, from UI to backend to data. Write clear technical documentation for the features you build. Leverage modern AI development tools (e.g., Claude, GitHub Copilot) to accelerate coding, testing, debugging, and technical documentation workflows. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Experience with &nbsp; React, Angular, JavaScript/TypeScript, HTML, CSS is an asset. Knowledge of backend systems such as C# .NET Core / .NET 7+ Comfort using AI-assisted development tools (e.g. Claude, GitHub Copilot, ChatGPT) in your workflow is an asset. Familiarity with cloud platforms (GCP, AWS, or Azure). Enthusiasm for table tennis, foosball, or team social activities. Strong communication, organization, and time management skills, as well as a willingness to learn and strong work ethic. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as wel",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "c434a0d18949d4cc",
-      "source": "greenhouse",
-      "company": "Geotab",
-      "title": "Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months)",
-      "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
-      "posted_at": "2026-10-27T11:30:10-04:00",
-      "term": null,
-      "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are looking for amazing talent who can contribute to our efforts and deliver results! Geotab is seeking an intern who will immediately contribute to the Development Team's efforts. If you love technology and software development, are well organized and keen to join an industry leader, we would love to hear from you! What you'll do: As a Software Developer Intern, your key area of responsibility will be to ensure the reliable operation of a web-based application that makes sense of the data collected by our state-of-the-art hardware. We receive detailed data and metrics for hundreds of thousands of vehicles every second, which is processed and interpreted to create actionable information for our customers. This position will involve writing high-performance C# code and SQL queries to process and store this information in real-time.&nbsp; This position utilizes React and TypeScript to create fast and responsive user interfaces. Understanding the performance impact of designs, threading, good UI design and scalability, will make you an ideal and successful candidate who will find reward in building robust software that can function 24/7 with no down time. The opportunity: 8 - 12 month work-term beginning Jan 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings and discussions. Use GIT for source control. Develop software and refine features for C# .NET backend application. Develop UI components using TypeScript, Angular, React, HTML and CSS. Develop automated unit tests using XUnit in C#.&nbsp; Create database access code using SQL queries and Postgres database. Participate in peer reviews. Debugging and testing software. Write technical documentation. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Strong communication, organization, and time management skills, as well as a willingness to learn and strong work ethic. Experience with&nbsp; React, Angular, JavaScript/TypeScript, HTML, CSS is an asset. Knowledge of backend systems such as C# .NET Core / .NET 7+. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as well as accommodation policies and practices, please contact us at careers@geotab.com. By submitting a job application to Geotab Inc. or its affiliates and subsidiaries (",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "38f5b9cc551f6658",
       "source": "workday",
       "company": "TD Bank",
@@ -170,6 +125,51 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
       "posted_at": null,
       "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a66d7511d11139e0",
+      "source": "greenhouse",
+      "company": "Geotab",
+      "title": "Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months)",
+      "location": "Oakville, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
+      "posted_at": "2026-10-27T11:30:12-04:00",
+      "term": null,
+      "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking a embedded developer intern who will be responsible for assisting with the management of the firmware releases for our embedded/IoT devices. If you love technology, and are keen to join an industry leader \u2014 we would love to hear from you! What you'll do: As an Embedded Developer Intern your key area of responsibility will be implementing new logic into the GO device firmware, programming primarily in C and Python. You will work in one or several of many areas of focus depending on your experience including GPS, Modem, Accelerometer, Vehicle Data, Security and more. Part of this role includes utilizing Geotab\u2019s big data environment to analyze the effectiveness of changes implemented and to help troubleshoot and find issues. You will need to work closely with your colleagues on the Embedded Systems Team, as well as Solution Engineering, Software Development and key leadership stakeholders. To be successful in this role you will have a keen eye for the details to consistently adhere to coding standards and perform peer QA and code reviews. Being inquisitive and constantly looking for a new technical challenge or to use a new tool will also contribute to your success. &nbsp;In addition, the successful candidate will have strong communication skills, in their technical documentation, collaboration with teammates, and with providing technical support to other Geotab teams. The opportunity: 12-16 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Develop an in-depth understanding of the GO device firmware and how all the modules work. Perform firmware development in the required area of expertise (modem, GPS, vehicle data, security, etc) using C as per the development standards. Write SQL queries and Python scripts on data from Google BigQuery to determine device health and effectiveness of new functionality. Write unit tests and perform integration and system-level testing in both real and simulated vehicles, to demonstrate that new features meet design requirements. Conduct comprehensive testing and code reviews to ensure that industry coding standards are followed. Keep up-to-date documentation for all your areas of responsibility. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Electrical, Mechatronics, Computer Engineering or a related field Strong knowledge of programming languages (C/C++) in an embedded software context. Well versed in modern scripting languages (e.g. Python) is highly valued. RTOS development and/or knowledge is an asset. Familiar with data structures, algorithms, and design patterns common to embedded (resource-constrained) systems development. Strong presentation and communication skills. Strong analytical skills with the ability to problem-solve to well-judged decisions. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where ne",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a941bcbb93d43cbe",
+      "source": "greenhouse",
+      "company": "Geotab",
+      "title": "Software Developer Intern, Geotab Vitality (Winter/January 2027, 4 Months)",
+      "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008",
+      "posted_at": "2026-10-27T11:30:11-04:00",
+      "term": null,
+      "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are seeking high-impact talent to join our Systems team for a 4-month co-op term. If you are passionate about software development, artificial intelligence, and cloud technology, and you thrive in collaborative, high-growth environments, we want to hear from you! What you'll do: As a Software Developer Intern on the Systems team, you will work across the full stack to design, build, and optimize the core platform powering Vitality's driver-behavior features. You will write modern TypeScript/React for user interfaces, build robust backend services using C#/.NET and SQL, and leverage BigQuery and GCP to process complex telemetry data. You will collaborate closely with product managers and engineers across the team, gaining deep exposure to modern full-stack development workflows. The opportunity: 4 month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings, planning, and design discussions. Use Git (Bitbucket) for source control and follow our code review process. Develop UI components using TypeScript, JavaScript, HTML, and CSS (React). Develop backend services and APIs using C# on .NET. Write automated unit tests as part of a test-driven workflow. Create and maintain database access code using SQL. Use BigQuery/GCP to help analyze and understand product and telemetry data. Debug and troubleshoot issues across the stack, from UI to backend to data. Write clear technical documentation for the features you build. Leverage modern AI development tools (e.g., Claude, GitHub Copilot) to accelerate coding, testing, debugging, and technical documentation workflows. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Experience with &nbsp; React, Angular, JavaScript/TypeScript, HTML, CSS is an asset. Knowledge of backend systems such as C# .NET Core / .NET 7+ Comfort using AI-assisted development tools (e.g. Claude, GitHub Copilot, ChatGPT) in your workflow is an asset. Familiarity with cloud platforms (GCP, AWS, or Azure). Enthusiasm for table tennis, foosball, or team social activities. Strong communication, organization, and time management skills, as well as a willingness to learn and strong work ethic. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as wel",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "c434a0d18949d4cc",
+      "source": "greenhouse",
+      "company": "Geotab",
+      "title": "Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months)",
+      "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
+      "posted_at": "2026-10-27T11:30:10-04:00",
+      "term": null,
+      "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are looking for amazing talent who can contribute to our efforts and deliver results! Geotab is seeking an intern who will immediately contribute to the Development Team's efforts. If you love technology and software development, are well organized and keen to join an industry leader, we would love to hear from you! What you'll do: As a Software Developer Intern, your key area of responsibility will be to ensure the reliable operation of a web-based application that makes sense of the data collected by our state-of-the-art hardware. We receive detailed data and metrics for hundreds of thousands of vehicles every second, which is processed and interpreted to create actionable information for our customers. This position will involve writing high-performance C# code and SQL queries to process and store this information in real-time.&nbsp; This position utilizes React and TypeScript to create fast and responsive user interfaces. Understanding the performance impact of designs, threading, good UI design and scalability, will make you an ideal and successful candidate who will find reward in building robust software that can function 24/7 with no down time. The opportunity: 8 - 12 month work-term beginning Jan 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Participate in team meetings and discussions. Use GIT for source control. Develop software and refine features for C# .NET backend application. Develop UI components using TypeScript, Angular, React, HTML and CSS. Develop automated unit tests using XUnit in C#.&nbsp; Create database access code using SQL queries and Postgres database. Participate in peer reviews. Debugging and testing software. Write technical documentation. What you'll bring to the role: Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field. Strong communication, organization, and time management skills, as well as a willingness to learn and strong work ethic. Experience with&nbsp; React, Angular, JavaScript/TypeScript, HTML, CSS is an asset. Knowledge of backend systems such as C# .NET Core / .NET 7+. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we have systems, functions, programs and policies in place to support both in-person and virtual work. However, you are welcomed and encouraged to come into our beautiful, safe, clean offices as often as you like. When working from home, you are required to have a reliable internet connection with at least 50mb DL/10mb UL. Virtual work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology! &nbsp; We believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish \u2013 in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as well as accommodation policies and practices, please contact us at careers@geotab.com. By submitting a job application to Geotab Inc. or its affiliates and subsidiaries (",
       "level": "intern",
       "countries": [
         "ca"
@@ -589,34 +589,6 @@
       ]
     },
     {
-      "id": "4a45c2f7765a264a",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Intern - Software Developer Technician",
-      "location": "Quebec",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "8763ca919c8c5255",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "398bf227892816b3",
       "source": "workday",
       "company": "Manulife (Admin)",
@@ -710,6 +682,34 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "4a45c2f7765a264a",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Intern - Software Developer Technician",
+      "location": "Quebec",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "8763ca919c8c5255",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -855,6 +855,34 @@
       ]
     },
     {
+      "id": "6bfac37ac66598b0",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Embedded Software Engineer Co-op/Intern",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b63692cdb593a31b",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Reliability Test Automation Engineer (Co-op/Intern)",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "208ec147e806c236",
       "source": "workday",
       "company": "Altera",
@@ -911,12 +939,12 @@
       ]
     },
     {
-      "id": "6bfac37ac66598b0",
+      "id": "edb3648b056eba8c",
       "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software Engineer Co-op/Intern",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
+      "company": "CAE",
+      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -925,12 +953,54 @@
       ]
     },
     {
-      "id": "b63692cdb593a31b",
+      "id": "a2bbf0b96bef27b3",
       "source": "workday",
-      "company": "Lumentum",
-      "title": "Reliability Test Automation Engineer (Co-op/Intern)",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
+      "company": "CAE",
+      "title": "Stagiaire d\u00e9veloppeur de mat\u00e9riel de formation (simulateur de vol) /  Training Material Developer (Flight Simulator)\u00a0",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "edbae0fbe144d759",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "58f6060c7501d311",
+      "source": "workday",
+      "company": "CAE",
+      "title": "Stagiaire - Sp\u00e9cialiste de donn\u00e9es",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "85312f8265585656",
+      "source": "workday",
+      "company": "CAE",
+      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
+      "location": "Montreal (St. Laurent)",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1093,76 +1163,6 @@
       ]
     },
     {
-      "id": "edb3648b056eba8c",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a2bbf0b96bef27b3",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire d\u00e9veloppeur de mat\u00e9riel de formation (simulateur de vol) /  Training Material Developer (Flight Simulator)\u00a0",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "edbae0fbe144d759",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "58f6060c7501d311",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - Sp\u00e9cialiste de donn\u00e9es",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "85312f8265585656",
-      "source": "workday",
-      "company": "CAE",
-      "title": "C-GE-017 \u2013 Stagiaire d\u00e9veloppeur(se) de logiciels",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "da3419a6bee31ade",
       "source": "workday",
       "company": "NVIDIA",
@@ -1287,36 +1287,6 @@
       "term": null,
       "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
       "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "f1c987020398ba92",
-      "source": "ashby",
-      "company": "Solink",
-      "title": "Software Engineer Co-op, Apps",
-      "location": "Ottawa Office",
-      "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430",
-      "posted_at": "2026-10-14T19:36:35.405+00:00",
-      "term": null,
-      "description": "SOFTWARE ENGINEER CO-OP, APPS\n\n\nLocation: Ottawa, ON | Hybrid\nReports To: Xiaokun Xu, \nTerm: Jan 2027\nPay band: 52,000k-68,000k\n\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Core Applications and Data team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n   \n   Nice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\n\n\n\nWHY SOLINK?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun.\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Reference Checks\n\n 4. Offer & onboarding \ud83c\udf89\n    \n    Please note: this is subject to change at any point in the recruitment process based on the needs of the business.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume via our [Careers Page https://solink.com/careers/] or apply through your school co-op portal. Let us know what excites you about this role, and how you\u2019d help move Solink forward.\n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "15a9dda7b61cfd5e",
-      "source": "ashby",
-      "company": "Solink",
-      "title": "Software Engineer Co-op, Agents",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e",
-      "posted_at": "2026-10-19T16:15:40.512+00:00",
-      "term": null,
-      "description": "SOFTWARE ENGINEER CO-OP, AGENTS\n\n\nLocation: Ottawa, ON | Hybrid OR Remote| Canada\nReports To: Dan Murdock, Director, Engineering\nPay band: 55,000k-68,000k\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Agents team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You are comfortable working independently, motivated to take initiative, and willing to ask questions when you need guidance.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n\nNice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\nWhy Solink?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Offer & onboarding \ud83c\udf89\n\n\nPLEASE NOTE: THIS IS SUBJECT TO CHANGE AT ANY POINT IN THE RECRUITMENT PROCESS BASED ON THE NEEDS OF THE BUSINESS.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume through our [Careers Page https://solink.com/careers/] or your school portal \n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
-      "level": "intern",
       "countries": [
         "ca"
       ]
@@ -1588,6 +1558,36 @@
       ]
     },
     {
+      "id": "f1c987020398ba92",
+      "source": "ashby",
+      "company": "Solink",
+      "title": "Software Engineer Co-op, Apps",
+      "location": "Ottawa Office",
+      "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430",
+      "posted_at": "2026-10-14T19:36:35.405+00:00",
+      "term": null,
+      "description": "SOFTWARE ENGINEER CO-OP, APPS\n\n\nLocation: Ottawa, ON | Hybrid\nReports To: Xiaokun Xu, \nTerm: Jan 2027\nPay band: 52,000k-68,000k\n\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Core Applications and Data team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n   \n   Nice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\n\n\n\nWHY SOLINK?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun.\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Reference Checks\n\n 4. Offer & onboarding \ud83c\udf89\n    \n    Please note: this is subject to change at any point in the recruitment process based on the needs of the business.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume via our [Careers Page https://solink.com/careers/] or apply through your school co-op portal. Let us know what excites you about this role, and how you\u2019d help move Solink forward.\n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "15a9dda7b61cfd5e",
+      "source": "ashby",
+      "company": "Solink",
+      "title": "Software Engineer Co-op, Agents",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e",
+      "posted_at": "2026-10-19T16:15:40.512+00:00",
+      "term": null,
+      "description": "SOFTWARE ENGINEER CO-OP, AGENTS\n\n\nLocation: Ottawa, ON | Hybrid OR Remote| Canada\nReports To: Dan Murdock, Director, Engineering\nPay band: 55,000k-68,000k\n\n\n\nABOUT SOLINK\n\nAt Solink, our mission is to safeguard what matters most. We provide businesses with the tools to know sooner and act faster by transforming video security into real-time operational insights.\n\nOur cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.\n\nTrusted by over 36,000 locations across 60+ countries - including brands like McDonald\u2019s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.\n\nWe're growing rapidly, earning industry recognition, and scaling with purpose. We\u2019ve been recognized by Deloitte\u2019s Fast 50\u2122 and Fast 500\u2122, Business Intelligence Group, and as one of Ottawa\u2019s Best Places to Work. And we\u2019re just getting started!\n\n\n\n\nTHE ROLE\n\nWe are seeking a motivated Software Engineer Co-Op or Intern to join our R&D team. In this role, you\u2019ll gain hands-on experience in full-stack development, working on both front-end and back-end components of Solink\u2019s Agents team. You\u2019ll work closely with experienced developers, gaining insights into the development lifecycle and contributing to impactful projects in a fast-paced environment.\n\n\n\n\n\n\nWHAT YOU\u2019LL DO\n\n - You are supporting the development of new features, from initial design through to implementation, under the guidance of senior developers.\n\n - You are writing, testing, and debugging code to ensure high-quality software; you are participating in code reviews and helping to maintain coding standards.\n\n - You are collaborating with cross-functional teams, including product managers, to translate requirements into technical solutions.\n\n - You are assisting in documenting new features and enhancements to ensure ease of understanding and maintenance.\n\n - You are staying current with emerging technologies, tools, and trends; you are actively seeking feedback and opportunities for improvement.\n\n\n\n\n\nWHAT YOU BRING\n\nMust-Have:\n\n - You are currently enrolled in a Computer Science, Software Engineering, or related field, seeking a co-op or internship opportunity.\n\n - You have proficiency in TypeScript, or similar languages (TypeScript preferred)\n\n - You have familiarity with at least one front-end framework (e.g., React).\n\n - You have a basic understanding of back-end languages and frameworks (e.g. Node.js).\n\n - You demonstrate strong attention to detail, analytical skills, and a passion for quality.\n\n - You are comfortable working independently, motivated to take initiative, and willing to ask questions when you need guidance.\n\n - You have excellent communication skills and the ability to work well within a team.\n\n - You demonstrate a sense of ownership and are committed to supporting projects.\n\n - You have familiarity with Git and version control best practices.\n\n - You have an excellent command of the English language, both written and verbal.\n\n - You have analytical and problem-solving skills with the ability to troubleshoot complex issues and provide effective solutions.\n\n - You have a passion for technical challenges, a drive for success, and the ability to multitask and prioritize effectively.\n\nNice-to-Have:\n\n - You have exposure to cloud services (AWS, Google Cloud, etc.).\n\n - You have experience with REST APIs\n\n - You have experience in high-velocity startup or AI-first environments\n\n\n\n\nSECURITY REQUIREMENTS\n\n - Candidates must undergo a criminal records check upon hire;\n\n - Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;\n\n - Be willing to comply with Solink\u2019s own security policies and standards.\n\n\n\n\nOUR VALUES\n\nWe do things the Solink way:\n\n - Act with URGENCY \u2013 Our customers move fast, so we do too.\n\n - Deliver with QUALITY \u2013 We sweat the details and hold a high bar.\n\n - Win with TEAM \u2013 No egos. Just outcomes, built together.\n\n - Lead with TRUST \u2013 We earn it through clarity, consistency, and care.\n   \n\nThese aren\u2019t just words\u2014they shape how we hire, lead, and grow.\n\nWhy Solink?\n\nWe\u2019re not just building tech - we\u2019re building a place where great people do great work.\n\n - Clarity and trust: Where the role allows, we support flexibility in how and where work gets done - and we\u2019re upfront about what\u2019s required.\n\n - Meaningful equity: Every full-time, permanent employee has a stake in our growth.\n\n - Comprehensive benefits: Fully paid health & dental (no waiting period) + $500 health spending account.\n\n - Wellness support: Monthly reimbursement for fitness, wellness, or mental health programs.\n\n - Growth through merit: Advancement is based on contribution, initiative, and the ability to raise the bar - together.\n\n - Candid culture: Clear expectations, honest feedback, and no politics.\n\n - Social connection: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun\n\n\n\n\nWHAT TO EXPECT FROM THE HIRING PROCESS\n\nWe respect your time and value transparency. Here\u2019s a general idea of what to expect:\n\n 1. Intro call with our Talent Team\n\n 2. Interview with the Hiring Manager\n\n 3. Offer & onboarding \ud83c\udf89\n\n\nPLEASE NOTE: THIS IS SUBJECT TO CHANGE AT ANY POINT IN THE RECRUITMENT PROCESS BASED ON THE NEEDS OF THE BUSINESS.\n\n\n\n\nHOW TO APPLY\n\nSubmit your resume through our [Careers Page https://solink.com/careers/] or your school portal \n\n\nNOTICE: SOLINK USES ARTIFICIAL INTELLIGENCE (AI) TO SCREEN, ASSESS, AND/OR SELECT CANDIDATES FOR THIS POSITION.\n\n\n\n\nSOLINK IS AN EQUAL OPPORTUNITY EMPLOYER. WE\u2019RE COMMITTED TO BUILDING A DIVERSE AND INCLUSIVE WORKPLACE. IF YOU REQUIRE ACCOMMODATION DURING THE SELECTION PROCESS, PLEASE LET US KNOW.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "624082cb1ca32fe7",
       "source": "workday",
       "company": "Aptiv",
@@ -1781,6 +1781,36 @@
       ]
     },
     {
+      "id": "ab52712060a1c140",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Firmware Engineer (Internship) - Vancouver",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+      "posted_at": "2026-10-26T14:51:30-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "b79a35d0605cda4d",
+      "source": "greenhouse",
+      "company": "Astera Labs",
+      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
+      "posted_at": "2026-10-26T14:51:30-04:00",
+      "term": null,
+      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "8b5af961dac85fd0",
       "source": "workday",
       "company": "Cadence (University)",
@@ -1823,76 +1853,18 @@
       ]
     },
     {
-      "id": "ab52712060a1c140",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Firmware Engineer (Internship) - Vancouver",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-      "posted_at": "2026-10-26T14:51:30-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . Astera Labs is a global leader in purpose-built connectivity solutions that unlock the full potential of cloud and AI infrastructure. Our Intelligent Connectivity Platform integrates PCIe, CXL and Ethernet semiconductor-based solutions based on a software-defined architecture that is both scalable and customizable. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are flexible, interoperable, and reliable. We are headquartered in the heart of California\u2019s Silicon Valley, with R&amp;D centers and offices in Taiwan, China, Vancouver and Toronto, Canada, and Haifa, Israel. Job Description: The mission of this role is to architect and develop firmware and microcontroller subsystems for Astera Labs\u2019 SoC and systems products. Firmware is responsible for implementing the major differentiating features of Astera Labs\u2019 products. As such, firmware is considered equally important to the hardware, and the firmware team is often customer-facing accordingly to ensure the needs of the customer are fully comprehended. Basic qualifications: \u00b7 Strong academic and technical background taking Computer Science, Electrical/Electronics/Software Engineering or equivalent. \u00b7 Completed one or more Co-op terms of firmware or embedded software development. \u00b7 Completed one or more courses in Real Time Operating Systems (RTOS) or detailed use of an RTOS during a prior coop term or project. \u00b7 Professional attitude with the ability to formulate theories and well thought out questions as part of helping debug/develop complex systems. \u00b7 Authorized to work in Canada and available for 4 or more months. Required experience: \u00b7 Proficiency in C (preferred) or C++, including development of firmware. \u00b7 Proficient in Python for scripting. \u00b7 Experience with developer workflows, SCM (preferably git), code reviews, CI. \u00b7 Experience developing firmware to execute in on-chip microcontrollers. \u00b7 Experience debugging firmware/hardware issues using JTAG, trace logs, or other lab tools. Preferred experience: \u00b7 Knowledge of tools like PyTest or GoogleTest is an asset. \u00b7 Knowledge of software build environments, CI/CD, gcc/make is an asset \u00b7 Experience with lab hardware/firmware debug is an asset. \u00b7 Experience developing firmware for PCIe/CXL/Ethernet is an asset. A competitive coop compensation package will be provided. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "b79a35d0605cda4d",
-      "source": "greenhouse",
-      "company": "Astera Labs",
-      "title": "Platform Applications Engineer Intern (8-month Co-Op)",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
-      "posted_at": "2026-10-26T14:51:30-04:00",
-      "term": null,
-      "description": "Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs\u2019 Intelligent Connectivity Platform integrates CXL\u00ae, Ethernet, NVLink, PCIe\u00ae, and UALink\u2122 semiconductor-based technologies with the company\u2019s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company\u2019s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com . &nbsp; &nbsp; At Astera Labs, we design cutting-edge connectivity solutions that power the world\u2019s largest cloud service providers, server, and networking OEMs. As a Platform Application Engineer Intern , you\u2019ll play a pivotal role in building and supporting the platforms that enable these products to thrive in real-world deployments through. You\u2019ll create and maintain tools that make our products seamless to integrate, highly debuggable, and delightful to use for both customers and internal engineering teams. Your work will span software, systems, and silicon \u2013 developing automation, diving into labs with state-of-the-art equipment, and collaborating closely with customers to solve the toughest technical challenges. Beyond execution, you\u2019ll influence product direction by driving innovation, providing feedback to design teams, and streamlining validation and deployment processes. This is a high-impact, hands-on role at the intersection of hardware and software, where curiosity, creativity, and technical depth come together to define the next generation of datacenter infrastructure. Basic Qualifications &nbsp; Pursuing a Bachelor\u2019s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science Experience in software development with C, C++, C#, and/or Python. Entrepreneurial mindset with a customer-first attitude and a bias toward action Excellent written and oral communication Required Experience &nbsp;&nbsp; Comfort working with software/firmware associated with semiconductor products, such as; Firmware development with C-language, scripting with Python or other equivalent programming languages. Hands-on experience building, configuring, and troubleshooting computer systems, with a fundamental understanding of core components such as CPUs, GPUs, memory, storage, motherboards, PCIe devices, and how these components interact at the platform level. Preferred experience &nbsp; Firsthand experience with lab equipment such as protocol analyzers/exercisers, high-speed oscilloscopes, or BERTs. Triaging complex customer reported issues which require taking into account multiple layers of conditions; for instance, silicon, firmware, hardware board design, and system environment.&nbsp; Development/support for PCIe or Ethernet Switch or Retimer products.&nbsp; PCIe compliance testing methodology and troubleshooting.&nbsp; Understanding of Data Center systems like Servers, JBOGs/JBODs, Networking switches/routers/interconnects etc. &nbsp; We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "ebb4205472c18bbe",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "2027 Intern - Security Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "d58ae2006daa3319",
-      "source": "workday",
-      "company": "Sun Life (Experienced)",
-      "title": "Data Science Intern - Summer 2027 Intern",
-      "location": "Wellesley Hills, Massachusetts",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "cbeba5a4911f3345",
+      "id": "266480d0e9f61596",
       "source": "greenhouse",
       "company": "Stripe",
       "title": "Data Analyst, Intern",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-      "posted_at": "2026-10-22T09:15:17-04:00",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "posted_at": "2026-10-22T09:17:10-04:00",
       "term": null,
       "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don\u2019t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. &nbsp; About the team Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You'll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you\u2019ll do As an intern at Stripe you\u2019ll work on projects across our stack that directly impact the way millions of businesses operate. You\u2019ll own problems end to end with the support of your manager and teammates. It\u2019s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling. Our internship program is competitive and the expectations are high. &nbsp; Responsibilities Analyze data and running experiments to drive impact Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly Create metrics, reports, and dashboards to inform and run the business Extend Stripe\u2019s metrics semantic layer Build new data assets and improve existing data assets to support decision-making, products, and business processes Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly Present your work to the Data Science team, partner teams, and fellow interns &nbsp; Who you are Ambitious builder: You\u2019re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty. Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before. Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus. &nbsp; Minimum requirements Enrolled in a quantitative Bachelor\u2019s or Master's degree program (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development, analysis, and coding Experience communicating and collaborating with multidisciplinary stakeholders in a team environment &nbsp; Preferred qualifications Experience writing and debugging data pipelines Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -2046,34 +2018,6 @@
       ]
     },
     {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9303cf9eacaa9707",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "HOME CANADA_ON",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "8a265b43c786b1d3",
       "source": "greenhouse",
       "company": "DoorDash",
@@ -2164,6 +2108,34 @@
       ]
     },
     {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9303cf9eacaa9707",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "HOME CANADA_ON",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "591a4ce5b91f1d06",
       "source": "greenhouse",
       "company": "Instacart",
@@ -2176,6 +2148,20 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "d58ae2006daa3319",
+      "source": "workday",
+      "company": "Sun Life (Experienced)",
+      "title": "Data Science Intern - Summer 2027 Intern",
+      "location": "Wellesley Hills, Massachusetts",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2194,18 +2180,47 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2027 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "id": "ebb4205472c18bbe",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "2027 Intern - Security Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "posted_at": null,
       "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
+      ]
+    },
+    {
+      "id": "b941e2b8302cbc9c",
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Cooperative AI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9",
+      "posted_at": "2026-10-05T23:10:27.181+00:00",
+      "term": null,
+      "description": "About the Team\nThe Cooperative AI team is scaling OpenAI with OpenAI. We are building an AI powered knowledge system that evolves and learns as our products, systems and customers evolve. We leverage our state of the art models, technologies, and products (some external, some still in the lab) to assist or completely automate robust operations supporting both internal and external customers. We support OpenAI customers and internal partners globally, powering systems from customer support to integrity to product insights. We are a self-contained multi-disciplinary team, who enjoy a lightning fast feedback loop with customers at scale, some of whom sit just a few pods away. We iterate fast, and engineer for reliable long-term impact. We're constantly looking for the similarities and patterns in different types of work, and focus on building simple primitives, to apply world class knowledge to many domains.\n\n\nThe work of this team exemplifies use of OpenAI technologies. We build systems so everyone can see the leverage that is possible with well designed AI-based implementations. We do this by working through internal use cases focused on Customers (specifically knowledge systems, automation systems, and automated agent systems) to prove impact, then we scale.\n\n\nAbout the Role\n\nWe\u2019re looking for Software Engineers who're passionate about blending production-ready platform architecture with new tech and new paradigms. You\u2019ll push the boundaries of OpenAI\u2019s newest technologies to enable interactions and automations that are not only functional, but delightful. We value proactive, customer-centric engineers who can get the foundational details right (data models, architecture, security) in service of enabling great products.\n\n In this role, you will:\n\n - Own the end-to-end development lifecycle for new platform capabilities and integrations with other systems\n\n - Collaborate closely with engineers, data scientists, information systems architects, and internal customers to understand their problems and implement effective solutions\n\n - Work with product and research team to share relevant feedback and iterate on applying their latest models\n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b727e43f8c46af71",
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Backend Software Engineer, Cooperative AI (Evals) ",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+      "posted_at": "2026-10-05T23:10:59.808+00:00",
+      "term": null,
+      "description": "About the Team\n\nThe Support Automation team at OpenAI scales the organization by applying cutting-edge AI models to real-world challenges, automating and enhancing work across the organization. From customer operations to engineering, we develop an ecosystem of automation products that empower our colleagues and drive impact. We're passionate about crafting products that serve those around us, blending rapid prototyping with a focus on long-term quality and reliability. By creating reusable solutions, we create patterns that can be applied across diverse domains within OpenAI.\n\nTLDR: this team leverages OpenAI technology to improve OpenAI, and you\u2019ll have the opportunity to leverage the full extent of our tech (both public and pre-released) to accomplish this mission.\n\n\nAbout the Role\n\nWe\u2019re looking for a Backend Software Engineer with experience working in ML/LLM-heavy domains to help to design and build an evals infrastructure that measures the quality of OpenAI\u2019s support automation. This is a deeply technical and highly cross-functional role where you\u2019ll build robust systems and backend services that serve as the foundation for how knowledge is created, accessed, and applied across OpenAI. The role will especially focus on working closely with Data Science and Research partners to design and build evals at scale.\n\n\nIn this role, you will:\n\n - Design eval pipelines that are reliable, reproducible, and extendable\n\n - Build the infrastructure for continuous eval monitoring frameworks (regression/drift monitoring, building robust golden datasets) along with feedback loops that ultimately strengthen support automation\n\n - Design, build, and maintain backend services and APIs to support intelligent automation and knowledge systems\n\n - Integrate and structure data across internal platforms, transforming it into formats optimized for use by downstream systems and AI workflows.\n\n - Collaborate closely with data, research, and engineering teams to integrate OpenAI models into high-leverage workflows\n\n - Own the full development lifecycle of new backend systems and internal platform capabilities\n\n - Build with scale and maintainability in mind, while rapidly iterating on new ideas\n   \n\nYou might be a great fit if you have:\n\n - 4+ years of backend engineering experience at product-driven companies (excluding internships)\n\n - Proficiency in backend technologies. Our tech stack includes Python, FastAPI, and Postgres\n\n - Experience designing and scaling distributed systems, APIs, or data processing pipelines\n\n - Have experience building AI agents or applications, including designing evals and improving performance through prompting or scaffolding\n\n - Are familiar with evaluation methods for LLMs and have worked with patterns like multi-agent workflows, tool use, or long context.\n\n - Experience creating production evals and/or measuring performance of ML/LLM models at scale\n\n - A pragmatic mindset. You\u2019re comfortable shipping iteratively while building toward a long-term vision\n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2254,33 +2269,18 @@
       ]
     },
     {
-      "id": "b941e2b8302cbc9c",
-      "source": "ashby",
-      "company": "OpenAI",
-      "title": "Software Engineer, Cooperative AI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9",
-      "posted_at": "2026-10-05T23:10:27.181+00:00",
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2027 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
       "term": null,
-      "description": "About the Team\nThe Cooperative AI team is scaling OpenAI with OpenAI. We are building an AI powered knowledge system that evolves and learns as our products, systems and customers evolve. We leverage our state of the art models, technologies, and products (some external, some still in the lab) to assist or completely automate robust operations supporting both internal and external customers. We support OpenAI customers and internal partners globally, powering systems from customer support to integrity to product insights. We are a self-contained multi-disciplinary team, who enjoy a lightning fast feedback loop with customers at scale, some of whom sit just a few pods away. We iterate fast, and engineer for reliable long-term impact. We're constantly looking for the similarities and patterns in different types of work, and focus on building simple primitives, to apply world class knowledge to many domains.\n\n\nThe work of this team exemplifies use of OpenAI technologies. We build systems so everyone can see the leverage that is possible with well designed AI-based implementations. We do this by working through internal use cases focused on Customers (specifically knowledge systems, automation systems, and automated agent systems) to prove impact, then we scale.\n\n\nAbout the Role\n\nWe\u2019re looking for Software Engineers who're passionate about blending production-ready platform architecture with new tech and new paradigms. You\u2019ll push the boundaries of OpenAI\u2019s newest technologies to enable interactions and automations that are not only functional, but delightful. We value proactive, customer-centric engineers who can get the foundational details right (data models, architecture, security) in service of enabling great products.\n\n In this role, you will:\n\n - Own the end-to-end development lifecycle for new platform capabilities and integrations with other systems\n\n - Collaborate closely with engineers, data scientists, information systems architects, and internal customers to understand their problems and implement effective solutions\n\n - Work with product and research team to share relevant feedback and iterate on applying their latest models\n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
       "level": "intern",
       "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b727e43f8c46af71",
-      "source": "ashby",
-      "company": "OpenAI",
-      "title": "Backend Software Engineer, Cooperative AI (Evals) ",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
-      "posted_at": "2026-10-05T23:10:59.808+00:00",
-      "term": null,
-      "description": "About the Team\n\nThe Support Automation team at OpenAI scales the organization by applying cutting-edge AI models to real-world challenges, automating and enhancing work across the organization. From customer operations to engineering, we develop an ecosystem of automation products that empower our colleagues and drive impact. We're passionate about crafting products that serve those around us, blending rapid prototyping with a focus on long-term quality and reliability. By creating reusable solutions, we create patterns that can be applied across diverse domains within OpenAI.\n\nTLDR: this team leverages OpenAI technology to improve OpenAI, and you\u2019ll have the opportunity to leverage the full extent of our tech (both public and pre-released) to accomplish this mission.\n\n\nAbout the Role\n\nWe\u2019re looking for a Backend Software Engineer with experience working in ML/LLM-heavy domains to help to design and build an evals infrastructure that measures the quality of OpenAI\u2019s support automation. This is a deeply technical and highly cross-functional role where you\u2019ll build robust systems and backend services that serve as the foundation for how knowledge is created, accessed, and applied across OpenAI. The role will especially focus on working closely with Data Science and Research partners to design and build evals at scale.\n\n\nIn this role, you will:\n\n - Design eval pipelines that are reliable, reproducible, and extendable\n\n - Build the infrastructure for continuous eval monitoring frameworks (regression/drift monitoring, building robust golden datasets) along with feedback loops that ultimately strengthen support automation\n\n - Design, build, and maintain backend services and APIs to support intelligent automation and knowledge systems\n\n - Integrate and structure data across internal platforms, transforming it into formats optimized for use by downstream systems and AI workflows.\n\n - Collaborate closely with data, research, and engineering teams to integrate OpenAI models into high-leverage workflows\n\n - Own the full development lifecycle of new backend systems and internal platform capabilities\n\n - Build with scale and maintainability in mind, while rapidly iterating on new ideas\n   \n\nYou might be a great fit if you have:\n\n - 4+ years of backend engineering experience at product-driven companies (excluding internships)\n\n - Proficiency in backend technologies. Our tech stack includes Python, FastAPI, and Postgres\n\n - Experience designing and scaling distributed systems, APIs, or data processing pipelines\n\n - Have experience building AI agents or applications, including designing evals and improving performance through prompting or scaffolding\n\n - Are familiar with evaluation methods for LLMs and have worked with patterns like multi-agent workflows, tool use, or long context.\n\n - Experience creating production evals and/or measuring performance of ML/LLM models at scale\n\n - A pragmatic mindset. You\u2019re comfortable shipping iteratively while building toward a long-term vision\n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
-      "level": "intern",
-      "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -2914,6 +2914,20 @@
       ]
     },
     {
+      "id": "1aea44c2269fce9b",
+      "source": "workday",
+      "company": "Visa",
+      "title": "Data Science Intern, Data and AI Team \u2013 Summer 2027",
+      "location": "US - Foster City, CA",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "32e68123b1d0ac66",
       "source": "workday",
       "company": "Visa",
@@ -3046,20 +3060,6 @@
       "title": "Software Engineer, Intern - 2027 Austin, TX",
       "location": "US - Austin, TX",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1aea44c2269fce9b",
-      "source": "workday",
-      "company": "Visa",
-      "title": "Data Science Intern, Data and AI Team \u2013 Summer 2027",
-      "location": "US - Foster City, CA",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -5686,6 +5686,23 @@
       "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
       "posted_at": "2026-08-10T18:57:07+00:00",
       "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "e8ea505e418039dd",
+      "source": "simplify",
+      "company": "Rockwell Automation",
+      "title": "Embedded Software Engineer Co-op",
+      "location": "Mayfield Heights, OH",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473",
+      "posted_at": "2026-08-10T00:00:00+00:00",
+      "term": "Summer 2027; Spring 2027",
       "degrees": [
         "Bachelor's"
       ],
@@ -10091,6 +10108,23 @@
       ]
     },
     {
+      "id": "9b95359fe6c8473c",
+      "source": "simplify",
+      "company": "NXP Semiconductors",
+      "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
+      "location": "Austin, TX",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "b42c404e390051d7",
       "source": "simplify",
       "company": "Dick's Sporting Goods",
@@ -12725,23 +12759,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a76db4462ce9a901",
-      "source": "simplify",
-      "company": "AMD",
-      "title": "AI Model Optimization & Software Engineer Intern/Co-op",
-      "location": "Austin, TX",
-      "url": "https://careers.amd.com/jobs/92526?icims=1",
-      "posted_at": "2026-09-16T22:16:57+00:00",
-      "term": "Winter 2027; Summer 2027",
-      "degrees": [
-        "PhD"
       ],
       "level": "intern",
       "countries": [
@@ -15858,23 +15875,6 @@
       ]
     },
     {
-      "id": "5414b80d752164ec",
-      "source": "simplify",
-      "company": "Westinghouse Electric Company",
-      "title": "Fuel Engineering Data Analyst Intern",
-      "location": "Cranberry Township, PA",
-      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/?ats=successfactors",
-      "posted_at": "2026-10-08T22:27:27+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "1f025612009e0c85",
       "source": "simplify",
       "company": "Roblox",
@@ -16259,6 +16259,24 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "9ec90ef8653cf46b",
+      "source": "simplify",
+      "company": "Boston Scientific",
+      "title": "R&D Firmware Engineer Intern",
+      "location": "Arden Hills, MN",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547667",
+      "posted_at": "2026-10-13T14:15:57+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -16737,6 +16755,21 @@
         "Bachelor's",
         "Master's"
       ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "592988de13361f97",
+      "source": "simplify",
+      "company": "Tessera Labs",
+      "title": "Full Stack Software Engineer Intern - Full Stack",
+      "location": "San Jose, CA; Remote in USA; NYC",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true",
+      "posted_at": "2026-10-15T06:29:21+00:00",
+      "term": "Fall 2026; Spring 2027; Summer 2027",
+      "degrees": null,
       "level": "intern",
       "countries": [
         "us"
@@ -18269,23 +18302,6 @@
       ]
     },
     {
-      "id": "ecfc4e57cf36d642",
-      "source": "simplify",
-      "company": "CVS Health",
-      "title": "Innovation & Technology Internship - Data Engineering",
-      "location": "NYC",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
-      "posted_at": "2026-10-22T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "7f3d761c253cc036",
       "source": "simplify",
       "company": "JP Morgan Chase",
@@ -19140,41 +19156,6 @@
       "title": "Developer Intern - RBC Amplify",
       "location": "Montreal, QC, Canada",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
-      "posted_at": "2026-10-26T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "f1500b0b5f829a4b",
-      "source": "simplify",
-      "company": "Royal Bank of Canada",
-      "title": "Data Engineer Intern",
-      "location": "Halifax Regional Municipality, NS, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1",
-      "posted_at": "2026-10-26T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD",
-        "Associate's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "dbe946b0c959b666",
-      "source": "simplify",
-      "company": "Royal Bank of Canada",
-      "title": "Developer Intern",
-      "location": "Bedford, NS, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1",
       "posted_at": "2026-10-26T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": null,
@@ -20085,6 +20066,261 @@
       "title": "Embedded Software Engineer Intern",
       "location": "Goleta, CA",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "d0ce4a939f8407ce",
+      "source": "simplify",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "location": "Azusa, CA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "e25c5f7970846dfc",
+      "source": "simplify",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "location": "Boulder, CO",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "19a48711b248107a",
+      "source": "simplify",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "location": "Colorado Springs, CO",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "b31efeec2b306708",
+      "source": "simplify",
+      "company": "CSAA Insurance Group",
+      "title": "Data Science Intern",
+      "location": "Phoenix, AZ",
+      "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "dd4a3221ebdc6084",
+      "source": "simplify",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl",
+      "location": "NYC",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
+      "posted_at": "2026-10-27T22:12:45+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "82a8c04263e3cd19",
+      "source": "simplify",
+      "company": "Commonwealth Fusion Systems",
+      "title": "Scientific Software Engineer Intern",
+      "location": "Devens, MA",
+      "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply",
+      "posted_at": "2026-10-27T22:06:36+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5ef1d9a8c47596a4",
+      "source": "simplify",
+      "company": "Amazon",
+      "title": "Database Engineer Intern",
+      "location": "Seattle, WA; East Palo Alto, CA",
+      "url": "https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
+      "posted_at": "2026-10-27T22:04:13+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "706eaa942ca4de4a",
+      "source": "simplify",
+      "company": "JM Family",
+      "title": "Data Engineer Intern",
+      "location": "Deerfield Beach, FL",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "10309d1a001ccf7e",
+      "source": "simplify",
+      "company": "Great American Insurance Company",
+      "title": "Data Engineer Intern",
+      "location": "Cincinnati, OH",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "458433e14b98822e",
+      "source": "simplify",
+      "company": "Great American Insurance Company",
+      "title": "Claims Lab Developer Intern",
+      "location": "Cincinnati, OH",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "dc5f91158e6117f1",
+      "source": "simplify",
+      "company": "Paccar",
+      "title": "Data Engineer Intern",
+      "location": "Chillicothe, OH",
+      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors",
+      "posted_at": "2026-10-27T22:33:34+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "c7428c4560175434",
+      "source": "simplify",
+      "company": "Sonos",
+      "title": "Software Engineer Intern",
+      "location": "Seattle, WA",
+      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "fa0bf465b8f7079a",
+      "source": "simplify",
+      "company": "CACI",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Sarasota, FL",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "8ecb041e841434ae",
+      "source": "simplify",
+      "company": "onsemi",
+      "title": "Customer Operations Data Analyst Intern",
+      "location": "Scottsdale, AZ",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070",
+      "posted_at": "2026-10-27T22:32:31+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "acde4ab231b8eda7",
+      "source": "simplify",
+      "company": "Assurant",
+      "title": "AI and Data Science Intern",
+      "location": "Atlanta, GA",
+      "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105",
       "posted_at": "2026-10-27T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
@@ -23337,23 +23573,6 @@
       ]
     },
     {
-      "id": "cc1f55dd8e35426d",
-      "source": "simplify-newgrad",
-      "company": "Lowe's",
-      "title": "Associate Software Engineer - Launchpad",
-      "location": "Charlotte, NC",
-      "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559",
-      "posted_at": "2026-09-14T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ded1a6ba2fe787b7",
       "source": "simplify-newgrad",
       "company": "Lowe's",
@@ -24206,6 +24425,24 @@
       ]
     },
     {
+      "id": "6313f500ccf631a4",
+      "source": "simplify-newgrad",
+      "company": "Otter.ai",
+      "title": "Software Engineer New Grad - Front-End",
+      "location": "Mountain View, CA",
+      "url": "https://otter.ai/careers?gh_jid=8016078003",
+      "posted_at": "2026-10-07T22:14:53+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "a1a9f968ff211cc9",
       "source": "simplify-newgrad",
       "company": "Chalk",
@@ -24454,24 +24691,6 @@
       "title": "SoC Software Engineer New Grad",
       "location": "Santa Clara, CA",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
-      "posted_at": "2026-10-13T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6a0919b3ddb2da96",
-      "source": "simplify-newgrad",
-      "company": "NVIDIA",
-      "title": "SoC Software Engineer New Grad",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
       "posted_at": "2026-10-13T00:00:00+00:00",
       "term": null,
       "degrees": [
@@ -25315,23 +25534,6 @@
       ]
     },
     {
-      "id": "a00175ab588c8fd0",
-      "source": "simplify-newgrad",
-      "company": "Ciena",
-      "title": "Software Engineer New Grad - Security",
-      "location": "Atlanta, GA",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1",
-      "posted_at": "2026-10-26T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "1e267298d15e30bc",
       "source": "simplify-newgrad",
       "company": "The Home Depot",
@@ -25407,6 +25609,171 @@
       "posted_at": "2026-10-27T14:14:55+00:00",
       "term": null,
       "degrees": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "61242f2315920103",
+      "source": "simplify-newgrad",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Huntsville, AL",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "885219fa28dc0264",
+      "source": "simplify-newgrad",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Colorado Springs, CO",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "6d2dacd841ab097e",
+      "source": "simplify-newgrad",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Azusa, CA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "c28e0c85f472a9fb",
+      "source": "simplify-newgrad",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Boulder, CO",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "ce3d8ddea1a88d39",
+      "source": "simplify-newgrad",
+      "company": "GE Vernova",
+      "title": "AI Engineer New Grad",
+      "location": "Greenville, SC",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "441568d6930782dc",
+      "source": "simplify-newgrad",
+      "company": "GE Vernova",
+      "title": "AI Engineer New Grad",
+      "location": "Greenville, SC",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-AI-Engineer_R5057133-1",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "81f3a2743bc283a1",
+      "source": "simplify-newgrad",
+      "company": "Resurgent Industries",
+      "title": "Entry-Level Embedded Firmware and Controls Engineer Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf/application?embed=true",
+      "posted_at": "2026-10-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "189c43d9fa243a40",
+      "source": "simplify-newgrad",
+      "company": "SambaNova Systems",
+      "title": "ML Infrastructure Engineer New Grad",
+      "location": "Austin, TX; San Jose, CA",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
+      "posted_at": "2026-10-27T19:24:46+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "eaf9e724f552fd5e",
+      "source": "simplify-newgrad",
+      "company": "ServiceNow",
+      "title": "Software Engineer New Grad - AI/ML",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
+      "posted_at": "2026-10-26T19:44:17+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
       "level": "newgrad",
       "countries": [
         "us"
