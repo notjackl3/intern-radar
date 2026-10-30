@@ -1,26 +1,512 @@
 [
   {
-    "id": "6276b37ee7c50615",
-    "source": "greenhouse",
-    "company": "Geotab",
-    "title": "Data Analyst Intern (Winter/January 2027, 12 Months)",
-    "location": "Burnaby, British Columbia - Canada; Oakville, Ontario - Canada; Toronto, Ontario - Canada",
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008",
-    "posted_at": "2026-10-29T16:34:40-04:00",
-    "term": null,
-    "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. &nbsp; Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes. &nbsp; Our team is growing and we\u2019re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it\u2019s like to be a Geotabber, check out our&nbsp; blog &nbsp;and follow us @InsideGeotab on&nbsp; Instagram .&nbsp; Who you are: We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking a Data Governance &amp; Operations Data Analyst Intern to help keep the company's most important data accurate, trusted and easy to use. You will work with large datasets to find patterns, check quality and answer business questions. If you love technology, and are keen to join an industry leader, we would love to hear from you! What you'll do: The Global Data Operations &amp; Governance (GDOG) team owns the certified metrics, scheduled data pipelines and data standards that teams across Geotab rely on. As an intern you will help build, check and maintain those data assets using SQL and statistical tools. On a typical day you will work closely with your manager and a team member who guides your focus area, alongside the other interns on the team and partner teams across the business. The successful candidate is an analytical problem solver who enjoys diving into data, is excited about investigations, can multi-task, and can credibly interface between technical teams and others. The opportunity: 12-month work-term beginning January 2027. Full-time, paid internship: Monday - Friday,&nbsp;37.5hrs/week. Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click&nbsp; here &nbsp;to learn more! Learn more about the Geotab Campus Program&nbsp; here . This posting is for an existing vacancy. How you'll make an impact: Work with the GDOG team and partner teams (such as Revenue Operations, Finance and Marketing) to deliver accurate, consistent data. Use AI coding assistants (such as Claude Code or Codex) every day to write and review SQL and Python, build reports, automate data quality checks and pipeline monitoring, and draft documentation, then check and own what they produce. Check data quality at every stage: sourcing, collection, normalization and transformation. Reconcile numbers between systems and explain any gaps. Help monitor scheduled data pipelines, investigate failures and document the cause and fix. Help apply data standards: table and column descriptions, labels, and documentation so data is easy to find and trust. Build and maintain reports and dashboards in Superset and Google Sheets so teams can answer their own questions. Take on focused analysis projects assigned by your manager, and present findings to the team. Provide leaders with clear, reliable insight to support data-driven decisions. What you'll bring to the role: Degree in Computer Science, Engineering, Mathematics, or a related field of study in progress. Some experience as a Data Analyst or pursuing a career path in Data Analytics/Data Science. Technical experience using SQL, Python or Google BigQuery is required. Demonstrated hands-on experience using AI coding assistants such as Claude Code or Codex to build real work (for example analyses, scripts, automations or dashboards). Be ready to show examples and explain how you directed the tool and verified its output. Good judgment with AI-generated work: you test results, catch errors and never ship output you cannot explain. Experience applying Large Language Models (e.g., Gemini, Claude) to analyze unstructured data and to speed up documentation and analysis. Experience, or a strong track record of experimenting, with AI agents and agentic workflows to automate tasks like data quality checks, monitoring and reporting. Knowledge of data warehousing, data modeling, statistical analysis, reporting, and data analysis. Attention to detail and comfort checking your own work and other people's numbers. Some knowledge of data visualization tools (e.g. Superset, Tableau). Strong communication, organization, analytical, and time management skills, as well as a willingness to learn and a strong work ethic. Technical competence using software programs, including but not limited to, Google Suite for business (Sheets, Docs, Slides). Experience developing machine learning models is an asset. If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply. &nbsp; Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees. How we work: At Geotab, we have adopted a&nbsp;flexible hybrid&nbsp;working model in that we",
+    "id": "9ef82076b0b19809",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineer Intern",
+    "location": "Woodland Hills, LA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
+    "posted_at": "2026-10-29T22:37:16+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "7bd529e2763a5bc4",
+    "source": "simplify",
+    "company": "Overland AI",
+    "title": "Software Engineering Intern",
+    "location": "Seattle, WA",
+    "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e",
+    "posted_at": "2026-10-29T22:36:12+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "8ec394d0155efa5b",
+    "source": "simplify",
+    "company": "Qualcomm",
+    "title": "AI Software Engineering Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721862429",
+    "posted_at": "2026-10-29T22:24:34+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
     "level": "intern",
     "countries": [
       "ca"
     ]
   },
   {
-    "id": "737b80f4ef7c15ca",
+    "id": "58e7bb0f7ffacded",
+    "source": "simplify",
+    "company": "Qualcomm",
+    "title": "AI Software Systems Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721862430",
+    "posted_at": "2026-10-29T22:24:34+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "43b0000180f289ba",
+    "source": "simplify",
+    "company": "Qualcomm",
+    "title": "Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems",
+    "location": "Markham, ON, Canada",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721858024",
+    "posted_at": "2026-10-29T22:24:34+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "0bb1c8382728c480",
+    "source": "simplify",
+    "company": "Loft Orbital",
+    "title": "Test Engineering Intern - Test Engineering",
+    "location": "Golden, CO",
+    "url": "https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply",
+    "posted_at": "2026-10-29T22:24:27+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e9d91252ebd72489",
+    "source": "simplify-newgrad",
+    "company": "Zoox",
+    "title": "Contract Student Worker - Software Engineer",
+    "location": "Foster City, CA; San Diego, CA",
+    "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d/apply",
+    "posted_at": "2026-10-29T22:23:53+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a6424aba34d479f6",
+    "source": "simplify",
+    "company": "GM financial",
+    "title": "Data Engineer Intern",
+    "location": "Arlington, TX",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197",
+    "posted_at": "2026-10-29T22:13:41+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "c2f531580384c6c9",
+    "source": "simplify",
+    "company": "Golden Analytics",
+    "title": "Software Engineer Intern",
+    "location": "Bellevue, WA",
+    "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5",
+    "posted_at": "2026-10-29T22:13:03+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "f88eba839e928743",
+    "source": "simplify",
+    "company": "Path Robotics",
+    "title": "Machine Learning & Robotics Intern",
+    "location": "Columbus, OH",
+    "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002",
+    "posted_at": "2026-10-29T19:09:24+00:00",
+    "term": "Spring 2027; Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "2231124cc63572b5",
+    "source": "simplify-newgrad",
+    "company": "Thoughtworks",
+    "title": "Associate Developer",
+    "location": "Toronto, ON, Canada",
+    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236",
+    "posted_at": "2026-10-29T10:41:43+00:00",
+    "term": null,
+    "degrees": null,
+    "level": "newgrad",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "43b25e6f2839f528",
+    "source": "simplify-newgrad",
+    "company": "Thoughtworks",
+    "title": "Software Developer New Grad",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235",
+    "posted_at": "2026-10-29T10:41:38+00:00",
+    "term": null,
+    "degrees": null,
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e58681c35b689348",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "Associate AI Engineer Intern",
+    "location": "Overland Park, KS",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "746d4b32f8f90467",
+    "source": "simplify",
+    "company": "Sun Life",
+    "title": "Data Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Winter 2027; Summer 2027; Fall 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "c35afdffbfc7ee98",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Sterling, VA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "2c657a9f1b000ea0",
+    "source": "simplify-newgrad",
+    "company": "Northrop Grumman",
+    "title": "Associate Data Scientist - Pathways",
+    "location": "Aurora, CO",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "ab219b19405d9ee0",
+    "source": "simplify-newgrad",
+    "company": "Morningstar",
+    "title": "Associate Software Engineer - Central Tech AI",
+    "location": "Chicago, IL",
+    "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "b86377a47b79995d",
+    "source": "simplify",
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "bd72a407d66cb489",
+    "source": "simplify",
+    "company": "Great American Insurance Company",
+    "title": "DevOps Developer Intern",
+    "location": "Cincinnati, OH",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e9e6a131ba4a7bcc",
+    "source": "simplify",
+    "company": "Great American Insurance Company",
+    "title": "Content Publishing Developer Intern",
+    "location": "Cincinnati, OH",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "5ff78d5534e33b59",
+    "source": "simplify",
+    "company": "Centene",
+    "title": "AI Engineer Intern",
+    "location": "Missouri",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Engineer-Intern--Undergraduate---Summer-2027-_1667739",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "34a1b72323f9ec92",
+    "source": "simplify",
+    "company": "CareSource",
+    "title": "AI Intern",
+    "location": "Remote in USA",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a88a9e91dfc0c0ae",
+    "source": "simplify",
+    "company": "CareSource",
+    "title": "Full Stack AI Development Intern",
+    "location": "Remote in USA",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "9341cae474c91e6e",
+    "source": "simplify",
+    "company": "Axiom Space",
+    "title": "Enterprise Data Analyst Intern - Power BI & Data Quality",
+    "location": "Houston, TX",
+    "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "9ea1b69a8c97c0ad",
+    "source": "simplify",
+    "company": "Garda Capital Partners",
+    "title": "Software Engineer Intern - C#",
+    "location": "Wayzata, MN",
+    "url": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004",
+    "posted_at": "2026-10-28T21:48:35+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "6152275148ee71f2",
+    "source": "simplify",
+    "company": "Tyler Technologies",
+    "title": "Software Development Intern",
+    "location": "Troy, MI; Overland Park, KS",
+    "url": "https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false",
+    "posted_at": "2026-09-28T22:24:26+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a05ae841f7bebadd",
+    "source": "simplify-newgrad",
+    "company": "Moog ",
+    "title": "Associate Software Engineer",
+    "location": "Santa Barbara, CA",
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229",
+    "posted_at": "2026-04-23T22:06:18+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "7ab4bda2a0ba68d3",
     "source": "workday",
-    "company": "SOTI (Next-Gen)",
-    "title": "Software Developer Intern - SOTI XSight (May 2027 12 Months)",
-    "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
+    "company": "NVIDIA",
+    "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
+    "location": "US, TX, Austin",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e1416cdb59c51431",
+    "source": "workday",
+    "company": "NVIDIA",
+    "title": "Compiler Software Engineering Intern - Summer 2027",
+    "location": "US, WA, Redmond",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "b3316eaab1cde642",
+    "source": "workday",
+    "company": "General Motors",
+    "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "2f59c2d072a86458",
+    "source": "workday",
+    "company": "Altera",
+    "title": "Software Engineer - Factory Apps - Intern",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
     "posted_at": null,
     "term": null,
     "level": "intern",
