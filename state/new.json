@@ -1,30 +1,455 @@
 [
   {
-    "id": "32ed6aac3f99f52f",
-    "source": "workday",
-    "company": "BlackBerry (Student)",
-    "title": "Software Development Student",
-    "location": "Ottawa, Ontario",
-    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343",
-    "posted_at": null,
-    "term": null,
+    "id": "e2bbf34688e9dddc",
+    "source": "simplify",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern",
+    "location": "Redmond, WA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "posted_at": "2026-11-03T23:35:11+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
     "level": "intern",
     "countries": [
-      "ca"
+      "us"
     ]
   },
   {
-    "id": "e1aa5ef144e5c612",
-    "source": "workday",
-    "company": "BlackBerry (Student)",
-    "title": "Software Developer Student",
-    "location": "Ottawa, Ontario",
-    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342",
-    "posted_at": null,
-    "term": null,
+    "id": "18628108e1a3ca31",
+    "source": "simplify",
+    "company": "Commonwealth Fusion Systems",
+    "title": "Software Engineer Intern",
+    "location": "Devens, MA",
+    "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply",
+    "posted_at": "2026-11-03T23:25:42+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
     "level": "intern",
     "countries": [
-      "ca"
+      "us"
+    ]
+  },
+  {
+    "id": "84238c0c04f47b3a",
+    "source": "simplify",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7703899923206867205",
+    "posted_at": "2026-11-03T23:24:16+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "8f3c4ab3c6809633",
+    "source": "simplify",
+    "company": "American Express",
+    "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+    "location": "Phoenix, AZ",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
+    "posted_at": "2026-11-03T23:22:23+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "788977e67a2ff0ab",
+    "source": "simplify",
+    "company": "Staples",
+    "title": "Software Engineer Intern - SDS e-Commerce Team",
+    "location": "Framingham, MA",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133",
+    "posted_at": "2026-11-03T23:07:32+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "5acd52058eb7a95b",
+    "source": "simplify-newgrad",
+    "company": "Amazon",
+    "title": "Software Development Engineer \u2013 Early Career - Embedded Systems",
+    "location": "Seattle, WA; Cupertino, CA; United States",
+    "url": "https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us",
+    "posted_at": "2026-11-03T23:05:58+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "72cb724b6a7ec1fd",
+    "source": "simplify-newgrad",
+    "company": "L3Harris Technologies",
+    "title": "Associate Software Engineering",
+    "location": "Palm Bay, FL",
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1447244000/?ats=successfactors",
+    "posted_at": "2026-11-03T23:04:27+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d629512391f1de55",
+    "source": "simplify",
+    "company": "Jomboy Media",
+    "title": "Business Intelligence Intern",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009",
+    "posted_at": "2026-11-03T21:17:21+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "4ad5613cf5d47ae4",
+    "source": "simplify-newgrad",
+    "company": "Skyward",
+    "title": "Software Engineer \u2013 Entry Level",
+    "location": "Stevens Point, WI",
+    "url": "https://jobs.smartrecruiters.com/Skyward1/744000159491899",
+    "posted_at": "2026-11-03T20:40:33+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "8caa2554b5d8d4ea",
+    "source": "simplify",
+    "company": "Nex",
+    "title": "Software Engineer Intern - Sports & Fitness - Game Development",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
+    "posted_at": "2026-11-03T17:55:13+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "371891c7202bb045",
+    "source": "simplify",
+    "company": "First Citizens BancShares",
+    "title": "Applied AI Intern",
+    "location": "Raleigh, NC",
+    "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1",
+    "posted_at": "2026-11-03T17:02:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "c8fe3fb412e1def3",
+    "source": "simplify",
+    "company": "Zebra Technologies",
+    "title": "Software Engineer Intern",
+    "location": "Holtsville, NY",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "584ff8e6e5583f67",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "T-Ads Software Engineer Intern",
+    "location": "Philadelphia, PA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "f1641ddebfe9bb41",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "location": "Atlanta, GA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "f5684b3d95c77bf9",
+    "source": "simplify",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "West Valley City, UT",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "e43730e8c11b4fd8",
+    "source": "simplify-newgrad",
+    "company": "RELX",
+    "title": "Software Engineer 1 New Grad - Software Engineer I",
+    "location": "Alpharetta, GA",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "48d0871e646a5b72",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Flight Software Engineer Intern",
+    "location": "Manhattan Beach, CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "d36eba3f2784fbbc",
+    "source": "simplify",
+    "company": "Northrop Grumman",
+    "title": "Ground Software Engineer Intern",
+    "location": "Redondo Beach, CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "48be0e444be6de9b",
+    "source": "simplify-newgrad",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Software Engineer 1 New Grad - Software Engineer I",
+    "location": "Alpharetta, GA",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "b226908e6d27ff15",
+    "source": "simplify",
+    "company": "Highmark Health",
+    "title": "Healthcare Analytics Data Science Graduate Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "17d2613620b7171c",
+    "source": "simplify",
+    "company": "Highmark Health",
+    "title": "AI Services and Platforms Software Engineer Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "8e2e7ab6c9f96b3e",
+    "source": "simplify",
+    "company": "CareSource",
+    "title": "Data Science Intern",
+    "location": "Remote in USA",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "766a63e11dab0c92",
+    "source": "simplify",
+    "company": "Arrowstreet Capital",
+    "title": "Software Engineer Intern",
+    "location": "Boston, MA",
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "4e68625de42b4a29",
+    "source": "simplify",
+    "company": "Signet Jewelers",
+    "title": "Data Analytics Intern",
+    "location": "Akron, OH",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317",
+    "posted_at": "2026-11-02T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "14760335858b660f",
+    "source": "simplify",
+    "company": "Signet Jewelers",
+    "title": "Data Analytics Intern",
+    "location": "Akron, OH",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1",
+    "posted_at": "2026-11-02T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "cec9e4a010c90e6a",
+    "source": "simplify",
+    "company": "Dell Technologies",
+    "title": "Software Engineer Intern - Client Solutions Group Engineering",
+    "location": "Austin, TX",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
+    "posted_at": "2026-09-10T01:03:35+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
     ]
   }
 ]
