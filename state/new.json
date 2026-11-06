@@ -1,15 +1,145 @@
 [
   {
-    "id": "a475040c4483c813",
+    "id": "b088ee8e4396cfa1",
     "source": "greenhouse",
-    "company": "Samsara",
-    "title": "Software Engineering Internship - San Francisco ",
-    "location": "San Francisco - SF9",
-    "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
-    "posted_at": "2026-11-06T11:29:49-05:00",
+    "company": "Brave",
+    "title": "Software Engineering Intern - Waterloo University - Winter Session",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/brave/jobs/8360001",
+    "posted_at": "2026-11-06T14:24:41-05:00",
     "term": null,
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role: At Samsara, interns can work on a wide range of high-impact engineering challenges across our connected operations platform. Depending on the team, an intern may help build the backend infrastructure that powers our IoT platform, scaling data ingestion and storage systems that support over 15,000 hardware assets and tens of thousands of customers around the world. They may also work across the full stack, creating intuitive user experiences that turn data into actionable insights, while partnering closely with product and design to rapidly iterate on features that deliver real customer value. On the mobile side, an intern could help strengthen the infrastructure behind our React Native app, enabling feature teams to move quickly and build performant, maintainable products. For those focused on embedded software, projects may include building and maintaining software that runs directly on Samsara hardware, spanning areas like edge AI, multimedia frameworks, power management, and real-time data processing in demanding real-world environments.&nbsp; Throughout the interview process, we will dig into your past experience, what you are most interested in learning next, and where you would be the best fit across our engineering teams. Our engineering teams use Golang for backend development, TypeScript and React for the web client, GraphQL for data access, and React Native for mobile development. Direct experience with this exact stack is not required, but experience with similar technologies is strongly encouraged.&nbsp; You should apply if\u2026 You want to impact the industries that run our world. The software you build will help keep the lights on, get food into grocery stores, and - most importantly - ensure workers return home safely. You want to build for scale. You'll work on technology that powers physical operations at a scale most engineers never experience. You believe customers are more than a number. Our engineers are deeply invested in our customers and the daily problems they face. They visit customers in person to understand not just how Samsara helps them today, but where our products need to go next. You\u2019ll participate in customer interviews, collaborate with success and product teams, and use metrics to ensure your work translates into real outcomes. You're curious and self-driven. You challenge yourself outside of class - hackathons, side projects, tearing apart how something works just because you want to understand it. You move fast, embrace new technology, and treat learning as constant. You're drawn to hard problems and own them end to end. You dig into complexity, research it thoroughly, and find the simplest solution that works - then see it through, holding yourself to a high standard along the way. You're AI-forward. You've woven AI into how you work, whether that's accelerating debugging, drafting code, or exploring unfamiliar problem spaces faster. You're quick to experiment and always looking for smarter ways to build. You're a collaborator. You work well independently and across cross-functional teams, and you're motivated by winning together, not just individually. Minimum requirements Currently a junior-year student on track to complete a Bachelor\u2019s degree in Computer Science, Mathematics, Software Engineering, Physics, or Data Science between Spring/Summer/Fall 2028 or Winter 2029. This internship is hybrid: 3 days per week in our San Francisco, CA office. Relocation assistance is available. This internship is a full-time, paid experience - interns are expected not to be enrolled in school full-time while working at Samsara. In your application: Include your resume Answer all of the application questions We\u2019re reviewing applications on a rolling basis, and we expect to finalize our cohort by late November/early December. Applications will officially close on November 26th at 11:59pm (ET). Please do not email us to inquire about the status of your application. We know that applying for internships can be time-consuming, and we truly appreciate your effort. We\u2019re looking forward to learning more about you through your application. The compensation range shown spans approved pay zones for this role. Your primary work location determines the range applicable to you, which may be narrower than the full range displayed. The range of hourly base salary for this position is below. Please note that base hourly pay may vary depending on factors including your city of residence, job-related knowledge, skills, and experience.&nbsp; Hourly Base Salary $61.90 &mdash; $61.90 USD Total Rewards At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-gr",
+    "description": "Software Development Interns - Waterloo University Remote - Winter Session About Brave Brave is on a mission to protect the human right to privacy online. We\u2019ve built a free web browser that blocks creepy ads and trackers by default, a private search engine with a truly independent index, private AI assistant, latest privacy and security features, and a private ad network (opt-in!) that directly rewards you for your attention. Already over 120 million people regularly use Brave for a faster, more private web. Millions more switch every month. The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us what\u2019s true and what\u2019s not. Brave is fighting back. Join us! Brave is hiring 2 Software Engineer interns this fall from Waterloo University to assist adding AI, security and privacy features to our products.&nbsp; Software Developer Co-op - Internship Role One Contribute to the design, development, and maintenance of data-intensive systems and AI-powered services.&nbsp; Key responsibilities include: Build and maintain ETL pipelines for ingesting, transforming, and loading structured and unstructured data across internal systems Develop backend services and tooling in Python and TypeScript to support data processing workflows and API integrations Integrate and optimize LLM inference pipelines, including prompt engineering, model serving, and evaluation of large language model outputs Deploy and manage containerized workloads on Kubernetes, including writing manifests, configuring autoscaling, and troubleshooting cluster issues Collaborate with cross-functional teams to improve data quality, pipeline reliability, and system observability Software Developer (Privacy) Co-op - Internship Role 2 Contribute to the design, development, and shipping of privacy and security features in the Brave browser (based on Chromium). Key responsibilities include: Prototype, implement, and ship privacy-enhancing features end-to-end in C++ or Rust for the Brave browser Build browser-native privacy protections privacy-enhancing permissions and anti-fingerprinting defenses Navigate and contribute to an extremely large, complex codebase, applying knowledge of the Web security model and Chromium's architecture Work with Web technologies (HTML, CSS, JavaScript) to develop and validate browser features Collaborate async with a geographically-distributed, open source team using Git and GitHub Working at Brave - What we offer Ability to work remotely at an exciting and well-funded international startup headquartered in San Francisco Cutting-edge technology, allowing you to work with state-of-the-art tools and software solutions Competitive compensation of $6000.00 per month for 4 months. Great international exposure and team atmosphere If you are currently a student at Waterloo University, we would love to hear from you.&nbsp; We offer flexible schedules to accommodate your studies.&nbsp;&nbsp;",
     "level": "intern",
+    "countries": [
+      "ca"
+    ]
+  },
+  {
+    "id": "e57b287ec9f09d7a",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Controllership Intern",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8357739",
+    "posted_at": "2026-11-06T14:05:05-05:00",
+    "term": null,
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the teams Stripe\u2019s Controllership organization is responsible for the accurate and timely recording of Stripe\u2019s business activities, the integrity of our financial reporting, and the scalable processes and controls that support our growth. We partner across Finance, Product, Engineering, Operations, Sales, Legal, Tax, Treasury, and Internal Audit to understand Stripe\u2019s products and operations, resolve complex financial issues, and maintain a strong control environment. We are hiring four Controllership Interns, with one role on each of the following teams: Accounts Receivable (AR), Controls, Product Accounting, and Corporate Accounting. In any placement, you\u2019ll work with experienced teammates and cross-functional partners on meaningful accounting, data, systems, controls, or process-improvement work. Accounts Receivable (AR) supports invoicing, collections, cash application, and related financial operations through scalable, accurate, and auditable processes. Controls supports Stripe\u2019s internal-control environment by documenting and assessing processes, identifying risks, supporting control testing, and helping teams design sustainable improvements. Product Accounting supports Stripe\u2019s products by understanding their financial-data flows, evaluating accounting implications, and developing scalable processes Corporate Accounting supports Stripe\u2019s close, financial reporting, corporate accounting processes, and control environment What you\u2019ll do We\u2019re looking for graduate students who want to deliver outsized impact while accelerating their growth in a fast-paced, dynamic environment. You\u2019ll apply classroom learning to important accounting and financial-data problems at an industry leader in fintech. You\u2019ll support meaningful work with an impact on Stripe and its users, and collaborate with cross-functional stakeholders. Depending on your placement, you may: Support core Controllership activities based on your placement, including accounts receivable operations, monthly and quarterly close, financial reporting, product accounting, or internal controls Prepare or support journal entries, account reconciliations, supporting schedules, variance analysis, and other accounting deliverables Analyze large financial and operational datasets using Google Sheets, SQL, AI tools, or other systems to identify unusual activity, data-quality issues, reconciliation breaks, control gaps, or operational trends Support invoicing, collections, cash application, or related order-to-cash processes, where relevant to your placement Research accounting questions and prepare clear supporting documentation under the guidance of experienced accountants Assist with the design, documentation, testing, and improvement of accounting processes and internal controls Support financial reporting, management analysis, and internal or external audit requests Partner with stakeholders across Accounting, Finance, Product, Operations, Engineering, Sales, Legal, Tax, Treasury, and Internal Audit to understand business activities and resolve issues Drive continuous process improvement, standardization, simplification, automation, and reporting enhancements Complete and present a case study or scoped project to your team and the broader Controllership organization Who you are We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Currently enrolled at an accredited university pursuing a master\u2019s degree in Accounting, Finance, Economics, Information Systems, Business, or a related field Coursework, a project, or practical experience demonstrating a foundational understanding of accounting principles and financial statements Strong knowledge of Google Workspace or Microsoft Office tools, including experience analyzing large datasets Experience using SQL to query, analyze, and validate data through coursework, projects, or practical work Excellent written and verbal communication and organizational skills Strong problem-solving and analytical skills, with the ability to bring structure to ambiguous opportunities in a fast-moving environment A self-starter who can drive results, manage multiple priorities, and meet deadlines A solution-oriented mindset and enthusiasm for establishing best practices Ability to build strong, collaborative working relationships with business partners Preferred qualifications Coursework or experience in Intermediate Accounting, audit, technical accounting, information systems, or data analytics Experience with Python, data visualization, or dashboarding tools such as Power BI or Tableau Familiarity with an ERP, financial-reporting, or workflow-automation tool Experience using AI for financial analysis or process improvement Interest in payments, fintech, financial infrastructure, digital assets, or technology Experience documenting a process or presenting analytical findings",
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "a55267df8de70eb7",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern",
+    "location": "Overland Park, KS",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739",
+    "posted_at": "2026-11-06T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "40efc8c5104dca04",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "location": "Overland Park, KS",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
+    "posted_at": "2026-11-06T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "3e0b710cc1baad14",
+    "source": "simplify",
+    "company": "SAS",
+    "title": "Data Scientist Intern",
+    "location": "Cary, NC",
+    "url": "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false",
+    "posted_at": "2026-11-06T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "725eb83a201fde11",
+    "source": "simplify-newgrad",
+    "company": "Charles Schwab",
+    "title": "Associate Software Development & Engineering",
+    "location": "Austin, TX; Southlake, TX",
+    "url": "https://career-schwab.icims.com/jobs/129593/job?mobile=true&needsRedirect=false",
+    "posted_at": "2026-11-06T00:00:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Bootcamp"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "26557f544738bbec",
+    "source": "simplify",
+    "company": "Marvell",
+    "title": "Data Science Intern",
+    "location": "Boise, ID",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
+    "posted_at": "2026-10-28T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "9fb5926249872867",
+    "source": "workday",
+    "company": "Samsung",
+    "title": "Business Intelligence & Data Analytics Intern",
+    "location": "6625 Excellence Way, Plano, TX, USA",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ]
+  },
+  {
+    "id": "da913b07d7917cc6",
+    "source": "workday",
+    "company": "General Motors",
+    "title": "Entry Level Mainframe Systems Engineer",
+    "location": "Warren, Michigan, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745",
+    "posted_at": null,
+    "term": null,
+    "level": "newgrad",
     "countries": [
       "us"
     ]
