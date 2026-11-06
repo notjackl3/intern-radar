@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T23:40:12.607840+00:00",
-  "open_count": 1650,
-  "new_count": 12,
+  "generated_at": "2026-11-06T06:32:31.160458+00:00",
+  "open_count": 1653,
+  "new_count": 10,
   "tier": "full",
   "jobs": [
     {
@@ -197,20 +197,6 @@
       ]
     },
     {
-      "id": "858648e31b753e2a",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Mobile Software Engineer I (iOS)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-I_R_1520654-1",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "6189ffc769f98573",
       "source": "workday",
       "company": "TD Bank",
@@ -327,21 +313,6 @@
       ]
     },
     {
-      "id": "a05cb5d10721a30b",
-      "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Software Engineering Intern (January 2027)",
-      "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
-      "posted_at": "2026-10-16T15:15:29.033000+00:00",
-      "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe\u2019re on the hunt for a top-tier\u00a0Software Engineering Intern\u00a0who will assist in developing and maintaining high-performance backend services and infrastructure. You will work closely with cross-functional teams such as satellite operations, ground stations and software development to build scalable applications that support the development, testing, and operation of our satellites and mission control software.\u00a0You will be trusted from day-one to get hands on with the breadth of our software stack.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "566e155720b1ff72",
       "source": "ashby",
       "company": "Georgian",
@@ -351,6 +322,21 @@
       "posted_at": "2026-07-14T19:37:42.124+00:00",
       "term": null,
       "description": "ABOUT GEORGIAN\n\n\n\nGeorgian is a Toronto-based venture capital firm that partners with high-growth technology companies across cybersecurity, AI software, robotics, defense. We manage about $6B in assets and we have invested in more than 80 companies that we support with capital and technical capability.\n\n\n\nOur in-house AI lab works directly with portfolio companies to provide a differentiated experience across the investment lifecycle, and drives the adoption of AI for our internal operations.\n\n\u00a0\n\n\nABOUT THE ROLE\n\n\n\nAre you an aspiring AI Engineer eager to gain real-world impact and learn how to push AI's boundaries? Imagine diving into diverse, cutting-edge AI problems across multiple high-growth companies with the support of a leading VC firm. That's Georgian.\n\n\n\nWe're not your typical VC. Georgian's unique R&D team partners directly with our portfolio companies, providing the technical horsepower and strategic guidance to help accelerate their AI initiatives. We also play a critical role in our investment process, conducting deep technical diligence to identify promising AI-driven businesses.\n\n\n\nThink of it as working in a dynamic startup environment, but without the inherent risks of a single venture. You'll tackle fascinating challenges, meet and potentially work with brilliant founders and CTOs, and try to help unearth the next generation of industry leaders. It's a fun, engaging, and highly impactful way to build your career.\n\n\n\n\nWHY THIS ROLE EXISTS\n\n\n\nGeorgian's mission is to empower the world's leading B2B software companies with an unfair advantage, accelerating their participation in the digital economy. As an AI Engineer Intern on our R&D team, you'll support this mission by contributing to cutting-edge machine learning projects. You'll assist in bringing machine learning expertise directly to our portfolio companies' most pressing challenges, helping them build and scale potentially transformative AI products. You'll also contribute to our investment process technical diligence, helping us identify innovative and technically sound companies.\n\n\n\n\nWHAT YOU'LL OWN & DELIVER\n\n\n\n - Support AI system development. Assist in building LLM agents, Retrieval\u2011Augmented Generation (RAG) pipelines and fine\u2011tuned domain\u2011specific models under guidance; help implement workflows with frameworks like LangChain/LlamaIndex/PydanticAI.\n\n - Contribute to portfolio projects. Support Georgian \"strike teams\" embedded in portfolio companies; assist with code implementation, testing, and documentation.\n\n - Technical analysis & documentation. Help convert technical concepts into clear documentation; support preparation of demos and presentations for stakeholders.\n\n - Hands\u2011on R&D support. Assist in rapid prototyping, run experiments and ablation studies, contribute to internal tech notes and documentation.\n\n - Support AI roadmap development. Help gather requirements in discovery workshops, assist in documenting technical specifications and implementation plans.\n\n - Contribute to safety & governance. Assist in implementing evaluation pipelines and testing frameworks to keep models reliable and compliant.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\n\n\n\nIDEAL ATTRIBUTES\n\n - Education & Experience: Currently pursuing or recently completed a Master's or PhD degree in Computer Science, Electrical Engineering, Statistics, or a related quantitative discipline with a focus on machine learning, optimization theory, or related areas.\n\n - Hands-On Foundation: Familiarity with deep learning toolkits such as Scikit-learn, TensorFlow, or PyTorch. Understanding of GenAI, LLM tooling and Context Engineering fundamentals.\n\n - Software Development: Proficiency in Python and foundational software development skills, enabling you to write clean, efficient code.\n\n - Problem Formulation & Communication: The ability to understand applied research problems, assist in designing experiments, implement solutions, and clearly document findings for diverse audiences with varying technical backgrounds.\n\n - Collaboration: Demonstrated ability to work on team projects, collaborate effectively with technical groups, and communicate progress to mentors and stakeholders.\n\n\n\n\nNICE-TO-HAVES\n\n - Experience contributing to open-source AI/ML-related projects or research papers.\n\n - Familiarity with cloud platforms (AWS, GCP, Azure) for MLOps and model deployment.\n\n - Exposure to specific industry verticals relevant to Georgian's portfolio (e.g., vertical SaaS, cybersecurity, healthcare tech, fintech).\n\n\n\n\nCULTURAL ATTRIBUTES WE LOVE\n\n\n\n - High ambition & agency: You're allergic to incrementalism and thrive in low\u2011structure, high\u2011ownership settings.\n\n - Insatiable curiosity: You debug the root cause and ask why until everyone else gets annoyed\u2014in a good way.\n\n - Team over ego: You amplify colleagues and founders alike, seeing leverage in elevating the collective.\n\n - Commercial storytelling: You speak with brevity and distill complexity so a time\u2011starved CEO instantly sees value.\n\n\n\n\nHIRING PROCESS\n\n\n\nWe don't hire like a MAG7 or scale up \u2014 in fact we rarely hire compared to them.\n\n\n\nYou shouldn't expect a cookie-cutter high-volume hiring process with us \u2014 but a more boutique one that allows you to see a lot of the organization before joining us.\n\n\n\nWe build a thesis in what an individual brings to our very small team, versus simply matching qualifications:\n\n 1. 30\u2011min intro (values & motivations)\n\n 2. 60\u2011min technical interview (ML fundamentals & problem\u2011solving)\n\n 3. Project discussion with team members\n\n\n\n\nPOSITION STATUS\n\n\u00a0\n\nThis posting represents an active, future internship vacancy on our team. We will be interviewing for this role in early 2027.\n\n\u00a0\n\n\nOUR COMMITMENT TO ACCESSIBILITY\n\n\n\nGeorgian is dedicated to building an inclusive environment where everyone can thrive. We provide reasonable accommodations throughout our recruitment process to ensure every candidate has the opportunity to perform at their best. If you require any specific accommodations at any stage, please reach out to us at peopleteam [at]  georgian.io.\n\n\n\n\nUSE OF AI\n\n\n\nInnovation is at our core and we use artificial intelligence (AI) to support parts of our hiring process, such as screening and evaluating applications. These tools are designed to assist - not replace - human decision making and all final hiring decisions are made by our team.  We regularly review our AI tools to help promote fairness and reduce the risk of unintended bias. If you have any questions about how we use AI in our process or would like more information, please contact us at careers [at] georgian.io.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a05cb5d10721a30b",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Software Engineering Intern (January 2027)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
+      "posted_at": "2026-10-16T15:15:29.033000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe\u2019re on the hunt for a top-tier\u00a0Software Engineering Intern\u00a0who will assist in developing and maintaining high-performance backend services and infrastructure. You will work closely with cross-functional teams such as satellite operations, ground stations and software development to build scalable applications that support the development, testing, and operation of our satellites and mission control software.\u00a0You will be trusted from day-one to get hands on with the breadth of our software stack.\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -570,62 +556,6 @@
       ]
     },
     {
-      "id": "7533ce1d316400d2",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Software Design/Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "fad8c521fbe8cd61",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Routing/IP Software Engineer  - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "4a45c2f7765a264a",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Intern - Software Developer Technician",
-      "location": "Quebec",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "8763ca919c8c5255",
-      "source": "workday",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "85085bd7043a3bc4",
       "source": "lever",
       "company": "ShyftLabs",
@@ -739,34 +669,6 @@
       ]
     },
     {
-      "id": "f05872574795ca63",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "99cb69f628ab9a81",
-      "source": "workday",
-      "company": "Marvell",
-      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "e5692905232111de",
       "source": "workday",
       "company": "Marvell (Careers 2)",
@@ -801,6 +703,90 @@
       "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
       "location": "Santa Clara, CA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "7533ce1d316400d2",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Software Design/Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "fad8c521fbe8cd61",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Routing/IP Software Engineer  - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "4a45c2f7765a264a",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Intern - Software Developer Technician",
+      "location": "Quebec",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "8763ca919c8c5255",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Embedded Software Engineer - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "f05872574795ca63",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "99cb69f628ab9a81",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -888,79 +874,6 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "0c8edf9b075063aa",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Cloud Engineering Intern",
-      "location": "CAN Kanata (2), ON - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "624082cb1ca32fe7",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Embedded Software - Engineering Intern",
-      "location": "USA Walnut Creek, CA - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "71f59d1f32a6ff86",
-      "source": "ashby",
-      "company": "Jerry",
-      "title": "Associate Data Scientist",
-      "location": "New York, New York",
-      "url": "https://jobs.ashbyhq.com/jerry.ai/18efcfbf-bfb6-4186-9109-323cfda29f13",
-      "posted_at": "2026-11-02T15:54:25.300+00:00",
-      "term": null,
-      "description": "Why We Exist\n\nYour car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey \u2014 buy/sell, insurance, maintenance, repairs \u2014 is fragmented, complicated, and expensive.\n\n\u00a0\n\nJerry.ai http://Jerry.ai is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. \n\n\u00a0\n\nWe've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.\n\n\u00a0\n\nWhy We\u2019re Hiring\n\nOur Data Science & Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.\n\n\u00a0\n\nEvery business unit has a Data Science team member embedded within it  \u2014  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. \n\n\u00a0\n\nAs our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:\n\n - Growth Marketing \n\n - Product Development\n\n - Strategic Partnerships \n\n\u00a0\n\nOn leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.\n\n\u00a0\n\nWhy You Will (Or Won't) Like Working Here\n\n - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business \u2014 an important product, a new growth channel, a key metric, a critical partner relationship, etc. \n\n - No corporate fluff: The Data Science & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. \n\n - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. \n\n\u00a0\n\nWhat You'll Own\n\nYou'll sit on our central Data Science & Analytics team but you\u2019ll be embedded in one of Jerry's core business areas \u2014 growth, product, AI and automation, strategic partnerships \u2014 and own the analytical function for that business unit end-to-end.\n\n - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.\n\n - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.\n\n - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.\n\n\u00a0\n\nWho You Are\n\n - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\" \n\n - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.\n\n - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it\u2019s outside of your swim lane.\n\n\u00a0\n\nWhat You'll Bring\n\n - 1+ years of experience at a consulting firm, investment bank, or high-growth technology company.\n\n - Strong analytical skills; ability to pull, structure, and interpret data independently.\n\n - Track record of owning ambiguous problems and delivering impact.\n\n - Clear, persuasive communicator who can influence decisions at the leadership level.\n\n\u00a0\n\nOur Tools\n\nSQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.\n\n\u00a0\n\u00a0\n\nWhile we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.\n\n\n\nPlease note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.\n\n\n\nJerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. \n\n\n\nJerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at recruiting@jerry.ai recruiting@getjerry.com\n\n\n\nThe successful candidate\u2019s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants. \n\n\n\nWe offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.\n\n\n\nAbout Jerry.ai\n\nJerry is building the first AI-powered advisor to manage all your physical assets. \n\n\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\n\nWe started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.\n\n\n\nLed by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay \u2014 we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.\n\n\n\nWe are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership. \n\n\n\nWe support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.\n\n\u00a0",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "99011bf94814095f",
-      "source": "ashby",
-      "company": "Cerebras",
-      "title": "Software Engineer - New Grad 2026",
-      "location": "Toronto, CAN",
-      "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
-      "posted_at": "2026-05-11T19:38:35.637+00:00",
-      "term": null,
-      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nThis role is ideal for candidates with a strong interest in systems programming, networking, embedded systems, distributed infrastructure, or performance-oriented software engineering. Our teams work very closely with hardware, so candidates with experience primarily focused on higher-level application development or AI applications may be less aligned with the nature of this work.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\n - Collaborate with experienced engineers on real-world systems and infrastructure challenges.\n\n - Design, implement, test, and debug software solutions that directly impact system performance and reliability.\n\n - Contribute to low-level software components interacting closely with hardware and networking infrastructure.\n\n - Learn and contribute across multiple layers of a fully integrated AI-accelerated platform.\n\n - Participate in debugging, performance optimization, and system bring-up activities.\n\n - Develop tools and infrastructure to improve observability, reliability, and scalability.\n\n - Work cross-functionally with hardware, firmware, compiler, and infrastructure teams.\n\n\nREQUIRED QUALIFICATIONS\n\n - Recently graduated or currently enrolled in a university program in Computer Science, Computer Engineering, Electrical Engineering, or a related discipline (graduating in 2026).\n\n - Proficiency in C/C++ programming languages\n\n - Interest or exposure to systems/socket programming, networking, embedded systems, operating systems, device drivers, distributed systems, or network performance.\n\n - Desire to work close to hardware/network and learn low-level engineering concepts.\n\n - Detail-oriented but keen to learn the bigger picture and step out of comfort zone.\n\n - Excellent communication and collaboration skills.\n\n - Hybrid role based in Toronto, ON, or Sunnyvale CA\n\n\nASSETS\n\n - Experience with Linux systems programming or debugging tools.\n\n - Familiarity with TCP/RDMA protocols, RPCs, and packet trace tools such as Wireshark\n\n - Exposure to networking concepts, device drivers, embedded systems, or distributed infrastructure.\n\n - Familiarity with performance optimization or concurrent programming concepts.\n\n - Interest in large-scale AI infrastructure and accelerated computing systems.\n\n\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "82678dd7b8c15146",
-      "source": "ashby",
-      "company": "Cerebras",
-      "title": "DevOps Engineer - New Grad 2026",
-      "location": "Toronto, CAN",
-      "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-      "posted_at": "2026-05-11T20:00:47.834+00:00",
-      "term": null,
-      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
-      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -1117,6 +1030,51 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "71f59d1f32a6ff86",
+      "source": "ashby",
+      "company": "Jerry",
+      "title": "Associate Data Scientist",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/18efcfbf-bfb6-4186-9109-323cfda29f13",
+      "posted_at": "2026-11-02T15:54:25.300+00:00",
+      "term": null,
+      "description": "Why We Exist\n\nYour car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey \u2014 buy/sell, insurance, maintenance, repairs \u2014 is fragmented, complicated, and expensive.\n\n\u00a0\n\nJerry.ai http://Jerry.ai is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. \n\n\u00a0\n\nWe've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.\n\n\u00a0\n\nWhy We\u2019re Hiring\n\nOur Data Science & Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.\n\n\u00a0\n\nEvery business unit has a Data Science team member embedded within it  \u2014  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. \n\n\u00a0\n\nAs our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:\n\n - Growth Marketing \n\n - Product Development\n\n - Strategic Partnerships \n\n\u00a0\n\nOn leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.\n\n\u00a0\n\nWhy You Will (Or Won't) Like Working Here\n\n - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business \u2014 an important product, a new growth channel, a key metric, a critical partner relationship, etc. \n\n - No corporate fluff: The Data Science & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. \n\n - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. \n\n\u00a0\n\nWhat You'll Own\n\nYou'll sit on our central Data Science & Analytics team but you\u2019ll be embedded in one of Jerry's core business areas \u2014 growth, product, AI and automation, strategic partnerships \u2014 and own the analytical function for that business unit end-to-end.\n\n - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.\n\n - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.\n\n - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.\n\n\u00a0\n\nWho You Are\n\n - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\" \n\n - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.\n\n - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it\u2019s outside of your swim lane.\n\n\u00a0\n\nWhat You'll Bring\n\n - 1+ years of experience at a consulting firm, investment bank, or high-growth technology company.\n\n - Strong analytical skills; ability to pull, structure, and interpret data independently.\n\n - Track record of owning ambiguous problems and delivering impact.\n\n - Clear, persuasive communicator who can influence decisions at the leadership level.\n\n\u00a0\n\nOur Tools\n\nSQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.\n\n\u00a0\n\u00a0\n\nWhile we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.\n\n\n\nPlease note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.\n\n\n\nJerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. \n\n\n\nJerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at recruiting@jerry.ai recruiting@getjerry.com\n\n\n\nThe successful candidate\u2019s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants. \n\n\n\nWe offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.\n\n\n\nAbout Jerry.ai\n\nJerry is building the first AI-powered advisor to manage all your physical assets. \n\n\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\n\nWe started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.\n\n\n\nLed by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay \u2014 we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.\n\n\n\nWe are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership. \n\n\n\nWe support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.\n\n\u00a0",
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "99011bf94814095f",
+      "source": "ashby",
+      "company": "Cerebras",
+      "title": "Software Engineer - New Grad 2026",
+      "location": "Toronto, CAN",
+      "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
+      "posted_at": "2026-05-11T19:38:35.637+00:00",
+      "term": null,
+      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nThis role is ideal for candidates with a strong interest in systems programming, networking, embedded systems, distributed infrastructure, or performance-oriented software engineering. Our teams work very closely with hardware, so candidates with experience primarily focused on higher-level application development or AI applications may be less aligned with the nature of this work.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\n - Collaborate with experienced engineers on real-world systems and infrastructure challenges.\n\n - Design, implement, test, and debug software solutions that directly impact system performance and reliability.\n\n - Contribute to low-level software components interacting closely with hardware and networking infrastructure.\n\n - Learn and contribute across multiple layers of a fully integrated AI-accelerated platform.\n\n - Participate in debugging, performance optimization, and system bring-up activities.\n\n - Develop tools and infrastructure to improve observability, reliability, and scalability.\n\n - Work cross-functionally with hardware, firmware, compiler, and infrastructure teams.\n\n\nREQUIRED QUALIFICATIONS\n\n - Recently graduated or currently enrolled in a university program in Computer Science, Computer Engineering, Electrical Engineering, or a related discipline (graduating in 2026).\n\n - Proficiency in C/C++ programming languages\n\n - Interest or exposure to systems/socket programming, networking, embedded systems, operating systems, device drivers, distributed systems, or network performance.\n\n - Desire to work close to hardware/network and learn low-level engineering concepts.\n\n - Detail-oriented but keen to learn the bigger picture and step out of comfort zone.\n\n - Excellent communication and collaboration skills.\n\n - Hybrid role based in Toronto, ON, or Sunnyvale CA\n\n\nASSETS\n\n - Experience with Linux systems programming or debugging tools.\n\n - Familiarity with TCP/RDMA protocols, RPCs, and packet trace tools such as Wireshark\n\n - Exposure to networking concepts, device drivers, embedded systems, or distributed infrastructure.\n\n - Familiarity with performance optimization or concurrent programming concepts.\n\n - Interest in large-scale AI infrastructure and accelerated computing systems.\n\n\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "82678dd7b8c15146",
+      "source": "ashby",
+      "company": "Cerebras",
+      "title": "DevOps Engineer - New Grad 2026",
+      "location": "Toronto, CAN",
+      "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
+      "posted_at": "2026-05-11T20:00:47.834+00:00",
+      "term": null,
+      "description": "Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. \n\nThis order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\n\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.\n\n\nABOUT THE ROLE\n\nAs a New Graduate Software Engineer, you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute to software systems that directly impact performance, scalability, reliability, and usability of next-generation AI infrastructure.\n\nYou will gain hands-on experience working across multiple layers of a fully integrated AI-accelerated system, including advanced hardware interfaces, low-level infrastructure, distributed systems, compilers, and ML frameworks.\n\n\nRESPONSIBILITIES\n\nYou will develop and\u00a0maintain\u00a0the infrastructure\u00a0required\u00a0to build, test,\u00a0operate, simulate, and evaluate the\u00a0Cerebras\u00a0software stack. As a DevOps engineer, you will\u00a0be responsible for\u00a0designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development and product management teams to\u00a0monitor\u00a0the quality and performance of the software that runs on the Wafer Scale Engine (WSE), the world\u2019s largest and fastest AI computer.\u202f\u00a0\n\nRequired Qualifications\u00a0\n\n - Enrolled in\u00a0a University\u00a0program with a degree in Computer Science, Computer Engineering, or other related disciplines.\u00a0\n\n - Experience in software development environments.\u00a0\n\n - Proficient in Python, shell scripting,\u00a0Makefiles.\u00a0\n\n - Strong end-to-end triage, debug, and troubleshooting skills.\u00a0\n\n - Experience with Jenkins and other CI/CD platforms.\u00a0\n\n - Experience with Docker,\u00a0Kubernetes\u00a0and container technology in general.\u00a0\n\n - Experience building services on top of AWS or other cloud platforms at scale.\u00a0\n\n - UI experience highly desirable.\u00a0\n\nWhy Join Cerebras\n\nPeople who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we\u2019ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:\n\n 1. Build a breakthrough AI platform beyond the constraints of the GPU.\n\n 2. Publish and open source their cutting-edge AI research.\n\n 3. Work on one of the fastest AI supercomputers in the world.\n\n 4. Enjoy job stability with startup vitality.\n\n 5. Our simple, non-corporate work culture that respects individual beliefs.\n\nFind out more about what it's like to work at Cerebras here https://www.cerebras.ai/join-us! \n\nApply today and become part of the forefront of groundbreaking advancements in AI!\n\nCerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.\n\nThis website or its third-party tools process personal data. For more details, click here https://www.cerebras.net/privacy/ to review our CCPA disclosure notice.",
+      "level": "newgrad",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1346,20 +1304,6 @@
       ]
     },
     {
-      "id": "55822cf351852db4",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
-      "location": "Warren, Michigan, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "858053a6bdaba3c5",
       "source": "workday",
       "company": "General Motors",
@@ -1416,6 +1360,20 @@
       ]
     },
     {
+      "id": "01bce06f498d46b3",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "8c7d592569435a85",
       "source": "workday",
       "company": "General Motors",
@@ -1450,20 +1408,6 @@
       "title": "2027 Summer Intern - Research and Development - Machine Learning for Automation",
       "location": "Warren, Michigan, United States of America",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "01bce06f498d46b3",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1514,6 +1458,34 @@
       ]
     },
     {
+      "id": "0c8edf9b075063aa",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Cloud Engineering Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "624082cb1ca32fe7",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Embedded Software - Engineering Intern",
+      "location": "USA Walnut Creek, CA - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "5e8b0cb4b702cf60",
       "source": "greenhouse",
       "company": "Diligent",
@@ -1526,6 +1498,48 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "8bc68317cd0e873d",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R57068",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "0c97e1ccac05e185",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R57067",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5915056fcc02222c",
+      "source": "workday",
+      "company": "Cadence (University)",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -1619,48 +1633,6 @@
       ]
     },
     {
-      "id": "8bc68317cd0e873d",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R57068",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "0c97e1ccac05e185",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R57067",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5915056fcc02222c",
-      "source": "workday",
-      "company": "Cadence (University)",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "07768ec774e22b13",
       "source": "lever",
       "company": "Veeva Systems",
@@ -1751,20 +1723,6 @@
       ]
     },
     {
-      "id": "ed6cf6192042b147",
-      "source": "workday",
-      "company": "Salesforce",
-      "title": "Systems Engineering Associate, Early Talent",
-      "location": "Texas - Dallas",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineering-Associate--Early-Talent_JR367534-2",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ebb4205472c18bbe",
       "source": "workday",
       "company": "Adobe",
@@ -1774,6 +1732,20 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "ed6cf6192042b147",
+      "source": "workday",
+      "company": "Salesforce",
+      "title": "Systems Engineering Associate, Early Talent",
+      "location": "Texas - Dallas",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineering-Associate--Early-Talent_JR367534-2",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "us"
       ]
@@ -1793,60 +1765,32 @@
       ]
     },
     {
-      "id": "cbeba5a4911f3345",
+      "id": "266480d0e9f61596",
       "source": "greenhouse",
       "company": "Stripe",
       "title": "Data Analyst, Intern",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
       "posted_at": "2026-10-29T10:42:09-04:00",
       "term": null,
       "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don\u2019t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. &nbsp; About the team Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You'll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you\u2019ll do As an intern at Stripe you\u2019ll work on projects across our stack that directly impact the way millions of businesses operate. You\u2019ll own problems end to end with the support of your manager and teammates. It\u2019s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling. Our internship program is competitive and the expectations are high. &nbsp; Responsibilities Analyze data and running experiments to drive impact Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly Create metrics, reports, and dashboards to inform and run the business Extend Stripe\u2019s metrics semantic layer Build new data assets and improve existing data assets to support decision-making, products, and business processes Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly Present your work to the Data Science team, partner teams, and fellow interns &nbsp; Who you are Ambitious builder: You\u2019re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty. Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before. Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus. &nbsp; Minimum requirements Enrolled in a quantitative Bachelor\u2019s or Master's degree program (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development, analysis, and coding Experience communicating and collaborating with multidisciplinary stakeholders in a team environment &nbsp; Preferred qualifications Experience writing and debugging data pipelines Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
       "level": "intern",
       "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "78dcb8f47bb0730c",
+      "source": "workday",
+      "company": "Unity",
+      "title": "U-Accelerate : D\u00e9veloppeur(euse) de logiciels, nouveau(elle) dipl\u00f4m\u00e9(e) // U-Accelerate: Software Developer, New Grad",
+      "location": "Montreal, Canada",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "c160d30a0fa994bb",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57068-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6d931c6a63746cc5",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57067-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -1905,20 +1849,6 @@
       "term": null,
       "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
       "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "78dcb8f47bb0730c",
-      "source": "workday",
-      "company": "Unity",
-      "title": "U-Accelerate : D\u00e9veloppeur(euse) de logiciels, nouveau(elle) dipl\u00f4m\u00e9(e) // U-Accelerate: Software Developer, New Grad",
-      "location": "Montreal, Canada",
-      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -2038,6 +1968,48 @@
       "posted_at": "2026-10-27T13:40:12-04:00",
       "term": null,
       "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! We're looking for software engineering interns who are excited to make an impact across different layers of our product and infrastructure. At Figma, we pair interns with teams that align with their skills and interests. This year, we're inviting you to share your interests from the start, so we can create the strongest possible match. Our interns are embedded into small, collaborative engineering teams across the company. You'll work closely with your mentor and teammates to ship meaningful features, tools, or systems. Whether you're working on internal infrastructure or user-facing features, you'll get to learn, contribute, and grow in a supportive environment. This internship will be based out of our San Francisco or New York Hub with a 5/3, 5/17, 6/1 or 6/14 &nbsp; start date. Engineering Interests at Figma: When you apply, you'll tell us which areas you're most interested in to help us understand which kinds of engineering work you're most excited about: Product: Build full stack user facing features, including new collaboration tools, new product workflows, growth oriented experiments, and more Backend/Infrastructure: Build platform level tools, including distributed systems, developer tooling, performance/scalability work, and more Security Engineering: Build security-focused systems, product security tooling, detection, secure infrastructure, or privacy/security features Open: I'm flexible and still exploring different types of work What you'll do at Figma: Be fully embedded onto a Figma engineering team Contribute to projects that directly align with team goals and impact Collaborate with engineers, PMs, designers, and QA to break down features and plan timelines Build, document, and maintain tests, features, or infrastructure Share feedback and participate in peer code review Ship your project(s) by the end of your internship! Some past intern projects: Diagramming improvements in FigJam Smart selection Shared fonts We'd love to hear from you if you have: Experience writing clean code in at least one general-purpose language (e.g. C++, JavaScript, Python, Java, etc.), with a solid grasp of core CS concepts like data structures and algorithms Experience solving technical problems through school, work, or personal projects Are excited to explore how systems are designed and operate, from infrastructure to UI Strong communicator who asks great questions, collaborates well with others, and is excited to learn, get feedback, and grow as an engineer While it\u2019s not required, it\u2019s an added plus if you also have: Experience using AI-assisted development tools (e.g., GitHub Copilot, ChatGPT, Claude) to write, debug, and optimize code At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you're excited about this role but your past experience doesn't align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Pay Transparency Disclosure This internship role is based in either Figma\u2019s San Francisco or New York hub offices, and has the hourly base pay rate stated below.&nbsp; Figma also offers interns a housing stipend and travel reimbursement. Figma\u2019s compensation and benefits are subject to change and may be modified in the future. Internship $55 &mdash; $55 USD At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.&nbsp; Examples of accommodations include but are not limited to:&nbsp; Holding interviews in an accessible location Enabling closed captioning on video conferencing Ensuring all written communication be compatible with screen readers Changing the mode or format of interviews&nbsp; To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding. By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice . Application limits: To help candidates focus on the opportunities most relevant to their skills and experience, Figma limits the number and frequency of applications. These limits apply to all roles: Candidates may submit up to 5 a",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "c160d30a0fa994bb",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57068-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "6d931c6a63746cc5",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57067-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "us"
@@ -2239,21 +2211,6 @@
       ]
     },
     {
-      "id": "668e37dacc425004",
-      "source": "lever",
-      "company": "Fullscript",
-      "title": "Software Developer (Co-op Opportunities)",
-      "location": "Ottawa, ON",
-      "url": "https://jobs.lever.co/fullscript/f2682bc2-454c-4bcd-b71c-639236d09a8e",
-      "posted_at": "2026-07-22T18:38:07.172000+00:00",
-      "term": null,
-      "description": "About Fullscript\nWe\u2019re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to access the products they trust so they can deliver better care.\nThat simple idea grew into a platform that powers every part of care. Today, more than 125,000 practitioners use Fullscript for clinical insights, lab interpretations, patient analytics, education, and access to high-quality supplements. Over 10 million patients rely on Fullscript to stay connected to their care plans and follow through on treatment.\nWe build tools that make care smarter and more human. Tools that save time, simplify decisions, and help practitioners stay closely connected to the people they care for. When everything they need is in one place, they can focus on what matters most: helping people get better.\nThis is your invitation.\nBring your ideas, your grit, and your care for people.\nJoin us and shape the future of care.\nThe Opportunity\nFullscript offers co-op placements across a range of teams and functions. This general application is for students who are excited to gain hands-on experience, contribute to meaningful work, and explore where they can make the biggest impact during their placement.\nOur teams work on high-impact projects that support practitioners, patients, and the overall Fullscript platform. Depending on the role and team, co-op students may contribute to product development, operations, data, design, customer experience, business functions, and more. You\u2019ll have the chance to learn how work moves from idea to execution, collaborate with experienced teammates, and build practical skills in a fast-paced environment.\nAt Fullscript, co-op students are treated as real contributors from day one. You\u2019ll gain meaningful hands-on experience, receive support and mentorship, and get exposure to how a growing company operates. If that sounds like your kind of environment, we\u2019d love to hear from you.\nThis is a paid co-op opportunity open to students who are legally eligible to work full-time hours (approximately 40 hours per week) in Canada (preferably Ottawa, ON) for at least a 4 month term (Winter 2027). We\u2019re looking for curious, motivated, dependable students who enjoy solving problems, learning quickly, and working with others to do great work.\nWhat does a co-op student do here?\nContribute to real projects that support your team\u2019s goals and priorities\nCollaborate with teammates across functions and learn how work gets done in a growing company\nBuild practical skills through day-to-day experience, feedback, and mentorship\nParticipate in team meetings, planning, and shared problem-solving\nTake ownership of assigned work and help move projects forward\nExplore different areas of interest and gain broader exposure where possible\nTake part in the full workplace experience, including onboarding, regular check-ins, mentorship, and learning opportunities\nWhat you bring to the table\nCurrently pursuing post-secondary education, or recently completed a program, in a relevant area\nLegally entitled to work full-time in Canada\nA strong willingness to learn, take initiative, and contribute\nGood communication and collaboration skills\nComfort working in a team environment and adapting to new challenges\nPrevious co-op, internship, part-time work, volunteer, academic, or project experience is an asset\nBonus if you have\nExperience working on team-based projects\nFamiliarity with tools, systems, or workflows related to your area of study\nExperience in a fast-paced environment\nInterest in healthcare, technology, or e-commerce\nCuriosity about how different functions work together in a growing company\nWhat we can offer you\nMeaningful, hands-on experience with real impact\nMentorship, feedback, and support from experienced teammates\nOpportunities to learn, grow, and build skills that carry into your career\nA chance to connect with teams across the business and better understand where your interests fit\nParticipation in engaging company events and learning opportunities\nFlexibility to work Wherever You Work Well\nCompensation Range\nThe hourly rate for this role is $30/hour (CAD). Fullscript shares salary ranges to support transparency and help candidates make informed decisions. The range shown reflects base salary only. The range shown reflects base salary only. Additional incentives, perks, and benefits may be available as part of Fullscript\u2019s total rewards package.\n\nFinal base salary depends on experience, skills, and location. We review pay regularly to stay aligned with market data and internal equity. Benefits and total rewards may vary by region.\nWhy Fullscript\nGreat work happens when people feel supported, trusted, and inspired. At Fullscript, we stay curious and keep finding smarter ways to make care better. We grow together, take on new challenges, and focus on impact. We put people first, work as a team, and leave egos at the door.\nWhat to Know Before You Apply\nWe\u2019re grateful for the interest in joining Fullscript. To make sure your application reaches our hiring team, please apply directly through our careers page.\nA quick note: Due to the high volume of applications, we\u2019re not able to respond to phone or email inquiries about application status. If there\u2019s a match, our team will reach out directly.\nFullscript is an equal opportunity employer committed to creating an inclusive workplace. Accommodations are available upon request at accommodations@fullscript.com.\nAll offers are contingent on successful background checks conducted in compliance with federal, state, and provincial laws.\nWe use AI tools to support parts of the hiring process, including screening and reviewing responses. Final hiring decisions are always made by people and follow all applicable privacy and employment laws in Canada and the U.S.\nLearn More\nwww.fullscript.com\n@fullscriptHQon instagram\n@fullscripton YouTube\nFullScript\u00a0on LinkedIn\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "abb7c18d173be6a2",
       "source": "greenhouse",
       "company": "Quadbridge",
@@ -2293,6 +2250,21 @@
       "posted_at": "2026-11-03T16:30:03-05:00",
       "term": null,
       "description": "Software Developer in Test Co-op - University of Toronto. This is for PEY 12 - 16 month co-op Why PlayStation? PlayStation isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Today, we\u2019re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation\u00ae5, PlayStation\u00ae4, PlayStation\u00aeVR, PlayStation\u00aePlus, acclaimed PlayStation software titles from PlayStation Studios, and more. PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation. Job Summary: We are currently hiring Software Developer in Test (SDET) Interns who are passionate about software quality for our engineering teams in Waterloo, Ontario. Our SDETs are responsible for writing test cases, automating test cases, executing manual tests and maintaining our automated test infrastructure. Our interns work alongside our full-time Software Engineers and QA Engineers on real products and services that millions of customers use everyday. Job Responsibilities: Test new and existing features across web, mobile and PlayStation\u00ae5 console, to help ensure software quality and reliability. Design, Develop and maintain automated tests for customer-facing applications, contributing to the team's automation codebase. Collaborate with engineers and cross-functional teams to identify, troubleshoot, and resolve software issues. Apply software testing and quality engineering practices to improve test coverage, reliability, and development efficiency. Explore new testing tools, processes, and implementation techniques to support the product development lifecycle. Participate in agile development workflows and collaborate with team members to support testing and automation efforts. Gain hands-on experience with software testing, debugging, and automation while learning from experienced Quality Engineering team members. Minimum Requirements: Programming experience in popular test scripting languages. Good understanding of object-oriented principles. Good understanding of software development life cycle and testing methodologies. Preferred Requirements: Experience with test automation Proficient with JavaScript and Python Knowledge of HTML5 and CSS3 features and modern browser architecture Familiarity with version control (ex. GitHub) Experience testing single-page web applications &nbsp;Experience working and testing REST API's Experience with Agile/Scrum software development methodologies and strong understanding of engineering best practices Excellent communication skills, and hopefully a good sense of humor! Benefits: Above average pay based on your current work term, verified by the latest co-op earnings report on the UWaterloo website. Feel free to ask about compensation in the interview! PlayStation game vouchers for select PS5 games that are released during the co-op term PlayStation store credit every month Access to our employee store with discounts on select Sony/PlayStation products Paid lunch for team/company special events Hackathons Career/personal development resources A few other things you should know: Our office is a fun, relaxed and casual environment. We\u2019re a tight-knit community of about 50+ full-time employees, and we enjoy welcoming new co-ops each term (we typically have 5 or more) We're currently offering a hybrid work environment, with some folks working remotely and others working from the office. You can choose what suits you best! If you do choose to work remotely, you'll find that we connect heavily over Slack and video conferencing. During lunch breaks and team hangouts you'll find folks playing network-based games and connecting about things outside of work. Please note that Day 1 of your co-op term will be held onsite at our office in Waterloo, ON. At SIE, we consider several factors when setting each role\u2019s base pay range, including the competitive benchmarking data for the market and geographic location.&nbsp; Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&nbsp; &nbsp; &nbsp; Intern Pay Range $27.50 &mdash; $40.60 CAD Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks. Please refer to our Candidate Privacy Notice &nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "668e37dacc425004",
+      "source": "lever",
+      "company": "Fullscript",
+      "title": "Software Developer (Co-op Opportunities)",
+      "location": "Ottawa, ON",
+      "url": "https://jobs.lever.co/fullscript/f2682bc2-454c-4bcd-b71c-639236d09a8e",
+      "posted_at": "2026-07-22T18:38:07.172000+00:00",
+      "term": null,
+      "description": "About Fullscript\nWe\u2019re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to access the products they trust so they can deliver better care.\nThat simple idea grew into a platform that powers every part of care. Today, more than 125,000 practitioners use Fullscript for clinical insights, lab interpretations, patient analytics, education, and access to high-quality supplements. Over 10 million patients rely on Fullscript to stay connected to their care plans and follow through on treatment.\nWe build tools that make care smarter and more human. Tools that save time, simplify decisions, and help practitioners stay closely connected to the people they care for. When everything they need is in one place, they can focus on what matters most: helping people get better.\nThis is your invitation.\nBring your ideas, your grit, and your care for people.\nJoin us and shape the future of care.\nThe Opportunity\nFullscript offers co-op placements across a range of teams and functions. This general application is for students who are excited to gain hands-on experience, contribute to meaningful work, and explore where they can make the biggest impact during their placement.\nOur teams work on high-impact projects that support practitioners, patients, and the overall Fullscript platform. Depending on the role and team, co-op students may contribute to product development, operations, data, design, customer experience, business functions, and more. You\u2019ll have the chance to learn how work moves from idea to execution, collaborate with experienced teammates, and build practical skills in a fast-paced environment.\nAt Fullscript, co-op students are treated as real contributors from day one. You\u2019ll gain meaningful hands-on experience, receive support and mentorship, and get exposure to how a growing company operates. If that sounds like your kind of environment, we\u2019d love to hear from you.\nThis is a paid co-op opportunity open to students who are legally eligible to work full-time hours (approximately 40 hours per week) in Canada (preferably Ottawa, ON) for at least a 4 month term (Winter 2027). We\u2019re looking for curious, motivated, dependable students who enjoy solving problems, learning quickly, and working with others to do great work.\nWhat does a co-op student do here?\nContribute to real projects that support your team\u2019s goals and priorities\nCollaborate with teammates across functions and learn how work gets done in a growing company\nBuild practical skills through day-to-day experience, feedback, and mentorship\nParticipate in team meetings, planning, and shared problem-solving\nTake ownership of assigned work and help move projects forward\nExplore different areas of interest and gain broader exposure where possible\nTake part in the full workplace experience, including onboarding, regular check-ins, mentorship, and learning opportunities\nWhat you bring to the table\nCurrently pursuing post-secondary education, or recently completed a program, in a relevant area\nLegally entitled to work full-time in Canada\nA strong willingness to learn, take initiative, and contribute\nGood communication and collaboration skills\nComfort working in a team environment and adapting to new challenges\nPrevious co-op, internship, part-time work, volunteer, academic, or project experience is an asset\nBonus if you have\nExperience working on team-based projects\nFamiliarity with tools, systems, or workflows related to your area of study\nExperience in a fast-paced environment\nInterest in healthcare, technology, or e-commerce\nCuriosity about how different functions work together in a growing company\nWhat we can offer you\nMeaningful, hands-on experience with real impact\nMentorship, feedback, and support from experienced teammates\nOpportunities to learn, grow, and build skills that carry into your career\nA chance to connect with teams across the business and better understand where your interests fit\nParticipation in engaging company events and learning opportunities\nFlexibility to work Wherever You Work Well\nCompensation Range\nThe hourly rate for this role is $30/hour (CAD). Fullscript shares salary ranges to support transparency and help candidates make informed decisions. The range shown reflects base salary only. The range shown reflects base salary only. Additional incentives, perks, and benefits may be available as part of Fullscript\u2019s total rewards package.\n\nFinal base salary depends on experience, skills, and location. We review pay regularly to stay aligned with market data and internal equity. Benefits and total rewards may vary by region.\nWhy Fullscript\nGreat work happens when people feel supported, trusted, and inspired. At Fullscript, we stay curious and keep finding smarter ways to make care better. We grow together, take on new challenges, and focus on impact. We put people first, work as a team, and leave egos at the door.\nWhat to Know Before You Apply\nWe\u2019re grateful for the interest in joining Fullscript. To make sure your application reaches our hiring team, please apply directly through our careers page.\nA quick note: Due to the high volume of applications, we\u2019re not able to respond to phone or email inquiries about application status. If there\u2019s a match, our team will reach out directly.\nFullscript is an equal opportunity employer committed to creating an inclusive workplace. Accommodations are available upon request at accommodations@fullscript.com.\nAll offers are contingent on successful background checks conducted in compliance with federal, state, and provincial laws.\nWe use AI tools to support parts of the hiring process, including screening and reviewing responses. Final hiring decisions are always made by people and follow all applicable privacy and employment laws in Canada and the U.S.\nLearn More\nwww.fullscript.com\n@fullscriptHQon instagram\n@fullscripton YouTube\nFullScript\u00a0on LinkedIn\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -2929,48 +2901,6 @@
       ]
     },
     {
-      "id": "5c970f241bd05dda",
-      "source": "workday",
-      "company": "PayPal",
-      "title": "Data Scientist Intern - Summer 2027",
-      "location": "San Jose, California, United States of America",
-      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "daa890d02f60b126",
-      "source": "workday",
-      "company": "PayPal",
-      "title": "Machine Learning Engineer Intern - Summer 2027",
-      "location": "San Jose, California, United States of America",
-      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "31f2824d7e8f3c1d",
-      "source": "workday",
-      "company": "PayPal",
-      "title": "Machine Learning Engineer PhD Intern - Summer 2027",
-      "location": "San Jose, California, United States of America",
-      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "32e68123b1d0ac66",
       "source": "workday",
       "company": "Visa",
@@ -3083,6 +3013,48 @@
       ]
     },
     {
+      "id": "5c970f241bd05dda",
+      "source": "workday",
+      "company": "PayPal",
+      "title": "Data Scientist Intern - Summer 2027",
+      "location": "San Jose, California, United States of America",
+      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "daa890d02f60b126",
+      "source": "workday",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer Intern - Summer 2027",
+      "location": "San Jose, California, United States of America",
+      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "31f2824d7e8f3c1d",
+      "source": "workday",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer PhD Intern - Summer 2027",
+      "location": "San Jose, California, United States of America",
+      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "bff68e779afee592",
       "source": "workday",
       "company": "Mastercard",
@@ -3134,6 +3106,20 @@
       "posted_at": null,
       "term": null,
       "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "137c1a531319dd8d",
+      "source": "workday",
+      "company": "BDO Canada",
+      "title": "DevOps Engineer - New Grad (January 2027)",
+      "location": "Toronto - Bay St",
+      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
       "countries": [
         "ca"
       ]
@@ -3209,12 +3195,12 @@
       ]
     },
     {
-      "id": "8c461098add0caf9",
+      "id": "53655549907b1956",
       "source": "workday",
       "company": "Intel",
-      "title": "Student Intern, Collaboration Services System Programmer",
-      "location": "Costa Rica, San Jose",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833",
+      "title": "Software Solutions PhD Intern New 2027",
+      "location": "US, Oregon, Hillsboro",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -3223,12 +3209,12 @@
       ]
     },
     {
-      "id": "53655549907b1956",
+      "id": "8c461098add0caf9",
       "source": "workday",
       "company": "Intel",
-      "title": "Software Solutions PhD Intern New 2027",
-      "location": "US, Oregon, Hillsboro",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
+      "title": "Student Intern, Collaboration Services System Programmer",
+      "location": "Costa Rica, San Jose",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -3304,20 +3290,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "137c1a531319dd8d",
-      "source": "workday",
-      "company": "BDO Canada",
-      "title": "DevOps Engineer - New Grad (January 2027)",
-      "location": "Toronto - Bay St",
-      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -9341,24 +9313,6 @@
       ]
     },
     {
-      "id": "acd0d9b951713ccf",
-      "source": "simplify",
-      "company": "GE Aerospace",
-      "title": "Engines Engineering Intern - Computer or Software Engineering",
-      "location": "Lynn, MA; Evendale, OH",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
-      "posted_at": "2026-08-17T22:22:02+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "cf96a382887f06bd",
       "source": "simplify",
       "company": "Momentive",
@@ -10234,23 +10188,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "35c583712fd435c4",
-      "source": "simplify",
-      "company": "Navy Federal",
-      "title": "Mobile Developer Intern - Summer Associate",
-      "location": "Winchester, VA; Pensacola, FL; Vienna, VA; San Diego, CA",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368",
-      "posted_at": "2026-09-09T14:16:38+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -14344,42 +14281,6 @@
       "location": "Torrance, CA",
       "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008",
       "posted_at": "2026-10-02T22:30:15+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5edafb0948922ef6",
-      "source": "simplify",
-      "company": "General Motors",
-      "title": "Software Engineer Intern - AV/AI Platform",
-      "location": "Sunnyvale, CA; Warren, MI",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-      "posted_at": "2026-10-02T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "ef21ac4a8ca73f23",
-      "source": "simplify",
-      "company": "General Motors",
-      "title": "Machine Learning Engineer Intern - AV/AI Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-      "posted_at": "2026-10-02T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
@@ -20952,23 +20853,6 @@
       ]
     },
     {
-      "id": "18628108e1a3ca31",
-      "source": "simplify",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Software Engineer Intern",
-      "location": "Devens, MA",
-      "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply",
-      "posted_at": "2026-11-03T23:25:42+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "84238c0c04f47b3a",
       "source": "simplify",
       "company": "TikTok",
@@ -21027,24 +20911,6 @@
       "location": "Raleigh, NC",
       "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1",
       "posted_at": "2026-11-03T17:02:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "17d2613620b7171c",
-      "source": "simplify",
-      "company": "Highmark Health",
-      "title": "AI Services and Platforms Software Engineer Intern",
-      "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
-      "posted_at": "2026-11-03T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
@@ -21543,6 +21409,23 @@
       ]
     },
     {
+      "id": "b34df840c55ab083",
+      "source": "simplify",
+      "company": "Toyota Research Institute",
+      "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+      "location": "Los Altos, CA",
+      "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply",
+      "posted_at": "2026-11-05T02:43:52+00:00",
+      "term": "Summer 2027; Summer 2026",
+      "degrees": [
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "97e4fd1e1e7c261d",
       "source": "simplify",
       "company": "TikTok",
@@ -22008,6 +21891,167 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "ecd6281182789530",
+      "source": "simplify",
+      "company": "J.M. Smucker",
+      "title": "Data Science Intern",
+      "location": "Remote in USA",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "f94558730d41ad07",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Atlanta, GA",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "e9a77c0478638684",
+      "source": "simplify",
+      "company": "Sierra Nevada Corporation",
+      "title": "Firmware Engineer Intern",
+      "location": "Sparks, NV",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "fa95043451a16bbb",
+      "source": "simplify",
+      "company": "V2X",
+      "title": "AI Engineering Intern",
+      "location": "Indianapolis, IN",
+      "url": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us",
+      "posted_at": "2026-11-05T22:02:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "11bbe4fef6a793eb",
+      "source": "simplify",
+      "company": "Shield AI",
+      "title": "Software Engineer Intern Co-op",
+      "location": "Dallas, TX",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "75d919ff4b91b038",
+      "source": "simplify",
+      "company": "Lumbermen's",
+      "title": "Software Developer Intern",
+      "location": "Grand Rapids, MI",
+      "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
+      "posted_at": "2026-11-05T16:22:17+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "27fe119a14153b29",
+      "source": "simplify",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Software Systems",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply",
+      "posted_at": "2026-11-06T02:36:37+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "55e7c28f44f8b883",
+      "source": "simplify",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Software Platforms & Product",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply",
+      "posted_at": "2026-11-06T02:36:35+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5d3c15d487e2df93",
+      "source": "simplify",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Autonomy Software",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply",
+      "posted_at": "2026-11-06T02:36:46+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
       ],
       "level": "intern",
       "countries": [
@@ -27872,6 +27916,21 @@
       "degrees": [
         "Bachelor's"
       ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "25106328633dbc8d",
+      "source": "simplify-newgrad",
+      "company": "StubHub",
+      "title": "Software Engineer New Grad - Consumer Experience",
+      "location": "NYC",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101",
+      "posted_at": "2026-11-05T17:56:06+00:00",
+      "term": null,
+      "degrees": null,
       "level": "newgrad",
       "countries": [
         "us"
