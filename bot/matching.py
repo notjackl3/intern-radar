@@ -111,10 +111,13 @@ ROLE_FAMILIES = {
         "label": "infra / platform",
         "aliases": ["infra", "infrastructure", "devops", "sre", "platform",
                     "cloud", "systems", "network"],
+        # "systems" is an ALIAS (what people type) but was not a TERM (what
+        # employers write), so "Systems Software Intern" matched nothing.
         "terms": ["devops", "sre", "site reliability", "platform engineer",
                   "infrastructure", "cloud engineer", "cloud developer",
-                  "systems engineer", "network engineer", "distributed systems",
-                  "kubernetes"],
+                  "systems engineer", "systems software", "systems developer",
+                  "low level", "low-level", "operating system", "kernel",
+                  "network engineer", "distributed systems", "kubernetes"],
     },
     "security": {
         "label": "security",
@@ -309,6 +312,35 @@ def parse_query(text: str, *, year_hint: int | None = None) -> dict:
 def empty_query() -> dict:
     return {"raw": "", "families": [], "keywords_any": [], "keywords_none": [],
             "cities": [], "terms": [], "level": None, "company": ""}
+
+
+def drop_negated_families(q: dict) -> dict:
+    """Remove families the query explicitly rejected.
+
+    "low-level systems work, not web" parses to families {infra, frontend} —
+    `frontend` because "web" is one of its aliases — and, once the model has
+    read the negation, keywords_none {web}. Those contradict: the family adds
+    +4 to every frontend role while the exclusion only drops the ones with
+    "web" literally in the title. Measured before this fix, "Frontend Engineer
+    Intern" ranked FIRST at 4.4 for a query that said not web, with "Systems
+    Software Intern" at 0.4.
+
+    A negated word therefore kills the whole family it names, not just titles
+    containing it.
+    """
+    q = dict(q or {})
+    nots = {w.lower() for w in q.get("keywords_none") or [] if w}
+    if not nots or not q.get("families"):
+        return q
+    kept = []
+    for fam in q["families"]:
+        spec = ROLE_FAMILIES.get(fam) or {}
+        vocab = {t.lower() for t in spec.get("aliases", [])} | {fam}
+        if vocab & nots:
+            continue
+        kept.append(fam)
+    q["families"] = kept
+    return q
 
 
 def merge_query(base: dict | None, override: dict | None) -> dict:

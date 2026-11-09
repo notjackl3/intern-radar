@@ -195,7 +195,19 @@ async def parse_query(session, text: str, *, year_hint: int) -> dict:
     # so take the model's as-is rather than letting merge_query's "non-empty
     # wins" rule hide it behind the base's empty list.
     merged["keywords_none"] = clean["keywords_none"]
+    # The model reads negation; the deterministic pass does not. "not web"
+    # must kill the frontend family, not merely exclude titles containing
+    # "web" — otherwise the family's +4 outranks everything asked for.
+    merged = M.drop_negated_families(merged)
+    # The model returns "summer 2027"; the rest of the system writes
+    # "Summer 2027". Matching is case-insensitive but the UI echoes this back.
+    merged["terms"] = [_title_term(x) for x in merged.get("terms") or []]
     return merged
+
+
+def _title_term(t: str) -> str:
+    parts = str(t).split()
+    return " ".join(p.capitalize() if p.isalpha() else p for p in parts)
 
 
 def _strlist(v) -> list[str]:

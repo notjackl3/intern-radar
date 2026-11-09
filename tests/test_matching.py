@@ -214,6 +214,36 @@ def test_count_hits_separates_matches_from_filler():
 # ---------------------------------------------------------------------------
 # merge + describe
 # ---------------------------------------------------------------------------
+def test_negation_kills_the_whole_family_not_just_the_word():
+    """"low-level systems work, not web" parses to families {infra, frontend}
+    — frontend because "web" is one of its aliases. Before this fix, the
+    family's +4 made "Frontend Engineer Intern" rank FIRST at 4.4 for a query
+    that said NOT web, with "Systems Software Intern" at 0.4."""
+    q = M.merge_query(M.parse_query("low-level systems work, not web"),
+                      {"keywords_none": ["web"]})
+    assert "frontend" in q["families"], "precondition: the alias matched"
+    q = M.drop_negated_families(q)
+    assert "frontend" not in q["families"]
+    assert "infra" in q["families"], "the rest of the query must survive"
+
+    jobs = [job("Frontend Engineer Intern", jid="f"),
+            job("Systems Software Intern", jid="s")]
+    ranked = M.rank(jobs, q)
+    assert ranked[0][0]["id"] == "s", [(j["id"], sc) for j, sc, _ in ranked]
+
+
+def test_drop_negated_families_is_a_noop_without_negations():
+    q = M.parse_query("backend security")
+    assert M.drop_negated_families(q)["families"] == q["families"]
+
+
+def test_infra_terms_match_real_titles():
+    """"systems" was an ALIAS (what people type) but not a TERM (what
+    employers write), so "Systems Software Intern" matched nothing."""
+    assert "infra" in M.families_in_title("Systems Software Intern")
+    assert "infra" in M.families_in_title("Low-Level Firmware Intern")
+
+
 def test_merge_keeps_base_where_override_is_silent():
     base = M.parse_query("ml in toronto")
     merged = M.merge_query(base, {"families": [], "keywords_none": ["senior"]})
