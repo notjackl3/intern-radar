@@ -95,6 +95,27 @@ def test_summarise_drops_a_non_matching_email_rather_than_falling_back():
     assert got["email"] == "", "a wrong address must be dropped, not shown"
 
 
+def test_norm_strips_ats_suffixes():
+    """The feed names employers after the board they came from — "CIBC
+    (Campus)", "SOTI (Next-Gen)", "Royal Bank of Canada (Early Talent)".
+    /companies/match takes those literally and returns nothing, so four of the
+    eighteen biggest Canadian intern employers resolved to nothing at all."""
+    import re
+    for raw, bare in [("CIBC (Campus)", "CIBC"),
+                      ("SOTI (Next-Gen)", "SOTI"),
+                      ("Royal Bank of Canada (Early Talent)", "Royal Bank of Canada")]:
+        assert re.sub(r"\s*\(.*?\)\s*", " ", raw).strip() == bare
+
+
+def test_ranked_fallback_requires_a_prefix_match():
+    """Containment was too loose: searching "Bree" returned "Stadsbestuur
+    Bree", a Belgian municipality. A ranked guess is only safe when the name
+    matches from the start."""
+    norm = PE._norm
+    assert not norm("Stadsbestuur Bree").startswith(norm("Bree"))
+    assert norm("Shopify Inc").startswith(norm("Shopify"))
+
+
 # ---------------------------------------------------------------------------
 # domains, tenure, roles
 # ---------------------------------------------------------------------------

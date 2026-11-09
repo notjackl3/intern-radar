@@ -196,9 +196,34 @@ async def resolve_company(session, name: str) -> dict | None:
     ck = f"co:{name.lower().strip()}"
     if (hit := _cached(ck)) is not None:
         return hit or None
-    data = await _get(session, "companies/match", {"name": name.strip()})
-    results = (data or {}).get("results") or []
-    return _store(ck, results[0] if results else {}) or None
+
+    # The feed's employer names carry the ATS board they came from —
+    # "CIBC (Campus)", "SOTI (Next-Gen)", "Royal Bank of Canada (Early
+    # Talent)". /companies/match takes those literally and returns nothing, so
+    # four of the eighteen biggest Canadian intern employers silently resolved
+    # to nothing at all. Strip the parenthetical and they all match.
+    raw = name.strip()
+    bare = re.sub(r"\s*\(.*?\)\s*", " ", raw).strip()
+
+    for attempt in [raw] + ([bare] if bare and bare != raw else []):
+        data = await _get(session, "companies/match", {"name": attempt})
+        results = (data or {}).get("results") or []
+        if results:
+            return _store(ck, results[0])
+
+    # Last resort: the ranked search. It guesses, so the guess is only taken
+    # when the name it returns actually looks like what was asked for —
+    # otherwise "Jobber" comes back as a recruitment agency in Pune.
+    # Containment is too loose here: searching "Bree" happily returned
+    # "Stadsbestuur Bree", a Belgian municipality. A ranked guess is only
+    # worth taking when the name matches from the start.
+    want = _norm(bare or raw)
+    data = await _get(session, "companies", {"search": bare or raw, "page_size": "5"})
+    for cand in (data or {}).get("results") or []:
+        got = _norm(cand.get("name") or "")
+        if got and (got == want or got.startswith(want)):
+            return _store(ck, cand)
+    return _store(ck, {}) or None
 
 
 # ---------------------------------------------------------------------------
