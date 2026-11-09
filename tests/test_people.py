@@ -134,6 +134,38 @@ def test_summarise_prefers_the_role_at_this_company():
     assert got["recruiter"] is True
 
 
+def test_school_abbreviations_resolve():
+    """Nobody types "University of Toronto" into a Discord command. The
+    abbreviation used to match NOTHING, silently — which reads as "no alumni
+    work here" rather than "that filter didn't work"."""
+    for typed in ("uoft", "UofT", "U of T", "u-of-t", "UOFT"):
+        assert PE.resolve_school(typed) == "University of Toronto", typed
+    assert PE.resolve_school("uwaterloo") == "University of Waterloo"
+    assert PE.resolve_school("ubc") == "University of British Columbia"
+
+
+def test_an_unknown_school_passes_through_unchanged():
+    assert PE.resolve_school("Sheridan College") == "Sheridan College"
+    assert PE.resolve_school("") == ""
+
+
+def test_school_matching_accepts_abbreviation_and_campus_variants():
+    assert PE.school_matches("University of Toronto", "uoft")
+    assert PE.school_matches("University of Toronto Mississauga", "UofT")
+    assert PE.school_matches("University of Waterloo", "uw")
+    # An unknown school still works by raw substring.
+    assert PE.school_matches("Sheridan College", "sheridan")
+    assert not PE.school_matches("University of Waterloo", "uoft")
+    assert not PE.school_matches("", "uoft")
+
+
+def test_alumni_flag_uses_the_alias():
+    detail = {"linkedin": {"name": {"full": "X"}, "positions": [],
+                           "education": [{"school_name": "University of Toronto",
+                                          "field_of_study": "Computer Science"}]}}
+    assert PE.summarise(detail, "Shopify", "uoft", "shopify.com")["alumni"] is True
+
+
 def test_summarise_flags_alumni():
     detail = {"linkedin": {"name": {"full": "X"}, "positions": [],
                            "education": [{"school_name": "University of Toronto",

@@ -456,24 +456,32 @@ async def search(interaction: discord.Interaction, query: str,
 @app_commands.describe(
     company="Employer name, e.g. RBC, Shopify, Jobber",
     role="Optional: narrow it, e.g. 'campus recruiter', 'machine learning'",
-    school="Optional: flag alumni from this school (defaults to your own)")
+    school="Optional: flag alumni from this school — 'UofT' works (defaults to yours)",
+    share="Post it in the channel so everyone can see. Default: only you.")
 async def who_cmd(interaction: discord.Interaction, company: str,
-                  role: str = "", school: str = None):
+                  role: str = "", school: str = None, share: bool = False):
     """The half of a job search the feed can't reach.
 
     A posting tells you a role exists; this tells you who reads the
-    applications. Deliberately EPHEMERAL: it returns real people's names and
-    work emails, which belong in the requester's own view, not broadcast into
-    a shared channel.
+    applications.
+
+    Private by DEFAULT, shareable on request. The results are real people's
+    names, employment history and work emails, so the safe default is the
+    requester's own view — but a small server hunting together genuinely wants
+    to pool "who to talk to at RBC", and `share: True` posts it to the channel.
+    Opt-in rather than opt-out, because the cost of the wrong default falls on
+    people who are not in this server to object.
     """
-    await interaction.response.defer(ephemeral=True)
+    hide = not share
+    await interaction.response.defer(ephemeral=hide)
     if not PE.enabled():
         return await interaction.followup.send(
             "People lookup is off — set `MIXRANK_KEY` in Railway's Variables "
-            "tab and restart the service.", ephemeral=True)
+            "tab and restart the service.", ephemeral=hide)
 
     async with aiohttp.ClientSession() as s:
-        res = await PE.who(s, company, role, school or PE.ALUMNI_SCHOOL)
+        res = await PE.who(s, company, role,
+                           PE.resolve_school(school) if school else PE.ALUMNI_SCHOOL)
 
     people = res["people"]
     if not people:
@@ -482,9 +490,9 @@ async def who_cmd(interaction: discord.Interaction, company: str,
             + (f" matching _{role}_" if role else "")
             + ".\nMixRank has no company filter, so this is a free-text search "
               "— try the name exactly as LinkedIn spells it, or drop `role:`.",
-            ephemeral=True)
+            ephemeral=hide)
 
-    want_school = school or PE.ALUMNI_SCHOOL
+    want_school = PE.resolve_school(school) if school else PE.ALUMNI_SCHOOL
     lines = [f"**{len(people)}** at **{res['company']}**"
              + (f" · _{role}_" if role else "")
              + f"  ·  {res['searched']} profiles matched the search"]
@@ -513,7 +521,10 @@ async def who_cmd(interaction: discord.Interaction, company: str,
     if not any(p["email"] for p in people):
         body += ("\n-# No work emails matched this employer's domain — LinkedIn "
                  "is the reliable route here.")
-    await interaction.followup.send(content=body[:1990], ephemeral=True)
+    if share:
+        body += (f"\n-# Shared by {interaction.user.display_name} · contains real "
+                 f"contact details — keep it in this server.")
+    await interaction.followup.send(content=body[:1990], ephemeral=hide)
 
 
 @bot.tree.command(name="stats", description="What the radar is currently watching")

@@ -61,6 +61,74 @@ SEARCH_PAGE = 25          # how many the free-text search returns to filter down
 # `/who school:` overrides it per call.
 ALUMNI_SCHOOL = os.environ.get("ALUMNI_SCHOOL", "University of Toronto")
 
+# Nobody types "University of Toronto" into a Discord command; they type UofT.
+# Alumni matching is a substring test against LinkedIn's school name, and
+# MixRank normalises those to the full official form — so "uoft" matched
+# nothing at all, silently. A filter that quietly matches nothing is worse
+# than one that errors, because it reads as "no alumni work here".
+SCHOOL_ALIASES = {
+    "uoft": "University of Toronto",
+    "uot": "University of Toronto",
+    "utoronto": "University of Toronto",
+    "toronto": "University of Toronto",
+    "uwaterloo": "University of Waterloo",
+    "waterloo": "University of Waterloo",
+    "uw": "University of Waterloo",
+    "ubc": "University of British Columbia",
+    "sfu": "Simon Fraser University",
+    "mcgill": "McGill University",
+    "queens": "Queen's University",
+    "mcmaster": "McMaster University",
+    "western": "Western University",
+    "uwo": "Western University",
+    "uottawa": "University of Ottawa",
+    "carleton": "Carleton University",
+    "yorku": "York University",
+    "york": "York University",
+    "tmu": "Toronto Metropolitan University",
+    "ryerson": "Toronto Metropolitan University",
+    "ualberta": "University of Alberta",
+    "ucalgary": "University of Calgary",
+    "concordia": "Concordia University",
+    "dal": "Dalhousie University",
+    "dalhousie": "Dalhousie University",
+    "polymtl": "Polytechnique Montréal",
+    "mit": "Massachusetts Institute of Technology",
+    "cmu": "Carnegie Mellon University",
+    "ucla": "University of California, Los Angeles",
+    "berkeley": "University of California, Berkeley",
+    "ucb": "University of California, Berkeley",
+}
+
+
+def resolve_school(text: str) -> str:
+    """Turn whatever a person typed into the name LinkedIn actually uses.
+
+    "U of T", "UofT", "u-of-t" all collapse to the same key, so the alias
+    table only needs the canonical spelling of each abbreviation.
+    """
+    raw = (text or "").strip()
+    if not raw:
+        return ""
+    key = re.sub(r"[^a-z0-9]", "", raw.lower())
+    return SCHOOL_ALIASES.get(key, raw)
+
+
+def school_matches(school_name: str, wanted: str) -> bool:
+    """Does this education entry count as `wanted`?
+
+    Checks the resolved name AND the raw input, so an alias still works for a
+    school not in the table ("Sheridan") and a campus variant still matches
+    ("University of Toronto Mississauga" for "UofT").
+    """
+    hay = (school_name or "").lower()
+    if not hay:
+        return False
+    for cand in {resolve_school(wanted).lower(), (wanted or "").strip().lower()}:
+        if cand and cand in hay:
+            return True
+    return False
+
 _cache: dict[str, tuple[float, object]] = {}
 CACHE_TTL = 60 * 60 * 6
 
@@ -251,7 +319,7 @@ def summarise(detail: dict, company: str, school: str,
 
     months = _months_since(cur.get("start_date")) if cur else None
     alum = [e for e in (li.get("education") or [])
-            if school and school.lower() in (e.get("school_name") or "").lower()]
+            if school and school_matches(e.get("school_name") or "", school)]
 
     emails = [e.get("email") for e in (detail or {}).get("emails") or []
               if e.get("email")]
