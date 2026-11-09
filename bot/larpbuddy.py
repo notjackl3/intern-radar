@@ -40,6 +40,7 @@ import aiohttp
 import discord
 
 import matching as MATCH
+import people as PE
 import prefs as P
 import repo as repo_mod
 import resolve as R
@@ -448,6 +449,71 @@ async def search(interaction: discord.Interaction, query: str,
     await interaction.followup.send(content=msgs[0])
     for extra in msgs[1:]:
         await interaction.followup.send(content=extra)
+
+
+@bot.tree.command(name="who",
+                  description="Who to contact at a company — recruiters, alumni, emails")
+@app_commands.describe(
+    company="Employer name, e.g. RBC, Shopify, Jobber",
+    role="Optional: narrow it, e.g. 'campus recruiter', 'machine learning'",
+    school="Optional: flag alumni from this school (defaults to your own)")
+async def who_cmd(interaction: discord.Interaction, company: str,
+                  role: str = "", school: str = None):
+    """The half of a job search the feed can't reach.
+
+    A posting tells you a role exists; this tells you who reads the
+    applications. Deliberately EPHEMERAL: it returns real people's names and
+    work emails, which belong in the requester's own view, not broadcast into
+    a shared channel.
+    """
+    await interaction.response.defer(ephemeral=True)
+    if not PE.enabled():
+        return await interaction.followup.send(
+            "People lookup is off — set `MIXRANK_KEY` in Railway's Variables "
+            "tab and restart the service.", ephemeral=True)
+
+    async with aiohttp.ClientSession() as s:
+        res = await PE.who(s, company, role, school or PE.ALUMNI_SCHOOL)
+
+    people = res["people"]
+    if not people:
+        return await interaction.followup.send(
+            f"Couldn't find anyone at **{res['company']}**"
+            + (f" matching _{role}_" if role else "")
+            + ".\nMixRank has no company filter, so this is a free-text search "
+              "— try the name exactly as LinkedIn spells it, or drop `role:`.",
+            ephemeral=True)
+
+    want_school = school or PE.ALUMNI_SCHOOL
+    lines = [f"**{len(people)}** at **{res['company']}**"
+             + (f" · _{role}_" if role else "")
+             + f"  ·  {res['searched']} profiles matched the search"]
+    for p in people:
+        tags = []
+        if p["alumni"]:
+            tags.append("🎓 " + (p["alumni_detail"] or want_school))
+        if p["recruiter"]:
+            tags.append("📣 recruiter")
+        if p["months"] is not None and p["months"] <= 6:
+            # The most receptive person at any company: new, building a
+            # pipeline, and not yet buried.
+            tags.append("🆕 new in role")
+        name = f"[{_md(p['name'])}]({p['linkedin']})" if p["linkedin"] else _md(p["name"])
+        lines.append(f"\n**{name}** — {_md(p['title'][:70])}")
+        detail = [PE.tenure_label(p["months"])]
+        if p["location"]:
+            detail.append(p["location"][:34])
+        if p["email"]:
+            detail.append(p["email"])
+        if tags:
+            detail.append(" · ".join(tags))
+        lines.append("-# " + _md(" · ".join(detail))[:380])
+
+    body = "\n".join(lines)
+    if not any(p["email"] for p in people):
+        body += ("\n-# No work emails matched this employer's domain — LinkedIn "
+                 "is the reliable route here.")
+    await interaction.followup.send(content=body[:1990], ephemeral=True)
 
 
 @bot.tree.command(name="stats", description="What the radar is currently watching")
@@ -1104,6 +1170,7 @@ def main() -> int:
              REPO, BRANCH, POLL, DATA_DIR)
     log.info("member preferences: %s backend", P.backend())
     log.info("matching: %s", SEM.status())
+    log.info("people: %s", PE.status())
     warn = P.startup_warning()
     if warn:
         log.warning("%s", warn)
