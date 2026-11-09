@@ -69,14 +69,6 @@ FEED_URL = f"{RAW}/feed.json"
 DATA_DIR = pathlib.Path(os.environ.get("DATA_DIR") or ("/data" if pathlib.Path("/data").is_dir() else "/tmp"))
 POSTED = DATA_DIR / "larpbuddy_posted.json"
 
-SOURCE_COLOR = {
-    "workday": 0x0B5CAB,
-    "greenhouse": 0x25A36F,
-    "ashby": 0x6B5BD2,
-    "lever": 0xE05C3E,
-    "simplify": 0x8A8F98,
-    "simplify-newgrad": 0xB8860B,
-}
 
 intents = discord.Intents.default()          # no privileged intents needed
 bot = commands.Bot(command_prefix="!larp ", intents=intents)
@@ -112,25 +104,39 @@ async def fetch_json(session: aiohttp.ClientSession, url: str):
 # --------------------------------------------------------------------------
 # rendering
 # --------------------------------------------------------------------------
-def age_hours(j: dict) -> float | None:
-    """Hours since this role was posted, or None if the source publishes no date.
-
-    This matters more than it looks: Workday — 30 of the ~95 open roles, and
-    every bank on the watchlist — exposes only a localised display string
-    ("Posted 3 Days Ago"), which the collector cannot parse, so posted_at is
-    None for all of them. Any time filter must say so rather than silently
-    hiding a third of the feed.
-    """
-    ts = j.get("posted_at")
+def _hours_since(ts: str | None) -> float | None:
     if not ts:
         return None
     try:
-        dt = datetime.fromisoformat(ts)
+        dt = datetime.fromisoformat(str(ts))
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return (datetime.now(timezone.utc) - dt).total_seconds() / 3600
     except Exception:
         return None
+
+
+def age_hours(j: dict) -> float | None:
+    """Hours since this role appeared, or None if we genuinely cannot tell.
+
+    Workday — 60% of the Canadian intern market, and every bank on the
+    watchlist — exposes only a localised display string ("Posted 3 Days Ago"),
+    which the collector cannot parse, so `posted_at` is None for all of it.
+    That hid 35 of 150 Canadian intern roles from `hours:` filters.
+
+    So we fall back to `first_seen`: the run that first observed the posting.
+    The collector polls every 20 minutes, so for anything that appeared after
+    that feature shipped this is within 20 minutes of the truth. Postings that
+    were already open at that point carry no stamp and still return None — a
+    missing answer, never a guessed one.
+    """
+    return _hours_since(j.get("posted_at")) or _hours_since(j.get("first_seen"))
+
+
+def age_is_estimated(j: dict) -> bool:
+    """True when the age came from first_seen rather than a published date, so
+    the UI can say "seen 2d ago" instead of claiming "posted 2d ago"."""
+    return not j.get("posted_at") and bool(j.get("first_seen"))
 
 
 def age_label(h: float | None) -> str:
@@ -157,25 +163,64 @@ def _cycle_year() -> int:
     return now.year + 1 if now.month >= 7 else now.year
 
 
-def embed_for(j: dict, why: list[str] | None = None) -> discord.Embed:
-    bits = [b for b in (j.get("location"), j.get("term"), age_label(age_hours(j))) if b]
-    e = discord.Embed(
-        title=(j.get("title") or "Untitled")[:250],
-        url=j.get("url") or None,
-        description=" · ".join(bits)[:400] or None,
-        colour=SOURCE_COLOR.get(j.get("source"), 0x8A8F98),
-    )
-    if j.get("company"):
-        e.set_author(name=j["company"][:250])
-    lvl = "new grad" if j.get("level") == "newgrad" else "intern"
-    foot = f"{lvl} · via {j.get('source', '?')}"
-    # Say WHY this role is in front of them. Without it, a ranked list is
-    # indistinguishable from an arbitrary one, and the first time someone sees
-    # a weak match they stop trusting the whole digest.
+# --------------------------------------------------------------------------
+# compact rendering
+# --------------------------------------------------------------------------
+# One embed per role costs roughly eight vertical lines once Discord's padding,
+# border and author block are counted, so four roles fill a laptop screen. The
+# same information as two lines of text — a bold company, a linked title and a
+# subtext detail line — fits ten to twelve in that space, which is the
+# difference between scanning a digest and scrolling one.
+MAX_MSG = 1900          # Discord's hard limit is 2000; leave room for a header
+
+_MD = str.maketrans({"*": "\\*", "_": "\\_", "~": "\\~", "`": "\\`",
+                     ">": "\\>", "|": "\\|"})
+
+
+def _md(text: str) -> str:
+    """Escape Discord markdown. Brackets become parens rather than escapes
+    because a `[` inside a masked link's label breaks the link outright."""
+    return (text or "").translate(_MD).replace("[", "(").replace("]", ")")
+
+
+def _link_url(url: str) -> str:
+    """Parens inside a URL terminate a masked link early, so encode them."""
+    return (url or "").replace("(", "%28").replace(")", "%29")
+
+
+def compact_line(j: dict, why: list[str] | None = None) -> str:
+    """Two lines: the role, then a subtext line of everything else."""
+    title = _md((j.get("title") or "Untitled")[:120])
+    company = _md((j.get("company") or "")[:60])
+    url = _link_url(j.get("url") or "")
+    head = f"**{company}** — [{title}]({url})" if url else f"**{company}** — {title}"
+
+    h = age_hours(j)
+    age = age_label(h)
+    if age_is_estimated(j):
+        # Never let "first seen" masquerade as "posted".
+        age = f"seen {age}" if h is not None else age
+    bits = [b for b in (j.get("location"), j.get("term"), age,
+                        j.get("source")) if b]
     if why:
-        foot += " · matched " + ", ".join(why)[:80]
-    e.set_footer(text=foot[:2040])
-    return e
+        bits.append("matched " + ", ".join(why))
+    return head + "\n-# " + _md(" · ".join(str(b) for b in bits))[:400]
+
+
+def compact_messages(items, header: str = "") -> list[str]:
+    """Pack (job, why) pairs into as few messages as Discord allows."""
+    out, buf = [], header
+    for j, why in items:
+        line = compact_line(j, why)
+        if buf and len(buf) + len(line) + 2 > MAX_MSG:
+            out.append(buf)
+            buf = ""
+        buf = f"{buf}\n{line}" if buf else line
+    if buf:
+        out.append(buf)
+    return out
+
+
 
 
 # --------------------------------------------------------------------------
@@ -212,11 +257,13 @@ async def poll_new():
         return
 
     n = len(fresh)
-    await channel.send(f"**{n} new Canadian software internship{'s' if n != 1 else ''}**")
-    for i in range(0, min(n, 30), 10):          # Discord caps 10 embeds/message
-        await channel.send(embeds=[embed_for(j) for j in fresh[i:i + 10]])
+    head = f"**{n} new Canadian software internship{'s' if n != 1 else ''}**\n"
+    # Compact text has no 10-embeds-per-message cap, so the old chunking by
+    # tens is gone; compact_messages packs by character budget instead.
+    for msg in compact_messages([(j, None) for j in fresh[:30]], header=head):
+        await channel.send(content=msg)
     if n > 30:
-        await channel.send(f"…and {n - 30} more — `/larp latest` to see them.")
+        await channel.send(f"…and {n - 30} more — `/latest count:10` to see them.")
 
     save_posted(posted | {j["id"] for j in fresh})
     log.info("posted %d new roles", n)
@@ -316,8 +363,10 @@ async def latest(interaction: discord.Interaction, hours: int = None,
                      f"date, so they can't be filtered by age")
     if not jobs:
         return await interaction.followup.send(note)
-    await interaction.followup.send(content=note,
-                                    embeds=[embed_for(j) for j in jobs])
+    msgs = compact_messages([(j, None) for j in jobs], header=note + "\n")
+    await interaction.followup.send(content=msgs[0])
+    for extra in msgs[1:]:
+        await interaction.followup.send(content=extra)
 
 
 @bot.tree.command(name="search",
@@ -395,8 +444,10 @@ async def search(interaction: discord.Interaction, query: str,
     if not SEM.enabled():
         note += "\n-# keyword matching — set OPENAI_API_KEY for semantic search"
 
-    await interaction.followup.send(
-        content=note, embeds=[embed_for(j, why=why) for j, _, why in head])
+    msgs = compact_messages([(j, why) for j, _, why in head], header=note + "\n")
+    await interaction.followup.send(content=msgs[0])
+    for extra in msgs[1:]:
+        await interaction.followup.send(content=extra)
 
 
 @bot.tree.command(name="stats", description="What the radar is currently watching")
@@ -833,9 +884,10 @@ async def _send_digest(user_id: str, p: dict, jobs: list[dict],
                 f"— _{P.describe(p)}_")
     whys = whys or {}
     try:
-        await user.send(content=head,
-                        embeds=[embed_for(j, why=whys.get(j.get("id")))
-                                for j in jobs[:10]])
+        # Compact lines mean a digest of ten roles is one screen, not six.
+        pairs = [(j, whys.get(j.get("id"))) for j in jobs[:10]]
+        for msg in compact_messages(pairs, header=head + "\n"):
+            await user.send(content=msg)
         if n > 10:
             await user.send(f"…and {n - 10} more — `/latest count:10` in the server.")
         return True
@@ -996,11 +1048,13 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
         return await interaction.followup.send(
             f"Sent you a DM. {head}", ephemeral=True)
     # DMs closed — show it here instead rather than just reporting a failure.
-    await interaction.followup.send(
-        content=head + "\n\n_(Couldn't DM you — your Discord privacy settings "
-                       "block DMs from server members, so here it is instead.)_",
-        embeds=[embed_for(j, why=whys.get(j.get("id"))) for j in show],
-        ephemeral=True)
+    fallback = (head + "\n\n_(Couldn't DM you — your Discord privacy settings "
+                       "block DMs from server members, so here it is instead.)_\n")
+    msgs = compact_messages([(j, whys.get(j.get("id"))) for j in show],
+                            header=fallback)
+    await interaction.followup.send(content=msgs[0], ephemeral=True)
+    for extra in msgs[1:]:
+        await interaction.followup.send(content=extra, ephemeral=True)
 
 
 @daily_digest.before_loop

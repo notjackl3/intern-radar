@@ -24,6 +24,20 @@ STATE = ROOT / "state"
 SEEN = STATE / "seen.json"
 NEW = STATE / "new.json"
 FEED = STATE / "feed.json"
+# id -> ISO timestamp of the run that FIRST saw this posting.
+#
+# Workday — 60% of the Canadian intern market, and every bank on the watchlist
+# — publishes `postedOn` only as a localised display string ("Posted 3 Days
+# Ago"), so `posted_at` is None for all of it. That made any time filter in the
+# bot silently useless for those roles: `/search hours:72` was hiding 35 of 150
+# Canadian intern roles, including every CIBC and TD posting, with no way to
+# judge them.
+#
+# We already know when a posting appeared — the collector diffs against
+# seen.json every 20 minutes and has done since the start — it was simply
+# thrown away. Recording it turns "date unknown" into "first seen 6h ago",
+# which is what a job alert actually needs.
+FIRSTSEEN = STATE / "first_seen.json"
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 log = logging.getLogger("radar")
@@ -100,6 +114,29 @@ def collect(watchlist, cfg, tier: str) -> list[dict]:
     return jobs
 
 
+def stamp_first_seen(matched, new, first_seen: dict, now_iso: str,
+                     *, skip: bool = False) -> dict:
+    """Record when each posting was first observed, and attach it to the jobs.
+
+    Mutates `first_seen` and the job dicts in `matched`, and returns the map.
+
+    `skip` is for a seed or first run: those mark the entire currently-open
+    board as already-seen, so stamping them would brand several thousand
+    long-open postings with today's date. An absent stamp is the honest answer
+    — the bot reads it as "unknown" and behaves exactly as it did before.
+    """
+    if not skip:
+        for j in new:
+            # setdefault, never assignment: a posting that is somehow re-listed
+            # as new must keep the date we FIRST saw it, not the latest one.
+            first_seen.setdefault(j["id"], now_iso)
+    for j in matched:
+        fs = first_seen.get(j["id"])
+        if fs:
+            j["first_seen"] = fs
+    return first_seen
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -126,6 +163,21 @@ def main() -> int:
     new = [j for j in matched if j["id"] not in seen]
     new.sort(key=lambda j: (j.get("posted_at") or "", j["company"]), reverse=True)
 
+    # Stamp ONLY genuinely-new ids. The ~3,600 postings already in seen.json
+    # when this shipped deliberately get no stamp: backdating them to "now"
+    # would make every long-open bank role look brand new and fire a wall of
+    # alerts, and inventing an earlier date would be a lie. They stay undated
+    # and behave exactly as before; the feed heals itself as postings turn over.
+    now_iso = datetime.now(timezone.utc).isoformat()
+    first_seen = {}
+    if FIRSTSEEN.exists():
+        try:
+            first_seen = json.loads(FIRSTSEEN.read_text())
+        except Exception as e:
+            log.warning("first_seen.json unreadable (%s) — starting fresh", e)
+    stamp_first_seen(matched, new, first_seen, now_iso,
+                     skip=bool(args.seed or first_run))
+
     stamp = datetime.now(timezone.utc).strftime("%d %b %H:%M UTC") + f" · {args.tier}"
 
     if args.dry_run:
@@ -136,6 +188,18 @@ def main() -> int:
 
     SEEN.write_text(json.dumps(sorted(seen | {j['id'] for j in matched}), indent=0))
     NEW.write_text(json.dumps(new, indent=2))
+    # Prune to what is currently open, so this file stays the size of the feed
+    # (~1,600) instead of growing with every posting ever seen. A role that
+    # closes and reopens gets a fresh id anyway, so it would be "new" again
+    # regardless of what we kept here.
+    #
+    # A `fast` run only polls the single-GET boards, so it must NOT prune —
+    # it would drop the stamps of every Workday posting it didn't look at,
+    # which is precisely the data this file exists to hold.
+    if args.tier == "full":
+        open_ids = {j["id"] for j in matched}
+        first_seen = {k: v for k, v in first_seen.items() if k in open_ids}
+    FIRSTSEEN.write_text(json.dumps(first_seen, indent=0, sort_keys=True))
     # feed.json is "everything currently open". Only a full run sees
     # everything, so a fast run must not overwrite it with its subset.
     if args.tier == "full":
