@@ -39,9 +39,11 @@ import sys
 import aiohttp
 import discord
 
+import matching as MATCH
 import prefs as P
 import repo as repo_mod
 import resolve as R
+import semantic as SEM
 from datetime import datetime, timezone
 from discord import app_commands
 from discord.ext import commands, tasks
@@ -144,7 +146,18 @@ def age_label(h: float | None) -> str:
     return f"{int(days / 30)}mo ago"
 
 
-def embed_for(j: dict) -> discord.Embed:
+def _cycle_year() -> int:
+    """Which co-op cycle a bare "next summer" means.
+
+    Postings run roughly a year ahead: in Nov 2026 the feed is almost entirely
+    Summer 2027. Before July, "next summer" means this calendar year's cycle;
+    after it, next year's.
+    """
+    now = datetime.now(timezone.utc)
+    return now.year + 1 if now.month >= 7 else now.year
+
+
+def embed_for(j: dict, why: list[str] | None = None) -> discord.Embed:
     bits = [b for b in (j.get("location"), j.get("term"), age_label(age_hours(j))) if b]
     e = discord.Embed(
         title=(j.get("title") or "Untitled")[:250],
@@ -155,7 +168,13 @@ def embed_for(j: dict) -> discord.Embed:
     if j.get("company"):
         e.set_author(name=j["company"][:250])
     lvl = "new grad" if j.get("level") == "newgrad" else "intern"
-    e.set_footer(text=f"{lvl} · via {j.get('source', '?')}")
+    foot = f"{lvl} · via {j.get('source', '?')}"
+    # Say WHY this role is in front of them. Without it, a ranked list is
+    # indistinguishable from an arbitrary one, and the first time someone sees
+    # a weak match they stop trusting the whole digest.
+    if why:
+        foot += " · matched " + ", ".join(why)[:80]
+    e.set_footer(text=foot[:2040])
     return e
 
 
@@ -301,20 +320,83 @@ async def latest(interaction: discord.Interaction, hours: int = None,
                                     embeds=[embed_for(j) for j in jobs])
 
 
-@bot.tree.command(name="search", description="Search open internships by title or company")
-@app_commands.describe(query="e.g. machine learning, backend, RBC")
-async def search(interaction: discord.Interaction, query: str):
+@bot.tree.command(name="search",
+                  description="Search open roles — plain English works")
+@app_commands.describe(
+    query="e.g. 'ML internships in Toronto for next summer', 'backend security', 'RBC'",
+    hours="Only roles posted in the last N hours. Omit for all.",
+    level="intern, newgrad, or all. Defaults to your /prefs.",
+    country="Canada, US, both, or anywhere. Defaults to your /prefs.",
+    count="How many to show (1-10)")
+@app_commands.choices(level=LEVEL_CHOICES, country=COUNTRY_CHOICES)
+async def search(interaction: discord.Interaction, query: str,
+                 hours: int = None,
+                 level: app_commands.Choice[str] = None,
+                 country: app_commands.Choice[str] = None, count: int = 5):
+    """Ad-hoc search — the "menu mode" half of the design.
+
+    Parses on every call, because each query is genuinely new (unlike the
+    daily digest, which reuses a cached parse). Scores rather than filters, so
+    a two-word query like "backend security" returns both families ranked
+    instead of the zero results an AND of those words produces.
+    """
     await interaction.response.defer()
-    q = query.lower()
-    jobs = [j for j in await open_roles()
-            if q in (j.get("title", "") + " " + j.get("company", "")).lower()]
+    jobs = await open_roles()
     if not jobs:
-        return await interaction.followup.send(f"No open roles matching **{query}**.")
-    head = jobs[:10]
-    more = f"\n…and {len(jobs) - 10} more." if len(jobs) > 10 else ""
+        return await interaction.followup.send("Nothing open right now.")
+
+    mine = P.clean(((await P.load(http)).get("users") or {}).get(str(interaction.user.id)))
+    lvl = level.value if level else ("all" if len(mine["levels"]) > 1 else mine["levels"][0])
+    ctry = country.value if country else "+".join(mine["countries"])
+
+    if lvl != "all":
+        jobs = [j for j in jobs if j.get("level", "intern") == lvl]
+    jobs = [j for j in jobs if in_country(j, ctry)]
+
+    undated = 0
+    if hours is not None:
+        hours = max(1, hours)
+        kept = []
+        for j in jobs:
+            h = age_hours(j)
+            if h is None:
+                undated += 1          # Workday: no readable date, not "old"
+            elif h <= hours:
+                kept.append(j)
+        jobs = kept
+
+    async with aiohttp.ClientSession() as s:
+        q = await SEM.parse_query(s, query, year_hint=_cycle_year())
+        scored = MATCH.rank(jobs, q)
+        scored = await SEM.rerank(s, scored, query)
+
+    hits = MATCH.count_hits(scored)
+    head = scored[:max(1, min(count, 10))]
+
+    if not head:
+        return await interaction.followup.send(
+            f"Nothing open matches **{query}** right now.")
+
+    where = {"ca": " in Canada", "us": " in the US", "ca+us": " in Canada/US",
+             "us+ca": " in Canada/US", "all": ""}.get(ctry, "")
+    # `hits` is what actually matched the query; everything else is ranked
+    # filler shown only because a result list of two looks broken. Saying
+    # "150 results" when 14 matched would be a lie, so both numbers appear.
+    note = (f"**{hits}** open role{'s' if hits != 1 else ''}{where} match "
+            f"_{MATCH.describe_query(q)}_")
+    if hits == 0:
+        note = (f"Nothing{where} matches _{MATCH.describe_query(q)}_ — "
+                f"showing the closest by recency instead")
+    if hours is not None:
+        note += f", posted in the last **{hours}h**"
+        if undated:
+            note += (f"  ·  {undated} hidden: Workday publishes no posting date, "
+                     f"so those can't be filtered by age")
+    if not SEM.enabled():
+        note += "\n-# keyword matching — set OPENAI_API_KEY for semantic search"
+
     await interaction.followup.send(
-        content=f"**{len(jobs)}** open matching **{query}**{more}",
-        embeds=[embed_for(j) for j in head])
+        content=note, embeds=[embed_for(j, why=why) for j, _, why in head])
 
 
 @bot.tree.command(name="stats", description="What the radar is currently watching")
@@ -583,6 +665,7 @@ def _prefs_embed(p: dict, user: discord.abc.User) -> discord.Embed:
 @app_commands.describe(
     level="What you're hunting for",
     country="Where you can work",
+    query="Describe the job you want, in plain English. Empty string clears it.",
     digest="Send you a DM when new matching roles appear",
     hour="DAILY mode: hour of day to send it, 0-23 UTC (13 = 9am Eastern)",
     every="CYCLE mode: send as soon as something new appears, at most every N hours")
@@ -606,6 +689,7 @@ async def prefs_cmd(interaction: discord.Interaction,
                     level: app_commands.Choice[str] = None,
                     country: app_commands.Choice[str] = None,
                     digest: app_commands.Choice[str] = None,
+                    query: str = None,
                     hour: int = None, every: int = None):
     # Ephemeral: these are one person's settings, and a channel full of
     # "Jack set his preferences" is noise for everyone else.
@@ -623,7 +707,7 @@ async def prefs_cmd(interaction: discord.Interaction,
             f"`every:` has to be between {P.MIN_EVERY} and {P.MAX_EVERY} hours.",
             ephemeral=True)
 
-    if (level is None and country is None and digest is None
+    if (level is None and country is None and digest is None and query is None
             and hour is None and every is None):
         data = await P.load(http)
         mine = (data.get("users") or {}).get(uid)
@@ -636,6 +720,15 @@ async def prefs_cmd(interaction: discord.Interaction,
 
     seeded = {"value": False}
 
+    # Parse the query HERE, not inside mutate(): mutate is sync (it runs
+    # inside the optimistic-concurrency retry in prefs.save_user) and parsing
+    # may be an API call. Doing it once up front also means a save retried for
+    # a concurrent write doesn't re-bill the parse.
+    parsed = None
+    if query is not None and query.strip():
+        async with aiohttp.ClientSession() as s:
+            parsed = await SEM.parse_query(s, query, year_hint=_cycle_year())
+
     def mutate(current: dict):
         new = dict(current)
         new["name"] = str(interaction.user)
@@ -645,6 +738,11 @@ async def prefs_cmd(interaction: discord.Interaction,
             new["countries"] = country.value.split("+")
         if digest:
             new["digest"] = digest.value == "on"
+        if query is not None:
+            # An explicit empty string is how you clear it and go back to
+            # "send me everything matching my level and country".
+            new["query"] = query.strip()
+            new["parsed"] = parsed
         if hour is not None:
             new["hour_utc"] = hour
             new["mode"] = "daily"
@@ -673,17 +771,41 @@ async def prefs_cmd(interaction: discord.Interaction,
     e = _prefs_embed(mine, interaction.user)
     e.title = "Saved"
     extra = ""
-    if P.clean(mine)["digest"]:
-        matching = [j for j in await open_roles() if P.matches(j, mine)]
-        extra = (f"\n{len(matching)} open role{'s' if len(matching) != 1 else ''} "
-                 f"match this right now. Your first DM goes out at "
-                 f"{P.clean(mine)['hour_utc']:02d}:00 UTC with whatever is new by then.")
+    clean_mine = P.clean(mine)
+    if clean_mine["digest"]:
+        # A live preview, because with CA+intern at ~150 roles a query can be
+        # far narrower than it reads. Telling someone "0 match this" the moment
+        # they set it is the only way they find out before a week of silence.
+        pool = [j for j in await open_roles() if P.matches(j, mine)]
+        scored = MATCH.rank(pool, P.query_of(mine))
+        hits = MATCH.count_hits(scored)
+        if clean_mine.get("parsed"):
+            extra = (f"\n**{hits}** of the {len(pool)} open roles in your "
+                     f"level/country match that query right now.")
+            if hits == 0:
+                extra += ("\n⚠️ Nothing matches it yet. Your digest will still "
+                          "arrive — the query ranks roles rather than filtering "
+                          "them, so you'll get the closest matches, not silence.")
+            else:
+                top = ", ".join(j["title"][:40] for j, _, w in scored[:3] if w)
+                if top:
+                    extra += f"\nTop right now: {top}"
+        else:
+            extra = (f"\n{len(pool)} open role{'s' if len(pool) != 1 else ''} "
+                     f"match this right now.")
+        if clean_mine["mode"] == "daily":
+            extra += (f"\nYour first DM goes out at "
+                      f"{clean_mine['hour_utc']:02d}:00 UTC with whatever is new by then.")
+    if query is not None and query.strip() and not SEM.enabled():
+        extra += ("\n-# Parsed with the built-in parser; set OPENAI_API_KEY in "
+                  "Railway for natural-language parsing.")
     await interaction.followup.send(content=(P.describe(mine) + extra),
                                     embed=e, ephemeral=True)
 
 
 async def _send_digest(user_id: str, p: dict, jobs: list[dict],
-                       first_time: bool = False, preview: bool = False) -> bool:
+                       first_time: bool = False, preview: bool = False,
+                       whys: dict[str, list[str]] | None = None) -> bool:
     """DM one member their matching roles. Returns False if we couldn't."""
     try:
         user = bot.get_user(int(user_id)) or await bot.fetch_user(int(user_id))
@@ -709,8 +831,11 @@ async def _send_digest(user_id: str, p: dict, jobs: list[dict],
     else:
         head = (f"**{n} new role{'s' if n != 1 else ''}** matching your settings "
                 f"— _{P.describe(p)}_")
+    whys = whys or {}
     try:
-        await user.send(content=head, embeds=[embed_for(j) for j in jobs[:10]])
+        await user.send(content=head,
+                        embeds=[embed_for(j, why=whys.get(j.get("id")))
+                                for j in jobs[:10]])
         if n > 10:
             await user.send(f"…and {n - 10} more — `/latest count:10` in the server.")
         return True
@@ -755,13 +880,22 @@ async def daily_digest():
               reverse=True)
 
     for uid, p in due.items():
-        fresh = P.pick(jobs, p)
+        # Rank rather than just take the newest. The SET of roles is unchanged
+        # — still "unsent, matching your level and country" — but the ORDER is
+        # now relevance-first, and the first-digest cap keeps the 10 best
+        # instead of the 10 most recent. That difference is the whole point of
+        # a per-member query: a quiet day still sends something, and a busy
+        # one leads with what the member actually asked for.
+        scored = P.rank_pick(jobs, p, limit=None)
+        fresh = [j for j, _, _ in scored]
+        whys = {j["id"]: w for j, _, w in scored if j.get("id")}
         first_time = not p.get("sent")
         if first_time:
             # Don't open with a wall of four hundred roles.
             fresh = fresh[:P.FIRST_DIGEST]
         sent_ok = bool(fresh) and await _send_digest(uid, p, fresh,
-                                                      first_time=first_time)
+                                                      first_time=first_time,
+                                                      whys=whys)
 
         # What to remember as delivered:
         #   nothing to send      -> for a first-timer, remember the whole
@@ -838,8 +972,14 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
     jobs.sort(key=lambda j: (j.get("posted_at") is not None, j.get("posted_at") or ""),
               reverse=True)
     matching = [j for j in jobs if P.matches(j, p)]
-    unsent = P.pick(jobs, p)
-    show = (unsent or matching)[:max(1, min(count, 10))]
+    # Same ranking the real digest uses, so the preview is a true dry run
+    # rather than a differently-ordered approximation of it.
+    scored_unsent = P.rank_pick(jobs, p, limit=None)
+    unsent = [j for j, _, _ in scored_unsent]
+    scored_all = MATCH.rank(matching, P.query_of(p))
+    chosen = scored_unsent or scored_all
+    show = [j for j, _, _ in chosen][:max(1, min(count, 10))]
+    whys = {j["id"]: w for j, _, w in chosen if j.get("id")}
 
     if not show:
         return await interaction.followup.send(
@@ -851,7 +991,7 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
             f"{len(matching)} open match your settings, {len(unsent)} you "
             f"haven't been sent yet. This is a dry run: nothing is marked as "
             f"sent, so your real digest is unaffected.")
-    ok = await _send_digest(uid, p, show, preview=True)
+    ok = await _send_digest(uid, p, show, preview=True, whys=whys)
     if ok:
         return await interaction.followup.send(
             f"Sent you a DM. {head}", ephemeral=True)
@@ -859,7 +999,8 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
     await interaction.followup.send(
         content=head + "\n\n_(Couldn't DM you — your Discord privacy settings "
                        "block DMs from server members, so here it is instead.)_",
-        embeds=[embed_for(j) for j in show], ephemeral=True)
+        embeds=[embed_for(j, why=whys.get(j.get("id"))) for j in show],
+        ephemeral=True)
 
 
 @daily_digest.before_loop
@@ -908,6 +1049,7 @@ def main() -> int:
     log.info("watching %s (branch %s), polling every %ss, state in %s",
              REPO, BRANCH, POLL, DATA_DIR)
     log.info("member preferences: %s backend", P.backend())
+    log.info("matching: %s", SEM.status())
     warn = P.startup_warning()
     if warn:
         log.warning("%s", warn)

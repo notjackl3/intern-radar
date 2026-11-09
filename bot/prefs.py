@@ -48,13 +48,23 @@ import logging
 import os
 import pathlib
 
+import matching as M
+
 log = logging.getLogger("prefs")
 
 COUNTRIES = ("ca", "us", "other")
 LEVELS = ("intern", "newgrad")
 
 DEFAULTS = {"countries": ["ca"], "levels": ["intern"], "digest": True,
-            "mode": "daily", "hour_utc": 13, "every_hours": 6}
+            "mode": "daily", "hour_utc": 13, "every_hours": 6,
+            # `query` is what the member typed; `parsed` is the structured form
+            # of it. Both are stored because the parse may have cost an API
+            # call: re-deriving it on every digest would be a daily bill for a
+            # sentence that hasn't changed. It is recomputed only when `query`
+            # changes (or when they ask for it), which is the auto-mode half of
+            # the design — /search parses per call instead, since each ad-hoc
+            # query is new.
+            "query": "", "parsed": None}
 # 13:00 UTC ≈ 9am Eastern
 
 MODES = ("daily", "every")
@@ -99,7 +109,7 @@ def clean(p: dict | None) -> dict:
     out.update({k: v for k, v in p.items() if k in
                 ("countries", "levels", "digest", "mode", "hour_utc",
                  "every_hours", "name", "sent", "last_digest",
-                 "last_digest_at")})
+                 "last_digest_at", "query", "parsed")})
 
     c = [x for x in (out.get("countries") or []) if x in COUNTRIES]
     out["countries"] = c or list(DEFAULTS["countries"])
@@ -117,6 +127,12 @@ def clean(p: dict | None) -> dict:
     except (TypeError, ValueError):
         out["every_hours"] = DEFAULTS["every_hours"]
     out["sent"] = list(out.get("sent") or [])[-MAX_SENT:]
+    out["query"] = str(out.get("query") or "")[:500]
+    # A stored parse from an older bot version, or hand-edited JSON, must not
+    # be able to take the digest loop down — merge_query normalises every key
+    # and drops anything unrecognised.
+    parsed = out.get("parsed")
+    out["parsed"] = M.merge_query(M.empty_query(), parsed) if parsed else None
     return out
 
 
@@ -136,7 +152,11 @@ def describe(p: dict) -> str:
              "intern": "internships / co-ops", "newgrad": "new grad"}
     where = " + ".join(names[c] for c in p["countries"])
     what = " + ".join(names[x] for x in p["levels"])
-    return f"{what} · {where} · {cadence(p)}"
+    bits = [what, where]
+    if p.get("parsed"):
+        bits.append(M.describe_query(p["parsed"]))
+    bits.append(cadence(p))
+    return " · ".join(bits)
 
 
 def due(p: dict, now) -> bool:
@@ -194,6 +214,34 @@ def pick(jobs: list[dict], p: dict) -> list[dict]:
     p = clean(p)
     already = set(p.get("sent") or [])
     return [j for j in jobs if j.get("id") not in already and matches(j, p)]
+
+
+def query_of(p: dict) -> dict:
+    """This member's structured query, or an empty one.
+
+    An empty query is not a failure state — it scores every job on freshness
+    alone, which is precisely the behaviour every existing member had before
+    queries existed. That is what makes this change safe to deploy to a live
+    bot: nobody's digest changes until they set a query.
+    """
+    return clean(p).get("parsed") or M.empty_query()
+
+
+def rank_pick(jobs: list[dict], p: dict, *, limit: int = 10,
+              unsent_only: bool = True):
+    """The digest selection: hard-filter, then rank, then take the top N.
+
+    Hard filters are COUNTRY and LEVEL only (see matching.py for why). The
+    member's query is a weight, so a narrow query can never produce an empty
+    digest — it reorders what they'd have received anyway. Returns
+    matching.rank()'s (job, score, why) triples so the caller can show why a
+    role was chosen.
+    """
+    p = clean(p)
+    already = set(p.get("sent") or []) if unsent_only else set()
+    pool = [j for j in jobs
+            if (not unsent_only or j.get("id") not in already) and matches(j, p)]
+    return M.rank(pool, query_of(p), limit=limit)
 
 
 # --------------------------------------------------------------------------
