@@ -1,33 +1,134 @@
 [
   {
-    "id": "46afb398a3092cf8",
-    "source": "greenhouse",
-    "company": "Coveo",
-    "title": "Frontend Developer Intern, Winter 2027",
-    "location": "Montreal (Province of Quebec, Canada)",
-    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
-    "posted_at": "2026-09-28T19:39:26-04:00",
+    "id": "9093d6b89df0b866",
+    "source": "simplify-newgrad",
+    "company": "Vizient",
+    "title": "Associate Software Engineer",
+    "location": "Irving, TX",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
+    "posted_at": "2026-11-10T00:00:00+00:00",
     "term": null,
-    "description": "What does it take to build the interfaces and tools that help people get more from Coveo? Are you curious about how frontend development can make complex technology easier to use? Coveo is looking for Frontend Developer interns to join two teams within Research &amp; Development. Depending on the team, you could help developers build search experiences or help customers manage their Coveo organization. You\u2019ll work with experienced teammates, contribute to meaningful projects, and grow your skills in a collaborative engineering environment. Depending on the team you join, you could work on one of the following areas: Developer Experience UI (DXUI) team: This team builds and maintains the frontend libraries that developers use to integrate Coveo search experiences into their applications. Its work provides reusable building blocks for experiences such as conversational product discovery and tools that let administrators preview search changes. As an intern, you\u2019ll help develop the foundations that make these interfaces easier for other teams and developers to build. Platform, Resource and Insights (PRI) team: This team builds features in Coveo\u2019s admin console that help customers understand and manage their Coveo organization. As an intern, you\u2019ll take ownership of a well-scoped frontend feature, from understanding the problem through implementation, testing, code review, and release. You\u2019ll work alongside frontend and backend developers and collaborate with UX and QA teammates. Your impact, day to day: Engage actively in daily stand-up meetings to discuss progress, roadblocks, and plans. Collaborate with team members to ensure alignment and effective communication. Manage and resolve assigned Jira tickets, ensuring timely completion of tasks. Contribute to real-world projects that support Coveo\u2019s clients. Your work could involve building reusable frontend tools or improving features in the admin console. Develop your skills by drawing on your mentor\u2019s expertise. Watch, learn, and apply best practices in project management and software development. Take an active role in code review sessions. Offer constructive feedback and use the feedback you receive to improve the quality of your code and strengthen your programming skills. The Essentials: You are currently studying Software Engineering or Computer Science in a Bachelor\u2019s degree or higher in the province of Qu\u00e9bec. You are able to work from one of our offices 2 days a week. Our hybrid work model offers flexibility: office days provide opportunities to learn face-to-face from your team, while home days give you time to focus on complex work. You are legally entitled to work full-time in Canada for the duration of the 15-week internship. Think you\u2019ve got what it takes? Let\u2019s see! You have a foundation in JavaScript and have built something for the web using frontend technologies. Depending on the team, you also bring experience with or an interest in learning: DXUI: React, TypeScript, and Angular, along with an interest in building reusable frontend foundations for other developers. PRI: React, TypeScript, Angular and/or another frontend framework. Experience with testing or projects involving both frontend and backend development is an asset. You have completed an internship and are ready to take ownership of a project with guidance from your team. You\u2019re curious, comfortable asking questions, and able to act on feedback. You have a strong sense of ownership and are proud of what you create. You\u2019re passionate about the tech industry and lead with a proactive mindset. You\u2019ve participated in hackathons and/or have a few personal projects. Join the Coveolife! Do you think you can bring this role to life? Send us your application\u2014we want to hear from you! We encourage all qualified candidates to apply regardless of, for example, age, gender, disability, gaps in CV, national or ethnic background. This job description was written by humans, assisted by AI. We may leverage technology in our hiring process to help us see the person behind the resume. Coveo is committed to providing accessible employment practices. If you require accommodation due to a disability at any point during the recruitment process, please contact HR@Coveo.com to discuss your needs. #LI-hybrid",
-    "level": "intern",
-    "countries": [
-      "ca"
+    "degrees": [
+      "Bachelor's"
     ],
-    "first_seen": "2026-11-10T18:42:24.446012+00:00"
+    "level": "newgrad",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
   },
   {
-    "id": "87f1c9d08829c615",
+    "id": "53a685a5aa00b741",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern - T-Ads",
+    "location": "Philadelphia, PA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
+  },
+  {
+    "id": "c19de4ef87f40fb7",
+    "source": "simplify",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern",
+    "location": "Philadelphia, PA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
+  },
+  {
+    "id": "8f0a782074751e49",
+    "source": "simplify",
+    "company": "Veterans United",
+    "title": "Software Engineer Intern",
+    "location": "Missouri",
+    "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
+    "posted_at": "2026-09-28T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
+  },
+  {
+    "id": "096420440ec19ce8",
     "source": "workday",
-    "company": "SOTI (Next-Gen)",
-    "title": "Software Developer Intern (May 2027 - 12 months)",
-    "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
+    "company": "Motorola Solutions",
+    "title": "Software System Technologist Intern (Summer 2027 Internship)",
+    "location": "Allen, TX (TX139)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
+  },
+  {
+    "id": "57988f14ab0b793c",
+    "source": "workday",
+    "company": "General Motors",
+    "title": "2027 Summer Intern - Machine Learning Engineer, Embodied AI",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
+  },
+  {
+    "id": "ebe1986e47cf123b",
+    "source": "workday",
+    "company": "Cadence",
+    "title": "Software Engineer II",
+    "location": "SAN JOSE",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R56541",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
+  },
+  {
+    "id": "ce23fe0cd80a7aad",
+    "source": "workday",
+    "company": "Bank of Montreal (Privileged)",
+    "title": "Data Analyst, Winter 2027 (Co-o/Internship) - 8 months",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
     "posted_at": null,
     "term": null,
     "level": "intern",
     "countries": [
       "ca"
     ],
-    "first_seen": "2026-11-10T18:42:24.446012+00:00"
+    "first_seen": "2026-11-10T20:52:38.830032+00:00"
   }
 ]
