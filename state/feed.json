@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T20:45:15.491259+00:00",
-  "open_count": 1747,
-  "new_count": 10,
+  "generated_at": "2026-11-10T04:09:38.024760+00:00",
+  "open_count": 1760,
+  "new_count": 38,
   "tier": "full",
   "jobs": [
     {
@@ -230,48 +230,6 @@
       ]
     },
     {
-      "id": "c67cd8cd20f5f9c5",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer I (Cobol Developer)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "6189ffc769f98573",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer II -.NET Full Stack Developer",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--NET-Full-Stack-Developer_R_1515865",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "a0a8af3ae74ca392",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer III",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III_R_1519353-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "1782681a14719269",
       "source": "greenhouse",
       "company": "Cresta",
@@ -332,6 +290,21 @@
       ]
     },
     {
+      "id": "a05cb5d10721a30b",
+      "source": "lever",
+      "company": "Kepler Communications",
+      "title": "Software Engineering Intern (January 2027)",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
+      "posted_at": "2026-10-16T15:15:29.033000+00:00",
+      "term": null,
+      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe\u2019re on the hunt for a top-tier\u00a0Software Engineering Intern\u00a0who will assist in developing and maintaining high-performance backend services and infrastructure. You will work closely with cross-functional teams such as satellite operations, ground stations and software development to build scalable applications that support the development, testing, and operation of our satellites and mission control software.\u00a0You will be trusted from day-one to get hands on with the breadth of our software stack.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "d93cfe3cd80f0378",
       "source": "ashby",
       "company": "Bree",
@@ -377,15 +350,28 @@
       ]
     },
     {
-      "id": "a05cb5d10721a30b",
-      "source": "lever",
-      "company": "Kepler Communications",
-      "title": "Software Engineering Intern (January 2027)",
+      "id": "6189ffc769f98573",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer II -.NET Full Stack Developer",
       "location": "Toronto, Ontario",
-      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
-      "posted_at": "2026-10-16T15:15:29.033000+00:00",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--NET-Full-Stack-Developer_R_1515865",
+      "posted_at": null,
       "term": null,
-      "description": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n\u00a0\nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities.\u00a0\n\u00a0\nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of\u00a0what\u2019s\u00a0possible in space. We believe great ideas come from diverse perspectives, and\u00a0we\u2019re\u00a0committed to creating an environment where you can grow, lead, and make a global impact.\u00a0\n\u00a0\nIf\u00a0you\u2019re\u00a0ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler!\u00a0\n\u00a0\n\u00a0\n\u00a0\nWhat We Offer: \n- Build and operate real satellites!\u00a0\n- Get hands-on with cutting-edge space technology and real-world engineering challenges.\u00a0\n- Dedicated mentorship to support your learning and growth.\u00a0\n- Fun and collaborative work environment where you'll learn quickly and feel supported.\u00a0\n- Team-building events and opportunities to connect across the company.\u00a0\n- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances.\u00a0\n- Frequent in-office and company-wide events to stay connected and engaged.\u00a0\n- Make a direct impact on Kepler's growth and success.\u00a0\n- We\u2019re a certified Great Place to Work\u00ae seven years in a row.\u00a0\n\n\nWe\u2019re on the hunt for a top-tier\u00a0Software Engineering Intern\u00a0who will assist in developing and maintaining high-performance backend services and infrastructure. You will work closely with cross-functional teams such as satellite operations, ground stations and software development to build scalable applications that support the development, testing, and operation of our satellites and mission control software.\u00a0You will be trusted from day-one to get hands on with the breadth of our software stack.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "a0a8af3ae74ca392",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer III",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III_R_1519353-1",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "ca"
@@ -659,6 +645,34 @@
       ]
     },
     {
+      "id": "c3c59f9c0885efe3",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5b9366c7ed37472f",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "a8e0cd11c9377033",
       "source": "workday",
       "company": "Ciena",
@@ -759,62 +773,6 @@
       ]
     },
     {
-      "id": "c3c59f9c0885efe3",
-      "source": "workday",
-      "company": "Marvell (Careers 2)",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5b9366c7ed37472f",
-      "source": "workday",
-      "company": "Marvell (Careers 2)",
-      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6bfac37ac66598b0",
-      "source": "workday",
-      "company": "Lumentum",
-      "title": "Embedded Software Engineer Co-op/Intern",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "2f59c2d072a86458",
-      "source": "workday",
-      "company": "Altera",
-      "title": "Software Engineer - Factory Apps - Intern",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "f05872574795ca63",
       "source": "workday",
       "company": "Marvell",
@@ -840,6 +798,49 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "569cb9c1574d4acf",
+      "source": "workday",
+      "company": "Altera",
+      "title": "Software Engineer -  Intern",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "2f59c2d072a86458",
+      "source": "workday",
+      "company": "Altera",
+      "title": "Software Engineer - Factory Apps - Intern",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "6bfac37ac66598b0",
+      "source": "workday",
+      "company": "Lumentum",
+      "title": "Embedded Software Engineer Co-op/Intern",
+      "location": "Canada - Ottawa (Bill Leathem)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -899,43 +900,15 @@
       ]
     },
     {
-      "id": "0c8edf9b075063aa",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Cloud Engineering Intern",
-      "location": "CAN Kanata (2), ON - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "624082cb1ca32fe7",
-      "source": "workday",
-      "company": "Aptiv",
-      "title": "Embedded Software - Engineering Intern",
-      "location": "USA Walnut Creek, CA - WR",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "7faefec95005b572",
       "source": "ashby",
       "company": "Jerry",
       "title": "Associate Data Scientist",
       "location": "New York, New York",
       "url": "https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea",
-      "posted_at": "2026-11-09T16:05:37.206+00:00",
+      "posted_at": "2026-11-09T23:53:11.801+00:00",
       "term": null,
-      "description": "Why We Exist\n\nYour car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey \u2014 buy/sell, insurance, maintenance, repairs \u2014 is fragmented, complicated, and expensive.\n\n\u00a0\n\nJerry.ai http://Jerry.ai is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. \n\n\u00a0\n\nWe've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.\n\n\u00a0\n\nWhy We\u2019re Hiring\n\nOur Data Science & Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.\n\n\u00a0\n\nEvery business unit has a Data Science team member embedded within it  \u2014  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. \n\n\u00a0\n\nAs our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:\n\n - Growth Marketing \n\n - Product Development\n\n - Strategic Partnerships \n\n\u00a0\n\nOn leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.\n\n\u00a0\n\nWhy You Will (Or Won't) Like Working Here\n\n - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business \u2014 an important product, a new growth channel, a key metric, a critical partner relationship, etc. \n\n - No corporate fluff: The Data Science & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. \n\n - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. \n\n\u00a0\n\nWhat You'll Own\n\nYou'll sit on our central Data Science & Analytics team but you\u2019ll be embedded in one of Jerry's core business areas \u2014 growth, product, AI and automation, strategic partnerships \u2014 and own the analytical function for that business unit end-to-end.\n\n - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.\n\n - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.\n\n - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.\n\n\u00a0\n\nWho You Are\n\n - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\" \n\n - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.\n\n - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it\u2019s outside of your swim lane.\n\n\u00a0\n\nWhat You'll Bring\n\n - 1+ years of experience at a consulting firm, investment bank, or high-growth technology company.\n\n - Strong analytical skills; ability to pull, structure, and interpret data independently.\n\n - Track record of owning ambiguous problems and delivering impact.\n\n - Clear, persuasive communicator who can influence decisions at the leadership level.\n\n\u00a0\n\nOur Tools\n\nSQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.\n\n\u00a0\n\u00a0\n\nWhile we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.\n\n\n\nPlease note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.\n\n\n\nJerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. \n\n\n\nJerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at recruiting@jerry.ai recruiting@getjerry.com\n\n\n\nThe successful candidate\u2019s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants. \n\n\n\nWe offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.\n\n\n\nAbout Jerry.ai\n\nJerry is building the first AI-powered advisor to manage all your physical assets. \n\n\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\n\nWe started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.\n\n\n\nLed by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay \u2014 we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.\n\n\n\nWe are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership. \n\n\n\nWe support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.\n\n\u00a0",
+      "description": "About us:\n\nJerry.ai http://Jerry.ai is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.\n\n\u00a0\n\nWhy we exist:\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\u00a0\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\u00a0\n\nWe are building the first AI-powered advisor to manage all your physical assets. We started with your car in 2019, now we\u2019re expanding into new verticals (e.g. home, motorcycle, RV, boat).\n\n\u00a0\n\nWhy We\u2019re Hiring\n\nOur Data Science & Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.\n\n\u00a0\n\nEvery business unit has a Data Science team member embedded within it  \u2014  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. \n\n\u00a0\n\nAs our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:\n\n - Growth Marketing \n\n - Product Development\n\n - Strategic Partnerships \n\n\u00a0\n\nOn leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.\n\n\u00a0\n\nWhy You Will (Or Won't) Like Working Here\n\n - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business \u2014 an important product, a new growth channel, a key metric, a critical partner relationship, etc. \n\n - No corporate fluff: The Data Science & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. \n\n - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. \n\n\u00a0\n\nWhat You'll Own\n\nYou'll sit on our central Data Science & Analytics team but you\u2019ll be embedded in one of Jerry's core business areas \u2014 growth, product, AI and automation, strategic partnerships \u2014 and own the analytical function for that business unit end-to-end.\n\n - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.\n\n - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.\n\n - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.\n\n\u00a0\n\nWho You Are\n\n - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\" \n\n - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.\n\n - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it\u2019s outside of your swim lane.\n\n\u00a0\n\nWhat You'll Bring\n\n - 1+ years of experience at a consulting firm, investment bank, or high-growth technology company.\n\n - Strong analytical skills; ability to pull, structure, and interpret data independently.\n\n - Track record of owning ambiguous problems and delivering impact.\n\n - Clear, persuasive communicator who can influence decisions at the leadership level.\n\n\u00a0\n\nOur Tools\n\nSQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.\n\n\u00a0\n\u00a0\n\nWhile we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.\n\n\n\nPlease note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.\n\n\n\nJerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. \n\n\n\nJerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at recruiting@jerry.ai recruiting@getjerry.com\n\n\n\nThe successful candidate\u2019s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants. \n\n\n\nWe offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.\n\n\n\nAbout Jerry.ai\n\nJerry is building the first AI-powered advisor to manage all your physical assets. \n\n\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey \u2014 buying, insuring, maintaining, repairing, selling \u2014 is fragmented, complicated, and expensive.\n\n\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.\n\n\n\nWe started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.\n\n\n\nLed by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay \u2014 we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.\n\n\n\nWe are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership. \n\n\n\nWe support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.\n\n\u00a0",
       "level": "newgrad",
       "countries": [
         "us"
@@ -970,6 +943,34 @@
       "level": "newgrad",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "0c8edf9b075063aa",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Cloud Engineering Intern",
+      "location": "CAN Kanata (2), ON - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "624082cb1ca32fe7",
+      "source": "workday",
+      "company": "Aptiv",
+      "title": "Embedded Software - Engineering Intern",
+      "location": "USA Walnut Creek, CA - WR",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -1057,6 +1058,146 @@
       ]
     },
     {
+      "id": "7dfc9ab3913520de",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "a38386826d44d6fc",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Plantation, FL",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "09f313a071ae3437",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Android Applications Developer Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "bb5b7771e731b859",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "R&D Intern - Wireless Systems Engineer - 2026",
+      "location": "Los Angeles, CA",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "47e124a55b1c8882",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Android Platform Software Engineering Intern - Summer 2027",
+      "location": "Plantation, FL, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5402a97823947ace",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "2027 Software Engineering Summer Internship",
+      "location": "Plantation, FL",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1a1d4a4d6fb3233d",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Software Engineering - 2026 Spring Co-Op",
+      "location": "Chicago, IL, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "95d4529b01a2a42f",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Presale Systems Engineer - Summer 2027 Internship",
+      "location": "Massachusetts Remote Work, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "dc584115f9bd1f8b",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Presale Systems Engineer - Summer 2027 Internship",
+      "location": "Brooklyn, NY, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "1055f4442052b014",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
+      "location": "Irvine, CA",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "d02b43c15e96cd18",
       "source": "lever",
       "company": "Magnet Forensics",
@@ -1082,6 +1223,38 @@
       "posted_at": "2026-09-18T18:34:40.019000+00:00",
       "term": null,
       "description": "Who We Are; What We Do; Where We\u2019re Going\n\u00a0\nMagnet Forensics is a global leader in the development of digital investigative software that acquires, analyzes, and shares evidence from computers, smartphones, tablets, and IoT-related devices. We are continually innovating so our customers can deploy advanced and effective tools to protect their companies, communities, and countries.\n\u00a0\nServing thousands of customers globally, our solutions are playing a crucial role in modernizing digital investigations, helping investigators fight crime, protect assets, and guard national security.\n\u00a0\nWith employees based around the world, Magnet Forensics has been expanding our global presence. As a part of Magnet Forensics, you can expect to make a difference in the world, no matter what role you play. You\u2019ll be supported through learning and development, not to mention an incredible team with unbelievable talent and integrity. \n\u00a0\nIf you think you would be the right person to join our team working towards this goal, we would love to hear from you!\u00a0\n\n\nRole Overview\n\u00a0\nAt Magnet Forensics, you will be fully integrated into our software development team. You'll start by getting comfortable with the code, working through bugs and basic features, all the while writing code that will actually be seen in production. As you ramp, you\u2019ll be given more complex features just like any other member of the team. In fact, some of the key features of our software were written by our students!\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-09T09:44:16.443136+00:00"
+    },
+    {
+      "id": "4a309fd2d91ad6ca",
+      "source": "lever",
+      "company": "EQ Bank",
+      "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
+      "location": "Toronto",
+      "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
+      "posted_at": "2026-09-14T17:49:16.309000+00:00",
+      "term": null,
+      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - April 2027\n\u00a0\nThe Intern - Commercial Lending AI Engineer supports the design, development, testing, and support of RESTful APIs, ETL integrations, Power Platform\u2013based solutions, and emerging AI\u2011enabled capabilities within the Commercial Lending Technology team. This includes supporting AI integrations, large language model (LLM)\u2013powered workflows, intelligent agents, and automated business processes. The role contributes to the delivery of secure, scalable, and reusable interoperability and microservice solutions that support the bank\u2019s digital payment capabilities.\u00a0\n\u00a0\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-09T09:44:16.443136+00:00"
+    },
+    {
+      "id": "cfe508dacfe076bb",
+      "source": "lever",
+      "company": "EQ Bank",
+      "title": "Intern - Software Engineer, Winter 2027",
+      "location": "Toronto",
+      "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
+      "posted_at": "2026-10-08T15:20:12.949000+00:00",
+      "term": null,
+      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - August 2027\nReady to shape the future of banking?\nJoin the purpose-driven, tech-forward team at Equitable Bank where your ideas matter and your growth is accelerated.\u00a0We\u2019re\u00a0not just another bank\u2014we\u2019re\u00a0Canada\u2019s Challenger Bank\u2122, lean, agile, and built for the digital age. If\u00a0you\u2019re\u00a0passionate about challenging the status quo, driving meaningful change, and gaining hands-on experience in digital financial services, our Engineering Internship Program is the opportunity you\u2019ve\u00a0been waiting for!\u00a0\nStarting in\u00a0January 2027, you\u2019ll begin your journey as a\u00a0Software Engineer Intern through our Engineering Graduate Program, designed to accelerate your development through immersive, hands-on experience within Digital Banking.\u00a0\nAt EQ Bank, we\u2019re building the future of banking in Canada, and we want you to be part of it! Our teams work in agile, cross-functional pods where collaboration, creativity, and innovation drive everything we do. We put customers at the heart of every decision, using research, data, and feedback to create products that truly make an impact.\nWe\u2019re not just building software, we\u2019re reimagining banking. If you\u2019re passionate about solving real-world problems, learning from experienced engineers, and working in a supportive, dynamic environment, this program is for you!\u00a0\n\u00a0\n",
       "level": "intern",
       "countries": [
         "ca"
@@ -1117,6 +1290,22 @@
       "countries": [
         "ca"
       ]
+    },
+    {
+      "id": "7d820c08c847d769",
+      "source": "lever",
+      "company": "GeoComply",
+      "title": "Browser Security Engineer Intern, (Winter 2027)",
+      "location": "Vancouver, BC",
+      "url": "https://jobs.lever.co/geocomply-2/0c7660a9-a200-4dd0-9452-f0b87c536fcd",
+      "posted_at": "2026-07-09T21:15:24.871000+00:00",
+      "term": null,
+      "description": "About GeoComply\n\u00a0\nWe\u2019re GeoComply! We are at the forefront of geolocation, cybersecurity, and anti-fraud innovation, developing and delivering cutting-edge technologies to help ensure regulatory compliance, combat bad online actors, alleviate user friction, and protect businesses from fraud.\n\u00a0\nAchieving significant business and revenue growth over the past three years and dubbed a tech \u201cUnicorn,\u201d GeoComply has been trusted by leading global brands and regulators for over ten years. Our compliance-grade geolocation technology solutions are installed on over 400 million devices and analyze over 12 billion transactions a year.\n\u00a0\nAt the heart of it all is the people, united by a deep commitment to problem-solving and revolutionizing how people and businesses use the internet to instill confidence in every online interaction. With teams across five countries, three continents, and a global customer base, we have no plans to slow down.\n\n\nLocation:\u00a0Vancouver, B.C. Full-time, 40 hrs/week \u00b7 Contract length: (Sept\u2013Dec 2026)\nStart date:\u00a0January 8th, 2026\nApplication deadline: October 31, 2026\nSalary range:\u00a0$54,000 and $62,000 (annualized, prorated to your ~4-month placement).\n\u00a0\nThe Role:\n\u00a0\nA large share of internet traffic isn't people. It's bots: automated scripts dressed up as real users, probing for weaknesses and slipping past defences built for humans. GeoComply is a leader in telling the difference, and BrowserGuard is where that fight happens in the browser.\n\nThis is a fundamental research role on our push to catch the browser-based bots that beat the signals we have today. You won't be doing general software engineering. You'll be doing original research: studying how modern bots evade detection at the browser level, and inventing the new signals that catch them.\n\nOver four months the goal is ambitious on purpose. You'll generate and validate a body of net-new detection signals, ideas strong enough to become real features in BrowserGuard and proven against real customer data. Our engineers can build and test what you find. Your job is to find what they haven't. \n\u00a0\nIf it's good, GeoComply's engineers will build and test what you find.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
       "id": "da913b07d7917cc6",
@@ -1273,20 +1462,6 @@
       ]
     },
     {
-      "id": "01bce06f498d46b3",
-      "source": "workday",
-      "company": "General Motors",
-      "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
-      "location": "Sunnyvale, California, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "8c7d592569435a85",
       "source": "workday",
       "company": "General Motors",
@@ -1321,6 +1496,20 @@
       "title": "2027 Summer Intern - Research and Development - Machine Learning for Automation",
       "location": "Warren, Michigan, United States of America",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "01bce06f498d46b3",
+      "source": "workday",
+      "company": "General Motors",
+      "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+      "location": "Sunnyvale, California, United States of America",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -1368,225 +1557,6 @@
       "level": "newgrad",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "4a309fd2d91ad6ca",
-      "source": "lever",
-      "company": "EQ Bank",
-      "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
-      "location": "Toronto",
-      "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
-      "posted_at": "2026-09-14T17:49:16.309000+00:00",
-      "term": null,
-      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - April 2027\n\u00a0\nThe Intern - Commercial Lending AI Engineer supports the design, development, testing, and support of RESTful APIs, ETL integrations, Power Platform\u2013based solutions, and emerging AI\u2011enabled capabilities within the Commercial Lending Technology team. This includes supporting AI integrations, large language model (LLM)\u2013powered workflows, intelligent agents, and automated business processes. The role contributes to the delivery of secure, scalable, and reusable interoperability and microservice solutions that support the bank\u2019s digital payment capabilities.\u00a0\n\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "2066c65fd76a4310",
-      "source": "lever",
-      "company": "EQ Bank",
-      "title": "Intern - Retail Lending AI Engineer, Winter 2027",
-      "location": "Toronto",
-      "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea",
-      "posted_at": "2026-09-14T17:40:47.757000+00:00",
-      "term": null,
-      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - April 2027\nThe Intern \u2013 Retail Lending AI Engineer supports the design, development, testing, and support of RESTful APIs, ETL integrations, Power Platform\u2013based solutions, and emerging AI\u2011enabled capabilities within the Retail Lending Technology team. This includes supporting AI integrations, large language model (LLM)\u2013powered workflows, intelligent agents, and automated business processes. The role contributes to the delivery of secure, scalable, and reusable interoperability and microservice solutions that support the bank\u2019s digital payment capabilities.\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "cfe508dacfe076bb",
-      "source": "lever",
-      "company": "EQ Bank",
-      "title": "Intern - Software Engineer, Winter 2027",
-      "location": "Toronto",
-      "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
-      "posted_at": "2026-10-08T15:20:12.949000+00:00",
-      "term": null,
-      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - August 2027\nReady to shape the future of banking?\nJoin the purpose-driven, tech-forward team at Equitable Bank where your ideas matter and your growth is accelerated.\u00a0We\u2019re\u00a0not just another bank\u2014we\u2019re\u00a0Canada\u2019s Challenger Bank\u2122, lean, agile, and built for the digital age. If\u00a0you\u2019re\u00a0passionate about challenging the status quo, driving meaningful change, and gaining hands-on experience in digital financial services, our Engineering Internship Program is the opportunity you\u2019ve\u00a0been waiting for!\u00a0\nStarting in\u00a0January 2027, you\u2019ll begin your journey as a\u00a0Software Engineer Intern through our Engineering Graduate Program, designed to accelerate your development through immersive, hands-on experience within Digital Banking.\u00a0\nAt EQ Bank, we\u2019re building the future of banking in Canada, and we want you to be part of it! Our teams work in agile, cross-functional pods where collaboration, creativity, and innovation drive everything we do. We put customers at the heart of every decision, using research, data, and feedback to create products that truly make an impact.\nWe\u2019re not just building software, we\u2019re reimagining banking. If you\u2019re passionate about solving real-world problems, learning from experienced engineers, and working in a supportive, dynamic environment, this program is for you!\u00a0\n\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "7dfc9ab3913520de",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Software Engineering Intern - Summer 2027",
-      "location": "Chicago, IL",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "a38386826d44d6fc",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Software Engineering Intern - Summer 2027",
-      "location": "Plantation, FL",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "09f313a071ae3437",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Android Applications Developer Intern - Summer 2027",
-      "location": "Chicago, IL",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "bb5b7771e731b859",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "R&D Intern - Wireless Systems Engineer - 2026",
-      "location": "Los Angeles, CA",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "47e124a55b1c8882",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Android Platform Software Engineering Intern - Summer 2027",
-      "location": "Plantation, FL, More...",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "5402a97823947ace",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "2027 Software Engineering Summer Internship",
-      "location": "Plantation, FL",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1a1d4a4d6fb3233d",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Software Engineering - 2026 Spring Co-Op",
-      "location": "Chicago, IL, More...",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "95d4529b01a2a42f",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Presale Systems Engineer - Summer 2027 Internship",
-      "location": "Massachusetts Remote Work, More...",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "dc584115f9bd1f8b",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Presale Systems Engineer - Summer 2027 Internship",
-      "location": "Brooklyn, NY, More...",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "1055f4442052b014",
-      "source": "workday",
-      "company": "Motorola Solutions",
-      "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
-      "location": "Irvine, CA",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "7d820c08c847d769",
-      "source": "lever",
-      "company": "GeoComply",
-      "title": "Browser Security Engineer Intern, (Winter 2027)",
-      "location": "Vancouver, BC",
-      "url": "https://jobs.lever.co/geocomply-2/0c7660a9-a200-4dd0-9452-f0b87c536fcd",
-      "posted_at": "2026-07-09T21:15:24.871000+00:00",
-      "term": null,
-      "description": "About GeoComply\n\u00a0\nWe\u2019re GeoComply! We are at the forefront of geolocation, cybersecurity, and anti-fraud innovation, developing and delivering cutting-edge technologies to help ensure regulatory compliance, combat bad online actors, alleviate user friction, and protect businesses from fraud.\n\u00a0\nAchieving significant business and revenue growth over the past three years and dubbed a tech \u201cUnicorn,\u201d GeoComply has been trusted by leading global brands and regulators for over ten years. Our compliance-grade geolocation technology solutions are installed on over 400 million devices and analyze over 12 billion transactions a year.\n\u00a0\nAt the heart of it all is the people, united by a deep commitment to problem-solving and revolutionizing how people and businesses use the internet to instill confidence in every online interaction. With teams across five countries, three continents, and a global customer base, we have no plans to slow down.\n\n\nLocation:\u00a0Vancouver, B.C. Full-time, 40 hrs/week \u00b7 Contract length: (Sept\u2013Dec 2026)\nStart date:\u00a0January 8th, 2026\nApplication deadline: October 31, 2026\nSalary range:\u00a0$54,000 and $62,000 (annualized, prorated to your ~4-month placement).\n\u00a0\nThe Role:\n\u00a0\nA large share of internet traffic isn't people. It's bots: automated scripts dressed up as real users, probing for weaknesses and slipping past defences built for humans. GeoComply is a leader in telling the difference, and BrowserGuard is where that fight happens in the browser.\n\nThis is a fundamental research role on our push to catch the browser-based bots that beat the signals we have today. You won't be doing general software engineering. You'll be doing original research: studying how modern bots evade detection at the browser level, and inventing the new signals that catch them.\n\nOver four months the goal is ambitious on purpose. You'll generate and validate a body of net-new detection signals, ideas strong enough to become real features in BrowserGuard and proven against real customer data. Our engineers can build and test what you find. Your job is to find what they haven't. \n\u00a0\nIf it's good, GeoComply's engineers will build and test what you find.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "5e8b0cb4b702cf60",
-      "source": "greenhouse",
-      "company": "Diligent",
-      "title": "Software Engineer II",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
-      "posted_at": "2026-07-06T00:12:15-04:00",
-      "term": null,
-      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -1677,6 +1647,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "5e8b0cb4b702cf60",
+      "source": "greenhouse",
+      "company": "Diligent",
+      "title": "Software Engineer II",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
+      "posted_at": "2026-07-06T00:12:15-04:00",
+      "term": null,
+      "description": "Platform administration isn't the part of the product anyone screenshots for a demo. Nobody's writing a blog post about your identity provisioning flow. But it's the thing every other team at Diligent quietly depends on more than any other dev team in the company and when it breaks, everyone notices immediately. If that kind of quiet, high-stakes ownership sounds appealing rather than thankless, keep reading. This role is for someone who wants real skin in the game: you build it, you ship it, you support it. We're a high-initiative team that improves things we see first and asks permission later, building secure, event-driven microservices in TypeScript on AWS, and treating infrastructure as code the same way we treat application code: with rigor, not as an afterthought. Here's a breakdown of what you'll do (not all of it, just the important stuff) Design and build secure, scalable full-stack services using AWS serverless tech (Lambda, SQS, API Gateway) \u2014 with real attention to event-driven patterns and observability, not just \"does it work on my machine.\" Own your services in production. That means building good observability, keeping an eye on alerts, and responding to them before they become bigger problems. Build infrastructure as code with AWS CDK and push for CI/CD that ships safely and often \u2014 not \"big bang\" releases you have to pray over. Design RESTful APIs other teams will actually want to consume: clear contracts, sane versioning, no surprises. Write tests \u2014 unit, integration, end-to-end \u2014 as part of how you build, not a chore you do after. Show up to architecture discussions with opinions and documentation, not just vibes. Use AI tools to move faster on coding, debugging, testing, and research \u2014 but you're still the one who validates the output. These are the essentials you'll need to get an interview 2-3 years of professional software engineering experience in an agile, full-stack-focused environment. Solid full-stack fundamentals: request lifecycles, data persistence, error handling, and code other humans can read. Comfortable in Node.js/TypeScript and SQL. Real REST experience \u2014 you know what makes an API well-designed, not just what makes it \"work.\" A testing mindset: you understand why unit, integration, and end-to-end tests each earn their keep. Cloud awareness (AWS preferred) \u2014 you get managed services, scalability, and what it means to actually own infrastructure. CI/CD fundamentals \u2014 you've shipped to production frequently and lived to tell about it. Familiarity with infrastructure-as-code concepts; hands-on with Terraform, AWS CDK, or similar is a bonus, not a gate. An AI-native work style \u2014 you use these tools to move faster and know how to judge what they hand you. An ownership mindset \u2014 you follow through from code to deployment to \"is this still working right.\" It would be great if you had these too, but we'll support you if you don't Hands-on experience with AWS serverless services (Lambda, S3, SQS, DynamoDB). Practical experience with Terraform, AWS CDK, or similar. Familiarity with event-driven architecture and platform patterns \u2014 event buses, pub/sub, EventBridge or similar. Experience with identity or entitlement systems (OAuth 2.0, SCIM, OIDC). Familiarity with MCP (Model Context Protocol) or AI-integrated full-stack services. Prior work in multi-tenant SaaS platforms. Pay Range $90,000 &mdash; $107,000 CAD About Us Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.&nbsp; At Diligent, we're building the future with people who think boldly and move fast. &nbsp;Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. &nbsp;Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. &nbsp;The future belongs to those who keep learning, and we are building it together. &nbsp;At Diligent, you\u2019re not just building the future - you\u2019re an agent of positive change, joining a global community on a mission to make an impact. Learn more at&nbsp;diligent.com or follow us on&nbsp; LinkedIn &nbsp;and&nbsp; Facebook &nbsp; What Diligent Offers You &nbsp; Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients We care about our people.&nbsp; Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs&nbsp;to name a few We have teams all over the world . We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney. Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding. Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability \u2013 to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.&nbsp; Headquartered ",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -1812,6 +1797,35 @@
       ]
     },
     {
+      "id": "46d79413494bee1d",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "2027 University Graduate - Data Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-09T20:45:15.488429+00:00"
+    },
+    {
+      "id": "ebb4205472c18bbe",
+      "source": "workday",
+      "company": "Adobe",
+      "title": "2027 Intern - Security Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "c95aaa130fc75fd8",
       "source": "greenhouse",
       "company": "Coveo",
@@ -1857,22 +1871,6 @@
       ]
     },
     {
-      "id": "05f542f891812167",
-      "source": "greenhouse",
-      "company": "Hootsuite",
-      "title": "Co-op/Intern, DevOps - Winter 2027",
-      "location": "Alberta, British Columbia ",
-      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359242",
-      "posted_at": "2026-11-06T13:58:49-05:00",
-      "term": null,
-      "description": "Job Title: Co-op/Intern, DevOps (Winter 2027 Term) Location : Alberta or British Columbia (Remote)&nbsp; Term : 4 months Start Date: January 4, 2027 Openings : 1&nbsp; Role Specifics&nbsp; We\u2019re looking for an individual who is passionate about DevOps and eager to learn and grow their skills in the development and operations cycle, while consistently supporting their peers on team projects and group collaboration. WHAT YOU\u2019LL DO: &nbsp; Collaborate with mentors to learn and apply DevOps practices that enhance system reliability, stability, security, and operational excellence. Work with our North American team to design, develop, and deliver high-quality software and infrastructure projects across multiple environments. Take part in code reviews to refine your skills and strengthen your problem-solving approach. Follow agile practices by proposing ideas, testing assumptions, and delivering changes in small, measurable steps. Work-out-loud by sharing your work and experiences internally and with our infrastructure group. Gain hands-on experience in our AWS cloud environment, leveraging containerization, infrastructure as code, and tools for observability and monitoring. WHAT YOU\u2019LL NEED: Experience shipping code or a demonstrated interest in programming or technical skills. Demonstrated interest and foundational knowledge in DevOps practices. Collaboration and Teamwork: works with others to deliver results. Brings fresh perspectives and generates unique ideas to enhance processes, products, or workflows. Strong problem-solving, communication, accountability and adaptability with a growth mindset. WHO YOU ARE: Solution seeker. You\u2019re focused on tackling new challenges, solving problems, and moving the business forward\u2014and you don\u2019t wait to be asked. Lifelong learner. You have a growth mindset \u2013 you\u2019re here to learn, experiment, seek, apply, and provide feedback, share what works with your team, and move on from what doesn\u2019t. Resilient adapter. In the face of change and challenges, you bring a thoughtful, calm approach, and a focus on finding the new opportunity. Intentional collaborator. You build positive working relationships across the business, bringing people together to foster new opportunities and to facilitate the efficient flow of information. Critical challenger. You have the trust in your team to ask difficult questions in order to get to the best end result. Active communicator. You listen actively and communicate ideas and information clearly, inclusively, and proactively. Integrated thinker. You look beyond your role and responsibilities to understand how your team\u2019s work drives broader organizational goals. Accountable owner. You take pride in the work you\u2019re responsible for with a mindset of ultimate accountability and reliability for the outcomes. Bar-raiser. You step up to help your team grow and succeed, even when that means going beyond what might be expected. In all we do, our six guiding principles light the way: Step Up: Show the world what it looks like to live and work by these guiding principles. #StepUp One Team: Make Hootsuite a place where everyone feels safe, welcome, valued, and empowered to do their best&nbsp; work without compromising who they are. #OneTeam #FreeToBeMe Customer Obsessed: Focus relentlessly on helping our customers succeed. #CustomerObsessed Go Fast, Be Agile: Widen our competitive advantage by committing to speed and simplicity over perfection and complexity. #GoFastBeAgile Play to Win: Commit to building an incredible, profitable company for our customers, our employees, and our stakeholders. #PlayToWin #NoExcuses Neighbours &amp; Allies: Give back to our communities and be an ally. #SocialForGood #Allies Accommodations will be provided as requested by candidates taking part in all aspects of the selection process. This posting is for a current vacancy for which we are actively hiring.&nbsp; #LI-Remote Canada Pay Range For This Role $53,800 &mdash; $61,900 CAD &nbsp; &nbsp; Use of AI in Hiring Hootsuite uses artificial intelligence (AI) to support our recruitment process. These tools may assist with screening and assessing applicants and / or summarizing interview feedback. All final hiring decisions are made by human decision-makers who use their professional judgement to review and evaluate relevant candidate information in addition to AI outputs. For more information about how we use AI and your rights, please see our&nbsp; Careers Privacy Policy.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
       "id": "07bb4c2b79995981",
       "source": "greenhouse",
       "company": "Hootsuite",
@@ -1887,35 +1885,6 @@
         "ca"
       ],
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "46d79413494bee1d",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "2027 University Graduate - Data Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
-      "posted_at": null,
-      "term": null,
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ],
-      "first_seen": "2026-11-09T20:45:15.488429+00:00"
-    },
-    {
-      "id": "ebb4205472c18bbe",
-      "source": "workday",
-      "company": "Adobe",
-      "title": "2027 Intern - Security Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
     },
     {
       "id": "e57b287ec9f09d7a",
@@ -2098,21 +2067,6 @@
       ]
     },
     {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2027 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "87e6cf225a2e329b",
       "source": "greenhouse",
       "company": "DoorDash",
@@ -2218,6 +2172,35 @@
       ]
     },
     {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2027 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "78dcb8f47bb0730c",
+      "source": "workday",
+      "company": "Unity",
+      "title": "U-Accelerate : D\u00e9veloppeur(euse) de logiciels, nouveau(elle) dipl\u00f4m\u00e9(e) // U-Accelerate: Software Developer, New Grad",
+      "location": "Montreal, Canada",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "591a4ce5b91f1d06",
       "source": "greenhouse",
       "company": "Instacart",
@@ -2248,17 +2231,45 @@
       ]
     },
     {
-      "id": "78dcb8f47bb0730c",
+      "id": "c160d30a0fa994bb",
       "source": "workday",
-      "company": "Unity",
-      "title": "U-Accelerate : D\u00e9veloppeur(euse) de logiciels, nouveau(elle) dipl\u00f4m\u00e9(e) // U-Accelerate: Software Developer, New Grad",
-      "location": "Montreal, Canada",
-      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57068-1",
       "posted_at": null,
       "term": null,
-      "level": "newgrad",
+      "level": "intern",
       "countries": [
-        "ca"
+        "us"
+      ]
+    },
+    {
+      "id": "6d931c6a63746cc5",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57067-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "26ced3507f729e19",
+      "source": "workday",
+      "company": "Cadence",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2337,48 +2348,6 @@
       ]
     },
     {
-      "id": "c160d30a0fa994bb",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57068-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "6d931c6a63746cc5",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Engineer II",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R57067-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "26ced3507f729e19",
-      "source": "workday",
-      "company": "Cadence",
-      "title": "Software Intern",
-      "location": "SAN JOSE",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "aef22c81f6717a83",
       "source": "greenhouse",
       "company": "PlayStation Waterloo Co-op",
@@ -2454,50 +2423,6 @@
       ]
     },
     {
-      "id": "cde20c1f5a829a5c",
-      "source": "workday",
-      "company": "Samsung",
-      "title": "ePro Business & Data Analyst Intern",
-      "location": "6625 Excellence Way, Plano, TX, USA",
-      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "21cf3a6bb005b97a",
-      "source": "workday",
-      "company": "Samsung",
-      "title": "eCom Fulfillment Final Mile Intern",
-      "location": "6625 Excellence Way, Plano, TX, USA",
-      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/eCom-Fulfillment-Final-Mile-Intern_R121972",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "9fb5926249872867",
-      "source": "workday",
-      "company": "Samsung",
-      "title": "Business Intelligence & Data Analytics Intern",
-      "location": "6625 Excellence Way, Plano, TX, USA",
-      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "99826578b3ec8d13",
       "source": "greenhouse",
       "company": "Robinhood",
@@ -2558,21 +2483,6 @@
       ]
     },
     {
-      "id": "e1f5e5130d330ae5",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer I, Fullstack (Search)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
-      "posted_at": "2026-10-15T17:31:11-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Search has become the default way consumers discover where to shop, compare options, and decide what to buy across platforms like Google, TikTok, and even Klarna. As we build a new Ads business and evolve Marketplace into a best in class shopping experience, improving search is one of our highest leverage investments to create an experience users choose and merchants want to invest in. What You'll Do With the support of your team, you will work on tasks that contribute to the team's projects and goals. You will work collaboratively and proactively with your team and stakeholders, bringing them along for your work and helping to create visibility and dialog regarding the risks and trade-offs related to your work. You will strike the right balance of speed and quality in your work, ensuring that we hit our business goals while protecting our systems from downtime. You will contribute to a sense of community on your team by engaging in growth and development activities. What We Look For You have previous work or internship experience working with Javascript/Typescript. You have previous work or internship experience designing, developing and launching backend systems at scale and are experienced using Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - J Equity Grade - 4 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $101,000 - $151,000. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "newgrad",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "239724e9e6a1ac38",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2588,18 +2498,18 @@
       ]
     },
     {
-      "id": "7ac099c46dc6df90",
+      "id": "e1f5e5130d330ae5",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Backend",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
-      "posted_at": "2026-11-06T17:47:37-05:00",
+      "title": "Software Engineer I, Fullstack (Search)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+      "posted_at": "2026-10-15T17:31:11-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. You will be matched with a team after completing the interview evaluation process. Your recruiter will work closely with you throughout the process to understand your interests and experience to find the strongest team fit.&nbsp; What you\u2019ll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - L Equity Grade - 6 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year:&nbsp; 165,000 &nbsp;-&nbsp; 225,000 USD USA base pay range (all other U.S. states) per year:&nbsp; 146,000 &nbsp;-&nbsp; 206,000 USD #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
-      "level": "intern",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Search has become the default way consumers discover where to shop, compare options, and decide what to buy across platforms like Google, TikTok, and even Klarna. As we build a new Ads business and evolve Marketplace into a best in class shopping experience, improving search is one of our highest leverage investments to create an experience users choose and merchants want to invest in. What You'll Do With the support of your team, you will work on tasks that contribute to the team's projects and goals. You will work collaboratively and proactively with your team and stakeholders, bringing them along for your work and helping to create visibility and dialog regarding the risks and trade-offs related to your work. You will strike the right balance of speed and quality in your work, ensuring that we hit our business goals while protecting our systems from downtime. You will contribute to a sense of community on your team by engaging in growth and development activities. What We Look For You have previous work or internship experience working with Javascript/Typescript. You have previous work or internship experience designing, developing and launching backend systems at scale and are experienced using Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - J Equity Grade - 4 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: CAD $101,000 - $151,000. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "newgrad",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -2615,6 +2525,21 @@
       "level": "intern",
       "countries": [
         "ca"
+      ]
+    },
+    {
+      "id": "7ac099c46dc6df90",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
+      "posted_at": "2026-11-06T17:47:37-05:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Engineering team builds systems that power Affirm\u2019s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we\u2019re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering. You will be matched with a team after completing the interview evaluation process. Your recruiter will work closely with you throughout the process to understand your interests and experience to find the strongest team fit.&nbsp; What you\u2019ll do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What we look for You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor\u2019s degree in a related field. &nbsp; Base Pay Grade - L Equity Grade - 6 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year:&nbsp; 165,000 &nbsp;-&nbsp; 225,000 USD USA base pay range (all other U.S. states) per year:&nbsp; 146,000 &nbsp;-&nbsp; 206,000 USD #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "us"
       ]
     },
     {
@@ -2648,21 +2573,6 @@
       ]
     },
     {
-      "id": "8944417618d321d6",
-      "source": "greenhouse",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Decisions Orchestration)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
-      "posted_at": "2026-10-06T09:57:14-04:00",
-      "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Your role will be instrumental in designing the next generation of Affirm\u2019s Checkout Platform to provide a world-class buying experience that puts customers first! We are seeking a Backend Software Engineer to build out financial products and features providing new levels of accessibility and flexibility to our users. You will work in a fast-paced team environment, designing and implementing new API\u2019s and microservices interfaces to manage every users\u2019 transaction with Affirm. You will also use your technical skillset to find opportunities to improve the performance and reliability of the systems that drive the user journey through purchasing with Affirm. Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It\u2019s going to be an amazing ride! &nbsp; What you'll do Work with technical leaders in the team to design and implement insightful forward-looking approaches that go beyond the direct team and solve large open-ended problems Actively own components of checkout systems and define their long-term health, while also improving the health of surrounding systems Collaborate with engineers within our team and across the organization to build the next generation of the checkout platform Learn and improve engineering standards, tooling, and processes across the checkout platform &nbsp; What we look for Take Ownership. You enjoy working with product and engineering leaders to develop detailed project definitions, and drive technical decisions within your team Execute. You have a proven track record of developing, testing, and shipping high-quality software at scale Collaborate. You communicate clearly both verbally and in writing. If anything, you trend towards over-communication Build Teams. You grow with engineers around you through sharing your learnings and providing feedback to your peers that will help the team grow Customer-centric mentality. You are empathetic to the user experience and thoughtful about what we can do to make it better &nbsp; Tech You Will Use Python Kotlin RPC Redis MySQL AWS Github &nbsp; Location We\u2019re excited to announce that Affirm is now a remote-first company! This role can be located anywhere in the U.S. and Canada (with the exception of Quebec). Remote based employees may occasionally travel to an Affirm office for meetings or team building events. Our offices in San Francisco, New York City, Pittsburgh, Chicago, and Salt Lake City will remain operational and accessible for anyone to use on a voluntary basis. &nbsp; If you got to this point, we hope you're feeling excited about the job description you just read. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in Affirm's mission and can contribute to our team in a variety of ways \u2013 not just candidates who check all the boxes. &nbsp; At Affirm, \"People Come First\" is a core value and that\u2019s why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can read about our D&amp;I program here . We also believe \u201cIt\u2019s On Us\u201d to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process. We will consider qualified applicants with arrest and conviction records in accordance with applicable federal, state and local laws, including the San Francisco Fair Chance Ordinance. &nbsp; Base Pay Grade - L Equity Grade - 6 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year:&nbsp; 165,000 &nbsp;-&nbsp; 225,000 USA base pay range (all other U.S. states) per year:&nbsp; 146,000 &nbsp;-&nbsp; 206,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal in",
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "02f6774e64d6d1c8",
       "source": "greenhouse",
       "company": "Affirm",
@@ -2678,18 +2588,18 @@
       ]
     },
     {
-      "id": "3d29bdb5cc5f90a4",
+      "id": "8944417618d321d6",
       "source": "greenhouse",
       "company": "Affirm",
-      "title": "Software Engineer II, Backend (Streaming)",
-      "location": "Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
-      "posted_at": "2026-09-30T18:27:04-04:00",
+      "title": "Software Engineer II, Backend (Decisions Orchestration)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+      "posted_at": "2026-10-06T09:57:14-04:00",
       "term": null,
-      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Streaming team at Affirm is responsible for all things data and drives the strategy for event driven architecture, stream processing, data exploration, discovery and validation. We leverage existing open source technologies like Kafka, Flink, Schema registry and also build our own as needed. As a member of our team you would spend time identifying and executing on new use cases of data infrastructure, designing and scaling our existing infrastructure and working closely with other teams to promote the optimal use of data at the company. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, Kafka, Flink and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This posting is for an existing vacancy. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 CAD Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Your role will be instrumental in designing the next generation of Affirm\u2019s Checkout Platform to provide a world-class buying experience that puts customers first! We are seeking a Backend Software Engineer to build out financial products and features providing new levels of accessibility and flexibility to our users. You will work in a fast-paced team environment, designing and implementing new API\u2019s and microservices interfaces to manage every users\u2019 transaction with Affirm. You will also use your technical skillset to find opportunities to improve the performance and reliability of the systems that drive the user journey through purchasing with Affirm. Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It\u2019s going to be an amazing ride! &nbsp; What you'll do Work with technical leaders in the team to design and implement insightful forward-looking approaches that go beyond the direct team and solve large open-ended problems Actively own components of checkout systems and define their long-term health, while also improving the health of surrounding systems Collaborate with engineers within our team and across the organization to build the next generation of the checkout platform Learn and improve engineering standards, tooling, and processes across the checkout platform &nbsp; What we look for Take Ownership. You enjoy working with product and engineering leaders to develop detailed project definitions, and drive technical decisions within your team Execute. You have a proven track record of developing, testing, and shipping high-quality software at scale Collaborate. You communicate clearly both verbally and in writing. If anything, you trend towards over-communication Build Teams. You grow with engineers around you through sharing your learnings and providing feedback to your peers that will help the team grow Customer-centric mentality. You are empathetic to the user experience and thoughtful about what we can do to make it better &nbsp; Tech You Will Use Python Kotlin RPC Redis MySQL AWS Github &nbsp; Location We\u2019re excited to announce that Affirm is now a remote-first company! This role can be located anywhere in the U.S. and Canada (with the exception of Quebec). Remote based employees may occasionally travel to an Affirm office for meetings or team building events. Our offices in San Francisco, New York City, Pittsburgh, Chicago, and Salt Lake City will remain operational and accessible for anyone to use on a voluntary basis. &nbsp; If you got to this point, we hope you're feeling excited about the job description you just read. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in Affirm's mission and can contribute to our team in a variety of ways \u2013 not just candidates who check all the boxes. &nbsp; At Affirm, \"People Come First\" is a core value and that\u2019s why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can read about our D&amp;I program here . We also believe \u201cIt\u2019s On Us\u201d to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process. We will consider qualified applicants with arrest and conviction records in accordance with applicable federal, state and local laws, including the San Francisco Fair Chance Ordinance. &nbsp; Base Pay Grade - L Equity Grade - 6 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year:&nbsp; 165,000 &nbsp;-&nbsp; 225,000 USA base pay range (all other U.S. states) per year:&nbsp; 146,000 &nbsp;-&nbsp; 206,000 #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal in",
       "level": "intern",
       "countries": [
-        "ca"
+        "us"
       ]
     },
     {
@@ -2705,6 +2615,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "3d29bdb5cc5f90a4",
+      "source": "greenhouse",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Streaming)",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
+      "posted_at": "2026-09-30T18:27:04-04:00",
+      "term": null,
+      "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Streaming team at Affirm is responsible for all things data and drives the strategy for event driven architecture, stream processing, data exploration, discovery and validation. We leverage existing open source technologies like Kafka, Flink, Schema registry and also build our own as needed. As a member of our team you would spend time identifying and executing on new use cases of data infrastructure, designing and scaling our existing infrastructure and working closely with other teams to promote the optimal use of data at the company. What You'll Do With the support of your team\u2019s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team\u2019s artifacts by creating and monitoring metrics, escalating when needed, and supporting \u201ckeep the lights on\u201d &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, Kafka, Flink and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This posting is for an existing vacancy. Base Pay Grade - L Equity Grade - 5 Employees new to Affirm&nbsp; typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) CAN base pay range per year: $133,000 - $183,000 CAD Location - Remote Canada This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -2912,6 +2837,50 @@
       "posted_at": "2026-10-02T17:55:47-04:00",
       "term": null,
       "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. As an intern at Affirm, you will be a contributing member of our outstanding engineering team, and as such you will work on meaningful projects and frequently ship code. Recent grads and past interns have built a real-time high-throughput data processing pipeline, developed an extensive automated testing framework, and built out our proprietary financial platform that is central to our long term company mission. We are excited to meet and consider strong students for our 12-16 week internships. We are a dynamic organization that is happy to tailor projects to your skills, and we will work with you throughout the interview process to determine which team will be best for you. What You'll Do Interns are responsible for developing and shipping a project and verifying that it works in production. Because things are changing fast at Affirm, we do not specify intern projects in advance, instead you will collaborate with your mentor and manager when you start to spec a project that will best contribute to your team. This role will ship code and monitor the deployment of your work. Our intern projects are not isolated or intended to be thrown away: your team will depend on your contributions! We pair interns with a dedicated mentor who will be by your side to give advice and ensure the success of your project. Expect to meet with them on a regular basis and receive feedback. There are opportunities to attend events with other interns and full-time Affirmers! Past events have included virtual cooking classes, executive fireside chats, cable car trolley tours, and Giants games. Interns present their work to the entire engineering organization at the end of the internship. What We Look For Passion and dedication to changing consumer banking for the better Experience with Python, C/C++ or Java Frontend experience in WebApps/JavaScript/AngularJS/React Strong communication skills Experience with object oriented programming Deployment and testing frameworks API development/documentation AWS or other PaaS frameworks Compensation is a set amount for the Intern role with no range. USA hourly base pay: $55.00 USA monthly base pay: $9,500 Please note that visa sponsorship is not available for this position. DOT NOT DELETE OR FILL OUT THE INFORMATION BELOW: [DELETE IF NOT APPLICABLE TO ROLE] For U.S. non-variable roles use the template below: Pay Grade - 00 Equity Grade - 00 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $X - $X USA base pay range (all other U.S. states) per year: $X - $X [DELETE IF NOT APPLICABLE TO ROLE] For U.S. variable roles use the template below: Pay Grade - 00 Equity Grade - 00 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. For sales roles, the range provided is the role\u2019s On Target Earnings ('OTE') range, which includes the annual base pay and the sales incentive target. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA On Target Earnings (CA, WA, NY, NJ, CT) per year: $X - $X USA On Target Earnings (all other U.S. states) per year: $X - $X [DELETE IF NOT APPLICABLE TO ROLE] For CAN/GBR roles use the template below: Pay Grade - 00 Equity Grade - 00 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. [IF APPLICABLE] For sales roles, the range provided is the role\u2019s On Target Earnings ('OTE') range, which includes the annual base pay and the sales incentive target. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). (CHOOSE ONE - CAN or GBR) base pay range per year: $X - $X [DELETE IF NOT APPLICABLE TO ROLE] For POL roles use the template below: Compensation &amp; Benefits Pay Grade - 00 Equity Grade - 00 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). POL base pay range per year: X z\u0142 - X z\u0142 Additional benefits include: \u2022 Type of employment: Contract of Employment \u2022 Flexible Spending Wallets for tech, food and lifestyle \u2022 Away Days - wellness days to take off work and recharge \u2022 Learning &amp; Development programs \u2022 Parental benefits \u2022 Employee Resource &amp; Community Gro",
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "cde20c1f5a829a5c",
+      "source": "workday",
+      "company": "Samsung",
+      "title": "ePro AI  Business & Data Analyst Intern",
+      "location": "6625 Excellence Way, Plano, TX, USA",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-09T09:44:16.443136+00:00"
+    },
+    {
+      "id": "21cf3a6bb005b97a",
+      "source": "workday",
+      "company": "Samsung",
+      "title": "eCom Fulfillment Final Mile Intern",
+      "location": "6625 Excellence Way, Plano, TX, USA",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/eCom-Fulfillment-Final-Mile-Intern_R121972",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-09T09:44:16.443136+00:00"
+    },
+    {
+      "id": "9fb5926249872867",
+      "source": "workday",
+      "company": "Samsung",
+      "title": "Business Intelligence & Data Analytics Intern",
+      "location": "6625 Excellence Way, Plano, TX, USA",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949",
+      "posted_at": null,
+      "term": null,
       "level": "intern",
       "countries": [
         "us"
@@ -4589,6 +4558,21 @@
         "Bachelor's",
         "Master's"
       ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "75d4d68532306c2f",
+      "source": "simplify",
+      "company": "The Boeing Company",
+      "title": "Data Analytics Intern",
+      "location": "Ridley Park, PA; Seattle, WA; Long Beach, CA; Mesa, AZ; Colorado Springs, CO; Renton, WA; Dallas, TX; Fairfax, VA; Plano, TX; Chicago, IL; Seal Beach, CA; Tukwila, WA; St Charles, MO; San Antonio, TX; Arlington County, Arlington, VA; Everett, WA; Berkeley, MO; Auburn, WA; Oklahoma City, OK; Kent, WA; Charleston, SC; Bellevue, WA; Herndon, VA; Atlanta, GA; Huntsville, AL; North Charleston, SC; Huntington Beach, CA; Hazelwood, MO; Mukilteo, WA; El Segundo, CA",
+      "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976",
+      "posted_at": "2026-08-03T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
       "level": "intern",
       "countries": [
         "us"
@@ -6534,6 +6518,44 @@
       "countries": [
         "us"
       ]
+    },
+    {
+      "id": "a15072f6359c8437",
+      "source": "simplify",
+      "company": "GE Vernova",
+      "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+      "location": "Bellevue, WA",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
+      "posted_at": "2026-08-21T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "ebdba539405e2135",
+      "source": "simplify",
+      "company": "GE Vernova",
+      "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+      "location": "Bellevue, WA",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
+      "posted_at": "2026-08-21T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
     },
     {
       "id": "080d9d12fe2d75fe",
@@ -9022,24 +9044,6 @@
       ]
     },
     {
-      "id": "abc682085f5e1512",
-      "source": "simplify",
-      "company": "General Dynamics UK",
-      "title": "Software Developer Co-op - 16-Months",
-      "location": "Calgary, AB, Canada",
-      "url": "https://jobs.smartrecruiters.com/GDMSI/744000146985399",
-      "posted_at": "2026-09-02T14:09:22+00:00",
-      "term": "Winter 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
       "id": "430a6bf2b36a1739",
       "source": "simplify",
       "company": "Universal Health Services",
@@ -10164,23 +10168,6 @@
         "ca"
       ],
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
-      "id": "dc2da96a99bd0430",
-      "source": "simplify",
-      "company": "ID.me",
-      "title": "Software Development Engineer Intern",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
-      "posted_at": "2026-09-04T22:20:34+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
     },
     {
       "id": "3f7781de92525fdf",
@@ -11876,24 +11863,6 @@
       ]
     },
     {
-      "id": "25becad9164b8e48",
-      "source": "simplify",
-      "company": "Equitable Bank",
-      "title": "Retail Lending AI Engineer Intern",
-      "location": "Toronto, ON, Canada",
-      "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply",
-      "posted_at": "2026-09-14T19:46:52+00:00",
-      "term": "Winter 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
       "id": "c471a129c50483c7",
       "source": "simplify",
       "company": "Equitable Bank",
@@ -13212,26 +13181,6 @@
       "countries": [
         "ca"
       ]
-    },
-    {
-      "id": "4a4acee611c99236",
-      "source": "simplify",
-      "company": "Rubrik",
-      "title": "Software Engineering Intern",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
-      "posted_at": "2026-09-18T22:10:12+00:00",
-      "term": "Winter 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
       "id": "6ba533808b76463a",
@@ -17129,24 +17078,6 @@
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
-      "id": "89d64b8372c24427",
-      "source": "simplify",
-      "company": "National Life",
-      "title": "Data Science Intern",
-      "location": "Montpelier, VT; Addison, TX",
-      "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009",
-      "posted_at": "2026-10-14T22:29:13+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "494c18bf45cef743",
       "source": "simplify",
       "company": "Atoms",
@@ -18153,23 +18084,6 @@
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
-      "id": "deeea8ddba866893",
-      "source": "simplify",
-      "company": "LinkedIn",
-      "title": "Software Engineer Intern",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
-      "posted_at": "2026-10-21T01:26:46+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "c547a4d07cbca227",
       "source": "simplify",
       "company": "Toyota",
@@ -18387,23 +18301,6 @@
       "title": "Software Analytics Co-op",
       "location": "Grand Rapids, MI",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
-      "posted_at": "2026-10-22T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "c15eab3011109421",
-      "source": "simplify",
-      "company": "General Dynamics Information Technology",
-      "title": "Financial Data Analyst Intern",
-      "location": "Falls Church, VA",
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761",
       "posted_at": "2026-10-22T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
@@ -19011,21 +18908,6 @@
         "Bachelor's",
         "Master's"
       ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "d9bedb9e31b19eb3",
-      "source": "simplify",
-      "company": "Sun Life",
-      "title": "Data Science Intern",
-      "location": "Milwaukee, WI; Kansas City, MO; Hartford, CT; Portland, ME; Wellesley, MA",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
-      "posted_at": "2026-10-23T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": null,
       "level": "intern",
       "countries": [
         "us"
@@ -20497,41 +20379,6 @@
       ]
     },
     {
-      "id": "26557f544738bbec",
-      "source": "simplify",
-      "company": "Marvell",
-      "title": "Data Science Intern",
-      "location": "Boise, ID",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
-      "posted_at": "2026-10-28T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "25f04a33d2b644da",
-      "source": "simplify",
-      "company": "Regeneron Pharmaceuticals",
-      "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
-      "location": "Rensselaer, NY",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
-      "posted_at": "2026-10-28T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "e57f90635f02a232",
       "source": "simplify",
       "company": "Regeneron Pharmaceuticals",
@@ -20700,23 +20547,6 @@
       ]
     },
     {
-      "id": "7c3799b114c072d0",
-      "source": "simplify",
-      "company": "CACI",
-      "title": "Software Engineering Co-op Intern",
-      "location": "Rochester, NY",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
-      "posted_at": "2026-10-29T00:00:00+00:00",
-      "term": "Spring 2027; Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5a34f3316b808b3b",
       "source": "simplify",
       "company": "Quantiq",
@@ -20864,24 +20694,6 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "c2f531580384c6c9",
-      "source": "simplify",
-      "company": "Golden Analytics",
-      "title": "Software Engineer Intern",
-      "location": "Bellevue, WA",
-      "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5",
-      "posted_at": "2026-10-29T22:13:03+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ],
       "level": "intern",
       "countries": [
@@ -21169,13 +20981,13 @@
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
-      "id": "1aef4814963a5c57",
+      "id": "3e6466aa66de751a",
       "source": "simplify",
       "company": "F&G",
-      "title": "Business Intelligence Intern",
+      "title": "IT Software Engineer Intern - Summer",
       "location": "Des Moines, IA",
-      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003",
-      "posted_at": "2026-09-11T21:06:35+00:00",
+      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
+      "posted_at": "2026-09-15T16:58:32+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
@@ -21184,7 +20996,8 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
     },
     {
       "id": "fb66d30468fb814b",
@@ -21723,23 +21536,6 @@
       ]
     },
     {
-      "id": "9af0ba5754678e20",
-      "source": "simplify",
-      "company": "Leidos",
-      "title": "Software Engineer Intern",
-      "location": "Arlington County, Arlington, VA",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
-      "posted_at": "2026-11-02T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "7813b7a5fe9104b5",
       "source": "simplify",
       "company": "LabCorp",
@@ -21823,38 +21619,6 @@
       ]
     },
     {
-      "id": "c60fbb46c01be0bd",
-      "source": "simplify",
-      "company": "Pacific Northwest National Laboratory",
-      "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-      "location": "Seattle, WA; Richland, WA",
-      "url": "https://careers.pnnl.gov/jobs/12898?icims=1",
-      "posted_at": "2026-11-02T22:46:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "d1d3258cb675813f",
-      "source": "simplify",
-      "company": "Pacific Northwest National Laboratory",
-      "title": "NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-      "location": "Seattle, WA; Richland, WA",
-      "url": "https://careers.pnnl.gov/jobs/12899?icims=1",
-      "posted_at": "2026-11-02T22:44:00+00:00",
-      "term": "Summer 2027",
-      "degrees": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "6d4acb612d7a4172",
       "source": "simplify",
       "company": "Intuitive Surgical",
@@ -21884,23 +21648,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "b87bb47e295712d3",
-      "source": "simplify",
-      "company": "Shield AI",
-      "title": "Embedded Firmware Intern",
-      "location": "Dallas, TX",
-      "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply",
-      "posted_at": "2026-11-02T23:45:11+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -22668,21 +22415,6 @@
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
-      "id": "138d649c2941b9d4",
-      "source": "simplify",
-      "company": "Chubb",
-      "title": "Business Intelligence Intern",
-      "location": "Chicago, IL",
-      "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335",
-      "posted_at": "2026-11-05T02:03:06+00:00",
-      "term": "Summer 2027",
-      "degrees": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "a5ff1d1373659eb3",
       "source": "simplify",
       "company": "Toyota Research Institute",
@@ -22831,23 +22563,6 @@
       "term": "Summer 2027",
       "degrees": [
         "PhD"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "79a4b411bc99cee2",
-      "source": "simplify",
-      "company": "ViaSat",
-      "title": "Software Engineer Intern",
-      "location": "Germantown, MD",
-      "url": "https://careers.viasat.com/jobs/7757?icims=1",
-      "posted_at": "2026-11-02T17:19:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "intern",
       "countries": [
@@ -23173,6 +22888,24 @@
       ]
     },
     {
+      "id": "b7ca13c0ce738fae",
+      "source": "simplify",
+      "company": "Riverside Research",
+      "title": "Software Applications Intern",
+      "location": "Fairborn, OH",
+      "url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "ac6d254ccca81669",
       "source": "simplify",
       "company": "Shield AI",
@@ -23234,6 +22967,23 @@
       "location": "Sparks, NV",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233",
       "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "fa95043451a16bbb",
+      "source": "simplify",
+      "company": "V2X",
+      "title": "AI Engineering Intern",
+      "location": "Indianapolis, IN",
+      "url": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us",
+      "posted_at": "2026-11-05T22:02:00+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
@@ -23941,6 +23691,516 @@
         "us"
       ],
       "first_seen": "2026-11-09T20:45:15.488429+00:00"
+    },
+    {
+      "id": "57b1e6a2e47e10a3",
+      "source": "simplify",
+      "company": "Biodesix",
+      "title": "Software Development Intern",
+      "location": "Louisville, CO",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485410009",
+      "posted_at": "2026-11-09T17:01:46+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "f95bea74413a418f",
+      "source": "simplify",
+      "company": "Pivotal Aero",
+      "title": "Software Engineering Intern",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4/apply",
+      "posted_at": "2026-11-09T23:23:49+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "db3a7ac2cc21839b",
+      "source": "simplify",
+      "company": "Art of Problem Solving",
+      "title": "Software Engineer Intern",
+      "location": "San Diego, CA",
+      "url": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003",
+      "posted_at": "2026-11-09T19:29:40+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "9adc9ae201b7299e",
+      "source": "simplify",
+      "company": "Qualcomm",
+      "title": "Firmware Engineering Intern",
+      "location": "Toronto, ON, Canada",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722038614",
+      "posted_at": "2026-11-09T23:22:42+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "64f301013be8dbd5",
+      "source": "simplify",
+      "company": "Amazon",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA; Seattle, WA; Austin, TX; Arlington County, Arlington, VA; Denver, CO",
+      "url": "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+      "posted_at": "2026-11-09T23:17:39+00:00",
+      "term": "Summer 2027; Winter 2027; Fall 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "f6a4963fe1891d4e",
+      "source": "simplify",
+      "company": "7-Eleven",
+      "title": "Data Engineer Intern",
+      "location": "Irving, TX",
+      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "f484e893bf600cab",
+      "source": "simplify",
+      "company": "The Federal Reserve System",
+      "title": "Data Science Intern",
+      "location": "Minneapolis, MN",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "a88ab3b4c9f5c766",
+      "source": "simplify",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Artificial Intelligence Intern - Information Fusion",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us",
+      "posted_at": "2026-11-09T17:17:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "d21cc939cbcebd1b",
+      "source": "simplify",
+      "company": "Persona AI",
+      "title": "Humanoid Robotics Software Intern",
+      "location": "Houston, TX; Pensacola, FL",
+      "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb/application?embed=true",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Spring 2027; Summer 2027; Fall 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "b242d4ea5011ae86",
+      "source": "simplify",
+      "company": "Radiance Technologies",
+      "title": "Software Engineer Intern",
+      "location": "Beavercreek, OH",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Spring 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "635f9c4fd7108d93",
+      "source": "simplify",
+      "company": "Radiance Technologies",
+      "title": "Software Engineer Intern",
+      "location": "Beavercreek, OH",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Spring 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "db5a7ea8e2e2edbc",
+      "source": "simplify",
+      "company": "The New York Times",
+      "title": "Data Analyst Intern",
+      "location": "NYC",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
+      "posted_at": "2026-11-09T22:26:15+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "8a068f7bf0b8dd8b",
+      "source": "simplify",
+      "company": "The New York Times",
+      "title": "Machine Learning Scientist Intern",
+      "location": "NYC",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
+      "posted_at": "2026-11-09T22:26:36+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "31d9c36abe54df38",
+      "source": "simplify",
+      "company": "Boston Scientific",
+      "title": "Urology R&D Software Engineering Co-op",
+      "location": "Marlborough, MA; Maple Grove, MN",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813900562",
+      "posted_at": "2026-11-09T23:48:25+00:00",
+      "term": "Winter 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "912777b33787f21f",
+      "source": "simplify",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Intern",
+      "location": "Manassas, VA",
+      "url": "https://careers-gdms.icims.com/jobs/79755/job?mobile=true&needsRedirect=false",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "7f9f935cb403b7d2",
+      "source": "simplify",
+      "company": "AstraZeneca",
+      "title": "Network Planning & Data Analytics Intern",
+      "location": "Tarzana, LA",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "MBA"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "5b9742f5fc7393f3",
+      "source": "simplify",
+      "company": "UiPath",
+      "title": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "dd73e89924854280",
+      "source": "simplify",
+      "company": "UiPath",
+      "title": "AI Engineer Intern",
+      "location": "Bellevue, WA",
+      "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "a86d3bdac1ff3f9e",
+      "source": "simplify",
+      "company": "DreamWorks Animation",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459",
+      "posted_at": "2026-11-09T16:10:02+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "e44af2b179f8fd91",
+      "source": "simplify",
+      "company": "DreamWorks Animation",
+      "title": "Studio Operations \u2013 Data Analytics Intern",
+      "location": "Universal City, LA",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109",
+      "posted_at": "2026-11-09T15:34:17+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "4c5707d64f3dc239",
+      "source": "simplify",
+      "company": "DreamWorks Animation",
+      "title": "Media Tech: Data \u2013 AI & Machine Learning Intern",
+      "location": "NYC",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+      "posted_at": "2026-11-09T15:51:36+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "f7393c9801191507",
+      "source": "simplify",
+      "company": "DreamWorks Animation",
+      "title": "Media Tech: Data \u2013 AI & Machine Learning Intern",
+      "location": "Universal City, LA",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935",
+      "posted_at": "2026-11-09T15:52:20+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "69f8e52f4eabb904",
+      "source": "simplify",
+      "company": "DreamWorks Animation",
+      "title": "Advertising & Partnerships: Data Science Intern",
+      "location": "NYC",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930",
+      "posted_at": "2026-11-09T18:26:42+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "f41428da3c9a6f5e",
+      "source": "simplify",
+      "company": "DreamWorks Animation",
+      "title": "Software Engineer Intern",
+      "location": "Universal City, LA",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379",
+      "posted_at": "2026-11-09T16:09:53+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "c6c5bc8307100a2a",
+      "source": "simplify",
+      "company": "Paccar",
+      "title": "Greenhouse Gas Data Analyst Intern",
+      "location": "Kirkland, WA",
+      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors",
+      "posted_at": "2026-11-09T23:28:07+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "432c6c8694649750",
+      "source": "simplify",
+      "company": "Intuitive Surgical",
+      "title": "Robotics and Controls Engineer Intern",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000160747319",
+      "posted_at": "2026-11-10T00:02:15+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "c06c7cfbc1eadbe3",
+      "source": "simplify",
+      "company": "REGENT",
+      "title": "Mission Software Engineering Intern",
+      "location": "North Kingstown, RI",
+      "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true",
+      "posted_at": "2026-11-10T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "9ad745f94846f972",
+      "source": "simplify",
+      "company": "onsemi",
+      "title": "AI & Data Analytics Intern",
+      "location": "Scottsdale, AZ",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010",
+      "posted_at": "2026-11-10T02:44:20+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
     },
     {
       "id": "7e40d9aba3c8d7f8",
@@ -26732,24 +26992,6 @@
       ]
     },
     {
-      "id": "e6860dbf012d164f",
-      "source": "simplify-newgrad",
-      "company": "ID.me",
-      "title": "Software Development Engineer New Grad",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
-      "posted_at": "2026-09-04T22:20:33+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "263f970de81706c0",
       "source": "simplify-newgrad",
       "company": "ID.me",
@@ -26832,23 +27074,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "2a904deeebea0958",
-      "source": "simplify-newgrad",
-      "company": "Anysphere",
-      "title": "Software Engineer New Grad - 2027",
-      "location": "SF; NYC",
-      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
-      "posted_at": "2026-09-10T01:23:21+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "newgrad",
       "countries": [
@@ -27498,6 +27723,24 @@
       ]
     },
     {
+      "id": "d361fb4192d8627e",
+      "source": "simplify-newgrad",
+      "company": "Harvey",
+      "title": "Software Engineer New Grad",
+      "location": "SF; NYC",
+      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+      "posted_at": "2026-10-02T22:25:15+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "6f62afe89faac7cb",
       "source": "simplify-newgrad",
       "company": "VTG",
@@ -27577,24 +27820,6 @@
       "term": null,
       "degrees": [
         "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "d2c4a26bd949cb85",
-      "source": "simplify-newgrad",
-      "company": "ID.me",
-      "title": "Software Engineer 2 New Grad - Developer Portal",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-      "posted_at": "2026-10-06T01:20:50+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ],
       "level": "newgrad",
       "countries": [
@@ -28019,6 +28244,24 @@
       "level": "newgrad",
       "countries": [
         "ca",
+        "us"
+      ]
+    },
+    {
+      "id": "7ad5ade1d034d515",
+      "source": "simplify-newgrad",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Pathways",
+      "location": "Dulles, VA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "posted_at": "2026-10-16T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
         "us"
       ]
     },
@@ -28591,35 +28834,18 @@
       ]
     },
     {
-      "id": "ce3d8ddea1a88d39",
+      "id": "885219fa28dc0264",
       "source": "simplify-newgrad",
-      "company": "GE Vernova",
-      "title": "AI Engineer New Grad",
-      "location": "Greenville, SC",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Colorado Springs, CO",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
       "posted_at": "2026-10-27T00:00:00+00:00",
       "term": null,
       "degrees": [
         "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "441568d6930782dc",
-      "source": "simplify-newgrad",
-      "company": "GE Vernova",
-      "title": "AI Engineer New Grad",
-      "location": "Greenville, SC",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-AI-Engineer_R5057133-1",
-      "posted_at": "2026-10-27T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
+        "Master's",
+        "PhD"
       ],
       "level": "newgrad",
       "countries": [
@@ -28923,24 +29149,6 @@
       ]
     },
     {
-      "id": "3b7e5bbb287a887e",
-      "source": "simplify-newgrad",
-      "company": "Intel",
-      "title": "Software Application Development Engineer New Grad",
-      "location": "Hillsboro, OR; Phoenix, AZ",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523",
-      "posted_at": "2026-10-30T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "80a0e55845f28177",
       "source": "simplify-newgrad",
       "company": "BlackLine",
@@ -29062,24 +29270,6 @@
       ]
     },
     {
-      "id": "63ba278b93f440a5",
-      "source": "simplify-newgrad",
-      "company": "Philips",
-      "title": "Associate Data & AI Engineer - Medical Imaging",
-      "location": "Bedford, MA",
-      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
-      "posted_at": "2026-11-02T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "48be0e444be6de9b",
       "source": "simplify-newgrad",
       "company": "LexisNexis Risk Solutions",
@@ -29125,23 +29315,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "72cb724b6a7ec1fd",
-      "source": "simplify-newgrad",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineering",
-      "location": "Palm Bay, FL",
-      "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1447244000/?ats=successfactors",
-      "posted_at": "2026-11-03T23:04:27+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
       ],
       "level": "newgrad",
       "countries": [
@@ -29492,23 +29665,6 @@
       ]
     },
     {
-      "id": "aa856fe8b9dfc598",
-      "source": "simplify-newgrad",
-      "company": "WGU",
-      "title": "Associate Software Engineer",
-      "location": "Salt Lake City, UT",
-      "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548",
-      "posted_at": "2026-11-05T00:00:00+00:00",
-      "term": null,
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "25106328633dbc8d",
       "source": "simplify-newgrad",
       "company": "StubHub",
@@ -29688,6 +29844,115 @@
       "countries": [
         "us"
       ]
+    },
+    {
+      "id": "9721acc71b0865c5",
+      "source": "simplify-newgrad",
+      "company": "Kyndryl",
+      "title": "Associate Data Engineer",
+      "location": "Frisco, TX",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1",
+      "posted_at": "2026-11-09T23:15:24+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "a495a9384cb1030d",
+      "source": "simplify-newgrad",
+      "company": "Wolverine Trading",
+      "title": "C++ Software Engineer New Grad",
+      "location": "Chicago, IL",
+      "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
+      "posted_at": "2026-11-09T16:46:59+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "9cca39208cd51488",
+      "source": "simplify-newgrad",
+      "company": "L3Harris Technologies",
+      "title": "Associate Software Engineering",
+      "location": "Anaheim, CA",
+      "url": "https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineering-CA-92805/1449146200/?ats=successfactors",
+      "posted_at": "2026-11-09T23:04:43+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "b16be27540326dc4",
+      "source": "simplify-newgrad",
+      "company": "Bank of Montreal",
+      "title": "Software Developer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "bc90abb91bb2bde6",
+      "source": "simplify-newgrad",
+      "company": "Old Republic Title",
+      "title": "Associate Developer - C#/.Net",
+      "location": "Orlando, FL",
+      "url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410",
+      "posted_at": "2026-11-09T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
+    },
+    {
+      "id": "f497543c8b489a48",
+      "source": "simplify-newgrad",
+      "company": "Kyndryl",
+      "title": "Early Career Consult Program - Associate Data Engineer",
+      "location": "Frisco, TX",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870",
+      "posted_at": "2026-11-09T23:27:25+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-10T04:09:38.020436+00:00"
     }
   ]
 }
