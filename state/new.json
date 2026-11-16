@@ -1,18 +1,284 @@
 [
   {
-    "id": "afc17ec972423f9b",
-    "source": "greenhouse",
-    "company": "Affirm",
-    "title": "Software Engineer II - Enterprise IAM",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
-    "posted_at": "2026-10-27T12:13:58-04:00",
-    "term": null,
-    "description": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the InfoSec team The InfoSec team protects Affirm\u2019s systems and data from evolving threats. We manage security risk, monitor vulnerabilities, and enforce protective controls across the company. The team leads incident response, compliance, identity and access management, and employee training. Our goal is to ensure that security is built into every system and decision at Affirm. We maintain a secure, trustworthy environment so the business can operate and grow with confidence. About the role We are building the next generation of enterprise Identity and Access Management at Affirm. This role combines hands-on IAM operations, automation, and production software engineering to make identity services more reliable, scalable, and easier to operate. You will help run core access lifecycle processes, troubleshoot production issues, and automate repetitive work. You will also build and maintain backend services, APIs, and integrations that connect identity platforms with internal systems. Software engineering is a must-have. You will work primarily with SailPoint and enterprise identity integrations, with CIAM-adjacent Auth0 work where enterprise systems intersect with customer identity. This is a strong opportunity for an engineer who wants to develop deep IAM expertise without stepping away from hands-on coding. What you\u2019ll do Run and improve IAM operations, including access lifecycle work, requests, certifications, and issue resolution Automate repetitive processes with scripts, services, and workflow improvements Build and maintain production backend software, APIs, tests, and integrations Connect SailPoint and workforce identity events with internal systems Build a paved path that enables Affirm employees to create modern internal tools with Auth0 Partner with Security, IT, and Engineering on secure, auditable changes Maintain runbooks, operational metrics, and escalation support Example problems you may work on: Fixing a provisioning workflow and adding monitoring or retries Reconciling access between source systems and SailPoint Building an API integration for identity lifecycle events Creating reusable Auth0 patterns, tooling, and documentation for internal applications What we look for 2+ years of software engineering experience or equivalent internship/co-op experience with strong projects Ability to write, test, and operate production-quality backend code in Python or a similar language Strong foundations in APIs, debugging, logging, error handling, and distributed systems Experience with GitHub, CI/CD, testing, and code review Comfort owning operational work and troubleshooting production issues Familiarity with cloud environments; AWS preferred Strong written communication and documentation skills Nice to Have Exposure to IAM, IGA, SSO, SAML, OIDC, SCIM, RBAC, or identity governance Experience with SailPoint, Auth0, Okta, OneLogin, or similar platforms Experience with Terraform or other infrastructure-as-code tools Familiarity with audit or compliance environments Base Pay Grade - L Equity Grade - Canada 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $133,000 - $183,000 $CAD. This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. #LI-Remote Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We\u2019re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we\u2019re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.",
+    "id": "a2f5fe1ca2dd53b2",
+    "source": "simplify",
+    "company": "Boston Scientific",
+    "title": "AI Engineer Intern - Generative & Agentic AI",
+    "location": "Marlborough, MA; Maple Grove, MN; Arden Hills, MN",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+    "posted_at": "2026-11-16T15:51:18+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "5f618982e29c8746",
+    "source": "simplify",
+    "company": "Altice USA",
+    "title": "Data Analyst Intern - Modernization Program BSS/OSS Migration",
+    "location": "Bethpage, NY",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors",
+    "posted_at": "2026-11-16T15:34:45+00:00",
+    "term": "Winter 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "88115eb376016bef",
+    "source": "simplify",
+    "company": "Altice USA",
+    "title": "Software Developer Intern",
+    "location": "Bethpage, NY",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
+    "posted_at": "2026-11-16T15:34:43+00:00",
+    "term": "Winter 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "a07c78a305f00c4a",
+    "source": "simplify",
+    "company": "Shopify",
+    "title": "Software Engineer Intern",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada",
+    "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+    "posted_at": "2026-11-16T15:31:29+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
     "level": "intern",
     "countries": [
       "ca"
     ],
-    "first_seen": "2026-11-16T13:06:25.965995+00:00"
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "85262185a178acf5",
+    "source": "simplify",
+    "company": "Shopify",
+    "title": "Applied Machine Learning Engineer Intern",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada",
+    "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+    "posted_at": "2026-11-16T15:31:29+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "6453f31d6d3c1bc8",
+    "source": "simplify-newgrad",
+    "company": "American Express",
+    "title": "Campus Undergraduate Full-Time Engineer - Software Engineer 1",
+    "location": "Toronto, ON, Canada",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677",
+    "posted_at": "2026-11-16T15:13:00+00:00",
+    "term": null,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "newgrad",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "941939eb760e7c58",
+    "source": "simplify",
+    "company": "Octaura",
+    "title": "Data Engineer Intern",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+    "posted_at": "2026-11-16T10:33:48+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "8fe1e3a4c3027831",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "2281fdb2e6b9fd1e",
+    "source": "simplify",
+    "company": "Bank of Montreal",
+    "title": "Data Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "term": "Winter 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "46cb94ef35b830bd",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
+    "posted_at": "2026-11-05T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "297dba2c81a333ab",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "548018fee877dc34",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Software Developer Intern - Server",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
+    "posted_at": "2026-10-26T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "3f2551e914ae002f",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Software Developer Intern - Android",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
+    "posted_at": "2026-10-26T00:00:00+00:00",
+    "term": "Summer 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "4db5167055441ddd",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
+    "posted_at": "2026-10-13T00:00:00+00:00",
+    "term": "Winter 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "981c7da206320564",
+    "source": "simplify",
+    "company": "SOTI",
+    "title": "Data Scientist Intern",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
+    "posted_at": "2026-10-05T00:00:00+00:00",
+    "term": "Winter 2027",
+    "degrees": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "6306fdfacc6f7e9b",
+    "source": "simplify",
+    "company": "Datadog",
+    "title": "Software Engineer Intern - Summer",
+    "location": "Boston, MA; NYC",
+    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "posted_at": "2026-09-08T22:09:20+00:00",
+    "term": "Summer 2027",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "level": "intern",
+    "countries": [
+      "us"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
+  },
+  {
+    "id": "8ba01de25246409b",
+    "source": "workday",
+    "company": "Royal Bank of Canada (Students)",
+    "title": "Developer Winter 2027 Coop",
+    "location": "TORONTO, Ontario, Canada",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Developer-Winter-2027-Coop_R-0000192238",
+    "posted_at": null,
+    "term": null,
+    "level": "intern",
+    "countries": [
+      "ca"
+    ],
+    "first_seen": "2026-11-16T18:25:32.718450+00:00"
   }
 ]
