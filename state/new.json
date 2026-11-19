@@ -1,70 +1,18 @@
 [
   {
-    "id": "e5bab7372fd79712",
-    "source": "simplify",
-    "company": "Toyota Research Institute",
-    "title": "Robotics Intern - Generalist Robot Learning",
-    "location": "Los Altos, CA",
-    "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply",
-    "posted_at": "2026-11-19T02:27:43+00:00",
-    "term": "Summer 2027",
-    "degrees": [
-      "PhD"
-    ],
-    "level": "intern",
-    "countries": [
-      "us"
-    ],
-    "first_seen": "2026-11-19T10:14:02.681429+00:00"
-  },
-  {
-    "id": "28b6bc9d453dcc4b",
-    "source": "simplify",
-    "company": "Carnegie Mellon University",
-    "title": "AI Engineer Intern - Mission Innovation Lab",
-    "location": "Pittsburgh, PA",
-    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
-    "posted_at": "2026-11-16T00:00:00+00:00",
-    "term": "Summer 2027",
-    "degrees": null,
-    "level": "intern",
-    "countries": [
-      "us"
-    ],
-    "first_seen": "2026-11-19T10:14:02.681429+00:00"
-  },
-  {
-    "id": "de7406b45545f2d5",
-    "source": "simplify",
-    "company": "Bose",
-    "title": "Data Science Co-op - NLP & GenAI",
-    "location": "Framingham, MA; Atlanta, GA",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251",
-    "posted_at": "2026-10-02T00:00:00+00:00",
-    "term": "Winter 2027; Spring 2027",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "level": "intern",
-    "countries": [
-      "us"
-    ],
-    "first_seen": "2026-11-19T10:14:02.681429+00:00"
-  },
-  {
-    "id": "f85f28147965fc06",
-    "source": "workday",
-    "company": "Manulife (Admin)",
-    "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
-    "location": "Boston, Massachusetts",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121-1",
-    "posted_at": null,
+    "id": "d793b499a0297bf4",
+    "source": "ashby",
+    "company": "Georgian",
+    "title": "Physical AI & Robotics Intern (2027)",
+    "location": "Toronto Headquarters",
+    "url": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228",
+    "posted_at": "2026-11-19T15:51:17.058+00:00",
     "term": null,
+    "description": "ABOUT GEORGIAN\n\n\n\nGeorgian is a Toronto-based venture capital firm that partners with high-growth technology companies across cybersecurity, AI software, robotics, defense. We manage about $6B in assets and we have invested in more than 80 companies that we support with capital and technical capability.\n\n\n\nOur in-house AI lab works directly with portfolio companies to provide a differentiated experience across the investment lifecycle, and drives the adoption of AI for our internal operations.\n\n\u00a0\n\n\nABOUT THE ROLE\n\n\u00a0\n\nAs an intern in Georgian\u2019s AI Lab, you\u2019ll work on the brain of the robot: the models it thinks with, the data it learns from, the simulators it practices in and the systems that get all of that onto real machines. You\u2019ll work alongside our scientists and engineers on research, portfolio projects and technical diligence, and you\u2019ll own a scoped project of your own. This is a software role. You won\u2019t design hardware, but you\u2019ll learn enough about the body to understand what it will and won\u2019t let the brain do.\n\n\n\n\u00a0\n\n\nWHY THIS ROLE EXISTS\n\n\u00a0\n\nPhysical AI is a core investment thesis area for us. Our portfolio includes Bedrock Robotics, Path Robotics, Vention, and other frontier robotics companies. We think most of what separates these companies is the brain, not the body: how they collect and use data, the models that see and act, the world models and simulators they train against and the tools that get a new behavior from the lab onto a fleet of machines. That\u2019s the part of the stack you\u2019ll work on as an intern. You\u2019ll help the AI Lab follow the latest in robot learning, run experiments and build tools, and support our work with portfolio companies and on technical diligence. You\u2019ll know how a learned policy behaves on a real robot and what a working sim-to-real pipeline looks like. And you\u2019ll be able to tell a system that\u2019s really deployed from a good demo.\n\n\n\n\u00a0\n\n\nWHAT YOU'LL OWN & DELIVER\n\n\u00a0\n\n - Support robot learning research. Help the team keep up with what\u2019s new in VLAs, world models, sim-to-real and evaluation. Reproduce results from recent papers, run experiments and ablation studies, and contribute to internal tech notes and write-ups.\n\n - Hands-on R&D. Train and evaluate policies in simulation under guidance, using imitation learning or reinforcement learning. Assist in building data pipelines, evaluation setups and small tools that make experiments faster and easier to repeat.\n\n - Contribute to portfolio projects. Support AI Lab team members working with portfolio companies on robot-learning software. Assist with code implementation, testing and documentation, and help track results the companies care about, like task success rate and how often a person has to step in.\n\n - Support technical diligence. Help the investment team assess physical AI companies by researching the technical landscape and preparing technical question lists. Document what we find, including whether a company\u2019s autonomy is learned or scripted and how it holds up beyond the demo.\n\n - Own a scoped project. Take one focused project from idea to result, such as a sim-to-real benchmark, a policy training pipeline or an evaluation of a new model, and present it to the AI Lab and the wider Georgian team.\n\n - Communicate technical work. Turn what you learn into clear documentation, demos and short presentations for audiences with different technical backgrounds.\n\n\u00a0\n\u00a0\n\n\nWHAT WE'RE LOOKING FOR\n\n\u00a0\n\n\nIDEAL ATTRIBUTES\n\n - Currently pursuing or recently completed a Master\u2019s or PhD in computer science, robotics, electrical engineering or a related field, with a focus on machine learning, reinforcement learning or robotics.\n\n - Hands-on experience training deep learning models in a modern framework (PyTorch, JAX or similar), with strong Python and clean, reproducible code.\n\n - Working knowledge of robot learning: imitation learning, reinforcement learning, and the basics of VLAs, world models and sim-to-real transfer.\n\n - Some exposure to robotics systems through coursework, research, a lab or a competition team, even if you haven\u2019t deployed outside a lab\n\n - Comfortable with ambiguity and with asking good questions when you\u2019re stuck; a clear writer and speaker\n\n\n\n\nNICE-TO-HAVES\n\n - Experience with simulators (MuJoCo, Isaac Sim, ManiSkill or similar) or LeRobot\n\n - Time on real robot hardware, including research, hobby or competition projects\n\n - Basic C++ and ROS 2, enough to read an on-robot stack\n\n - Classical robotics background: motion planning, state estimation or control\n\n - Published work or open-source contributions in robot learning (CoRL, RSS, ICRA, LeRobot or similar)\n\n - Interest in industries like manufacturing, industrial automation or construction\n\n\n\n\nCULTURAL ATTRIBUTES WE LOVE\n\n\u00a0\n\n - Ambition and agency: You want to do big things and don\u2019t wait to be told; you\u2019re at your best with little structure and a lot of ownership\n\n - Curiosity: You chase problems to the root cause and keep asking \u201cwhy,\u201d even when the answer turns out to be a loose cable rather than the model\n\n - Team over ego: You make the people around you better, colleagues and founders alike\n\n - Plain talk: You can explain a hard technical thing briefly enough that a busy CEO gets it the first time\n\n - Builder: You\u2019d rather ship a rough policy to a test cell today than a perfect one next quarter, and you know the difference between a demo and a deployment\n\n\u00a0\n\u00a0\n\n\nHIRING PROCESS\n\n\u00a0\n\nWe don't hire like a MAG7 or scale up \u2014 in fact we rarely hire compared to them.\n\n\u00a0\n\nYou shouldn't expect a cookie-cutter high-volume hiring process with us \u2014 but a more boutique one that allows you to see a lot of the organization before joining us.\n\n\u00a0\n\nWe build a thesis in what an individual brings to our very small team, versus simply matching qualifications:\n\n 1. 30\u2011min intro (values & motivations)\n\n 2. 60\u2011min technical interview (ML fundamentals & problem\u2011solving)\n\n 3. Project discussion with team members\n\n\n\n\u00a0\n\n\nPOSITION STATUS\n\n\u00a0\n\nThis posting represents an active, future internship vacancy on our team. We are currently interviewing for this role.\n\n\n\n\nOUR COMMITMENT TO ACCESSIBILITY\n\n\n\nGeorgian is dedicated to building an inclusive environment where everyone can thrive. We provide reasonable accommodations throughout our recruitment process to ensure every candidate has the opportunity to perform at their best. If you require any specific accommodations at any stage, please reach out to us at peopleteam [at]  georgian.io.\n\n\n\n\nUSE OF AI\n\n\n\nInnovation is at our core and we use artificial intelligence (AI) to support parts of our hiring process, such as screening and evaluating applications. These tools are designed to assist - not replace - human decision making and all final hiring decisions are made by our team.  We regularly review our AI tools to help promote fairness and reduce the risk of unintended bias. If you have any questions about how we use AI in our process or would like more information, please contact us at careers [at] georgian.io.",
     "level": "intern",
     "countries": [
-      "us"
+      "ca"
     ],
-    "first_seen": "2026-11-19T10:14:02.681429+00:00"
+    "first_seen": "2026-11-19T18:38:02.707087+00:00"
   }
 ]
