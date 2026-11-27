@@ -95,6 +95,18 @@ def test_terms_one_word_per_family():
     assert DL.terms_for(llm) == ["infrastructure", "systems"]
 
 
+def test_remote_is_a_hard_filter():
+    q = M.parse_query("software engineer intern remote")
+    assert "remote" in q["cities"]
+    onsite = {"title": "Software Engineer Intern", "location": "Kent, WA", "level": "intern"}
+    remote = {"title": "Software Engineer Intern", "location": "Remote in USA", "level": "intern"}
+    dl_remote = {"title": "Dashboard Developer (Remote)", "location": "United States, US"}
+    hybrid = {"title": "Software Intern", "location": "Remote", "description": "Hybrid, 3 days in office"}
+    ranked = [j["title"] + j["location"] for j, _, _ in M.rank([onsite, remote, dl_remote, hybrid], q)]
+    assert ranked and all("Kent" not in r for r in ranked) and len(ranked) == 2
+    assert DL.terms_for(q) == ["developer remote", "software remote"]
+
+
 def test_merge_prefers_feed_copy():
     feed = [{"id": "f1", "company": "Super.com", "title": "Data Engineering Intern",
              "url": "https://a/1"}]

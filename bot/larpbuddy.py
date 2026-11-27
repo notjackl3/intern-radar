@@ -807,54 +807,69 @@ async def prefs_cmd(interaction: discord.Interaction,
     # Check the job sources again with the new settings and DM the matches now,
     # instead of leaving the member to wait for the next scheduled digest to
     # find out what the change did.
-    jobs, added = await roles_for(p)
-    scored = await rank_for(jobs, p)
-    show = [j for j, _, _ in scored][:10]
-    whys = {j["id"]: w for j, _, w in scored if j.get("id")}
-    hits = MATCH.count_hits(scored)
-    first_time = not p.get("sent")
-    live_note = f" ({added} live from Datalayer)" if added else ""
-
-    if not show:
-        extra = (f"\nNothing open matches these settings right now{live_note}. "
-                 f"Your digest will send new matches as they appear.")
-    else:
-        q_note = (f", {hits} on your query" if p.get("parsed") else "")
-        head = (f"**Matches for your new settings** — _{P.describe(p)}_\n"
-                f"{len(scored)} open role{'s' if len(scored) != 1 else ''} you "
-                f"haven't been sent{q_note}{live_note}. Top {len(show)}:")
-        sent_ok = await _send_digest(uid, p, show, whys=whys, head=head)
-        if sent_ok:
-            # A first-timer's whole current backlog counts as seen, so their
-            # next digest is genuinely new roles, not the other 400. Otherwise
-            # only what was in this DM.
-            remember = ({j["id"] for j, _, _ in scored} if first_time
-                        else {j["id"] for j in show})
-
-            def mark(current, _ids=remember):
-                new = dict(current)
-                new["sent"] = (list(current.get("sent") or [])
-                               + sorted(i for i in _ids if i))[-P.MAX_SENT:]
-                return new, True, "ok"
-            try:
-                await P.save_user(http, uid, mark, f"prefs: /prefs DM for {uid}")
-            except Exception as ex:
-                log.warning("prefs: couldn't record DM for %s: %s", uid, ex)
-            extra = (f"\nDMed you the top {len(show)} of {len(scored)} matching "
-                     f"roles{live_note}.")
-        else:
-            extra = ("\nCouldn't DM you: your Discord privacy settings block DMs "
-                     "from server members. `/latest` shows the same roles here.")
+    extra = await send_matches(uid, p, title="Matches for your new settings")
     if query is not None and query.strip() and not SEM.enabled():
         extra += "\n-# Parsed with the built-in keyword parser."
     await interaction.followup.send(content=(P.describe(mine) + extra),
                                     embed=e, ephemeral=True)
 
 
+async def send_matches(uid: str, p: dict, *, title: str, count: int = 10) -> str:
+    """Search again, DM this member the next `count` best roles they haven't
+    been sent, and mark those as sent. Shared by /prefs and /more. Returns a
+    one-line status for the reply in the channel."""
+    p = P.clean(p)
+    jobs, added = await roles_for(p)
+    scored = await rank_for(jobs, p)
+    show = [j for j, _, _ in scored][:count]
+    whys = {j["id"]: w for j, _, w in scored if j.get("id")}
+    hits = MATCH.count_hits(scored)
+    live_note = f" ({added} live from Datalayer)" if added else ""
+    if not show:
+        return (f"\nNothing open matches that you haven't been sent{live_note}. "
+                f"Your digest will send new matches as they appear.")
+
+    left = len(scored) - len(show)
+    q_note = f", {hits} on your query" if p.get("parsed") else ""
+    head = (f"**{title}** — _{P.describe(p)}_\n"
+            f"{len(scored)} open role{'s' if len(scored) != 1 else ''} you haven't "
+            f"been sent{q_note}{live_note}. Best {len(show)}:")
+    tail = f"\n-# {left} more — run `/more` for the next {min(count, left)}." if left else ""
+    if not await _send_digest(uid, p, show, whys=whys, head=head, tail=tail):
+        return ("\nCouldn't DM you: your Discord privacy settings block DMs "
+                "from server members. `/search` shows roles here instead.")
+
+    def mark(current, _ids={j["id"] for j in show}):
+        new = dict(current)
+        new["sent"] = (list(current.get("sent") or [])
+                       + sorted(i for i in _ids if i))[-P.MAX_SENT:]
+        return new, True, "ok"
+    try:
+        await P.save_user(http, uid, mark, f"prefs: DM bookkeeping for {uid}")
+    except Exception as ex:
+        log.warning("couldn't record DM for %s: %s", uid, ex)
+    return (f"\nDMed you the best {len(show)} of {len(scored)} matching "
+            f"roles{live_note}." + (f" `/more` sends the next {min(count, left)}." if left else ""))
+
+
+@bot.tree.command(name="more", description="DM me the next best roles for my /prefs")
+@app_commands.describe(count="How many to send (1-25, default 10)")
+async def more_cmd(interaction: discord.Interaction, count: int = 10):
+    await interaction.response.defer(ephemeral=True)
+    uid = str(interaction.user.id)
+    mine = ((await P.load(http)).get("users") or {}).get(uid)
+    if not mine:
+        return await interaction.followup.send(
+            "Set `/prefs` first, then `/more` pages through the matches.", ephemeral=True)
+    msg = await send_matches(uid, mine, title="More matches",
+                             count=max(1, min(count, 25)))
+    await interaction.followup.send(msg.strip(), ephemeral=True)
+
+
 async def _send_digest(user_id: str, p: dict, jobs: list[dict],
                        first_time: bool = False, preview: bool = False,
                        whys: dict[str, list[str]] | None = None,
-                       head: str | None = None) -> bool:
+                       head: str | None = None, tail: str = "") -> bool:
     """DM one member their matching roles. Returns False if we couldn't."""
     try:
         user = bot.get_user(int(user_id)) or await bot.fetch_user(int(user_id))
@@ -885,11 +900,14 @@ async def _send_digest(user_id: str, p: dict, jobs: list[dict],
     whys = whys or {}
     try:
         # Compact lines mean a digest of ten roles is one screen, not six.
-        pairs = [(j, whys.get(j.get("id"))) for j in jobs[:10]]
+        cap = 25 if head else 10
+        pairs = [(j, whys.get(j.get("id"))) for j in jobs[:cap]]
         for msg in compact_messages(pairs, header=head + "\n"):
             await user.send(content=msg, suppress_embeds=True)
-        if n > 10:
-            await user.send(f"…and {n - 10} more — `/latest count:10` in the server.")
+        if tail:
+            await user.send(tail.strip(), suppress_embeds=True)
+        elif n > cap:
+            await user.send(f"…and {n - cap} more — run `/more` in the server.")
         return True
     except discord.Forbidden:
         # They have DMs from server members turned off. Nothing we can do from
@@ -963,7 +981,9 @@ async def daily_digest():
         if not fresh:
             remember = {j["id"] for j in P.pick(ujobs, p)} if first_time else set()
         elif sent_ok:
-            remember = {j["id"] for j in (P.pick(ujobs, p) if first_time else fresh)}
+            # Only what the DM showed (10), so the rest stay available to
+            # /more and to tomorrow's digest instead of being silently consumed.
+            remember = {j["id"] for j in (P.pick(ujobs, p) if first_time else fresh[:10])}
         else:
             remember = set()
 

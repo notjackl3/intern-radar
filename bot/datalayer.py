@@ -94,8 +94,13 @@ def terms_for(q: dict | None) -> list[str]:
             if len(w) >= 3 and w.lower() not in M.STOPWORDS
             and not M.INTERN_WORDS.fullmatch(w)]
     out += free[:2]
+    base = out or DEFAULT_TERMS
+    # Remote is only ever written in the title or description, and the API
+    # ANDs words, so "developer remote" returns postings that mention both.
+    if "remote" in (q.get("cities") or []):
+        base = [f"{t} remote" for t in base]
     seen, uniq = set(), []
-    for t in out or DEFAULT_TERMS:
+    for t in base:
         if t.lower() not in seen:
             seen.add(t.lower())
             uniq.append(t)

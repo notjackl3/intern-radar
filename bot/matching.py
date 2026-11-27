@@ -425,6 +425,9 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
         if bad and bad.lower() in low:
             return None, ["excluded"]
 
+    if "remote" in (q.get("cities") or []) and not is_remote(job):
+        return None, ["not remote"]
+
     pts = 0.0
     why = []
 
@@ -438,6 +441,16 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
     if hit_kw:
         pts += W_KEYWORD * min(len(hit_kw), 3)
         why.append(", ".join(hit_kw[:3]))
+    # Skills ("python", "rust") are almost never in a title, only in the
+    # description, which only some sources provide. Full weight: the member
+    # typed the word, so a role that mentions it should beat one that doesn't.
+    desc = (job.get("description") or "").lower()
+    if desc:
+        in_desc = [w for w in q["keywords_any"]
+                   if w and w not in hit_kw and _contains(desc, w.lower())]
+        if in_desc:
+            pts += W_KEYWORD * min(len(in_desc), 3)
+            why.append(", ".join(in_desc[:3]) + " (in description)")
 
     # Employer name. Only whole phrases of 2+ characters, so a one-letter
     # query doesn't match every company with that letter in it.
@@ -448,6 +461,8 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
 
     if q["cities"]:
         hit_city = cities_in_location(job.get("location", "")) & set(q["cities"])
+        if "remote" in q["cities"] and is_remote(job):
+            hit_city.add("remote")
         if hit_city:
             pts += W_CITY
             why.append(sorted(hit_city)[0].title())
@@ -510,6 +525,26 @@ def level_ok(job: dict) -> bool:
         if job.get("source") in _TITLE_TAGGED and not INTERN_WORDS.search(title):
             return False
     return True
+
+
+# "Remote" is the one location a member means literally. "Toronto" is a
+# preference (a great Waterloo role is still worth seeing), but someone who
+# asks for remote can't take an on-site job at all, so it is a hard filter.
+REMOTE_RE = re.compile(r"\bremote\b|work from home|\bwfh\b|telecommute", re.I)
+NOT_REMOTE_RE = re.compile(r"\bhybrid\b|\bon-?site\b|\bin[- ]office\b|\bin[- ]person\b",
+                           re.I)
+
+
+def is_remote(job: dict) -> bool:
+    """Can this role be done fully remote? The location field first (feed
+    sources write "Remote - US", "Seattle, WA; Remote"); Datalayer never puts
+    remote there, only in the title or description, so those are checked
+    next. Any hybrid / on-site wording rules it out."""
+    loc = job.get("location") or ""
+    text = f"{job.get('title') or ''} {job.get('description') or ''}"
+    if NOT_REMOTE_RE.search(loc) or NOT_REMOTE_RE.search(text):
+        return False
+    return bool(REMOTE_RE.search(loc) or REMOTE_RE.search(text))
 
 
 def _age_hours(job: dict) -> float | None:
