@@ -243,6 +243,15 @@ async def poll_new():
     fresh = [j for j in new if j.get("id") and j["id"] not in posted]
     if not fresh:
         return
+    # Wrong-level roles ("Software Engineer II") are recorded as posted, so they
+    # are never reconsidered, but not shown.
+    skipped = {j["id"] for j in fresh if not MATCH.level_ok(j)}
+    if skipped:
+        save_posted(posted | skipped)
+        posted |= skipped
+        fresh = [j for j in fresh if j["id"] not in skipped]
+        if not fresh:
+            return
 
     # First boot with no saved state: record everything as posted WITHOUT
     # sending, so a fresh deploy never dumps a backlog into the channel.
@@ -622,6 +631,50 @@ def _prefs_embed(p: dict, user: discord.abc.User) -> discord.Embed:
                 inline=True)
     e.set_footer(text="/prefs to change · /prefs digest:off to stop the DMs")
     return e
+
+
+@bot.tree.command(name="allprefs",
+                  description="Everyone's radar settings, shown in the channel")
+async def allprefs(interaction: discord.Interaction):
+    """Public on purpose: members asked to see what everyone else is hunting
+    for. Uses mentions for names (they render as the member's server name)
+    but sends with pings disabled, so nobody gets notified."""
+    await interaction.response.defer()
+    users = (await P.load(http)).get("users") or {}
+    if not users:
+        return await interaction.followup.send(
+            "Nobody has set `/prefs` yet.")
+    lines = []
+    for uid, raw in sorted(users.items(), key=lambda kv: (kv[1].get("name") or "").lower()):
+        p = P.clean(raw)
+        what = " + ".join({"intern": "internships", "newgrad": "new grad"}[x]
+                          for x in p["levels"])
+        where = " + ".join({"ca": "Canada", "us": "US", "other": "elsewhere"}[c]
+                           for c in p["countries"])
+        q = (p.get("query") or "").strip()
+        bits = [what, where]
+        if q:
+            bits.append(f"“{_md(q[:90])}”")
+        bits.append(P.cadence(p) if p["digest"] else "DMs off")
+        lines.append(f"<@{uid}> — " + " · ".join(bits))
+
+    # Embed descriptions cap at 4096 characters; split rather than truncate.
+    chunks, cur = [], ""
+    for ln in lines:
+        if len(cur) + len(ln) + 1 > 3900:
+            chunks.append(cur)
+            cur = ""
+        cur += ln + "\n"
+    chunks.append(cur)
+    for i, body in enumerate(chunks):
+        e = discord.Embed(
+            title=(f"Radar settings — {len(lines)} member{'s' if len(lines) != 1 else ''}"
+                   if i == 0 else None),
+            description=body, colour=0x0B5CAB)
+        if i == len(chunks) - 1:
+            e.set_footer(text="/prefs to set yours")
+        await interaction.followup.send(
+            embed=e, allowed_mentions=discord.AllowedMentions.none())
 
 
 @bot.tree.command(name="prefs",
