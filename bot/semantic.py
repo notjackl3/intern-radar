@@ -253,6 +253,18 @@ W_SEMANTIC = 2.5
 SIM_FLOOR = 0.3
 
 
+def _job_text(j: dict) -> str:
+    """What gets embedded for a job: the title, plus the employer and the
+    first part of the description when the source has one (Datalayer does;
+    93% of feed roles don't). A 6-word title alone can't tell "Data Analyst
+    Intern" from "Data Engineer Intern"; a description usually can."""
+    parts = [j.get("title") or "", j.get("company") or ""]
+    desc = (j.get("description") or "").strip()
+    if desc:
+        parts.append(desc[:300])
+    return " — ".join(p for p in parts if p)
+
+
 async def rerank(session, scored, query_text: str):
     """Add a semantic component to an already-keyword-scored list.
 
@@ -267,7 +279,7 @@ async def rerank(session, scored, query_text: str):
     if not enabled() or not scored or not (query_text or "").strip():
         return scored
     head, tail = scored[:60], scored[60:]
-    vecs = await embed(session, [query_text] + [j.get("title") or "" for j, _, _ in head])
+    vecs = await embed(session, [query_text] + [_job_text(j) for j, _, _ in head])
     if not vecs or len(vecs) != len(head) + 1:
         return scored
     qv, title_vs = vecs[0], vecs[1:]

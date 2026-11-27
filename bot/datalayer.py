@@ -80,7 +80,12 @@ def terms_for(q: dict | None) -> list[str]:
     the member's own free keywords ("rust", "fintech"), else the defaults."""
     q = q or {}
     out = [FAMILY_TERM[f] for f in q.get("families") or [] if f in FAMILY_TERM]
-    out += [w for w in (q.get("keywords_any") or [])[:2] if len(w) >= 3]
+    # Level words are already sent as `seniority`, and generic words
+    # ("internship", "engineer") would only cost a credit for an unfiltered page.
+    free = [w for w in q.get("keywords_any") or []
+            if len(w) >= 3 and w.lower() not in M.STOPWORDS
+            and not M.INTERN_WORDS.fullmatch(w)]
+    out += free[:2]
     seen, uniq = set(), []
     for t in out or DEFAULT_TERMS:
         if t.lower() not in seen:

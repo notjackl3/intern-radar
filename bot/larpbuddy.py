@@ -299,6 +299,17 @@ async def open_roles() -> list[dict]:
     return (feed or {}).get("jobs", [])
 
 
+async def rank_for(jobs: list[dict], p: dict, *, unsent_only: bool = True):
+    """P.rank_pick plus the semantic re-rank on the member's saved query text.
+    Without OPENAI_API_KEY (or with no query) it is exactly P.rank_pick."""
+    scored = P.rank_pick(jobs, p, limit=None, unsent_only=unsent_only)
+    text = (P.clean(p).get("query") or "").strip()
+    if text and SEM.enabled():
+        async with aiohttp.ClientSession() as s:
+            scored = await SEM.rerank(s, scored, text)
+    return scored
+
+
 async def roles_for(p: dict, q: dict | None = None,
                     days: int = 30) -> tuple[list[dict], int]:
     """The saved feed plus a live Datalayer search for this member's level,
@@ -729,7 +740,7 @@ async def prefs_cmd(interaction: discord.Interaction,
     # instead of leaving the member to wait for the next scheduled digest to
     # find out what the change did.
     jobs, added = await roles_for(p)
-    scored = P.rank_pick(jobs, p, limit=None)
+    scored = await rank_for(jobs, p)
     show = [j for j, _, _ in scored][:10]
     whys = {j["id"]: w for j, _, w in scored if j.get("id")}
     hits = MATCH.count_hits(scored)
@@ -861,7 +872,7 @@ async def daily_digest():
         # one leads with what the member actually asked for.
         live = await DL.search(P.query_of(p), p["levels"], p["countries"], days=7)
         ujobs, _ = DL.merge(jobs, live)
-        scored = P.rank_pick(ujobs, p, limit=None)
+        scored = await rank_for(ujobs, p)
         fresh = [j for j, _, _ in scored]
         whys = {j["id"]: w for j, _, w in scored if j.get("id")}
         first_time = not p.get("sent")
@@ -949,9 +960,9 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
     matching = [j for j in jobs if P.matches(j, p)]
     # Same ranking the real digest uses, so the preview is a true dry run
     # rather than a differently-ordered approximation of it.
-    scored_unsent = P.rank_pick(jobs, p, limit=None)
+    scored_unsent = await rank_for(jobs, p)
     unsent = [j for j, _, _ in scored_unsent]
-    scored_all = MATCH.rank(matching, P.query_of(p))
+    scored_all = await rank_for(jobs, p, unsent_only=False)
     chosen = scored_unsent or scored_all
     show = [j for j, _, _ in chosen][:max(1, min(count, 10))]
     whys = {j["id"]: w for j, _, w in chosen if j.get("id")}

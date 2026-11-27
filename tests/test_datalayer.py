@@ -82,6 +82,9 @@ def test_terms_one_word_per_family():
     assert DL.terms_for(q) == ["backend", "infrastructure"]
     assert DL.terms_for(None) == DL.DEFAULT_TERMS
     assert DL.terms_for(M.empty_query()) == DL.DEFAULT_TERMS
+    # what the LLM parse returned for "low-level systems or infra internships"
+    llm = {"families": ["infra"], "keywords_any": ["internship", "systems"]}
+    assert DL.terms_for(llm) == ["infrastructure", "systems"]
 
 
 def test_merge_prefers_feed_copy():
