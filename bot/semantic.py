@@ -185,7 +185,11 @@ async def parse_query(session, text: str, *, year_hint: int) -> dict:
         "families": [f for f in _strlist(got.get("families"))
                      if f in M.ROLE_FAMILIES],
         "cities": [c for c in _strlist(got.get("cities")) if c in M.CITY_ALIASES],
-        "keywords_any": _strlist(got.get("keywords_any"))[:8],
+        # "software, engineer, intern" scored as keyword hits on nearly every
+        # role, so the count of matches meant nothing. Same stoplist the
+        # keyword parser uses.
+        "keywords_any": [w for w in _strlist(got.get("keywords_any"))
+                         if w not in M.STOPWORDS and not M.INTERN_WORDS.fullmatch(w)][:8],
         "keywords_none": _strlist(got.get("keywords_none"))[:8],
         "terms": _strlist(got.get("terms"))[:4],
         "level": got.get("level") if got.get("level") in ("intern", "newgrad") else None,

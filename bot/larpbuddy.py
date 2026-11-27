@@ -271,7 +271,7 @@ async def poll_new():
     # Compact text has no 10-embeds-per-message cap, so the old chunking by
     # tens is gone; compact_messages packs by character budget instead.
     for msg in compact_messages([(j, None) for j in fresh[:30]], header=head):
-        await channel.send(content=msg)
+        await channel.send(content=msg, suppress_embeds=True)
     if n > 30:
         await channel.send(f"…and {n - 30} more — `/latest count:10` to see them.")
 
@@ -316,7 +316,22 @@ async def rank_for(jobs: list[dict], p: dict, *, unsent_only: bool = True):
     if text and SEM.enabled():
         async with aiohttp.ClientSession() as s:
             scored = await SEM.rerank(s, scored, text)
-    return scored
+    return dedupe_listings(scored)
+
+
+def dedupe_listings(scored):
+    """Simplify lists some roles twice (same company, title and location).
+    Keep the first, which is the higher-ranked copy."""
+    seen, out = set(), []
+    for item in scored:
+        j = item[0]
+        k = ((j.get("company") or "").lower(), (j.get("title") or "").lower(),
+             (j.get("location") or "").lower())
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(item)
+    return out
 
 
 async def roles_for(p: dict, q: dict | None = None,
@@ -418,9 +433,9 @@ async def latest(interaction: discord.Interaction, hours: int = None,
     if not jobs:
         return await interaction.followup.send(note)
     msgs = compact_messages([(j, None) for j in jobs], header=note + "\n")
-    await interaction.followup.send(content=msgs[0])
+    await interaction.followup.send(content=msgs[0], suppress_embeds=True)
     for extra in msgs[1:]:
-        await interaction.followup.send(content=extra)
+        await interaction.followup.send(content=extra, suppress_embeds=True)
 
 
 @bot.tree.command(name="search",
@@ -476,7 +491,7 @@ async def search(interaction: discord.Interaction, query: str,
         live = await DL.search(q, levels, countries, days=days)
         jobs, added = DL.merge(jobs, live)
         scored = MATCH.rank(jobs, q)
-        scored = await SEM.rerank(s, scored, query)
+        scored = dedupe_listings(await SEM.rerank(s, scored, query))
 
     hits = MATCH.count_hits(scored)
     head = scored[:max(1, min(count, 10))]
@@ -504,9 +519,9 @@ async def search(interaction: discord.Interaction, query: str,
         note += f"\n-# includes {added} live from Datalayer"
 
     msgs = compact_messages([(j, why) for j, _, why in head], header=note + "\n")
-    await interaction.followup.send(content=msgs[0])
+    await interaction.followup.send(content=msgs[0], suppress_embeds=True)
     for extra in msgs[1:]:
-        await interaction.followup.send(content=extra)
+        await interaction.followup.send(content=extra, suppress_embeds=True)
 
 
 @bot.tree.command(name="who",
@@ -872,7 +887,7 @@ async def _send_digest(user_id: str, p: dict, jobs: list[dict],
         # Compact lines mean a digest of ten roles is one screen, not six.
         pairs = [(j, whys.get(j.get("id"))) for j in jobs[:10]]
         for msg in compact_messages(pairs, header=head + "\n"):
-            await user.send(content=msg)
+            await user.send(content=msg, suppress_embeds=True)
         if n > 10:
             await user.send(f"…and {n - 10} more — `/latest count:10` in the server.")
         return True
@@ -1039,9 +1054,9 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
                        "block DMs from server members, so here it is instead.)_\n")
     msgs = compact_messages([(j, whys.get(j.get("id"))) for j in show],
                             header=fallback)
-    await interaction.followup.send(content=msgs[0], ephemeral=True)
+    await interaction.followup.send(content=msgs[0], ephemeral=True, suppress_embeds=True)
     for extra in msgs[1:]:
-        await interaction.followup.send(content=extra, ephemeral=True)
+        await interaction.followup.send(content=extra, ephemeral=True, suppress_embeds=True)
 
 
 @daily_digest.before_loop

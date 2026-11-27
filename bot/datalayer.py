@@ -22,7 +22,7 @@ Measured 26 Nov 2026 against the live API:
     in its TITLE, the same vocabulary the bot ranks on, or it is dropped.
   * The same posting comes back once per location. Deduped on company + title.
 
-COST: 1 credit per call that returns at least one posting; an empty page and
+COST: 1 credit per call (one call = one page of 25; PAGES per search word) that returns at least one posting; an empty page and
 a failed call cost 0, and an identical call within 24h is free (so the same
 member re-running the same search, or two members with the same prefs, pay
 once). There is deliberately no cap here — the owner asked for none.
@@ -44,12 +44,16 @@ log = logging.getLogger("datalayer")
 URL = "https://api.datalayer.so/v1/jobs/postings"
 TIMEOUT = 30
 PAGE = 25                      # the API maximum
+# Pages per search word. Measured 26 Nov 2026: a search for "software" in
+# the US gives ~4 software titles per page of 25, because the word also
+# matches descriptions. One page found 2 new roles; four pages found 15.
+PAGES = 4
 CONCURRENCY = 4                # well under the 60 requests/minute account limit
 
 # One search word per role family: the word employers actually put in titles,
 # short enough that the API's AND-over-words doesn't empty the result.
 FAMILY_TERM = {
-    "swe": "software",
+    "swe": ["developer", "software"],
     "backend": "backend",
     "frontend": "frontend",
     "fullstack": "full stack",
@@ -59,8 +63,9 @@ FAMILY_TERM = {
     "security": "security",
     "qa": "QA",
 }
-# No query at all: cover the bot's core families.
-DEFAULT_TERMS = ["software", "developer", "data", "machine learning"]
+# No query at all: cover the bot's core families. "developer" first: it is
+# the word that is in software TITLES (11 of 25 vs 4 of 25 for "software").
+DEFAULT_TERMS = ["developer", "software", "data", "machine learning"]
 
 LEVEL_SENIORITY = {"intern": "intern", "newgrad": "entry level"}
 COUNTRY_CODE = {"ca": "CA", "us": "US"}       # "other" has no single code
@@ -79,7 +84,10 @@ def terms_for(q: dict | None) -> list[str]:
     """The search words for a parsed query: one per family, plus up to two of
     the member's own free keywords ("rust", "fintech"), else the defaults."""
     q = q or {}
-    out = [FAMILY_TERM[f] for f in q.get("families") or [] if f in FAMILY_TERM]
+    out = []
+    for f in q.get("families") or []:
+        v = FAMILY_TERM.get(f)
+        out += v if isinstance(v, list) else ([v] if v else [])
     # Level words are already sent as `seniority`, and generic words
     # ("internship", "engineer") would only cost a credit for an unfiltered page.
     free = [w for w in q.get("keywords_any") or []
@@ -94,6 +102,15 @@ def terms_for(q: dict | None) -> list[str]:
     return uniq
 
 
+def _term_in(title: str) -> str | None:
+    """"Summer 2027" from a title that names one, else None."""
+    m = M.TERM_RE.search(title)
+    if not m or not m.group(2) or m.group(2).startswith("'"):
+        return None
+    season = M._SEASON_FIX.get(m.group(1).lower(), m.group(1).capitalize())
+    return f"{season} {m.group(2)}"
+
+
 def _job(company: str | None, p: dict, level: str, cc: str) -> dict | None:
     title = (p.get("title") or "").strip()
     if not title or p.get("status") == "closed":
@@ -103,6 +120,10 @@ def _job(company: str | None, p: dict, level: str, cc: str) -> dict | None:
     if _NEVER.search(title):
         return None
     if level == "intern" and M.MID_LEVEL_RE.search(title):
+        return None
+    # Datalayer's "Internship" label also covers some new-grad reqs.
+    if (level == "intern" and M.NEWGRAD_WORDS.search(title)
+            and not M.INTERN_WORDS.search(title)):
         return None
     url = p.get("source_url") or ""
     key = url or f"{company}|{title}|{p.get('location')}"
@@ -114,7 +135,7 @@ def _job(company: str | None, p: dict, level: str, cc: str) -> dict | None:
         "location": p.get("location") or "",
         "url": url,
         "posted_at": p.get("posted_at"),
-        "term": None,
+        "term": _term_in(title),
         "description": p.get("description"),
         "salary": p.get("salary"),
         "level": level,
@@ -155,9 +176,10 @@ async def search(q: dict | None, levels: list[str], countries: list[str],
     if not enabled():
         return []
     days = max(1, min(int(days), 90))
-    combos = [(t, lv, COUNTRY_CODE[c]) for t in terms_for(q)
+    combos = [(t, lv, COUNTRY_CODE[c], off) for t in terms_for(q)
               for lv in levels if lv in LEVEL_SENIORITY
-              for c in countries if c in COUNTRY_CODE]
+              for c in countries if c in COUNTRY_CODE
+              for off in range(0, PAGE * PAGES, PAGE)]
     if not combos:
         return []
     sem = asyncio.Semaphore(CONCURRENCY)
@@ -165,10 +187,10 @@ async def search(q: dict | None, levels: list[str], countries: list[str],
         pages = await asyncio.gather(*[
             _call(s, sem, {"query": t, "seniority": LEVEL_SENIORITY[lv],
                            "country": cc, "posted_within_days": days,
-                           "limit": PAGE, "max_credits": 1})
-            for t, lv, cc in combos])
+                           "limit": PAGE, "offset": off, "max_credits": 1})
+            for t, lv, cc, off in combos])
     out, seen = [], set()
-    for (t, lv, cc), rows in zip(combos, pages):
+    for (t, lv, cc, _off), rows in zip(combos, pages):
         for company, p in rows:
             j = _job(company, p, lv, cc)
             if not j:

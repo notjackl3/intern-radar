@@ -457,6 +457,11 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
         if any(t.lower() in hay for t in q["terms"]):
             pts += W_TERM
             why.append(next(t for t in q["terms"] if t.lower() in hay))
+        elif not job.get("term") and not TERM_RE.search(title):
+            # Unknown term, not a wrong one. Simplify always publishes a term
+            # and direct boards / Datalayer usually don't, so without this
+            # every Simplify role outranks an equally good role from them.
+            pts += W_TERM / 2
 
     # Mid-level roles leaking into the intern pool. The collector tags level
     # from the title, and its new-grad regex has `engineer i\b`, which does
