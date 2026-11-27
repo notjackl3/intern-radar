@@ -207,7 +207,7 @@ def matches(job: dict, p: dict) -> bool:
     tags = set(job.get("countries") or p["countries"])
     if not (tags & set(p["countries"])):
         return False
-    return (job.get("level") or "intern") in p["levels"]
+    return (job.get("level") or "intern") in p["levels"] and M.level_ok(job)
 
 
 def pick(jobs: list[dict], p: dict) -> list[dict]:

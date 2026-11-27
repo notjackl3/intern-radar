@@ -39,6 +39,7 @@ import sys
 import aiohttp
 import discord
 
+import datalayer as DL
 import matching as MATCH
 import people as PE
 import prefs as P
@@ -298,6 +299,24 @@ async def open_roles() -> list[dict]:
     return (feed or {}).get("jobs", [])
 
 
+async def roles_for(p: dict, q: dict | None = None,
+                    days: int = 30) -> tuple[list[dict], int]:
+    """The saved feed plus a live Datalayer search for this member's level,
+    country and query. Returns (roles, how many came only from Datalayer).
+    Without a DATALAYER_API_KEY it is just the feed."""
+    p = P.clean(p)
+    feed = await open_roles()
+    live = await DL.search(q if q is not None else P.query_of(p),
+                           p["levels"], p["countries"], days=days)
+    return DL.merge(feed, live)
+
+
+def _levels_countries(lvl: str, ctry: str) -> tuple[list[str], list[str]]:
+    levels = ["intern", "newgrad"] if lvl == "all" else [lvl]
+    countries = ["ca", "us"] if ctry == "all" else ctry.split("+")
+    return levels, countries
+
+
 LEVEL_CHOICES = [
     app_commands.Choice(name="internships / co-ops", value="intern"),
     app_commands.Choice(name="new grad (full-time)", value="newgrad"),
@@ -344,8 +363,8 @@ async def latest(interaction: discord.Interaction, hours: int = None,
     lvl = level.value if level else ("all" if len(mine["levels"]) > 1 else mine["levels"][0])
     ctry = country.value if country else "+".join(mine["countries"])
 
-    if lvl != "all":
-        jobs = [j for j in jobs if j.get("level", "intern") == lvl]
+    jobs = [j for j in jobs
+            if (lvl == "all" or j.get("level", "intern") == lvl) and MATCH.level_ok(j)]
     jobs = [j for j in jobs if in_country(j, ctry)]
 
     undated = 0
@@ -413,8 +432,8 @@ async def search(interaction: discord.Interaction, query: str,
     lvl = level.value if level else ("all" if len(mine["levels"]) > 1 else mine["levels"][0])
     ctry = country.value if country else "+".join(mine["countries"])
 
-    if lvl != "all":
-        jobs = [j for j in jobs if j.get("level", "intern") == lvl]
+    jobs = [j for j in jobs
+            if (lvl == "all" or j.get("level", "intern") == lvl) and MATCH.level_ok(j)]
     jobs = [j for j in jobs if in_country(j, ctry)]
 
     undated = 0
@@ -431,6 +450,11 @@ async def search(interaction: discord.Interaction, query: str,
 
     async with aiohttp.ClientSession() as s:
         q = await SEM.parse_query(s, query, year_hint=_cycle_year())
+        # Check the market right now, not just the saved feed.
+        levels, countries = _levels_countries(lvl, ctry)
+        days = -(-hours // 24) if hours is not None else 30
+        live = await DL.search(q, levels, countries, days=days)
+        jobs, added = DL.merge(jobs, live)
         scored = MATCH.rank(jobs, q)
         scored = await SEM.rerank(s, scored, query)
 
@@ -456,8 +480,8 @@ async def search(interaction: discord.Interaction, query: str,
         if undated:
             note += (f"  ·  {undated} hidden: Workday publishes no posting date, "
                      f"so those can't be filtered by age")
-    if not SEM.enabled():
-        note += "\n-# keyword matching — set OPENAI_API_KEY for semantic search"
+    if added:
+        note += f"\n-# includes {added} live from Datalayer"
 
     msgs = compact_messages([(j, why) for j, _, why in head], header=note + "\n")
     await interaction.followup.send(content=msgs[0])
@@ -697,44 +721,61 @@ async def prefs_cmd(interaction: discord.Interaction,
 
     data = await P.load(http)
     mine = (data.get("users") or {}).get(uid, {})
+    p = P.clean(mine)
     e = _prefs_embed(mine, interaction.user)
     e.title = "Saved"
-    extra = ""
-    clean_mine = P.clean(mine)
-    if clean_mine["digest"]:
-        # A live preview, because with CA+intern at ~150 roles a query can be
-        # far narrower than it reads. Telling someone "0 match this" the moment
-        # they set it is the only way they find out before a week of silence.
-        pool = [j for j in await open_roles() if P.matches(j, mine)]
-        scored = MATCH.rank(pool, P.query_of(mine))
-        hits = MATCH.count_hits(scored)
-        if clean_mine.get("parsed"):
-            extra = (f"\n**{hits}** of the {len(pool)} open roles in your "
-                     f"level/country match that query right now.")
-            if hits == 0:
-                extra += ("\n⚠️ Nothing matches it yet. Your digest will still "
-                          "arrive — the query ranks roles rather than filtering "
-                          "them, so you'll get the closest matches, not silence.")
-            else:
-                top = ", ".join(j["title"][:40] for j, _, w in scored[:3] if w)
-                if top:
-                    extra += f"\nTop right now: {top}"
+
+    # Check the job sources again with the new settings and DM the matches now,
+    # instead of leaving the member to wait for the next scheduled digest to
+    # find out what the change did.
+    jobs, added = await roles_for(p)
+    scored = P.rank_pick(jobs, p, limit=None)
+    show = [j for j, _, _ in scored][:10]
+    whys = {j["id"]: w for j, _, w in scored if j.get("id")}
+    hits = MATCH.count_hits(scored)
+    first_time = not p.get("sent")
+    live_note = f" ({added} live from Datalayer)" if added else ""
+
+    if not show:
+        extra = (f"\nNothing open matches these settings right now{live_note}. "
+                 f"Your digest will send new matches as they appear.")
+    else:
+        q_note = (f", {hits} on your query" if p.get("parsed") else "")
+        head = (f"**Matches for your new settings** — _{P.describe(p)}_\n"
+                f"{len(scored)} open role{'s' if len(scored) != 1 else ''} you "
+                f"haven't been sent{q_note}{live_note}. Top {len(show)}:")
+        sent_ok = await _send_digest(uid, p, show, whys=whys, head=head)
+        if sent_ok:
+            # A first-timer's whole current backlog counts as seen, so their
+            # next digest is genuinely new roles, not the other 400. Otherwise
+            # only what was in this DM.
+            remember = ({j["id"] for j, _, _ in scored} if first_time
+                        else {j["id"] for j in show})
+
+            def mark(current, _ids=remember):
+                new = dict(current)
+                new["sent"] = (list(current.get("sent") or [])
+                               + sorted(i for i in _ids if i))[-P.MAX_SENT:]
+                return new, True, "ok"
+            try:
+                await P.save_user(http, uid, mark, f"prefs: /prefs DM for {uid}")
+            except Exception as ex:
+                log.warning("prefs: couldn't record DM for %s: %s", uid, ex)
+            extra = (f"\nDMed you the top {len(show)} of {len(scored)} matching "
+                     f"roles{live_note}.")
         else:
-            extra = (f"\n{len(pool)} open role{'s' if len(pool) != 1 else ''} "
-                     f"match this right now.")
-        if clean_mine["mode"] == "daily":
-            extra += (f"\nYour first DM goes out at "
-                      f"{clean_mine['hour_utc']:02d}:00 UTC with whatever is new by then.")
+            extra = ("\nCouldn't DM you: your Discord privacy settings block DMs "
+                     "from server members. `/latest` shows the same roles here.")
     if query is not None and query.strip() and not SEM.enabled():
-        extra += ("\n-# Parsed with the built-in parser; set OPENAI_API_KEY in "
-                  "Railway for natural-language parsing.")
+        extra += "\n-# Parsed with the built-in keyword parser."
     await interaction.followup.send(content=(P.describe(mine) + extra),
                                     embed=e, ephemeral=True)
 
 
 async def _send_digest(user_id: str, p: dict, jobs: list[dict],
                        first_time: bool = False, preview: bool = False,
-                       whys: dict[str, list[str]] | None = None) -> bool:
+                       whys: dict[str, list[str]] | None = None,
+                       head: str | None = None) -> bool:
     """DM one member their matching roles. Returns False if we couldn't."""
     try:
         user = bot.get_user(int(user_id)) or await bot.fetch_user(int(user_id))
@@ -743,7 +784,9 @@ async def _send_digest(user_id: str, p: dict, jobs: list[dict],
         return False
 
     n = len(jobs)
-    if first_time:
+    if head:
+        pass
+    elif first_time:
         # Say plainly that the FIRST one is a catch-up. It is drawn from
         # everything currently open, so it legitimately contains roles that are
         # days old — and without this line that reads as a bug rather than as
@@ -816,7 +859,9 @@ async def daily_digest():
         # instead of the 10 most recent. That difference is the whole point of
         # a per-member query: a quiet day still sends something, and a busy
         # one leads with what the member actually asked for.
-        scored = P.rank_pick(jobs, p, limit=None)
+        live = await DL.search(P.query_of(p), p["levels"], p["countries"], days=7)
+        ujobs, _ = DL.merge(jobs, live)
+        scored = P.rank_pick(ujobs, p, limit=None)
         fresh = [j for j, _, _ in scored]
         whys = {j["id"]: w for j, _, w in scored if j.get("id")}
         first_time = not p.get("sent")
@@ -837,9 +882,9 @@ async def daily_digest():
         #                           roles should still be waiting when they
         #                           open them, rather than silently consumed.
         if not fresh:
-            remember = {j["id"] for j in P.pick(jobs, p)} if first_time else set()
+            remember = {j["id"] for j in P.pick(ujobs, p)} if first_time else set()
         elif sent_ok:
-            remember = {j["id"] for j in (P.pick(jobs, p) if first_time else fresh)}
+            remember = {j["id"] for j in (P.pick(ujobs, p) if first_time else fresh)}
         else:
             remember = set()
 
@@ -898,7 +943,7 @@ async def digest_now(interaction: discord.Interaction, count: int = 10):
             "show you exactly what your DM will look like.", ephemeral=True)
 
     p = P.clean(mine)
-    jobs = await open_roles()
+    jobs, _ = await roles_for(p, days=7)
     jobs.sort(key=lambda j: (j.get("posted_at") is not None, j.get("posted_at") or ""),
               reverse=True)
     matching = [j for j in jobs if P.matches(j, p)]

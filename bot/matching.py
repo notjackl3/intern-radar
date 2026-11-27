@@ -481,6 +481,32 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
     return pts, why
 
 
+# Direct job-board sources carry no level of their own: the collector tags
+# them from the title. Its keyword match is a plain substring, so "intern"
+# fires on "Internal Tools" / "International" and "software engineer i" on
+# "Software Engineer II". Simplify and Datalayer publish a real level, so they
+# are trusted; for the rest an internship must actually SAY so.
+_TITLE_TAGGED = {"greenhouse", "lever", "ashby", "workday", "smartrecruiters",
+                 "hiringcafe"}
+_NEVER_JUNIOR = re.compile(r"\bsenior\b|\bsr\.?\b|\bstaff\b|\bprincipal\b", re.I)
+
+
+def level_ok(job: dict) -> bool:
+    """False for a role that is plainly not at the level it's tagged with.
+    A hard filter, unlike the W_MID_LEVEL penalty: someone asking for
+    internships should never be sent "Software Engineer II"."""
+    title = job.get("title") or ""
+    level = job.get("level") or "intern"
+    if _NEVER_JUNIOR.search(title):
+        return False
+    if level == "intern":
+        if MID_LEVEL_RE.search(title):
+            return False
+        if job.get("source") in _TITLE_TAGGED and not INTERN_WORDS.search(title):
+            return False
+    return True
+
+
 def _age_hours(job: dict) -> float | None:
     """Hours since posting, or None. Duplicated from larpbuddy.age_hours so
     this module stays importable without discord.py installed."""
