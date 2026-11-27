@@ -382,11 +382,11 @@ def in_country(job: dict, want: str) -> bool:
     hours="Only roles posted in the last N hours (e.g. 24). Omit for all.",
     level="intern (co-op/internship), newgrad (entry-level full-time), or all",
     country="Canada, US, both, or anywhere. Defaults to your /prefs.",
-    count="How many to show (1-10)")
+    count="How many to show (1-25, default 10)")
 @app_commands.choices(level=LEVEL_CHOICES, country=COUNTRY_CHOICES)
 async def latest(interaction: discord.Interaction, hours: int = None,
                  level: app_commands.Choice[str] = None,
-                 country: app_commands.Choice[str] = None, count: int = 5):
+                 country: app_commands.Choice[str] = None, count: int = 10):
     await interaction.response.defer()
     jobs = await open_roles()
     if not jobs:
@@ -418,7 +418,7 @@ async def latest(interaction: discord.Interaction, hours: int = None,
     jobs.sort(key=lambda j: (j.get("posted_at") is not None, j.get("posted_at") or ""),
               reverse=True)
     total = len(jobs)
-    jobs = jobs[:max(1, min(count, 10))]
+    jobs = jobs[:max(1, min(count, 25))]
 
     label = {"intern": "internship", "newgrad": "new-grad", "all": "role"}[lvl]
     where = {"ca": " in Canada", "us": " in the US", "ca+us": " in Canada/US",
@@ -445,12 +445,12 @@ async def latest(interaction: discord.Interaction, hours: int = None,
     hours="Only roles posted in the last N hours. Omit for all.",
     level="intern, newgrad, or all. Defaults to your /prefs.",
     country="Canada, US, both, or anywhere. Defaults to your /prefs.",
-    count="How many to show (1-10)")
+    count="How many to show (1-25, default 10)")
 @app_commands.choices(level=LEVEL_CHOICES, country=COUNTRY_CHOICES)
 async def search(interaction: discord.Interaction, query: str,
                  hours: int = None,
                  level: app_commands.Choice[str] = None,
-                 country: app_commands.Choice[str] = None, count: int = 5):
+                 country: app_commands.Choice[str] = None, count: int = 10):
     """Ad-hoc search — the "menu mode" half of the design.
 
     Parses on every call, because each query is genuinely new (unlike the
@@ -494,7 +494,7 @@ async def search(interaction: discord.Interaction, query: str,
         scored = dedupe_listings(await SEM.rerank(s, scored, query))
 
     hits = MATCH.count_hits(scored)
-    head = scored[:max(1, min(count, 10))]
+    head = scored[:max(1, min(count, 25))]
 
     if not head:
         return await interaction.followup.send(

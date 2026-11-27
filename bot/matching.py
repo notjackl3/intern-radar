@@ -617,7 +617,8 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
 # are trusted; for the rest an internship must actually SAY so.
 _TITLE_TAGGED = {"greenhouse", "lever", "ashby", "workday", "smartrecruiters",
                  "hiringcafe"}
-_NEVER_JUNIOR = re.compile(r"\bsenior\b|\bsr\.?\b|\bstaff\b|\bprincipal\b", re.I)
+_NEVER_JUNIOR = re.compile(r"\bsenior\b|\bsr\.?\b|\bstaff\b|\bprincipal\b|"
+                           r"\bpost-?doc(toral)?\b|\bphd required\b", re.I)
 
 
 def level_ok(job: dict) -> bool:

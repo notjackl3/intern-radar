@@ -63,6 +63,7 @@ def test_non_software_internships_are_dropped():
     assert DL._job("Town", posting("310T Truck and Coach Technician"), "intern", "CA") is None
     assert DL._job("X", posting("2027 Summer Sales Intern"), "intern", "CA") is None
     assert DL._job("Seahawks", posting("Part Time Security Officer"), "intern", "US") is None
+    assert DL._job("Synthires", posting("Postdoctoral Research Scientist (Remote)"), "intern", "CA") is None
 
 
 def test_software_internship_kept_in_feed_shape():

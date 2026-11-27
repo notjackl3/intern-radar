@@ -72,7 +72,7 @@ COUNTRY_CODE = {"ca": "CA", "us": "US"}       # "other" has no single code
 
 # Seniority words that mean the label is wrong for this bot, whatever
 # Datalayer says. Numerals only matter for internships.
-_NEVER = re.compile(r"\bsenior\b|\bsr\.?\b|\bstaff\b|\bprincipal\b|\bmanager\b|"
+_NEVER = re.compile(r"\bsenior\b|\bsr\.?\b|\bstaff\b|\bprincipal\b|\bmanager\b|\bpost-?doc(toral)?\b|"
                       r"\bdirector\b|\blead\b", re.I)
 
 
