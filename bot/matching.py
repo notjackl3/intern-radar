@@ -143,7 +143,9 @@ _WORDY_ALIASES = {"ml", "ai", "ui", "qa", "bi", "sre", "dev", "api", "web",
 def _contains(haystack: str, needle: str) -> bool:
     """Substring match, but whole-word for the short/ambiguous tokens."""
     if needle in _WORDY_ALIASES or len(needle) <= 3:
-        return re.search(rf"\b{re.escape(needle)}\b", haystack) is not None
+        # Lookarounds instead of \b, which never matches after "c++" or "c#".
+        return re.search(rf"(?<![a-z0-9]){re.escape(needle)}(?![a-z0-9])",
+                         haystack) is not None
     return needle in haystack
 
 
@@ -383,6 +385,7 @@ def describe_query(q: dict) -> str:
 # scoring
 # ---------------------------------------------------------------------------
 W_FAMILY = 4.0        # the member named this kind of work
+W_REQUIREMENT = 20.0  # per explicit requirement met; see score()
 W_KEYWORD = 3.0       # an explicit word of theirs is in the title
 W_COMPANY = 6.0       # they named an employer — that is the most specific
                       # thing a person can ask for, so it outranks everything
@@ -437,20 +440,32 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
         pts += W_FAMILY * min(len(hit_fams), 2)
         why.append("/".join(sorted(ROLE_FAMILIES[f]["label"] for f in hit_fams)))
 
-    hit_kw = [w for w in q["keywords_any"] if w and _contains(low, w.lower())]
-    if hit_kw:
-        pts += W_KEYWORD * min(len(hit_kw), 3)
-        why.append(", ".join(hit_kw[:3]))
-    # Skills ("python", "rust") are almost never in a title, only in the
-    # description, which only some sources provide. Full weight: the member
-    # typed the word, so a role that mentions it should beat one that doesn't.
+    # Explicit requirements — a language, a technology, a word the member
+    # typed — decide the ORDER before anything else. W_REQUIREMENT is far
+    # larger than every other weight combined, so a role that meets two of the
+    # member's requirements always ranks above one that meets one, which ranks
+    # above one that meets none. Within a tier the usual signals still apply.
+    # Skills are rarely in titles, so descriptions count too (where a source
+    # has one: Datalayer yes, most of the feed no — those land in the
+    # "unknown" tier below the confirmed matches, not excluded).
     desc = (job.get("description") or "").lower()
-    if desc:
-        in_desc = [w for w in q["keywords_any"]
-                   if w and w not in hit_kw and _contains(desc, w.lower())]
+    in_title = [w for w in q["keywords_any"] if w and _contains(low, w.lower())]
+    in_desc = [w for w in q["keywords_any"]
+               if w and w not in in_title and desc and _contains(desc, w.lower())]
+    met = in_title + in_desc
+    if met:
+        pts += W_REQUIREMENT * len(met)
+        if in_title:
+            why.append(", ".join(in_title[:3]))
         if in_desc:
-            pts += W_KEYWORD * min(len(in_desc), 3)
             why.append(", ".join(in_desc[:3]) + " (in description)")
+    # A restriction ("not C++") found only in the description is softer than
+    # one in the title: "C++ or Python" shouldn't vanish, but it goes to the
+    # bottom of its tier.
+    bad_desc = [w for w in q["keywords_none"] if w and desc and _contains(desc, w.lower())]
+    if bad_desc:
+        pts -= W_REQUIREMENT
+        why.append("mentions " + ", ".join(bad_desc[:2]))
 
     # Employer name. Only whole phrases of 2+ characters, so a one-letter
     # query doesn't match every company with that letter in it.

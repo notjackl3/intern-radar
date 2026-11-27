@@ -128,17 +128,21 @@ _PARSE_SYSTEM = """You convert a job-seeker's sentence into a search filter.
 
 Reply with ONLY a JSON object, no prose, with exactly these keys:
   families      array, any of: {families}
-  keywords_any  array of lowercase single words or short phrases from the
-                request that should appear in a job TITLE
-  keywords_none array of lowercase words that should DISQUALIFY a job
+  keywords_any  array of lowercase requirements the job must meet, each a
+                word or short phrase as it would be written in a posting:
+                languages, frameworks, technologies, domains ("python",
+                "react", "kubernetes", "fintech", "paid")
+  keywords_none array of lowercase words the member rules out ("c++",
+                "unpaid", "web"); a job whose title has one is dropped
   cities        array, any of: {cities}
   terms         array of strings like "Summer 2027" or "Winter 2027"
   level         one of "intern", "newgrad", or null
 
 Rules:
 - Only use values from the allowed lists for `families` and `cities`.
-- Job descriptions are NOT available, only titles. Put only words that
-  plausibly appear in a title into keywords_any.
+- Titles and, for some jobs, the first part of the description are
+  searched. Put every concrete requirement in keywords_any; never put
+  generic words like "software", "engineer", "intern", "role".
 - Omit a key's values (use an empty array) rather than guessing.
 - "next summer" with no year means Summer {year}."""
 
