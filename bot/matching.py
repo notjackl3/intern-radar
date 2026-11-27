@@ -243,7 +243,69 @@ STOPWORDS = {
     "engineer", "engineers", "engineering", "intern", "interns", "internship",
     "co-op", "coop", "student", "students", "grad", "graduate", "junior",
     "entry", "level", "software",
+    # Work-type words are parsed into `employment` / `pay`, never keywords:
+    # "part time" as two keywords made "time" match every "Full-time".
+    "part", "time", "full", "part-time", "full-time", "parttime", "fulltime",
+    "paid", "unpaid",
 }
+
+
+# --- work type and pay ------------------------------------------------------
+# Evidence patterns, used on both the member's query and a posting's text.
+PART_TIME_RE = re.compile(
+    r"part[\s-]?time|\b([5-9]|[12][0-9]|30)\s*(?:-\s*\d+\s*)?(?:hours|hrs|h)\s*(?:per|/|a)\s*week",
+    re.I)
+FULL_TIME_RE = re.compile(
+    r"full[\s-]?time|\b(3[5-9]|40)\s*(?:-\s*\d+\s*)?(?:hours|hrs|h)\s*(?:per|/|a)\s*week",
+    re.I)
+UNPAID_RE = re.compile(r"\bunpaid\b|\bvolunteer\b|\bno (?:pay|compensation)\b", re.I)
+PAID_RE = re.compile(r"\bpaid\b|\$\s?\d|\b\d+\s*(?:usd|cad)\b|per hour|/\s*(?:hr|hour)\b|"
+                     r"\bstipend\b|\bsalary\b|\bcompensation\b|\bwage", re.I)
+
+
+def employment_in(text: str) -> str | None:
+    """'part' / 'full' if the text asks for one, else None."""
+    text = text or ""
+    if PART_TIME_RE.search(text):
+        return "part"
+    if FULL_TIME_RE.search(text):
+        return "full"
+    return None
+
+
+def pay_in(text: str) -> str | None:
+    """'paid' / 'unpaid' if the query asks for one. Only the explicit words:
+    a query never says "$25/hr" to mean "paid"."""
+    if re.search(r"\bunpaid\b", text or "", re.I):
+        return "unpaid"
+    if re.search(r"\bpaid\b", text or "", re.I):
+        return "paid"
+    return None
+
+
+def employment_of(job: dict) -> str | None:
+    """What the posting itself says about hours: 'part', 'full' or None.
+    Datalayer's own label is only trusted for Part-time: it labels many plain
+    internships "Full-time" (and some "Volunteer"), measured 26 Nov 2026."""
+    if (job.get("employment_type") or "").lower() == "part-time":
+        return "part"
+    text = f"{job.get('title') or ''} {job.get('description') or ''}"
+    part, full = PART_TIME_RE.search(text), FULL_TIME_RE.search(text)
+    if part and not full:
+        return "part"
+    if full and not part:
+        return "full"
+    return None
+
+
+def pay_of(job: dict) -> str | None:
+    """'paid' / 'unpaid' / None from the salary field and the posting text."""
+    text = f"{job.get('title') or ''} {job.get('description') or ''}"
+    if UNPAID_RE.search(text):
+        return "unpaid"
+    if job.get("salary") or PAID_RE.search(text):
+        return "paid"
+    return None
 
 
 def parse_query(text: str, *, year_hint: int | None = None) -> dict:
@@ -297,6 +359,8 @@ def parse_query(text: str, *, year_hint: int | None = None) -> dict:
                 and not TERM_RE.fullmatch(w) and not INTERN_WORDS.fullmatch(w)]
 
     return {
+        "employment": employment_in(raw),
+        "pay": pay_in(raw),
         "raw": raw,
         "families": sorted(families),
         "keywords_any": keywords,
@@ -313,7 +377,8 @@ def parse_query(text: str, *, year_hint: int | None = None) -> dict:
 
 def empty_query() -> dict:
     return {"raw": "", "families": [], "keywords_any": [], "keywords_none": [],
-            "cities": [], "terms": [], "level": None, "company": ""}
+            "cities": [], "terms": [], "level": None, "company": "",
+            "employment": None, "pay": None}
 
 
 def drop_negated_families(q: dict) -> dict:
@@ -376,6 +441,10 @@ def describe_query(q: dict) -> str:
         bits.append("in " + " / ".join(c.title() for c in q["cities"]))
     if q["terms"]:
         bits.append(" / ".join(q["terms"]))
+    if q.get("employment"):
+        bits.append({"part": "part-time", "full": "full-time"}[q["employment"]])
+    if q.get("pay"):
+        bits.append(q["pay"])
     if q["keywords_none"]:
         bits.append("not " + ", ".join(q["keywords_none"][:3]))
     return " · ".join(b for b in bits if b) or "anything"
@@ -433,6 +502,26 @@ def score(job: dict, q: dict | None) -> tuple[float | None, list[str]]:
 
     pts = 0.0
     why = []
+
+    # Work type and pay are requirements with three outcomes: the posting
+    # confirms it (+W_REQUIREMENT, top group), contradicts it (removed), or
+    # says nothing (most of the feed: kept, below the confirmed ones).
+    want_emp = q.get("employment")
+    if want_emp:
+        got = employment_of(job)
+        if got and got != want_emp:
+            return None, [f"{got}-time"]
+        if got == want_emp:
+            pts += W_REQUIREMENT
+            why.append(f"{got}-time")
+    want_pay = q.get("pay")
+    if want_pay:
+        got = pay_of(job)
+        if got and got != want_pay:
+            return None, [got]
+        if got == want_pay:
+            pts += W_REQUIREMENT
+            why.append(got)
 
     fams = families_in_title(title)
     hit_fams = fams & set(q["families"])

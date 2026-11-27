@@ -137,6 +137,8 @@ Reply with ONLY a JSON object, no prose, with exactly these keys:
   cities        array, any of: {cities}
   terms         array of strings like "Summer 2027" or "Winter 2027"
   level         one of "intern", "newgrad", or null
+  employment    "part" (part-time), "full" (full-time), or null
+  pay           "paid", "unpaid", or null
 
 Rules:
 - Only use values from the allowed lists for `families` and `cities`.
@@ -197,6 +199,8 @@ async def parse_query(session, text: str, *, year_hint: int) -> dict:
         "keywords_none": _strlist(got.get("keywords_none"))[:8],
         "terms": _strlist(got.get("terms"))[:4],
         "level": got.get("level") if got.get("level") in ("intern", "newgrad") else None,
+        "employment": got.get("employment") if got.get("employment") in ("part", "full") else None,
+        "pay": got.get("pay") if got.get("pay") in ("paid", "unpaid") else None,
     }
     merged = M.merge_query(base, clean)
     # keywords_none is the one field the deterministic parser never produces,

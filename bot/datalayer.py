@@ -76,6 +76,12 @@ _NEVER = re.compile(r"\bsenior\b|\bsr\.?\b|\bstaff\b|\bprincipal\b|\bmanager\b|"
                       r"\bdirector\b|\blead\b", re.I)
 
 
+# Titles that hit a role family's word but aren't tech jobs. Datalayer's index
+# is all of LinkedIn, so "Part Time Security Officer" reaches the family check.
+_NOT_TECH = re.compile(r"\b(officer|guard|attendant|cashier|custodian|janitor|"
+                       r"driver|cook|bartender|waiter|receptionist)\b", re.I)
+
+
 def enabled() -> bool:
     return bool(os.environ.get("DATALAYER_API_KEY"))
 
@@ -99,6 +105,10 @@ def terms_for(q: dict | None) -> list[str]:
     # ANDs words, so "developer remote" returns postings that mention both.
     if "remote" in (q.get("cities") or []):
         base = [f"{t} remote" for t in base]
+    # Same for part-time: it lives in the text, and the API's own
+    # employment_type label is unreliable for internships.
+    if q.get("employment") == "part":
+        base = [f"{t} part-time" for t in base]
     seen, uniq = set(), []
     for t in base:
         if t.lower() not in seen:
@@ -122,6 +132,8 @@ def _job(company: str | None, p: dict, level: str, cc: str) -> dict | None:
         return None
     if not M.families_in_title(title):          # not a software-ish role
         return None
+    if _NOT_TECH.search(title):                 # "Security Officer" names a family
+        return None
     if _NEVER.search(title):
         return None
     if level == "intern" and M.MID_LEVEL_RE.search(title):
@@ -143,6 +155,7 @@ def _job(company: str | None, p: dict, level: str, cc: str) -> dict | None:
         "term": _term_in(title),
         "description": p.get("description"),
         "salary": p.get("salary"),
+        "employment_type": p.get("employment_type"),
         "level": level,
         "countries": [cc.lower()],
     }

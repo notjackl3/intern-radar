@@ -62,6 +62,7 @@ def test_job_without_source_is_not_judged_on_title():
 def test_non_software_internships_are_dropped():
     assert DL._job("Town", posting("310T Truck and Coach Technician"), "intern", "CA") is None
     assert DL._job("X", posting("2027 Summer Sales Intern"), "intern", "CA") is None
+    assert DL._job("Seahawks", posting("Part Time Security Officer"), "intern", "US") is None
 
 
 def test_software_internship_kept_in_feed_shape():
@@ -105,6 +106,44 @@ def test_remote_is_a_hard_filter():
     ranked = [j["title"] + j["location"] for j, _, _ in M.rank([onsite, remote, dl_remote, hybrid], q)]
     assert ranked and all("Kent" not in r for r in ranked) and len(ranked) == 2
     assert DL.terms_for(q) == ["developer remote", "software remote"]
+
+
+def test_part_time_is_parsed_not_split():
+    q = M.parse_query("part time software internship")
+    assert q["employment"] == "part"
+    assert "part" not in q["keywords_any"] and "time" not in q["keywords_any"]
+    assert DL.terms_for(q) == ["developer part-time", "software part-time"]
+    assert M.parse_query("full-time new grad")["employment"] == "full"
+    assert M.parse_query("paid backend intern")["pay"] == "paid"
+    assert M.parse_query("unpaid ok")["pay"] == "unpaid"
+
+
+def test_part_time_groups():
+    q = M.parse_query("part time software internship")
+    confirmed = {"title": "Software Intern (Part-time)", "level": "intern"}
+    hours = {"title": "Developer Intern", "description": "20 hours per week, flexible"}
+    unknown = {"title": "Software Engineer Intern", "location": "Toronto"}
+    full = {"title": "Software Intern", "description": "This is a full-time, 40 hours/week role"}
+    ranked = [j["title"] for j, _, _ in M.rank([unknown, full, hours, confirmed], q)]
+    assert ranked[-1] == "Software Engineer Intern"           # unknown kept, last
+    assert "Software Intern" not in ranked                     # full-time removed
+    assert set(ranked[:2]) == {"Software Intern (Part-time)", "Developer Intern"}
+
+
+def test_datalayer_full_time_label_is_not_trusted():
+    # Datalayer labels many plain internships "Full-time".
+    assert M.employment_of({"title": "Data Engineering Intern",
+                            "employment_type": "Full-time"}) is None
+    assert M.employment_of({"title": "Intern", "employment_type": "Part-time"}) == "part"
+
+
+def test_paid_groups():
+    q = M.parse_query("paid software internship")
+    paid = {"title": "Software Intern", "salary": {"min": 25, "max": 30, "unit": "HOUR"}}
+    unpaid = {"title": "Software Intern", "description": "This is an unpaid volunteer role"}
+    unknown = {"title": "Developer Intern"}
+    ranked = [j for j, _, _ in M.rank([unknown, unpaid, paid], q)]
+    assert ranked[0] is paid and unpaid not in ranked and ranked[-1] is unknown
 
 
 def test_merge_prefers_feed_copy():
