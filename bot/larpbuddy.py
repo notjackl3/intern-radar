@@ -518,10 +518,27 @@ async def search(interaction: discord.Interaction, query: str,
     if added:
         note += f"\n-# includes {added} live from Datalayer"
 
+    left = len(scored) - len(head)
+    if left:
+        note += f"\n-# {left} more — `/more` shows the next {min(count, left)}"
+    LAST_SEARCH[str(interaction.user.id)] = {
+        "scored": scored, "pos": len(head), "query": query,
+        "at": datetime.now(timezone.utc)}
+    LAST_ACTION[str(interaction.user.id)] = "search"
+
     msgs = compact_messages([(j, why) for j, _, why in head], header=note + "\n")
     await interaction.followup.send(content=msgs[0], suppress_embeds=True)
     for extra in msgs[1:]:
         await interaction.followup.send(content=extra, suppress_embeds=True)
+
+
+# /more continues whichever the member did last: a /search (paged from the
+# results already ranked, so no new API calls or credits) or their /prefs
+# matches. Kept in memory: a redeploy forgets searches, which is fine for
+# something you page through within minutes.
+LAST_SEARCH: dict[str, dict] = {}
+LAST_ACTION: dict[str, str] = {}
+SEARCH_TTL_HOURS = 2
 
 
 @bot.tree.command(name="who",
@@ -807,6 +824,7 @@ async def prefs_cmd(interaction: discord.Interaction,
     # Check the job sources again with the new settings and DM the matches now,
     # instead of leaving the member to wait for the next scheduled digest to
     # find out what the change did.
+    LAST_ACTION[uid] = "prefs"
     extra = await send_matches(uid, p, title="Matches for your new settings")
     if query is not None and query.strip() and not SEM.enabled():
         extra += "\n-# Parsed with the built-in keyword parser."
@@ -852,17 +870,41 @@ async def send_matches(uid: str, p: dict, *, title: str, count: int = 10) -> str
             f"roles{live_note}." + (f" `/more` sends the next {min(count, left)}." if left else ""))
 
 
-@bot.tree.command(name="more", description="DM me the next best roles for my /prefs")
+@bot.tree.command(name="more",
+                  description="Next results for your last /search, or your /prefs matches")
 @app_commands.describe(count="How many to send (1-25, default 10)")
 async def more_cmd(interaction: discord.Interaction, count: int = 10):
-    await interaction.response.defer(ephemeral=True)
     uid = str(interaction.user.id)
+    count = max(1, min(count, 25))
+    last = LAST_SEARCH.get(uid)
+    if LAST_ACTION.get(uid) == "search" and last:
+        age = (datetime.now(timezone.utc) - last["at"]).total_seconds() / 3600
+        if age <= SEARCH_TTL_HOURS:
+            # Same visibility as the /search it continues: in the channel.
+            await interaction.response.defer()
+            start = last["pos"]
+            page = last["scored"][start:start + count]
+            if not page:
+                return await interaction.followup.send(
+                    f"That's everything for **{_md(last['query'])}** "
+                    f"({len(last['scored'])} roles).")
+            last["pos"] = start + len(page)
+            left = len(last["scored"]) - last["pos"]
+            head = (f"**More for {_md(last['query'])}** — "
+                    f"{start + 1}–{last['pos']} of {len(last['scored'])}")
+            if left:
+                head += f"\n-# {left} more — `/more` again for the next {min(count, left)}"
+            msgs = compact_messages([(j, why) for j, _, why in page], header=head + "\n")
+            await interaction.followup.send(content=msgs[0], suppress_embeds=True)
+            for extra in msgs[1:]:
+                await interaction.followup.send(content=extra, suppress_embeds=True)
+            return
+    await interaction.response.defer(ephemeral=True)
     mine = ((await P.load(http)).get("users") or {}).get(uid)
     if not mine:
         return await interaction.followup.send(
             "Set `/prefs` first, then `/more` pages through the matches.", ephemeral=True)
-    msg = await send_matches(uid, mine, title="More matches",
-                             count=max(1, min(count, 25)))
+    msg = await send_matches(uid, mine, title="More matches", count=count)
     await interaction.followup.send(msg.strip(), ephemeral=True)
 
 
