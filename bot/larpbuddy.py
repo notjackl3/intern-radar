@@ -277,6 +277,21 @@ async def before_poll():
 # --------------------------------------------------------------------------
 # slash commands — the actual reason this is a bot and not a webhook
 # --------------------------------------------------------------------------
+async def http(url, method="GET", payload=None, headers=None):
+    """(status, parsed-body). The fetch passed to prefs.py and repo.py, so
+    those modules stay pure and testable."""
+    timeout = aiohttp.ClientTimeout(total=30)
+    hdrs = {"User-Agent": "larpbuddy/1.0", "Accept": "application/json"}
+    hdrs.update(headers or {})
+    async with aiohttp.ClientSession(timeout=timeout) as s:
+        async with s.request(method, url, json=payload, headers=hdrs) as r:
+            try:
+                body = await r.json(content_type=None)
+            except Exception:
+                body = None
+            return r.status, body
+
+
 async def open_roles() -> list[dict]:
     async with aiohttp.ClientSession() as s:
         feed = await fetch_json(s, FEED_URL)
