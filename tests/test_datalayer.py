@@ -116,6 +116,7 @@ def test_part_time_is_parsed_not_split():
     assert M.parse_query("full-time new grad")["employment"] == "full"
     assert M.parse_query("paid backend intern")["pay"] == "paid"
     assert M.parse_query("unpaid ok")["pay"] == "unpaid"
+    assert M.parse_query("remote part time software intern canada")["keywords_any"] == []
 
 
 def test_part_time_groups():

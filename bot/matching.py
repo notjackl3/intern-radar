@@ -247,6 +247,11 @@ STOPWORDS = {
     # "part time" as two keywords made "time" match every "Full-time".
     "part", "time", "full", "part-time", "full-time", "parttime", "fulltime",
     "paid", "unpaid",
+    # Country is its own setting (/prefs country:). As a keyword it cost a
+    # Datalayer search per page ("canada remote part-time") and matched
+    # nothing in titles.
+    "canada", "canadian", "usa", "us", "u.s.", "america", "american",
+    "united", "states",
 }
 
 
