@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T16:34:15.764642+00:00",
-  "open_count": 1485,
-  "new_count": 2,
+  "generated_at": "2026-11-28T01:27:02.556646+00:00",
+  "open_count": 1531,
+  "new_count": 37,
   "tier": "full",
   "jobs": [
     {
@@ -158,21 +158,6 @@
       ]
     },
     {
-      "id": "3f8334d7465ec352",
-      "source": "ashby",
-      "company": "Super.com",
-      "title": "Data Engineering Intern",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807",
-      "posted_at": "2026-11-24T22:40:52.289+00:00",
-      "term": null,
-      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\nTerm: This internship is for the Winter Term: January 4 - April 30, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for a Data Engineer Intern to join our growing team for the Winter 2026 Term. In this role, you will have the opportunity to build scalable and highly available data pipelines using modern tech and tools on one of Canada\u2019s fastest-growing startups. As a Data Engineer, you\u2019ll build highly reliable and scalable ELT pipelines for large datasets (we do over 10 million searches/day). You\u2019ll work on data-intensive applications, ensuring high data quality and uptime, and work directly with analysts on a full-stack data team. You\u2019ll have lots of autonomy to create impact while tackling intricate technical problems.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Maintaining and improving warehouse governance.\n\n - Implement improvements in our platform operations.\n\n - Building and maintaining pipelines that ingest large amounts of data from various sources.\n\n - Write various styles of automated tests to ensure operational reliability and data integrity.\n\n - From time to time create data models for analytical and marketing purposes.\n\n\n\n\nOUR TECH\n\n - We use a SOA architecture powered by many micro-services, including the bot platform, the NLP engine and the pricing/recommendation engines.\n\n - We use a modern data stack of Airflow, Fivetran, Snowflake, dbt, Looker, Hightouch, and more.\n\n - We built a proprietary event logging platform which processes terabytes of data weekly.\n\n - We have a distributed ELT infrastructure hosted using Kubernetes and AWS.\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 6-18 months of Data Engineering or Software Engineering work experience, preferably with exposure to a dynamic, startup environment.\n\n - You learn quickly, regardless of the languages and technologies used.\n\n - You have experience building scalable data pipelines and powerful reporting tools.\n\n - You have experience with building backend applications, primarily working with APIs and databases.\n\n - You thrive on decoding complex problems with logical, well-reasoned solutions.\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
       "id": "1782681a14719269",
       "source": "greenhouse",
       "company": "Cresta",
@@ -212,6 +197,21 @@
       "posted_at": "2024-09-10T19:10:58-04:00",
       "term": null,
       "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp; Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world\u2019s leading investors, including a16z, Greylock, and Sequoia. Cresta\u2019s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI and human intelligence to help contact centers discover customer insights and behavioral best practices, automate conversations and inefficient processes, and empower every team member to work smarter and faster. Born from the prestigious Stanford AI lab, Cresta's co-founder and chairman is Sebastian Thrun , the genius behind Google X, Waymo, Udacity, and more. Our leadership also includes CEO, Ping Wu , the co-founder of Google Contact Center AI and Vertex AI platform, and co-founder, Tim Shi , an early member of Open AI. Join us on this thrilling journey to revolutionize the workforce with AI. The future of work is here, and it's at Cresta. Cresta is building the AI platform for the modern contact center \u2014one of the largest and most critical systems in the global economy. We combine human agents and AI agents to handle customer conversations at scale, helping enterprises improve customer experience, increase revenue, and reduce cost in real time. This isn\u2019t experimental AI. Our systems run in live production environments , shaping millions of customer interactions every day. We\u2019re looking for builders who want to take ownership and move fast. About the Role As a Software Engineer Intern , you\u2019ll build systems that power real-time, AI-driven customer interactions in contact centers . You\u2019ll work on production infrastructure where latency, reliability, and measurable business outcomes matter. You may work across key areas such as: AI Agents &amp; Automation \u2013 systems that handle and assist high-volume customer conversations Real-Time Agent Assist \u2013 delivering live guidance and insights during interactions Conversation Intelligence \u2013 extracting insights from millions of conversations AI Evaluation &amp; Reliability \u2013 improving quality, consistency, and observability of LLM systems Platform &amp; Infrastructure \u2013 enabling scalable, low-latency AI experiences Cresta\u2019s platform powers the full contact center workflow \u2014from real-time assistance and automation to post-call analytics and continuous optimization. You\u2019ll operate in a high-ownership, fast-moving environment where interns are expected to contribute meaningfully, not just observe. What You\u2019ll Do Design and build systems that support real-time AI-powered customer interactions Work on features combining LLMs, data systems, and user-facing applications Collaborate with engineers, product, and ML teams to ship production-ready solutions Build systems for evaluation, monitoring, and continuous improvement of AI behavior Optimize for low latency, high throughput, and reliability at scale Take ownership of problems end-to-end\u2014from identifying gaps to shipping solutions What We\u2019re Looking For Experience with one or more programming languages (e.g., Python, Go, Java, JavaScript, TypeScript ) Interest in building user-facing products, backend systems, or real-time/data-intensive applications Familiarity with modern web development (frontend and/or backend), APIs, or system design fundamentals Understanding of building reliable, maintainable systems \u2014this could include UI/UX quality, API design, or performance considerations Curiosity about LLMs, AI agents, or production AI systems (no prior ML experience required) Experience using AI-powered developer tools (e.g., Cursor, Claude Code) to accelerate development workflows Strong proficiency in agentic coding workflows\u2014effectively collaborating with AI tools to design, implement, and iterate\u2014is a strong plus A driver mindset\u2014you proactively identify problems, take initiative, and push work forward rather than waiting for direction Strong problem-solving ability and a bias toward action What You\u2019ll Learn How to build and ship production-grade AI systems used in real customer environments How to design systems balancing model quality, latency, and reliability How AI agents are deployed, evaluated, and improved at scale How contact centers evolve from manual workflows to AI-driven operations What Makes Cresta Different AI in production: Our systems operate in live contact centers, not demos Hybrid workforce: We\u2019re defining how human and AI agents work together Real business impact: We directly influence revenue, cost, and customer experience Driver culture: We value people who take initiative, move fast, and own outcomes end-to-end Ownership &amp; velocity: Engineers are trusted to ship and make decisions early Internship Details Location: Toronto ( remote-friendly; no in-office mandate, but we encourage in-person collaboration ) Compensation: CAD $30-50/hour Outstanding performers are eligible for return co-op and full-time offers well above our posted range. Perks: Lunch and dinner can be expensed (up to $25 each) while working in the office Well-stocked office with snacks and drinks Convenient downtown location near Union Stat",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "3f8334d7465ec352",
+      "source": "ashby",
+      "company": "Super.com",
+      "title": "Data Engineering Intern",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807",
+      "posted_at": "2026-11-24T22:40:52.289+00:00",
+      "term": null,
+      "description": "At Super.com http://Super.com, we\u2019re on a mission to help people save more, earn more, and get more out of life. That goes for both our customers and our team.\n\nWe are more than a fast-paced, high-growth tech company; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs that fuel who we are.\n\nAt Super.com http://Super.com, we celebrate and reward our high performers. Follow this link to learn more about our Internship Scholarship Program https://uploads-ssl.webflow.com/6279e0c2471406638223ba2d/63b6f82f8a44f001ff16ce7b_Super%20-%20Intern%20Scholarship%20Program.pdf and how you can further benefit from a work engagement with us. We have successfully hosted over 100 engineering internships, and always have our interns working alongside our full-time developers on core projects.\n\n\nTerm: This internship is for the Winter Term: January 4 - April 30, 2027\n\n\n\n\nWHAT\u2019S IT LIKE TO INTERN AT SUPER.COM http://Super.com?\n\nInterning at Super.com http://Super.com is an exciting chance to dive into the world of tech and startups, work on real projects, and learn a ton along the way. From day one, interns are fully part of the team - contributing to work that actually ships and gets used. It\u2019s a fast-moving yet super supportive environment where you\u2019re encouraged to ask questions, try new things, and grow through hands-on experience. Many interns say it\u2019s the most they\u2019ve learned in such a short time! Even though we\u2019re remote, the culture is fun, collaborative, and well-connected- you\u2019ll be included in team meetings, Slack chats, and social events, so you\u2019ll never feel like you\u2019re doing this alone.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for a Data Engineer Intern to join our growing team for the Winter 2026 Term. In this role, you will have the opportunity to build scalable and highly available data pipelines using modern tech and tools on one of Canada\u2019s fastest-growing startups. As a Data Engineer, you\u2019ll build highly reliable and scalable ELT pipelines for large datasets (we do over 10 million searches/day). You\u2019ll work on data-intensive applications, ensuring high data quality and uptime, and work directly with analysts on a full-stack data team. You\u2019ll have lots of autonomy to create impact while tackling intricate technical problems.\n\n\n\n\nWHAT YOU\u2019LL BE WORKING ON:\n\n - Maintaining and improving warehouse governance.\n\n - Implement improvements in our platform operations.\n\n - Building and maintaining pipelines that ingest large amounts of data from various sources.\n\n - Write various styles of automated tests to ensure operational reliability and data integrity.\n\n - From time to time create data models for analytical and marketing purposes.\n\n\n\n\nOUR TECH\n\n - We use a SOA architecture powered by many micro-services, including the bot platform, the NLP engine and the pricing/recommendation engines.\n\n - We use a modern data stack of Airflow, Fivetran, Snowflake, dbt, Looker, Hightouch, and more.\n\n - We built a proprietary event logging platform which processes terabytes of data weekly.\n\n - We have a distributed ELT infrastructure hosted using Kubernetes and AWS.\n\n\n\n\nWHAT WE\u2019RE LOOKING FOR:\n\n - You have at least 6-18 months of Data Engineering or Software Engineering work experience, preferably with exposure to a dynamic, startup environment.\n\n - You learn quickly, regardless of the languages and technologies used.\n\n - You have experience building scalable data pipelines and powerful reporting tools.\n\n - You have experience with building backend applications, primarily working with APIs and databases.\n\n - You thrive on decoding complex problems with logical, well-reasoned solutions.\n\n\n\n\nWHAT WE OFFER:\n\n - Home Office Setup Allowance: $300 one-time\n\n - Friday UberEats Allowance: $25/week\n\n - Learning & Development Allowance: $300/ per term\n\n - Fitness/Wellness Allowance: $120/per term\n\n\n\nCandidates can be based anywhere in Canada, provided they maintain a minimum 6-hour overlap with the Eastern Time Zone and are available to work a 40-hour work week.\n\nWe\u2019re a remote-first company, but you\u2019re always welcome to join us at our head office on 260 Queen Street West in Toronto. We also host virtual and in-person socials where interns can connect, play games, and meet others - including company - wide game nights and events. While optional, these are great ways to build connections and make the most of your Super.com http://Super.com experience.\n\nAt Super.com http://Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By integrating AI tools into our recruitment, we enhance our ability to identify top talent efficiently while promoting fairness and consistency for every applicant.\n\nSuper.com http://Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nAccommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify your Talent Acquisition Partner.",
       "level": "intern",
       "countries": [
         "ca"
@@ -264,6 +264,35 @@
       ]
     },
     {
+      "id": "a2e6e09e506d6ff2",
+      "source": "workday",
+      "company": "Marvell",
+      "title": "Software/Firmware Engineer - Early Career",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "7b33002d9110625d",
+      "source": "workday",
+      "company": "Ciena",
+      "title": "Software Engineering - New Grad",
+      "location": "Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171",
+      "posted_at": null,
+      "term": null,
+      "level": "newgrad",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "85085bd7043a3bc4",
       "source": "lever",
       "company": "ShyftLabs",
@@ -279,12 +308,12 @@
       ]
     },
     {
-      "id": "54f6fb4d73212552",
+      "id": "2a391b00f481c25a",
       "source": "workday",
-      "company": "Lumentum",
-      "title": "AI Engineer - Co-op/Intern",
-      "location": "Canada - Ottawa (Bill Leathem)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778",
+      "company": "Manulife (Admin)",
+      "title": "Summer Intern 2027 - Software Engineering",
+      "location": "Waterloo, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -293,12 +322,96 @@
       ]
     },
     {
-      "id": "5cf5aa12142fe834",
+      "id": "398bf227892816b3",
       "source": "workday",
-      "company": "Lumentum",
-      "title": "Internship - Data Science & Analytics",
-      "location": "USA - CA - San Jose (Ridder)",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+      "company": "Manulife (Admin)",
+      "title": "Summer Intern 2027 - Software Engineering (12 Months)",
+      "location": "Waterloo, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "0dbbb92160f40f3b",
+      "source": "workday",
+      "company": "Manulife (Admin)",
+      "title": "Winter Co-op 2027 - Software Engineering",
+      "location": "Toronto, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "cbb668ed58bd7992",
+      "source": "workday",
+      "company": "Manulife (Admin)",
+      "title": "Winter Co-op 2027 - Software Engineering (8 Months)",
+      "location": "Toronto, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
+      "id": "49edc2b07a9f1990",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "Applied AI/ML Research Scientist Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "e713b09efd3af2c6",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "AI Infrastructure Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "c3c59f9c0885efe3",
+      "source": "workday",
+      "company": "Marvell (Careers 2)",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+      "posted_at": null,
+      "term": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "e1586b751a3e9789",
+      "source": "workday",
+      "company": "Motorola Solutions",
+      "title": "North America (NA) Systems Engineering Operations Internship  - 2027",
+      "location": "Chicago, IL, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657",
       "posted_at": null,
       "term": null,
       "level": "intern",
@@ -335,73 +448,17 @@
       ]
     },
     {
-      "id": "16c60a12d2c7aee3",
+      "id": "5cf5aa12142fe834",
       "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "company": "Lumentum",
+      "title": "Internship - Data Science & Analytics",
+      "location": "USA - CA - San Jose (Ridder)",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
       "posted_at": null,
       "term": null,
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "f84559cb390c1165",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "e1416cdb59c51431",
-      "source": "workday",
-      "company": "NVIDIA",
-      "title": "Compiler Software Engineering Intern - Summer 2027",
-      "location": "US, WA, Redmond",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "edbae0fbe144d759",
-      "source": "workday",
-      "company": "CAE",
-      "title": "Stagiaire - D\u00e9veloppeur Full Stack",
-      "location": "Montreal (St. Laurent)",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
-      ]
-    },
-    {
-      "id": "077d292b4d2ac14b",
-      "source": "workday",
-      "company": "Altera",
-      "title": "FPGA Software Engineer Intern",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
-      "posted_at": null,
-      "term": null,
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -467,22 +524,6 @@
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
-      "id": "cfe508dacfe076bb",
-      "source": "lever",
-      "company": "EQ Bank",
-      "title": "Intern - Software Engineer, Winter 2027",
-      "location": "Toronto",
-      "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
-      "posted_at": "2026-10-08T15:20:12.949000+00:00",
-      "term": null,
-      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - August 2027\nReady to shape the future of banking?\nJoin the purpose-driven, tech-forward team at Equitable Bank where your ideas matter and your growth is accelerated.\u00a0We\u2019re\u00a0not just another bank\u2014we\u2019re\u00a0Canada\u2019s Challenger Bank\u2122, lean, agile, and built for the digital age. If\u00a0you\u2019re\u00a0passionate about challenging the status quo, driving meaningful change, and gaining hands-on experience in digital financial services, our Engineering Internship Program is the opportunity you\u2019ve\u00a0been waiting for!\u00a0\nStarting in\u00a0January 2027, you\u2019ll begin your journey as a\u00a0Software Engineer Intern through our Engineering Graduate Program, designed to accelerate your development through immersive, hands-on experience within Digital Banking.\u00a0\nAt EQ Bank, we\u2019re building the future of banking in Canada, and we want you to be part of it! Our teams work in agile, cross-functional pods where collaboration, creativity, and innovation drive everything we do. We put customers at the heart of every decision, using research, data, and feedback to create products that truly make an impact.\nWe\u2019re not just building software, we\u2019re reimagining banking. If you\u2019re passionate about solving real-world problems, learning from experienced engineers, and working in a supportive, dynamic environment, this program is for you!\u00a0\n\u00a0\n",
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-09T09:44:16.443136+00:00"
-    },
-    {
       "id": "8d6adc729dd07337",
       "source": "ashby",
       "company": "Solink",
@@ -497,6 +538,22 @@
         "ca"
       ],
       "first_seen": "2026-11-25T15:38:12.090334+00:00"
+    },
+    {
+      "id": "cfe508dacfe076bb",
+      "source": "lever",
+      "company": "EQ Bank",
+      "title": "Intern - Software Engineer, Winter 2027",
+      "location": "Toronto",
+      "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
+      "posted_at": "2026-10-08T15:20:12.949000+00:00",
+      "term": null,
+      "description": "Join a Challenger\nAt EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions.\u00a0\n\nWe've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences.\n\nWhat's kept us moving?\u00a0 The people behind it all: challengers who ask better questions, push back on old assumptions, and look for a better way forward.\n\nIf you're driven to help reshape how banking works for Canadians and the businesses that power our economy, this could be your next big opportunity.\u00a0\n\nWe can\u2019t wait to get to know you!\u00a0\n\n\nWork Term: January - August 2027\nReady to shape the future of banking?\nJoin the purpose-driven, tech-forward team at Equitable Bank where your ideas matter and your growth is accelerated.\u00a0We\u2019re\u00a0not just another bank\u2014we\u2019re\u00a0Canada\u2019s Challenger Bank\u2122, lean, agile, and built for the digital age. If\u00a0you\u2019re\u00a0passionate about challenging the status quo, driving meaningful change, and gaining hands-on experience in digital financial services, our Engineering Internship Program is the opportunity you\u2019ve\u00a0been waiting for!\u00a0\nStarting in\u00a0January 2027, you\u2019ll begin your journey as a\u00a0Software Engineer Intern through our Engineering Graduate Program, designed to accelerate your development through immersive, hands-on experience within Digital Banking.\u00a0\nAt EQ Bank, we\u2019re building the future of banking in Canada, and we want you to be part of it! Our teams work in agile, cross-functional pods where collaboration, creativity, and innovation drive everything we do. We put customers at the heart of every decision, using research, data, and feedback to create products that truly make an impact.\nWe\u2019re not just building software, we\u2019re reimagining banking. If you\u2019re passionate about solving real-world problems, learning from experienced engineers, and working in a supportive, dynamic environment, this program is for you!\u00a0\n\u00a0\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
       "id": "5e8b0cb4b702cf60",
@@ -744,18 +801,18 @@
       ]
     },
     {
-      "id": "266480d0e9f61596",
+      "id": "cbeba5a4911f3345",
       "source": "greenhouse",
       "company": "Stripe",
       "title": "Data Analyst, Intern",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "posted_at": "2026-10-01T11:05:29-04:00",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "posted_at": "2026-10-01T11:05:36-04:00",
       "term": null,
       "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don\u2019t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works. &nbsp; About the team Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You'll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. &nbsp; What you\u2019ll do As an intern at Stripe you\u2019ll work on projects across our stack that directly impact the way millions of businesses operate. You\u2019ll own problems end to end with the support of your manager and teammates. It\u2019s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You'll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You'll work closely with partners to extract insights from the rich and complex data at Stripe. You'll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You'll deliver actionable business recommendations through analyses and data storytelling. Our internship program is competitive and the expectations are high. &nbsp; Responsibilities Analyze data and running experiments to drive impact Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly Create metrics, reports, and dashboards to inform and run the business Extend Stripe\u2019s metrics semantic layer Build new data assets and improve existing data assets to support decision-making, products, and business processes Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly Present your work to the Data Science team, partner teams, and fellow interns &nbsp; Who you are Ambitious builder: You\u2019re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty. Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before. Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus. &nbsp; Minimum requirements Enrolled in a quantitative Bachelor\u2019s or Master's degree program (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development, analysis, and coding Experience communicating and collaborating with multidisciplinary stakeholders in a team environment &nbsp; Preferred qualifications Experience writing and debugging data pipelines Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts",
       "level": "intern",
       "countries": [
-        "us"
+        "ca"
       ]
     },
     {
@@ -786,21 +843,6 @@
       "level": "intern",
       "countries": [
         "us"
-      ]
-    },
-    {
-      "id": "ef0ec5cde431d6e3",
-      "source": "lever",
-      "company": "Waabi",
-      "title": "2027 Intern, PhD Research Scientist",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
-      "posted_at": "2025-12-18T21:59:13.993000+00:00",
-      "term": null,
-      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
-      "level": "intern",
-      "countries": [
-        "ca"
       ]
     },
     {
@@ -1044,6 +1086,21 @@
       ]
     },
     {
+      "id": "ef0ec5cde431d6e3",
+      "source": "lever",
+      "company": "Waabi",
+      "title": "2027 Intern, PhD Research Scientist",
+      "location": "Toronto, ON",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+      "posted_at": "2025-12-18T21:59:13.993000+00:00",
+      "term": null,
+      "description": "Waabi, founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, and deep tech.\n\u00a0\nWith offices in Toronto, San Francisco, Dallas, and Pittsburgh, Waabi is growing quickly and looking for diverse, innovative and collaborative candidates who want to impact the world in a positive way. To learn more visit: www.waabi.ai\n\n\nYou will...\nBe part of a team of multidisciplinary Research Scientists and Engineers using an AI-first approach to enable safe self-driving at scale.\nLead or Contribute to an AI research project, pushing the frontiers of the field by developing new algorithms for Autonomous Vehicle (AV). This includes topics such as perception, prediction, motion planning, controls, simulation, mapping, localization, core AI, etc.\nDesign, implement, train, and optimize novel algorithms on self-driving vehicles and various production systems. \nBe encouraged to submit and publish work externally at top machine learning, computer vision, and robotics conferences (NeurIPS, ICLR, ICML, CVPR, etc.), post to our company blog.\n\u00a0\nQualifications:\nPursuing PhD degree in Computer Science, Engineering, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study.\nDemonstrated research/software engineering experience: through previous internships, work experience, coding competitions, and/or research projects and papers.\nAt least one publication in top Machine Learning, Computer Vision, or Robotics conferences. \nStrong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.\nProficient in reading and coding in Python and/or C++..\nOpen-minded and collaborative team player with willingness to help others.\nPassionate about self-driving technologies, solving hard problems, and creating innovative solutions.\n\u00a0\nApplication Instructions:\nTo be considered for an internship/co-op, please add your most up to date academic transcripts alongside with your resume for further review.\n",
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "ef58e14ec8673d0a",
       "source": "greenhouse",
       "company": "DoorDash Canada",
@@ -1195,22 +1252,6 @@
       ]
     },
     {
-      "id": "b190e60e71bb7872",
-      "source": "greenhouse",
-      "company": "Samsara",
-      "title": "Sr Software Engineer I/II, Operational AI",
-      "location": "Remote - US",
-      "url": "https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641",
-      "posted_at": "2026-11-14T12:32:27-05:00",
-      "term": null,
-      "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role Samsara builds software that helps organizations run safer, more efficient physical operations. Our products connect data from vehicles, equipment, and cameras to the people who use it. The Operational AI team is turning Samsara's safety cameras into tools for understanding everyday operations. Our AI-powered products help customers observe the work, conditions, and events that matter to them, wherever their vehicles travel or their teams operate. As a senior engineer, you will build agentic solutions that let customers create their own custom detections and workflows. You will own work from the first customer conversation through design, implementation, and production operation. You will work across backend services and customer-facing software, partnering with platform and machine learning engineers on AI capabilities in the cloud and on devices. This role offers room to shape both the product and its technical direction. You will help decide what to build, learn from customers, and turn early ideas into software they can rely on. Open to candidates residing in the US and Canada. You should apply if You want to work directly with customers and use their feedback to decide what to build next. You enjoy working through ambiguity, defining the problem and deciding what to build rather than waiting for a detailed specification. You work backward from business goals and move across the stack to solve the problem.&nbsp; You know when a one-off solution is enough and when a reusable platform is worth building. You experiment with AI to improve your own workflows and use what you learn to shape the next generation of products. You want to make a meaningful impact on the industries that keep the world running and help workers return home safely. In this role, you will Turn customer needs into a clear engineering plan. Define useful first releases, explain tradeoffs, and adjust the plan as you learn. Design and ship features across backend services, APIs, and customer-facing experiences. Build reusable capabilities where they solve recurring customer needs. Partner with platform, machine learning, product, and design teams to connect AI detections and agents with operational workflows. Earn customer trust through accurate, consistent, and transparent AI detections, recommendations, and actions. Measure detection quality and customer impact to guide improvements. Improve reliability, response time, and compute cost so the product works well as usage grows. Own the production systems you build, including monitoring, troubleshooting, and improvements after launch. Shape architecture and technical priorities, balancing new features with reliability, maintainability, and future growth. Support other engineers through design discussions, code reviews, and mentorship. Put Samsara's principles into practice. Focus on customer success, build for the long term, adopt a growth mindset, be inclusive, and win as a team. Minimum qualifications Strong programming and system design fundamentals, with experience owning software in production, making technical tradeoffs, and diagnosing complex issues. Proficiency using AI coding agents across the software lifecycle, including brainstorming, design, implementation, testing, rollout, and production support. Strong communication and collaboration skills, with the ability to explain technical tradeoffs and build alignment across engineering, product, and design. Helpful experience Experience building agentic products, developing hybrid cloud and edge solutions, or applying computer vision or large language models. &nbsp; The compensation range shown spans approved pay zones for this role. Your primary work location determines the range applicable to you, which may be narrower than the full range displayed. The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. This role is also eligible for an initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions. Learn more about our total rewards and benefits below. Annual Base Salary $154,700 &mdash; $260,000 USD Total Rewards At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time. Beyond compensation, we provide the foundations that enable long-term success: a flexible, e",
-      "level": "newgrad",
-      "countries": [
-        "us"
-      ],
-      "first_seen": "2026-11-14T20:44:15.653111+00:00"
-    },
-    {
       "id": "371590f9f4ee5171",
       "source": "greenhouse",
       "company": "Samsara",
@@ -1223,6 +1264,22 @@
       "level": "newgrad",
       "countries": [
         "ca"
+      ],
+      "first_seen": "2026-11-14T20:44:15.653111+00:00"
+    },
+    {
+      "id": "b190e60e71bb7872",
+      "source": "greenhouse",
+      "company": "Samsara",
+      "title": "Sr Software Engineer I/II, Operational AI",
+      "location": "Remote - US",
+      "url": "https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641",
+      "posted_at": "2026-11-14T12:32:27-05:00",
+      "term": null,
+      "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role Samsara builds software that helps organizations run safer, more efficient physical operations. Our products connect data from vehicles, equipment, and cameras to the people who use it. The Operational AI team is turning Samsara's safety cameras into tools for understanding everyday operations. Our AI-powered products help customers observe the work, conditions, and events that matter to them, wherever their vehicles travel or their teams operate. As a senior engineer, you will build agentic solutions that let customers create their own custom detections and workflows. You will own work from the first customer conversation through design, implementation, and production operation. You will work across backend services and customer-facing software, partnering with platform and machine learning engineers on AI capabilities in the cloud and on devices. This role offers room to shape both the product and its technical direction. You will help decide what to build, learn from customers, and turn early ideas into software they can rely on. Open to candidates residing in the US and Canada. You should apply if You want to work directly with customers and use their feedback to decide what to build next. You enjoy working through ambiguity, defining the problem and deciding what to build rather than waiting for a detailed specification. You work backward from business goals and move across the stack to solve the problem.&nbsp; You know when a one-off solution is enough and when a reusable platform is worth building. You experiment with AI to improve your own workflows and use what you learn to shape the next generation of products. You want to make a meaningful impact on the industries that keep the world running and help workers return home safely. In this role, you will Turn customer needs into a clear engineering plan. Define useful first releases, explain tradeoffs, and adjust the plan as you learn. Design and ship features across backend services, APIs, and customer-facing experiences. Build reusable capabilities where they solve recurring customer needs. Partner with platform, machine learning, product, and design teams to connect AI detections and agents with operational workflows. Earn customer trust through accurate, consistent, and transparent AI detections, recommendations, and actions. Measure detection quality and customer impact to guide improvements. Improve reliability, response time, and compute cost so the product works well as usage grows. Own the production systems you build, including monitoring, troubleshooting, and improvements after launch. Shape architecture and technical priorities, balancing new features with reliability, maintainability, and future growth. Support other engineers through design discussions, code reviews, and mentorship. Put Samsara's principles into practice. Focus on customer success, build for the long term, adopt a growth mindset, be inclusive, and win as a team. Minimum qualifications Strong programming and system design fundamentals, with experience owning software in production, making technical tradeoffs, and diagnosing complex issues. Proficiency using AI coding agents across the software lifecycle, including brainstorming, design, implementation, testing, rollout, and production support. Strong communication and collaboration skills, with the ability to explain technical tradeoffs and build alignment across engineering, product, and design. Helpful experience Experience building agentic products, developing hybrid cloud and edge solutions, or applying computer vision or large language models. &nbsp; The compensation range shown spans approved pay zones for this role. Your primary work location determines the range applicable to you, which may be narrower than the full range displayed. The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. This role is also eligible for an initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions. Learn more about our total rewards and benefits below. Annual Base Salary $154,700 &mdash; $260,000 USD Total Rewards At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time. Beyond compensation, we provide the foundations that enable long-term success: a flexible, e",
+      "level": "newgrad",
+      "countries": [
+        "us"
       ],
       "first_seen": "2026-11-14T20:44:15.653111+00:00"
     },
@@ -1743,25 +1800,6 @@
       "level": "intern",
       "countries": [
         "ca"
-      ]
-    },
-    {
-      "id": "0c6676c7d7cc9d65",
-      "source": "simplify",
-      "company": "Aquatic Capital Management",
-      "title": "Software Engineer Intern",
-      "location": "London, UK; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
-      "posted_at": "2026-04-01T22:12:27+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
       ]
     },
     {
@@ -4341,6 +4379,26 @@
       ]
     },
     {
+      "id": "2d1172e349389b01",
+      "source": "simplify",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern",
+      "location": "Canada; Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "posted_at": "2026-08-19T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca",
+        "us"
+      ]
+    },
+    {
       "id": "6302b5dec7621ff5",
       "source": "simplify",
       "company": "TikTok",
@@ -5413,24 +5471,6 @@
       ]
     },
     {
-      "id": "2a5d20873d57694d",
-      "source": "simplify",
-      "company": "Robert Bosch Venture Capital",
-      "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
-      "location": "Farmington Hills, MI",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429",
-      "posted_at": "2026-08-31T19:06:38+00:00",
-      "term": "Winter 2027; Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5462b13051c9767b",
       "source": "simplify",
       "company": "Oshkosh",
@@ -5773,6 +5813,23 @@
       "title": "Systems Engineer Intern - University",
       "location": "Colorado Springs, CO",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368",
+      "posted_at": "2026-09-01T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "3ba312c5628e0e56",
+      "source": "simplify",
+      "company": "Booz Allen",
+      "title": "Systems Engineer Intern",
+      "location": "McLean, VA",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361",
       "posted_at": "2026-09-01T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
@@ -8214,40 +8271,6 @@
       ]
     },
     {
-      "id": "bf419674bdb1111e",
-      "source": "simplify",
-      "company": "Citizens Financial Group",
-      "title": "Software Engineer Intern",
-      "location": "Plano, TX; Johnston, RI; Phoenix, AZ",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
-      "posted_at": "2026-09-11T14:19:45+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
-      "id": "9a8d50411425a9f3",
-      "source": "simplify",
-      "company": "Citizens Financial Group",
-      "title": "Data Engineer Intern - Enterprise Technology & Security",
-      "location": "Plano, TX; Johnston, RI; Phoenix, AZ",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
-      "posted_at": "2026-09-11T14:19:45+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "5bd2136d8737c13f",
       "source": "simplify",
       "company": "Lyft",
@@ -9928,6 +9951,23 @@
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
     },
     {
+      "id": "493ca68dd8ab408a",
+      "source": "simplify",
+      "company": "Tyler Technologies",
+      "title": "Software Development Intern - Summer 2027",
+      "location": "Yarmouth, ME; Orono, ME; Falmouth, ME",
+      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
+      "posted_at": "2026-09-21T22:26:01+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "ec7b4129c644bc96",
       "source": "simplify",
       "company": "Waymo",
@@ -11104,23 +11144,6 @@
       ]
     },
     {
-      "id": "fdeca75f8902b19b",
-      "source": "simplify",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern - MS - Summer 2027",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
-      "posted_at": "2026-10-01T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "us"
-      ]
-    },
-    {
       "id": "ae1b1116d517f0e8",
       "source": "simplify",
       "company": "Datacor",
@@ -11270,6 +11293,24 @@
       "location": "Torrance, CA",
       "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008",
       "posted_at": "2026-10-02T22:30:15+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "5edafb0948922ef6",
+      "source": "simplify",
+      "company": "General Motors",
+      "title": "Software Engineer Intern - AV/AI Platform",
+      "location": "Sunnyvale, CA; Warren, MI",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
+      "posted_at": "2026-10-02T00:00:00+00:00",
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's",
@@ -12214,6 +12255,23 @@
       ]
     },
     {
+      "id": "e10938bef36ef9d0",
+      "source": "simplify",
+      "company": "Johnson Controls",
+      "title": "Software Engineer Co-op",
+      "location": "Burlington, MA",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
+      "posted_at": "2026-10-09T00:00:00+00:00",
+      "term": "Winter 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "0ded7b81635e3339",
       "source": "simplify",
       "company": "GCM Grosvenor",
@@ -12247,6 +12305,23 @@
         "ca"
       ],
       "first_seen": "2026-11-09T09:44:16.443136+00:00"
+    },
+    {
+      "id": "8b78590a3351a7dd",
+      "source": "simplify",
+      "company": "Expedia Group",
+      "title": "Applied Science Intern",
+      "location": "Seattle, WA; Austin, TX; San Jose, CA",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---PhD---2027---Austin--San-Jose--Seattle_R-110382-1",
+      "posted_at": "2026-10-12T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
     },
     {
       "id": "f2e6a21ef2d06b28",
@@ -12334,6 +12409,21 @@
       "level": "intern",
       "countries": [
         "us"
+      ]
+    },
+    {
+      "id": "4db5167055441ddd",
+      "source": "simplify",
+      "company": "SOTI",
+      "title": "Software Developer Intern",
+      "location": "Mississauga, ON, Canada",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
+      "posted_at": "2026-10-13T00:00:00+00:00",
+      "term": "Winter 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "ca"
       ]
     },
     {
@@ -15161,6 +15251,24 @@
       ]
     },
     {
+      "id": "2d1172fe5b3d7161",
+      "source": "simplify",
+      "company": "NVIDIA",
+      "title": "Compiler Software Engineer Intern",
+      "location": "Redmond, WA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+      "posted_at": "2026-10-29T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "7bd529e2763a5bc4",
       "source": "simplify",
       "company": "Overland AI",
@@ -15666,6 +15774,25 @@
       "term": "Summer 2027",
       "degrees": [
         "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "627bc261cd98b7c3",
+      "source": "simplify",
+      "company": "NVIDIA",
+      "title": "AI Compiler and Kernel Intern",
+      "location": "Austin, TX",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+      "posted_at": "2026-11-02T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
       ],
       "level": "intern",
       "countries": [
@@ -17553,25 +17680,6 @@
       "first_seen": "2026-11-12T18:16:56.076862+00:00"
     },
     {
-      "id": "abfe0fc880d13e5d",
-      "source": "simplify",
-      "company": "Capital Power",
-      "title": "Student Intern - Data Science",
-      "location": "Edmonton, AB, Canada",
-      "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
-      "posted_at": "2026-11-12T00:00:00+00:00",
-      "term": "Summer 2027",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ],
-      "level": "intern",
-      "countries": [
-        "ca"
-      ],
-      "first_seen": "2026-11-13T01:06:07.847587+00:00"
-    },
-    {
       "id": "33fd70da3cd7f792",
       "source": "simplify",
       "company": "Capital Power",
@@ -19406,6 +19514,24 @@
       "first_seen": "2026-11-22T02:09:40.488217+00:00"
     },
     {
+      "id": "5d873ae6703f5e0a",
+      "source": "simplify",
+      "company": "Lumentum",
+      "title": "AI Engineer Co-op Intern",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778",
+      "posted_at": "2026-11-16T00:00:00+00:00",
+      "term": "Winter 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca"
+      ]
+    },
+    {
       "id": "9115d73968fc3ea8",
       "source": "simplify",
       "company": "Advance Auto Parts",
@@ -20363,6 +20489,633 @@
         "us"
       ],
       "first_seen": "2026-11-27T16:34:15.761763+00:00"
+    },
+    {
+      "id": "378f9daab39575ff",
+      "source": "simplify",
+      "company": "CARFAX Canada",
+      "title": "Developer Co-op",
+      "location": "London, ON, Canada",
+      "url": "https://carfaxcanada.bamboohr.com/careers/84/",
+      "posted_at": "2026-11-27T23:44:23+00:00",
+      "term": "Winter 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "e2a2943cbe1fc19c",
+      "source": "simplify",
+      "company": "General Dynamics Information Technology",
+      "title": "Artificial Intelligence/Machine Learning Software Development and Engineer Intern",
+      "location": "Bossier City, LA",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023",
+      "posted_at": "2026-11-24T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "1d34b95da610efa5",
+      "source": "simplify",
+      "company": "Trinzic",
+      "title": "Defense & Intel Software Engineer Intern",
+      "location": "Orlando, FL; King of Prussia, PA; Colorado Springs, CO; Lexington, MA; Chantilly, VA; Ann Arbor, MI; Lexington Park, MD; Beavercreek, OH; Huntsville, AL; Kihei, HI; El Segundo, CA",
+      "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Software-Engineering-Internship_R3001235",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "090bb39327b07a5f",
+      "source": "simplify",
+      "company": "Trinzic",
+      "title": "Defense & Intel Computer Science Intern",
+      "location": "Orlando, FL; King of Prussia, PA; Colorado Springs, CO; Lexington, MA; Chantilly, VA; Ann Arbor, MI; Lexington Park, MD; Beavercreek, OH; Huntsville, AL; Kihei, HI; El Segundo, CA",
+      "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Computer-Science-Internship_R3001231-1",
+      "posted_at": "2026-11-05T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "e37e5107d86b612e",
+      "source": "simplify",
+      "company": "ABB",
+      "title": "Software Engineer Intern",
+      "location": "Dorval, QC, Canada",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/Software-Intern---Winter-2027_JR00053791",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Winter 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "ae5985aee8d6bbf0",
+      "source": "simplify",
+      "company": "The Toro Company",
+      "title": "Data Science Intern",
+      "location": "Bloomington, MN",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Data-Science-Intern---The-Toro-Company_JR17932",
+      "posted_at": "2026-11-23T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "57dfe3f5b7cb6df9",
+      "source": "simplify",
+      "company": "NVIDIA",
+      "title": "Finance AI Engineer Intern",
+      "location": "Canada; Santa Clara, CA; United States",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "c1f2d12b75dd3b8f",
+      "source": "simplify",
+      "company": "NVIDIA",
+      "title": "Software Engineer Intern - Simulation Technology",
+      "location": "Canada; Santa Clara, CA; United States",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "ded7487c07ac72d1",
+      "source": "simplify",
+      "company": "NVIDIA",
+      "title": "Developer Technology Intern",
+      "location": "Canada; Santa Clara, CA; United States",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "76c1c5c62567787d",
+      "source": "simplify",
+      "company": "Canadian Tire",
+      "title": "Software Development Student Intern",
+      "location": "Toronto, ON, Canada",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Software-Development-Student--4-Months----Winter-2027_JR168222",
+      "posted_at": "2026-11-23T00:00:00+00:00",
+      "term": "Winter 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "f60be1451a4e3f32",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Frisco, TX; Bellevue, WA; Overland Park, KS",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380459",
+      "posted_at": "2026-11-23T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "238eb71388026d88",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Overland Park, KS",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "65d3d7f36352385b",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Overland Park, KS",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "d5385e30a0699546",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382100",
+      "posted_at": "2026-11-24T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "56467a196c9e640a",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091",
+      "posted_at": "2026-11-24T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "f2f2d176825ec614",
+      "source": "simplify",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ380511",
+      "posted_at": "2026-11-23T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "95c2274971595c62",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Agentic AI Engineer Intern",
+      "location": "Quincy, MA; Burlington, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801277",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "68859b217f18cffd",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern - Integration Services",
+      "location": "Quincy, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "e164a540bef605e1",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "c9024bdf25b8b0b8",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "AI Engineer Intern",
+      "location": "Cambridge, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "21f577f037088eba",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Quincy, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801236",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "b55e84b1b32bb031",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Data Scientist Intern - Data Scientist",
+      "location": "Boston, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "e35f5f2d6904bd4c",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Quincy, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801241",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "d262df79dc5d7f20",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "7e15de74f4168ff5",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Data Engineering & Product Intern",
+      "location": "Boston, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "cc9d47b3cdcf80ed",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Quincy, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801235",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "eec3cf61be1a1958",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Data Engineering & Product Intern",
+      "location": "Quincy, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801276",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "fc9afb1c0b95d27e",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Agentic AI Engineering Intern",
+      "location": "Quincy, MA; Burlington, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801282",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "077cb85f56d31987",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Quincy, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801238",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "dd1d63a5b095986e",
+      "source": "simplify",
+      "company": "State Street",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801269-1",
+      "posted_at": "2026-11-18T00:00:00+00:00",
+      "term": "Winter 2027; Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "4e1fa3184193c4d5",
+      "source": "simplify",
+      "company": "Illinois Tool Works",
+      "title": "Software Engineer Intern",
+      "location": "Fairmont, MN",
+      "url": "https://itw.wd5.myworkdayjobs.com/external/job/Fairmont---56031/Software-or-Computer-Engineer-Intern---Summer-2027_JR11356",
+      "posted_at": "2026-11-23T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "a3740b5d598ea008",
+      "source": "simplify",
+      "company": "SOTI",
+      "title": "Software Developer Intern",
+      "location": "Mississauga, ON, Canada",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10718",
+      "posted_at": "2026-11-19T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "ca"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "c13674ac3178e088",
+      "source": "simplify",
+      "company": "T.D. Williamson",
+      "title": "Software Engineer Intern",
+      "location": "Tulsa, OK",
+      "url": "https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern---Summer-2027_REQ-04014",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": null,
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "f349c50a0be9ee0d",
+      "source": "simplify",
+      "company": "Nasdaq",
+      "title": "Data Engineer Intern",
+      "location": "Denver, CO",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379",
+      "posted_at": "2026-11-24T00:00:00+00:00",
+      "term": "Summer 2027",
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "intern",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
     },
     {
       "id": "b8c63926bf6a8516",
@@ -22217,6 +22970,24 @@
       ]
     },
     {
+      "id": "851a2145722cb839",
+      "source": "simplify-newgrad",
+      "company": "Micron Technology",
+      "title": "Software Engineer New Grad",
+      "location": "Boise, ID",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+      "posted_at": "2026-08-27T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
       "id": "a03e5b2ce1278c3e",
       "source": "simplify-newgrad",
       "company": "Hewlett Packard Enterprise",
@@ -23631,6 +24402,25 @@
       "posted_at": "2026-10-09T22:16:42+00:00",
       "term": null,
       "degrees": [
+        "PhD"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ]
+    },
+    {
+      "id": "0779a519dfe39be2",
+      "source": "simplify-newgrad",
+      "company": "NVIDIA",
+      "title": "Software Engineer New Grad - DL Kernel Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+      "posted_at": "2026-10-11T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
         "PhD"
       ],
       "level": "newgrad",
@@ -25749,6 +26539,45 @@
         "us"
       ],
       "first_seen": "2026-11-27T16:34:15.761763+00:00"
+    },
+    {
+      "id": "6409cdd74cd24c48",
+      "source": "simplify-newgrad",
+      "company": "HireHawk",
+      "title": "Associate Software Engineer",
+      "location": "Remote in USA",
+      "url": "https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
+      "posted_at": "2026-11-27T23:03:49+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
+    },
+    {
+      "id": "5f340282585e4636",
+      "source": "simplify-newgrad",
+      "company": "Manulife Financial",
+      "title": "Associate Data Scientist",
+      "location": "Boston, MA; Toronto, ON, Canada",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981",
+      "posted_at": "2026-11-25T00:00:00+00:00",
+      "term": null,
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "level": "newgrad",
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "first_seen": "2026-11-28T01:27:02.553346+00:00"
     }
   ]
 }
